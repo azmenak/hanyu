@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女人|要我跟你说多少次，你才明白？|
-||yào wǒ gēn nǐ shuō duōshao cì ， nǐ cái míngbai ？|
-||How many times do I have to tell you before you understand?|
-
-|男人|我是真不懂这个。|
-||wǒ shì zhēn bù dǒng zhège 。|
-||I just don't get it.|
-
-|女人|你个成年人，你看说明书呀。|
-||nǐ ge chéngniánrén ， nǐ kàn shuōmíngshū yā 。|
-||You're a grown-up, just look at the instruction manual.|
-
-|男人|说明书是瑞典语的。|
-||shuōmíngshū shì Ruìdiǎnyǔ de 。|
-||The instruction manual is in Swedish.|
-
-|女人|这就是一个茶几的名字。你看图片就行了。|
-||zhè jiù shì yī ge chájǐ de míngzi 。 nǐ kàn túpiàn jiù xíng le 。|
-||That's the name of the coffee table. Just look at the pictures.|
+|女人|要我跟你说多少次，你才明白？<br />yào wǒ gēn nǐ shuō duōshao cì ， nǐ cái míngbai ？<br />How many times do I have to tell you before you understand?|
+|男人|我是真不懂这个。<br />wǒ shì zhēn bù dǒng zhège 。<br />I just don't get it.|
+|女人|你个成年人，你看说明书呀。<br />nǐ ge chéngniánrén ， nǐ kàn shuōmíngshū yā 。<br />You're a grown-up, just look at the instruction manual.|
+|男人|说明书是瑞典语的。<br />shuōmíngshū shì Ruìdiǎnyǔ de 。<br />The instruction manual is in Swedish.|
+|女人|这就是一个茶几的名字。你看图片就行了。<br />zhè jiù shì yī ge chájǐ de míngzi 。 nǐ kàn túpiàn jiù xíng le 。<br />That's the name of the coffee table. Just look at the pictures.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

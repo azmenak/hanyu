@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|你看见我男朋友了吗？|
-||nǐ kànjiàn wǒ nánpéngyou le ma ？|
-||Have you seen my boyfriend?|
-
-|男|你有男朋友？|
-||nǐ yǒu nánpéngyou ？|
-||You have a boyfriend?|
-
-|女|对呀，就是小王。|
-||duì ya ， jiùshì Xiǎo Wáng 。|
-||That's right, Xiao Wang.|
-
-|男|小王！|
-||Xiǎo Wáng ！|
-||Xiao Wang?|
-
-|女|我们已经在一起两年了，难道你不知道吗？|
-||wǒmen yǐjīng zài yīqǐ liǎng nián le ， nándào nǐ bù zhīdào ma ？|
-||We've been together for two years. You didn't know?|
+|女|你看见我男朋友了吗？<br />nǐ kànjiàn wǒ nánpéngyou le ma ？<br />Have you seen my boyfriend?|
+|男|你有男朋友？<br />nǐ yǒu nánpéngyou ？<br />You have a boyfriend?|
+|女|对呀，就是小王。<br />duì ya ， jiùshì Xiǎo Wáng 。<br />That's right, Xiao Wang.|
+|男|小王！<br />Xiǎo Wáng ！<br />Xiao Wang?|
+|女|我们已经在一起两年了，难道你不知道吗？<br />wǒmen yǐjīng zài yīqǐ liǎng nián le ， nándào nǐ bù zhīdào ma ？<br />We've been together for two years. You didn't know?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

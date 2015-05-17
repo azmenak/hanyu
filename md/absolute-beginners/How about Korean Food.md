@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||我也有缺点。|
-||wǒ yě yǒu quēdiǎn 。|
-||I also have faults.|
-
-||你觉得不好？|
-||nǐ juéde bù hǎo ？|
-||You don't feel this is fine?|
-
-||我们学习中文。|
-||wǒmen xuéxí Zhōngwén 。|
-||We are studying Chinese.|
-
-||他虐待你了？|
-||tā nǜedài nǐ le ？|
-||Does he abuse you?|
-
-||这里省略“一”。|
-||zhèlǐ shěnglǜe “ yī ” 。|
-||There is a "one" missing here.|
-
-||他四月来。|
-||tā sìyuè lái 。|
-||He will come in April.|
+||我也有缺点。<br />wǒ yě yǒu quēdiǎn 。<br />I also have faults.|
+||你觉得不好？<br />nǐ juéde bù hǎo ？<br />You don't feel this is fine?|
+||我们学习中文。<br />wǒmen xuéxí Zhōngwén 。<br />We are studying Chinese.|
+||他虐待你了？<br />tā nǜedài nǐ le ？<br />Does he abuse you?|
+||这里省略“一”。<br />zhèlǐ shěnglǜe “ yī ” 。<br />There is a "one" missing here.|
+||他四月来。<br />tā sìyuè lái 。<br />He will come in April.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

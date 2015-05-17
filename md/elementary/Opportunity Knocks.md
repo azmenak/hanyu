@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你们听说过泡泡中文吗？|
-||nǐmen tīngshuō guo Pàopào Zhōngwén ma ？|
-||Have you heard of Popup Chinese?|
-
-|乙|滚蛋！我他妈忙着呢！|
-||gǔndàn ！ wǒ tāmā mángzhe ne ！|
-||Scram! I'm busy here dammit!|
-
-|甲|是一个网站，教中文的....|
-||shì yī ge wǎngzhàn ， jiāo zhōngwén de . . . .|
-||It's a website that teaches Chinese....|
-
-|丙|你没听见他让你滚吗？没人待见你！|
-||nǐ méi tīngjiàn tā ràng nǐ gǔn ma ？ méi rén dàijian nǐ ！|
-||Didn't he already tell you to get lost? No-one's listening!|
-
-|乙|滚！|
-||gǔn ！|
-||Get lost!|
+|甲|你们听说过泡泡中文吗？<br />nǐmen tīngshuō guo Pàopào Zhōngwén ma ？<br />Have you heard of Popup Chinese?|
+|乙|滚蛋！我他妈忙着呢！<br />gǔndàn ！ wǒ tāmā mángzhe ne ！<br />Scram! I'm busy here dammit!|
+|甲|是一个网站，教中文的....<br />shì yī ge wǎngzhàn ， jiāo zhōngwén de . . . .<br />It's a website that teaches Chinese....|
+|丙|你没听见他让你滚吗？没人待见你！<br />nǐ méi tīngjiàn tā ràng nǐ gǔn ma ？ méi rén dàijian nǐ ！<br />Didn't he already tell you to get lost? No-one's listening!|
+|乙|滚！<br />gǔn ！<br />Get lost!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

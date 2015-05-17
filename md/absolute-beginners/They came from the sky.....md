@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|疼，疼疼疼疼疼....|
-||téng ， téng téng téng téng téng . . . .|
-||Oh, it hurts....|
-
-|乙|哪儿疼啊？这儿？|
-||nǎr téng ā ？ zhèr ？|
-||Where does it hurt, here?|
-
-|甲|嗷！|
-||ào ！|
-||Ow!|
+|甲|疼，疼疼疼疼疼....<br />téng ， téng téng téng téng téng . . . .<br />Oh, it hurts....|
+|乙|哪儿疼啊？这儿？<br />nǎr téng ā ？ zhèr ？<br />Where does it hurt, here?|
+|甲|嗷！<br />ào ！<br />Ow!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

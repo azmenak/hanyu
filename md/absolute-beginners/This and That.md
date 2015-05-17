@@ -10,22 +10,10 @@ B：不知道。
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|A|这是什么？|
-||zhè shì shénme ？|
-||What is this?|
-
-|B|这个？|
-||zhège ？|
-||This one?|
-
-|A|不是，那个！|
-||bù shì ， nàge ！|
-||No, that one!|
-
-|B|不知道。|
-||bù zhīdào 。|
-||I don't know.|
+|A|这是什么？<br />zhè shì shénme ？<br />What is this?|
+|B|这个？<br />zhège ？<br />This one?|
+|A|不是，那个！<br />bù shì ， nàge ！<br />No, that one!|
+|B|不知道。<br />bù zhīdào 。<br />I don't know.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

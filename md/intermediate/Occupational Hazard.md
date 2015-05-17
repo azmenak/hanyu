@@ -19,58 +19,19 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|风速？|
-||fēngsù ？|
-||Wind speed?|
-
-|乙|风速六十。|
-||fēngsù liùshí 。|
-||Windspeed of sixty.|
-
-|甲|高度？|
-||gāodù ？|
-||Height?|
-
-|乙|高度八千。|
-||gāodù bāqiān 。|
-||Height of eight thousand.|
-
-|乙|机长，机长，你的癫痫病又要发了吗？|
-||jīzhǎng ， jīzhǎng ， nǐ de diānxiánbìng yòu yào fā le ma ？|
-||Captain, captain, you're having another attack of epilepsy?|
-
-|甲|我能控制住。|
-||wǒ néng kòngzhizhù 。|
-||I can control it.|
-
-|乙|空姐空姐快来，机长要犯病了。|
-||kōngjiě kōngjiě kuài lái ， jīzhǎng yào fànbìng le 。|
-||Stewardess, stewardess, come quickly! The captain is having another episode.|
-
-|丙|机长，你怎么了，你又犯病了，你又病了吗？要冲咖啡吗？|
-||jīzhǎng ， nǐ zěnme le ， nǐ yòu fànbìng le ， nǐ yòu bìngle ma ？ yào chōng kāfēi ma ？|
-||Captain? Are you ok? Sick again? Are you sick again? Want a refill of coffee?|
-
-|甲|别给我咖啡因，我能控制。|
-||bié gěi wǒ kāfēiyīn ， wǒ néng kòngzhi 。|
-||Don't give me caffeine. I can control this.|
-
-|乙|机长，机长，坚持住，坚持住，机长！|
-||jīzhǎng ， jīzhǎng ， jiānchízhù ， jiānchízhù ， jīzhǎng ！|
-||Captain, captain. Keep it under control, captain!|
-
-|甲|放下起落架。|
-||fàngxià qǐluòjià 。|
-||Put down the landing gear.|
-
-|乙|放下起落架。|
-||fàngxià qǐluòjià 。|
-||Putting down the landing gear.|
-
-|甲|又一次安全的降落，感谢大家的支持。|
-||yòu yī cì ānquán de jiàngluò ， gǎnxiè dàjiā de zhīchí 。|
-||Another safe landing. Thanks to everyone for their support.|
+|甲|风速？<br />fēngsù ？<br />Wind speed?|
+|乙|风速六十。<br />fēngsù liùshí 。<br />Windspeed of sixty.|
+|甲|高度？<br />gāodù ？<br />Height?|
+|乙|高度八千。<br />gāodù bāqiān 。<br />Height of eight thousand.|
+|乙|机长，机长，你的癫痫病又要发了吗？<br />jīzhǎng ， jīzhǎng ， nǐ de diānxiánbìng yòu yào fā le ma ？<br />Captain, captain, you're having another attack of epilepsy?|
+|甲|我能控制住。<br />wǒ néng kòngzhizhù 。<br />I can control it.|
+|乙|空姐空姐快来，机长要犯病了。<br />kōngjiě kōngjiě kuài lái ， jīzhǎng yào fànbìng le 。<br />Stewardess, stewardess, come quickly! The captain is having another episode.|
+|丙|机长，你怎么了，你又犯病了，你又病了吗？要冲咖啡吗？<br />jīzhǎng ， nǐ zěnme le ， nǐ yòu fànbìng le ， nǐ yòu bìngle ma ？ yào chōng kāfēi ma ？<br />Captain? Are you ok? Sick again? Are you sick again? Want a refill of coffee?|
+|甲|别给我咖啡因，我能控制。<br />bié gěi wǒ kāfēiyīn ， wǒ néng kòngzhi 。<br />Don't give me caffeine. I can control this.|
+|乙|机长，机长，坚持住，坚持住，机长！<br />jīzhǎng ， jīzhǎng ， jiānchízhù ， jiānchízhù ， jīzhǎng ！<br />Captain, captain. Keep it under control, captain!|
+|甲|放下起落架。<br />fàngxià qǐluòjià 。<br />Put down the landing gear.|
+|乙|放下起落架。<br />fàngxià qǐluòjià 。<br />Putting down the landing gear.|
+|甲|又一次安全的降落，感谢大家的支持。<br />yòu yī cì ānquán de jiàngluò ， gǎnxiè dàjiā de zhīchí 。<br />Another safe landing. Thanks to everyone for their support.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

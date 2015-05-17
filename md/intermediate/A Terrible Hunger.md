@@ -17,50 +17,17 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|躲了警察一整天了，还真有点儿饿。|
-||duǒ le jǐngchá yī zhěng tiān le ， hái zhēn yǒu diǎnr è 。|
-||We've been on the lam from the cops all day. I've got this hunger inside me.|
-
-|乙|老大，您想吃点儿什么？|
-||lǎodà ， nín xiǎng chī diǎnr shénme ？|
-||What'll you have to eat, Boss?|
-
-|甲|我想吃肉。|
-||wǒ xiǎng chī ròu 。|
-||I want meat.|
-
-|乙|吃肉？|
-||chī ròu ？|
-||Meat?|
-
-|甲|懂吗？|
-||dǒng ma ？|
-||Do you understand?|
-
-|乙|我懂，您放心。|
-||wǒ dǒng ， nín fàngxīn 。|
-||I understand, relax.|
-
-|甲|记住，干干净净，不要带血。|
-||jìzhu ， gāngānjìngjìng ， bùyào dài xiě 。|
-||Remember, I want it spotless. No blood with this one.|
-
-|乙|我一定照办。|
-||wǒ yīdìng zhàobàn 。|
-||I'll take care of it.|
-
-|甲|再来两瓶啤酒。|
-||zài lái liǎng píng píjiǔ 。|
-||I'll also have two bottles of beer.|
-
-|乙|冰的还是常温的？|
-||bīng de háishi chángwēn de ？|
-||You want them warm or cold?|
-
-|甲|两瓶冰镇的。|
-||liǎng píng bīngzhèn de 。|
-||Two icy-cold bottles.|
+|甲|躲了警察一整天了，还真有点儿饿。<br />duǒ le jǐngchá yī zhěng tiān le ， hái zhēn yǒu diǎnr è 。<br />We've been on the lam from the cops all day. I've got this hunger inside me.|
+|乙|老大，您想吃点儿什么？<br />lǎodà ， nín xiǎng chī diǎnr shénme ？<br />What'll you have to eat, Boss?|
+|甲|我想吃肉。<br />wǒ xiǎng chī ròu 。<br />I want meat.|
+|乙|吃肉？<br />chī ròu ？<br />Meat?|
+|甲|懂吗？<br />dǒng ma ？<br />Do you understand?|
+|乙|我懂，您放心。<br />wǒ dǒng ， nín fàngxīn 。<br />I understand, relax.|
+|甲|记住，干干净净，不要带血。<br />jìzhu ， gāngānjìngjìng ， bùyào dài xiě 。<br />Remember, I want it spotless. No blood with this one.|
+|乙|我一定照办。<br />wǒ yīdìng zhàobàn 。<br />I'll take care of it.|
+|甲|再来两瓶啤酒。<br />zài lái liǎng píng píjiǔ 。<br />I'll also have two bottles of beer.|
+|乙|冰的还是常温的？<br />bīng de háishi chángwēn de ？<br />You want them warm or cold?|
+|甲|两瓶冰镇的。<br />liǎng píng bīngzhèn de 。<br />Two icy-cold bottles.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

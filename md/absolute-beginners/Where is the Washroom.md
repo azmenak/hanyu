@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男的|服务员!|
-||fúwùyuán !|
-||Waiter!|
-
-|男的|我要一个这个，两个这个，一个那个。|
-||wǒ yào yī ge zhège ， liǎng ge zhège ， yī ge nàge 。|
-||I want one of these, two of these, and one of those.|
-
-|女的|您一个人吗?|
-||nín yī ge rén ma ?|
-||Are you eating alone?|
-
-|男的|我饿了。|
-||wǒ è le 。|
-||I'm hungry.|
+|男的|服务员!<br />fúwùyuán !<br />Waiter!|
+|男的|我要一个这个，两个这个，一个那个。<br />wǒ yào yī ge zhège ， liǎng ge zhège ， yī ge nàge 。<br />I want one of these, two of these, and one of those.|
+|女的|您一个人吗?<br />nín yī ge rén ma ?<br />Are you eating alone?|
+|男的|我饿了。<br />wǒ è le 。<br />I'm hungry.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

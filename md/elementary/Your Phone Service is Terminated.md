@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哥们儿，你对核扩散有什么看法？|
-||gēmenr ， nǐ duì hékuòsàn yǒu shénme kànfǎ ？|
-||Dude, what do you think about nuclear proliferation?|
-
-|乙|我觉得很好。|
-||wǒ juéde hěn hǎo 。|
-||I think it's great.|
-
-|甲|很好？！你不介意伊朗有核武器吗？|
-||hěn hǎo ？ ！ nǐ bù jièyì yīlǎng yǒu héwǔqì ma ？|
-||Great? You don't mind Iran having nuclear weapons?|
-
-|乙|伊朗？哥们儿，我自己刚买了一个。|
-||yīlǎng ？ gēmenr ， wǒ zìjǐ gāng mǎi le yī ge 。|
-||Iran? Dude, I just bought one myself.|
-
-|甲|啊！|
-||ā ！|
-||Huh?|
-
-|乙|苹果店有新货。|
-||Píngguǒ diàn yǒu xīn huò 。|
-||The Mac store has new stock in.|
-
-|甲|苹果？核武器？|
-||Píngguǒ ？ héwǔqì ？|
-||Apple? Nuclear weapons?|
-
-|乙|就是这个，还带MP3功能。不需要电池，倍儿棒！|
-||jiùshì zhè ge ， hái dài MP sān gōngnéng 。 bù xūyào diànchí ， bèir bàng ！|
-||This is it. It plays mp3s and doesn't need batteries. Fantastic!|
+|甲|哥们儿，你对核扩散有什么看法？<br />gēmenr ， nǐ duì hékuòsàn yǒu shénme kànfǎ ？<br />Dude, what do you think about nuclear proliferation?|
+|乙|我觉得很好。<br />wǒ juéde hěn hǎo 。<br />I think it's great.|
+|甲|很好？！你不介意伊朗有核武器吗？<br />hěn hǎo ？ ！ nǐ bù jièyì yīlǎng yǒu héwǔqì ma ？<br />Great? You don't mind Iran having nuclear weapons?|
+|乙|伊朗？哥们儿，我自己刚买了一个。<br />yīlǎng ？ gēmenr ， wǒ zìjǐ gāng mǎi le yī ge 。<br />Iran? Dude, I just bought one myself.|
+|甲|啊！<br />ā ！<br />Huh?|
+|乙|苹果店有新货。<br />Píngguǒ diàn yǒu xīn huò 。<br />The Mac store has new stock in.|
+|甲|苹果？核武器？<br />Píngguǒ ？ héwǔqì ？<br />Apple? Nuclear weapons?|
+|乙|就是这个，还带MP3功能。不需要电池，倍儿棒！<br />jiùshì zhè ge ， hái dài MP sān gōngnéng 。 bù xūyào diànchí ， bèir bàng ！<br />This is it. It plays mp3s and doesn't need batteries. Fantastic!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

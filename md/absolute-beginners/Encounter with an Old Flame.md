@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|一|哦，那是什么？|
-||ò ， nà shì shénme ？|
-||Oh, what is that?|
-
-|二|我的小明？|
-||wǒ de Xiǎo Míng ？|
-||My Little Ming?|
-
-|一|我的天啊，它还活着！|
-||wǒ de tiānā ， tā hái huózhe ！|
-||My heavens, it's alive!|
+|一|哦，那是什么？<br />ò ， nà shì shénme ？<br />Oh, what is that?|
+|二|我的小明？<br />wǒ de Xiǎo Míng ？<br />My Little Ming?|
+|一|我的天啊，它还活着！<br />wǒ de tiānā ， tā hái huózhe ！<br />My heavens, it's alive!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

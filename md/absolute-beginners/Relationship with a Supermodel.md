@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你要钱吗？|
-||nǐ yào qián ma ？|
-||You want money?|
-
-|甲|要啊！|
-||yào ā ！|
-||Yes!|
-
-|乙|不给。|
-||bù gěi 。|
-||I won't give you any.|
+|甲|你要钱吗？<br />nǐ yào qián ma ？<br />You want money?|
+|甲|要啊！<br />yào ā ！<br />Yes!|
+|乙|不给。<br />bù gěi 。<br />I won't give you any.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

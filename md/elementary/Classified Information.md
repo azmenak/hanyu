@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，你叫什么名字？|
-||āi ， nǐ jiào shénme míngzi ？|
-||Hey, what's your name?|
-
-|乙|我不能告诉你，这是个秘密。|
-||wǒ bù néng gàosu nǐ ， zhè shì ge mìmì 。|
-||I can't tell you, it's a secret.|
-
-|甲|你的名字是秘密？|
-||nǐ de míngzi shì mìmì ？|
-||Your name is a secret?|
-
-|乙|我的名字是不是秘密，这也是个秘密。|
-||wǒ de míngzi shì bù shì mìmì ， zhè yě shì ge mìmì 。|
-||Whether my name is a secret, that's a secret too.|
+|甲|哎，你叫什么名字？<br />āi ， nǐ jiào shénme míngzi ？<br />Hey, what's your name?|
+|乙|我不能告诉你，这是个秘密。<br />wǒ bù néng gàosu nǐ ， zhè shì ge mìmì 。<br />I can't tell you, it's a secret.|
+|甲|你的名字是秘密？<br />nǐ de míngzi shì mìmì ？<br />Your name is a secret?|
+|乙|我的名字是不是秘密，这也是个秘密。<br />wǒ de míngzi shì bù shì mìmì ， zhè yě shì ge mìmì 。<br />Whether my name is a secret, that's a secret too.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

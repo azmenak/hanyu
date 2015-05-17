@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|喂，喂，喂，喂，喂....|
-||wéi ， wéi ， wéi ， wéi ， wéi . . . .|
-||Hey, hey, testing, testing, testing....|
-
-|乙|一，二，三....|
-||yī ， èr ， sān . . . .|
-||One, two, three...|
-
-|甲|Echo, Echo....|
-||Echo ,  Echo . . . .|
-||Echo, Echo....|
-
-|乙|这开了没啊？|
-||zhè kāi le méi a ？|
-||Is this working or not?|
-
-|丙|啊，行，好！|
-||a ， xíng ， hǎo ！|
-||Oh, ok... it's good!|
-
-|乙|妈的，我讨厌这份工作。|
-||māde ， wǒ tǎoyàn zhè fèn gōngzuò 。|
-||Dammit, I hate this job.|
+|甲|喂，喂，喂，喂，喂....<br />wéi ， wéi ， wéi ， wéi ， wéi . . . .<br />Hey, hey, testing, testing, testing....|
+|乙|一，二，三....<br />yī ， èr ， sān . . . .<br />One, two, three...|
+|甲|Echo, Echo....<br />Echo ,  Echo . . . .<br />Echo, Echo....|
+|乙|这开了没啊？<br />zhè kāi le méi a ？<br />Is this working or not?|
+|丙|啊，行，好！<br />a ， xíng ， hǎo ！<br />Oh, ok... it's good!|
+|乙|妈的，我讨厌这份工作。<br />māde ， wǒ tǎoyàn zhè fèn gōngzuò 。<br />Dammit, I hate this job.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

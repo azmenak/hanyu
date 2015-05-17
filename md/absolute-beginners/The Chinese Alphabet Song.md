@@ -8,14 +8,8 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|姚葳，姚葳，你在吗？问你个问题！|
-||Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！|
-||Echo, Echo, are you there? I've got a question to ask!|
-
-|乙|她今天很忙。|
-||tā jīntiān hěn máng 。|
-||She's very busy today.|
+|甲|姚葳，姚葳，你在吗？问你个问题！<br />Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！<br />Echo, Echo, are you there? I've got a question to ask!|
+|乙|她今天很忙。<br />tā jīntiān hěn máng 。<br />She's very busy today.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

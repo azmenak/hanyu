@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|一|他是谁？|
-||tā shì shéi ？|
-||Who is he?|
-
-|二|我不认识。|
-||wǒ bù rènshi 。|
-||I don't know him.|
-
-|三|哎，哎，宝贝！|
-||āi ， āi ， bǎobèi ！|
-||Hey, hey, baby!|
-
-|一|宝贝？|
-||bǎobèi ？|
-||Baby?|
-
-|二|我不认识！|
-||wǒ bù rènshi ！|
-||I don't know him!|
-
-|三|小王，我爱你！|
-||Xiǎo Wáng ， wǒ ài nǐ ！|
-||Miss Wang, I love you!|
-
-|二|哦....|
-||ò ....|
-||Oh....|
+|一|他是谁？<br />tā shì shéi ？<br />Who is he?|
+|二|我不认识。<br />wǒ bù rènshi 。<br />I don't know him.|
+|三|哎，哎，宝贝！<br />āi ， āi ， bǎobèi ！<br />Hey, hey, baby!|
+|一|宝贝？<br />bǎobèi ？<br />Baby?|
+|二|我不认识！<br />wǒ bù rènshi ！<br />I don't know him!|
+|三|小王，我爱你！<br />Xiǎo Wáng ， wǒ ài nǐ ！<br />Miss Wang, I love you!|
+|二|哦....<br />ò ....<br />Oh....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

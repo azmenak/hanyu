@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你会说中文吗？|
-||nǐ huì shuō Zhōngwén ma ？|
-||Do you speak Chinese?|
-
-|乙|当然了，我是中国人。|
-||dāngrán le ， wǒ shì zhōngguórén 。|
-||Of course, I'm Chinese.|
-
-|甲|噢，我原来以为你是韩国人呢！|
-||o ， wǒ yuánlái yǐwéi nǐ shì hánguórén ne ！|
-||Oh, I thought you were Korean!|
+|甲|你会说中文吗？<br />nǐ huì shuō Zhōngwén ma ？<br />Do you speak Chinese?|
+|乙|当然了，我是中国人。<br />dāngrán le ， wǒ shì zhōngguórén 。<br />Of course, I'm Chinese.|
+|甲|噢，我原来以为你是韩国人呢！<br />o ， wǒ yuánlái yǐwéi nǐ shì hánguórén ne ！<br />Oh, I thought you were Korean!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

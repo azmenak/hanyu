@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，你喂猫了吗？|
-||ai ， nǐ wèi māo le ma ？|
-||Hey, you feed the cat?|
-
-|乙|没有，你喂猫了吗？|
-||méiyǒu ， nǐ wèi māo le ma ？|
-||No, you feed the cat?|
-
-|甲|没有。你昨天喂了吗？|
-||méiyǒu 。 nǐ zuótiān wèi le ma ？|
-||No. Did you feed it yesterday?|
-
-|乙|没有，你呢？|
-||méiyǒu ， nǐ ne ？|
-||No, you?|
-
-|甲|我也没喂。|
-||wǒ yě méi wèi 。|
-||I didn't either.|
-
-|乙|怪不得他今天这么老实。|
-||guàibudé tā jīntiān zhème lǎoshi 。|
-||No wonder he's being so good today.|
+|甲|哎，你喂猫了吗？<br />ai ， nǐ wèi māo le ma ？<br />Hey, you feed the cat?|
+|乙|没有，你喂猫了吗？<br />méiyǒu ， nǐ wèi māo le ma ？<br />No, you feed the cat?|
+|甲|没有。你昨天喂了吗？<br />méiyǒu 。 nǐ zuótiān wèi le ma ？<br />No. Did you feed it yesterday?|
+|乙|没有，你呢？<br />méiyǒu ， nǐ ne ？<br />No, you?|
+|甲|我也没喂。<br />wǒ yě méi wèi 。<br />I didn't either.|
+|乙|怪不得他今天这么老实。<br />guàibudé tā jīntiān zhème lǎoshi 。<br />No wonder he's being so good today.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

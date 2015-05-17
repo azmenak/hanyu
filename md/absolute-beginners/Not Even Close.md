@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|这是工人体育场吗？|
-||zhè shì gōngrén tǐyùchǎng ma ？|
-||Is this worker's stadium?|
-
-|乙|不是。|
-||bù shì 。|
-||No it isn't.|
-
-|甲|真的？|
-||zhēnde ？|
-||Really?|
-
-|乙|差远了。|
-||chà yuǎn le 。|
-||Not even close.|
+|甲|这是工人体育场吗？<br />zhè shì gōngrén tǐyùchǎng ma ？<br />Is this worker's stadium?|
+|乙|不是。<br />bù shì 。<br />No it isn't.|
+|甲|真的？<br />zhēnde ？<br />Really?|
+|乙|差远了。<br />chà yuǎn le 。<br />Not even close.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|喂，别跳！|
-||wèi ， bié tiào ！|
-||Hey, don't jump!|
-
-|乙|你们都别管我，我的钱全部都被骗光了。|
-||nǐmen dōu bié guǎn wǒ ， wǒ de qián quánbù dōu bèi piànguāng le 。|
-||Don't pay any attention to me. I've been cheated out of all my money.|
-
-|甲|你的人生是有价值的，而且你刚中了联合国大奖，四百万。|
-||nǐ de rénshēng shì yǒu jiàzhí de ， érqiě nǐ gāng zhòng le Liánhéguó dàjiǎng ， sìbǎiwàn 。|
-||Your life still has value, and you've just won a prize from the United Nations worth four million.|
-
-|乙|你们都是些骗子！|
-||nǐmen dōu shì xiē piànzi ！|
-||You're all frauds!|
-
-|甲|我是来救你的命，也给你带来一个惊喜，今天下午就可以转账给你。|
-||wǒ shì lái jiù nǐ de mìng ， yě gěi nǐ dàilái yī ge jīngxǐ ， jīntiān xiàwǔ jiù kěyǐ zhuǎnzhàng gěi nǐ 。|
-||I've come to save your life, and bring you a pleasant surprise. We can transfer the money into your account this afternoon.|
-
-|甲|你先从阳台上下来，去拿你的银行卡。|
-||nǐ xiān cóng yángtái shàng xiàlai ， qù ná nǐ de yínhángkǎ 。|
-||Come down off the balcony, and go get your bank card.|
+|甲|喂，别跳！<br />wèi ， bié tiào ！<br />Hey, don't jump!|
+|乙|你们都别管我，我的钱全部都被骗光了。<br />nǐmen dōu bié guǎn wǒ ， wǒ de qián quánbù dōu bèi piànguāng le 。<br />Don't pay any attention to me. I've been cheated out of all my money.|
+|甲|你的人生是有价值的，而且你刚中了联合国大奖，四百万。<br />nǐ de rénshēng shì yǒu jiàzhí de ， érqiě nǐ gāng zhòng le Liánhéguó dàjiǎng ， sìbǎiwàn 。<br />Your life still has value, and you've just won a prize from the United Nations worth four million.|
+|乙|你们都是些骗子！<br />nǐmen dōu shì xiē piànzi ！<br />You're all frauds!|
+|甲|我是来救你的命，也给你带来一个惊喜，今天下午就可以转账给你。<br />wǒ shì lái jiù nǐ de mìng ， yě gěi nǐ dàilái yī ge jīngxǐ ， jīntiān xiàwǔ jiù kěyǐ zhuǎnzhàng gěi nǐ 。<br />I've come to save your life, and bring you a pleasant surprise. We can transfer the money into your account this afternoon.|
+|甲|你先从阳台上下来，去拿你的银行卡。<br />nǐ xiān cóng yángtái shàng xiàlai ， qù ná nǐ de yínhángkǎ 。<br />Come down off the balcony, and go get your bank card.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

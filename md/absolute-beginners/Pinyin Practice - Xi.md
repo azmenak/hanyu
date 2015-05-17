@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||我喜欢学习中文。|
-||wǒ xǐhuān xuéxí zhōngwén 。|
-||I like studying Chinese.|
-
-||我不喜欢玩游戏。|
-||wǒ bù xǐhuān wán yóuxì 。|
-||I don't like playing games.|
-
-||她是西方人。|
-||tā shì xīfāng rén 。|
-||She is a westerner.|
-
-||我需要休息。|
-||wǒ xūyào xiūxi 。|
-||I need to rest.|
-
-||多学习，行不行？|
-||duō xuéxí ， xíngbuxíng ？|
-||Study more. OK?|
-
-||星期天我休息。|
-||xīngqītiān wǒ xiūxi 。|
-||On Sundays I rest.|
+||我喜欢学习中文。<br />wǒ xǐhuān xuéxí zhōngwén 。<br />I like studying Chinese.|
+||我不喜欢玩游戏。<br />wǒ bù xǐhuān wán yóuxì 。<br />I don't like playing games.|
+||她是西方人。<br />tā shì xīfāng rén 。<br />She is a westerner.|
+||我需要休息。<br />wǒ xūyào xiūxi 。<br />I need to rest.|
+||多学习，行不行？<br />duō xuéxí ， xíngbuxíng ？<br />Study more. OK?|
+||星期天我休息。<br />xīngqītiān wǒ xiūxi 。<br />On Sundays I rest.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

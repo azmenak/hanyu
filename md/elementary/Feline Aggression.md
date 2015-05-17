@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||咪咪.... 咪咪....|
-||Mīmī .... Mīmī ....|
-||Kitty.... kitty....|
-
-||过来.... 过来....|
-||guòlai .... guòlai ....|
-||Come here.... come on over....|
-
-||.... 过不过来？|
-||.... guò bu guòlai ？|
-||.... are you coming over or not?|
-
-||啊!|
-||à !|
-||Ouch!|
-
-||抓我!|
-||zhuā wǒ !|
-||Scratched me!|
-
-||坏蛋！|
-||huàidàn ！|
-||Bad cat!|
+||咪咪.... 咪咪....<br />Mīmī .... Mīmī ....<br />Kitty.... kitty....|
+||过来.... 过来....<br />guòlai .... guòlai ....<br />Come here.... come on over....|
+||.... 过不过来？<br />.... guò bu guòlai ？<br />.... are you coming over or not?|
+||啊!<br />à !<br />Ouch!|
+||抓我!<br />zhuā wǒ !<br />Scratched me!|
+||坏蛋！<br />huàidàn ！<br />Bad cat!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，哪位？|
-||ái ， nǎ wèi ？|
-||Hey, who is it?|
-
-|乙|我是301的，能麻烦你帮我开下吗？|
-||wǒ shì sānlíngyāo de ， néng máfan nǐ bāng wǒ kāixià ma ？|
-||I'm from 301, can I bother you to open the door for me?|
-
-|甲|你门卡呢？|
-||nǐ ménkǎ ne ？|
-||What about your keycard?|
-
-|乙|我门卡丢了，那个，物业还没给我新的呢。|
-||wǒ ménkǎ diū le ， nà ge ， wùyè hái méi gěi wǒ xīnde ne 。|
-||I lost my keycard and the property manager still hasn't given me a new one.|
-
-|甲|哦，好的。|
-||ò ， hǎode 。|
-||Oh, OK.|
-
-|乙|谢谢啊。|
-||xièxie ā 。|
-||Thanks.|
+|甲|哎，哪位？<br />ái ， nǎ wèi ？<br />Hey, who is it?|
+|乙|我是301的，能麻烦你帮我开下吗？<br />wǒ shì sānlíngyāo de ， néng máfan nǐ bāng wǒ kāixià ma ？<br />I'm from 301, can I bother you to open the door for me?|
+|甲|你门卡呢？<br />nǐ ménkǎ ne ？<br />What about your keycard?|
+|乙|我门卡丢了，那个，物业还没给我新的呢。<br />wǒ ménkǎ diū le ， nà ge ， wùyè hái méi gěi wǒ xīnde ne 。<br />I lost my keycard and the property manager still hasn't given me a new one.|
+|甲|哦，好的。<br />ò ， hǎode 。<br />Oh, OK.|
+|乙|谢谢啊。<br />xièxie ā 。<br />Thanks.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

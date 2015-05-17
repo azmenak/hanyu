@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你属什么？|
-||nǐ shǔ shénme ？|
-||What sign are you?|
-
-|乙|我属鸡。|
-||wǒ shǔ jī 。|
-||I'm a chicken.|
-
-|甲|你属鸡？哈⋯⋯咕咕咕咕⋯⋯|
-||nǐ shǔ jī ？ hā ⋯⋯ gū gū gū gū ⋯⋯|
-||You're a chicken. Ha! Cluck, cluck, cluck....|
-
-|乙|嘿！嘿！别笑了！|
-||hēi ！ hēi ！ bié xiào le ！|
-||Hey! Hey! Don't laugh!|
+|甲|你属什么？<br />nǐ shǔ shénme ？<br />What sign are you?|
+|乙|我属鸡。<br />wǒ shǔ jī 。<br />I'm a chicken.|
+|甲|你属鸡？哈⋯⋯咕咕咕咕⋯⋯<br />nǐ shǔ jī ？ hā ⋯⋯ gū gū gū gū ⋯⋯<br />You're a chicken. Ha! Cluck, cluck, cluck....|
+|乙|嘿！嘿！别笑了！<br />hēi ！ hēi ！ bié xiào le ！<br />Hey! Hey! Don't laugh!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

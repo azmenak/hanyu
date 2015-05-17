@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|水费这么多！|
-||shuǐfèi zhème duō ！|
-||The water bill is so expensive!|
-
-|乙|哦，多少？|
-||o ， duōshǎo ？|
-||Oh, how much?|
-
-|甲|六千多。|
-||liùqiān duō 。|
-||More than six thousand.|
-
-|乙|哦，我最近经常洗澡。|
-||o ， wǒ zuìjìn jīngcháng xǐzǎo 。|
-||Oh, I've been showering a lot these days.|
+|甲|水费这么多！<br />shuǐfèi zhème duō ！<br />The water bill is so expensive!|
+|乙|哦，多少？<br />o ， duōshǎo ？<br />Oh, how much?|
+|甲|六千多。<br />liùqiān duō 。<br />More than six thousand.|
+|乙|哦，我最近经常洗澡。<br />o ， wǒ zuìjìn jīngcháng xǐzǎo 。<br />Oh, I've been showering a lot these days.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

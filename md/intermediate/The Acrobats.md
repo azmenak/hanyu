@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|看，这就是他们翻墙的地方。|
-||kàn ， zhè jiùshì tāmen fānqiáng de dìfang 。|
-||Look, this is where they went over the wall.|
-
-|乙|这墙可有三米高啊。|
-||zhè qiáng kě yǒu sān mǐ gāo a 。|
-||The wall is three meters tall.|
-
-|甲|对于杂技演员来说，这是小菜一碟。|
-||duìyú zájì yǎnyuán láishuō ， zhè shì xiǎocàiyīdié 。|
-||As far as acrobats are concerned, this is just a piece of cake.|
-
-|乙|杂技演员，杂技演员.... 我真不该把钥匙给他们，还有保险箱的密码。|
-||zájì yǎnyuán ， zájì yǎnyuán ....  wǒ zhēn bùgāi bǎ yàoshi gěi tāmen ， háiyǒu bǎoxiǎnxiāng de mìmǎ 。|
-||Acrobats, acrobats.... I really shouldn't have given them the key, or the password to the safe.|
+|甲|看，这就是他们翻墙的地方。<br />kàn ， zhè jiùshì tāmen fānqiáng de dìfang 。<br />Look, this is where they went over the wall.|
+|乙|这墙可有三米高啊。<br />zhè qiáng kě yǒu sān mǐ gāo a 。<br />The wall is three meters tall.|
+|甲|对于杂技演员来说，这是小菜一碟。<br />duìyú zájì yǎnyuán láishuō ， zhè shì xiǎocàiyīdié 。<br />As far as acrobats are concerned, this is just a piece of cake.|
+|乙|杂技演员，杂技演员.... 我真不该把钥匙给他们，还有保险箱的密码。<br />zájì yǎnyuán ， zájì yǎnyuán ....  wǒ zhēn bùgāi bǎ yàoshi gěi tāmen ， háiyǒu bǎoxiǎnxiāng de mìmǎ 。<br />Acrobats, acrobats.... I really shouldn't have given them the key, or the password to the safe.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你什么时候去中国？|
-||nǐ shénme shíhòu qù Zhōngguó ？|
-||When are you going to China?|
-
-|乙|我的票是... 昨天的？|
-||wǒ de piào shì . . .  zuótiān de ？|
-||My tickets are... yesterday?|
-
-|甲|啊？|
-||a ？|
-||Huh?|
-
-|乙|奶奶的... 我错过飞机了。|
-||nǎinai de . . .  wǒ cuòguò fēijī le 。|
-||Great grandmother... I missed my flight.|
+|甲|你什么时候去中国？<br />nǐ shénme shíhòu qù Zhōngguó ？<br />When are you going to China?|
+|乙|我的票是... 昨天的？<br />wǒ de piào shì . . .  zuótiān de ？<br />My tickets are... yesterday?|
+|甲|啊？<br />a ？<br />Huh?|
+|乙|奶奶的... 我错过飞机了。<br />nǎinai de . . .  wǒ cuòguò fēijī le 。<br />Great grandmother... I missed my flight.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

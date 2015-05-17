@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你太天真了。战争里的爱情一文不值。|
-||nǐ tài tiānzhēn le 。 zhànzhēng lǐ de àiqíng yīwénbùzhí 。|
-||You're too naive. Love in a time of war means nothing!|
-
-|乙|你真的没有爱过我吗？|
-||nǐ zhēn de méiyǒu ài guò wǒ ma ？|
-||So you really never loved me?|
-
-|甲|我从来就没有爱过你。|
-||wǒ cónglái jiù méiyǒu ài guò nǐ 。|
-||I never ever loved you.|
-
-|乙|你怎么能如此无情？|
-||nǐ zěnme néng rúcǐ wúqíng ？|
-||How can you be so heartless?|
-
-|甲|我要的只是那份名单。|
-||wǒ yào de zhǐshì nà fèn míngdān 。|
-||All I wanted was the list of names.|
-
-|乙|你怎么能背叛我？|
-||nǐ zěnme néng bèipàn wǒ ？|
-||How could you betray me?|
-
-|甲|为了钱，我可什么都能做。|
-||wèile qián ， wǒ kě shénme dōu néng zuò 。|
-||For money, I'll do anything.|
+|甲|你太天真了。战争里的爱情一文不值。<br />nǐ tài tiānzhēn le 。 zhànzhēng lǐ de àiqíng yīwénbùzhí 。<br />You're too naive. Love in a time of war means nothing!|
+|乙|你真的没有爱过我吗？<br />nǐ zhēn de méiyǒu ài guò wǒ ma ？<br />So you really never loved me?|
+|甲|我从来就没有爱过你。<br />wǒ cónglái jiù méiyǒu ài guò nǐ 。<br />I never ever loved you.|
+|乙|你怎么能如此无情？<br />nǐ zěnme néng rúcǐ wúqíng ？<br />How can you be so heartless?|
+|甲|我要的只是那份名单。<br />wǒ yào de zhǐshì nà fèn míngdān 。<br />All I wanted was the list of names.|
+|乙|你怎么能背叛我？<br />nǐ zěnme néng bèipàn wǒ ？<br />How could you betray me?|
+|甲|为了钱，我可什么都能做。<br />wèile qián ， wǒ kě shénme dōu néng zuò 。<br />For money, I'll do anything.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

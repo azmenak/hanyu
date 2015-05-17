@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你还有多少钱？|
-||nǐ hái yǒu duōshǎo qián ？|
-||How much money do you have?|
-
-|乙|五十。|
-||wǔshí 。|
-||Fifty bucks.|
-
-|甲|那是我的钱！给我。|
-||nà shì wǒ de qián ！ gěi wǒ 。|
-||That's my money! Give it to me.|
+|甲|你还有多少钱？<br />nǐ hái yǒu duōshǎo qián ？<br />How much money do you have?|
+|乙|五十。<br />wǔshí 。<br />Fifty bucks.|
+|甲|那是我的钱！给我。<br />nà shì wǒ de qián ！ gěi wǒ 。<br />That's my money! Give it to me.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

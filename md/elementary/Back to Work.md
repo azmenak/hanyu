@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|这个怎么说？|
-||zhège zěnme shuō ？|
-||How do you say this?|
-
-|甲|笑什么你？|
-||xiào shénme nǐ ？|
-||What are you laughing at?|
-
-|乙|你刚跑出东北味来了。|
-||nǐ gāng pǎochū dōngběiwèi lái le 。|
-||You just let slip a Northeastern accent.|
+|甲|这个怎么说？<br />zhège zěnme shuō ？<br />How do you say this?|
+|甲|笑什么你？<br />xiào shénme nǐ ？<br />What are you laughing at?|
+|乙|你刚跑出东北味来了。<br />nǐ gāng pǎochū dōngběiwèi lái le 。<br />You just let slip a Northeastern accent.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||你好|
-||nǐhǎo|
-||Hello|
-
-||我很好|
-||wǒ hěn hǎo|
-||I am very well|
-
-||酒很好|
-||jiǔ hěn hǎo|
-||The wine is good|
-
-||我很忙|
-||wǒ hěn máng|
-||I am very busy|
-
-||没有水|
-||méiyǒu shuǐ|
-||There is no water|
-
-||中国人很好|
-||Zhōngguórén hěn hǎo|
-||Chinese people are nice|
-
-||你的英文很好|
-||nǐ de yīngwén hěn hǎo|
-||Your english is pretty good|
-
-||他的中文真好|
-||tā de zhōngwén zhēn hǎo|
-||His Chinese is really good|
+||你好<br />nǐhǎo<br />Hello|
+||我很好<br />wǒ hěn hǎo<br />I am very well|
+||酒很好<br />jiǔ hěn hǎo<br />The wine is good|
+||我很忙<br />wǒ hěn máng<br />I am very busy|
+||没有水<br />méiyǒu shuǐ<br />There is no water|
+||中国人很好<br />Zhōngguórén hěn hǎo<br />Chinese people are nice|
+||你的英文很好<br />nǐ de yīngwén hěn hǎo<br />Your english is pretty good|
+||他的中文真好<br />tā de zhōngwén zhēn hǎo<br />His Chinese is really good|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

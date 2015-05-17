@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|咱们的能源还能坚持多久？|
-||zánmen de néngyuán hái néng jiānchí duōjiǔ ？|
-||How long can our energy hold out?|
-
-|乙|发电机里的石油够用两个月的。|
-||fādiànjī lǐ de shíyóu gòu yòng liǎng ge yuè de 。|
-||We have enough gas in the generator to last two months.|
-
-|甲|那就是说... 咱们只能再活两个月？|
-||nà jiùshì shuō . . .  zánmen zhǐ néng zài huó liǎng ge yuè ？|
-||That's to say... we only have two months to live?|
-
-|乙|那... 我们只能启动核反应堆啦。|
-||nà . . .  wǒmen zhǐ néng qǐdòng héfǎnyìngduī la 。|
-||Then... the only thing is to start the nuclear reactor.|
-
-|甲|咱们这儿有多少人？|
-||zánmen zhèr yǒu duōshao rén ？|
-||How many of us are there?|
-
-|乙|现在？你和我。|
-||xiànzài ？ nǐ hé wǒ 。|
-||Right now? You and me.|
-
-|甲|我们俩？有一个专属核反应堆？|
-||wǒmen liǎ ？ yǒu yī ge zhuānshǔ héfǎnyìngduī ？|
-||The two of us? We have our own nuclear reactor?|
-
-|乙|是的。|
-||shì de 。|
-||That's right.|
-
-|甲|太酷了！我们马上启动它！|
-||tài kù le ！ wǒmen mǎshàng qǐdòng tā ！|
-||Awesome! Let's start it right away.|
+|甲|咱们的能源还能坚持多久？<br />zánmen de néngyuán hái néng jiānchí duōjiǔ ？<br />How long can our energy hold out?|
+|乙|发电机里的石油够用两个月的。<br />fādiànjī lǐ de shíyóu gòu yòng liǎng ge yuè de 。<br />We have enough gas in the generator to last two months.|
+|甲|那就是说... 咱们只能再活两个月？<br />nà jiùshì shuō . . .  zánmen zhǐ néng zài huó liǎng ge yuè ？<br />That's to say... we only have two months to live?|
+|乙|那... 我们只能启动核反应堆啦。<br />nà . . .  wǒmen zhǐ néng qǐdòng héfǎnyìngduī la 。<br />Then... the only thing is to start the nuclear reactor.|
+|甲|咱们这儿有多少人？<br />zánmen zhèr yǒu duōshao rén ？<br />How many of us are there?|
+|乙|现在？你和我。<br />xiànzài ？ nǐ hé wǒ 。<br />Right now? You and me.|
+|甲|我们俩？有一个专属核反应堆？<br />wǒmen liǎ ？ yǒu yī ge zhuānshǔ héfǎnyìngduī ？<br />The two of us? We have our own nuclear reactor?|
+|乙|是的。<br />shì de 。<br />That's right.|
+|甲|太酷了！我们马上启动它！<br />tài kù le ！ wǒmen mǎshàng qǐdòng tā ！<br />Awesome! Let's start it right away.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

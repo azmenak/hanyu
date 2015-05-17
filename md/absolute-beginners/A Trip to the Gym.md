@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|师傅，醒醒，醒醒！|
-||shīfu ， xǐngxing ， xǐngxing ！|
-||Driver, wake up, wake up!|
-
-|乙|到了，到了。十块，十块....|
-||dào le ， dào le 。 shí kuài ， shí kuài . . . .|
-||We're here, we're here.... That'll be ten kuai.|
-
-|甲|你刚才睡着了。|
-||nǐ gāngcái shuìzháo le 。|
-||You were just sleeping.|
-
-|乙|没有，没有啊，我们去哪儿？|
-||méiyǒu ， méiyǒu a ， wǒmen qù nǎr ？|
-||No I wasn't.... Where are we going?|
+|甲|师傅，醒醒，醒醒！<br />shīfu ， xǐngxing ， xǐngxing ！<br />Driver, wake up, wake up!|
+|乙|到了，到了。十块，十块....<br />dào le ， dào le 。 shí kuài ， shí kuài . . . .<br />We're here, we're here.... That'll be ten kuai.|
+|甲|你刚才睡着了。<br />nǐ gāngcái shuìzháo le 。<br />You were just sleeping.|
+|乙|没有，没有啊，我们去哪儿？<br />méiyǒu ， méiyǒu a ， wǒmen qù nǎr ？<br />No I wasn't.... Where are we going?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

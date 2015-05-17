@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|你真漂亮。|
-||nǐ zhēn piàoliang 。|
-||You're really pretty.|
-
-|女|你真帅。|
-||nǐ zhēn shuài 。|
-||You're really handsome.|
-
-|男|你真聪明。|
-||nǐ zhēn cōngming 。|
-||You're really smart.|
-
-|女|你真... 帅。|
-||nǐ zhēn ... shuài 。|
-||You're really... handsome.|
+|男|你真漂亮。<br />nǐ zhēn piàoliang 。<br />You're really pretty.|
+|女|你真帅。<br />nǐ zhēn shuài 。<br />You're really handsome.|
+|男|你真聪明。<br />nǐ zhēn cōngming 。<br />You're really smart.|
+|女|你真... 帅。<br />nǐ zhēn ... shuài 。<br />You're really... handsome.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

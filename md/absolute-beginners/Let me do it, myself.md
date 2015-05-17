@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，你腿怎么青了？|
-||āi ， nǐ tuǐ zěnme qīng le ？|
-||Hey, why is your leg bruised?|
-
-|乙|在哪儿？|
-||zài nǎr ？|
-||Where?|
-
-|甲|膝盖上。|
-||xīgài shàng 。|
-||On the knee.|
-
-|乙|哦，昨天摔的。|
-||ò ， zuótiān shuāi de 。|
-||Oh，I fell yesterday.|
+|甲|哎，你腿怎么青了？<br />āi ， nǐ tuǐ zěnme qīng le ？<br />Hey, why is your leg bruised?|
+|乙|在哪儿？<br />zài nǎr ？<br />Where?|
+|甲|膝盖上。<br />xīgài shàng 。<br />On the knee.|
+|乙|哦，昨天摔的。<br />ò ， zuótiān shuāi de 。<br />Oh，I fell yesterday.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

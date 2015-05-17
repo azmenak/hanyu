@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|这是什么？|
-||zhè shì shénme ？|
-||What is this?|
-
-|乙|那是......天哪！那是什么？|
-||nà shì ...... tiānna ！ nà shì shénme ？|
-||That is... good heavens! What is that?|
-
-|甲|嗯，好吃！|
-||Ng ， hǎochī ！|
-||Hmmm... tastes good!|
-
-|乙|哦。|
-||ò 。|
-||Ewww....|
+|甲|这是什么？<br />zhè shì shénme ？<br />What is this?|
+|乙|那是......天哪！那是什么？<br />nà shì ...... tiānna ！ nà shì shénme ？<br />That is... good heavens! What is that?|
+|甲|嗯，好吃！<br />Ng ， hǎochī ！<br />Hmmm... tastes good!|
+|乙|哦。<br />ò 。<br />Ewww....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，你看到王子谦了吗？|
-||āi ， nǐ kàndào Wáng Zǐqiān le ma ？|
-||Hey, have you seen Wang Ziqian?|
-
-|乙|嗯，应该在他房间里。|
-||en ， yīnggāi zài tā fángjiān lǐ 。|
-||Oh, he should be in his room.|
-
-|甲|他昨天不就在房间里吗？|
-||tā zuótiān bù jiù zài fángjiān lǐ ma ？|
-||Wasn't he in his room yesterday?|
-
-|乙|对呀，他一星期没出来了。|
-||duìya ， tā yī xīngqī méi chūlai le 。|
-||Yeah, he hasn't come out for a week.|
-
-|甲|他心情不好啊？|
-||tā xīnqíng bù hǎo a ？|
-||Is he in a bad mood?|
-
-|乙|谁心情好？你心情好？|
-||shéi xīnqíng hǎo ？ nǐ xīnqíng hǎo ？|
-||Is anyone in a good mood? You're in a good mood?|
-
-|甲|嗯，也是啊。|
-||en ， yě shì ā 。|
-||Oh, right.|
-
-|乙|得了，我睡觉去了。|
-||dé le ， wǒ shuìjiàoqù le 。|
-||That's it, I'm going to sleep.|
+|甲|哎，你看到王子谦了吗？<br />āi ， nǐ kàndào Wáng Zǐqiān le ma ？<br />Hey, have you seen Wang Ziqian?|
+|乙|嗯，应该在他房间里。<br />en ， yīnggāi zài tā fángjiān lǐ 。<br />Oh, he should be in his room.|
+|甲|他昨天不就在房间里吗？<br />tā zuótiān bù jiù zài fángjiān lǐ ma ？<br />Wasn't he in his room yesterday?|
+|乙|对呀，他一星期没出来了。<br />duìya ， tā yī xīngqī méi chūlai le 。<br />Yeah, he hasn't come out for a week.|
+|甲|他心情不好啊？<br />tā xīnqíng bù hǎo a ？<br />Is he in a bad mood?|
+|乙|谁心情好？你心情好？<br />shéi xīnqíng hǎo ？ nǐ xīnqíng hǎo ？<br />Is anyone in a good mood? You're in a good mood?|
+|甲|嗯，也是啊。<br />en ， yě shì ā 。<br />Oh, right.|
+|乙|得了，我睡觉去了。<br />dé le ， wǒ shuìjiàoqù le 。<br />That's it, I'm going to sleep.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

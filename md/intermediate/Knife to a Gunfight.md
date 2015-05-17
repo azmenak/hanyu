@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|喂，爱德华？|
-||wéi ， Aìdéhuá ？|
-||Hello, Edward?|
-
-|乙|哦，老板。|
-||o ， lǎobǎn 。|
-||Oh, boss.|
-
-|甲|我打电话是因为，有一些谣言。|
-||wǒ dǎ diànhuà shì yīnwèi ， yǒu yīxiē yáoyán 。|
-||The reason I'm calling is because there are some rumors.|
-
-|乙|谣言，什么谣言？|
-||yáoyán ， shénme yáoyán ？|
-||Rumors, what rumors?|
-
-|甲|这个... 很荒唐。|
-||zhège . . .  hěn huāngtang 。|
-||Well... it's ridiculous.|
-
-|乙|你说吧。|
-||nǐ shuō ba 。|
-||Say it.|
-
-|甲|我们的子公司会偶尔被用作鸦片馆儿？|
-||wǒmen de zǐgōngsī huì ǒu‘ěr bèi yòngzuò yāpiànguǎnr ？|
-||Is our subsidiary occasionally used as an opium den?|
-
-|乙|不不不，很少，很少。|
-||bù bù bù ， hěn shǎo ， hěn shǎo 。|
-||Of course not. Very rarely.|
-
-|丙|香港警署提醒您，密切关注您在港公司，遵纪守法，远离鸦片。|
-||Xiānggǎng jǐngshǔ tíxǐng nín ， mìqiè guānzhù nín zài gǎng gōngsī ， zūnjìshǒufǎ ， yuǎnlí yāpiàn 。|
-||The Hong Kong police remind you to closely monitor your companies in Hong Kong. Remember to follow the law and stay far away from opium.|
+|甲|喂，爱德华？<br />wéi ， Aìdéhuá ？<br />Hello, Edward?|
+|乙|哦，老板。<br />o ， lǎobǎn 。<br />Oh, boss.|
+|甲|我打电话是因为，有一些谣言。<br />wǒ dǎ diànhuà shì yīnwèi ， yǒu yīxiē yáoyán 。<br />The reason I'm calling is because there are some rumors.|
+|乙|谣言，什么谣言？<br />yáoyán ， shénme yáoyán ？<br />Rumors, what rumors?|
+|甲|这个... 很荒唐。<br />zhège . . .  hěn huāngtang 。<br />Well... it's ridiculous.|
+|乙|你说吧。<br />nǐ shuō ba 。<br />Say it.|
+|甲|我们的子公司会偶尔被用作鸦片馆儿？<br />wǒmen de zǐgōngsī huì ǒu‘ěr bèi yòngzuò yāpiànguǎnr ？<br />Is our subsidiary occasionally used as an opium den?|
+|乙|不不不，很少，很少。<br />bù bù bù ， hěn shǎo ， hěn shǎo 。<br />Of course not. Very rarely.|
+|丙|香港警署提醒您，密切关注您在港公司，遵纪守法，远离鸦片。<br />Xiānggǎng jǐngshǔ tíxǐng nín ， mìqiè guānzhù nín zài gǎng gōngsī ， zūnjìshǒufǎ ， yuǎnlí yāpiàn 。<br />The Hong Kong police remind you to closely monitor your companies in Hong Kong. Remember to follow the law and stay far away from opium.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

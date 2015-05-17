@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|一个大号批萨。|
-||yī ge dàhào pīsa 。|
-||One large pizza.|
-
-|乙|大号还是中号？|
-||dàhào hái shì zhōnghào ？|
-||Large or medium?|
-
-|甲|大号。|
-||dàhào 。|
-||Large.|
-
-|乙|好。|
-||hǎo 。|
-||Ok.|
+|甲|一个大号批萨。<br />yī ge dàhào pīsa 。<br />One large pizza.|
+|乙|大号还是中号？<br />dàhào hái shì zhōnghào ？<br />Large or medium?|
+|甲|大号。<br />dàhào 。<br />Large.|
+|乙|好。<br />hǎo 。<br />Ok.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

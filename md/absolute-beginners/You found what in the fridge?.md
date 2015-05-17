@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎呀，这服务太差了。这儿谁管呢？|
-||aiya ， zhè fúwù tài chà le 。 zhèr shéi guǎn ne ？|
-||Great Scott! The service here is awful. Who is in charge!|
-
-|乙|饺子。|
-||jiǎozi 。|
-||Dumplings.|
-
-|甲|谁？|
-||shéi ？|
-||Who?|
-
-|乙|饺子馆呢！|
-||jiǎoziguǎn ne ！|
-||The dumpling restaurant!|
+|甲|哎呀，这服务太差了。这儿谁管呢？<br />aiya ， zhè fúwù tài chà le 。 zhèr shéi guǎn ne ？<br />Great Scott! The service here is awful. Who is in charge!|
+|乙|饺子。<br />jiǎozi 。<br />Dumplings.|
+|甲|谁？<br />shéi ？<br />Who?|
+|乙|饺子馆呢！<br />jiǎoziguǎn ne ！<br />The dumpling restaurant!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

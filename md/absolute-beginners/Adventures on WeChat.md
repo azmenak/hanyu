@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|救命！快救我！|
-||jiùmìng ！ kuài jiù wǒ ！|
-||Help! Save me quickly!|
-
-|男|你怎么了？|
-||nǐ zěnme le ？|
-||What's wrong?|
-
-|女|我的心脏，好疼啊！|
-||wǒde xīnzàng ， hǎo téng a ！|
-||My heart. It's really painful!|
-
-|男|我去打120.|
-||wǒ qù dǎ yāoèrlíng .|
-||I'm going to call 120.|
+|女|救命！快救我！<br />jiùmìng ！ kuài jiù wǒ ！<br />Help! Save me quickly!|
+|男|你怎么了？<br />nǐ zěnme le ？<br />What's wrong?|
+|女|我的心脏，好疼啊！<br />wǒde xīnzàng ， hǎo téng a ！<br />My heart. It's really painful!|
+|男|我去打120.<br />wǒ qù dǎ yāoèrlíng .<br />I'm going to call 120.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

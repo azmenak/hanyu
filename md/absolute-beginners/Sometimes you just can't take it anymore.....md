@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|停下。|
-||tíngxià 。|
-||Stop.|
-
-|甲|够了，够了。|
-||gòule ， gòule 。|
-||Enough, enough.|
-
-|甲|住手！|
-||zhù shǒu ！|
-||Stop it!|
+|甲|停下。<br />tíngxià 。<br />Stop.|
+|甲|够了，够了。<br />gòule ， gòule 。<br />Enough, enough.|
+|甲|住手！<br />zhù shǒu ！<br />Stop it!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

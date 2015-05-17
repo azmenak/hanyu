@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|给您菜单。|
-||gěi nín càidān 。|
-||Here is a menu.|
-
-|乙|啊，谢谢。|
-||a ， xièxie 。|
-||Ah, thank you.|
-
-|甲|您要什么？|
-||nín yào shénme ？|
-||What do you want?|
-
-|乙|呃，等一下儿，我先看看吧。|
-||e ， děng yīxiàr ， wǒ xiān kànkan ba 。|
-||Wait a moment, I want to take a look.|
-
-|甲|嗯，好的。|
-||ng ， hǎo de 。|
-||Oh, OK.|
+|甲|给您菜单。<br />gěi nín càidān 。<br />Here is a menu.|
+|乙|啊，谢谢。<br />a ， xièxie 。<br />Ah, thank you.|
+|甲|您要什么？<br />nín yào shénme ？<br />What do you want?|
+|乙|呃，等一下儿，我先看看吧。<br />e ， děng yīxiàr ， wǒ xiān kànkan ba 。<br />Wait a moment, I want to take a look.|
+|甲|嗯，好的。<br />ng ， hǎo de 。<br />Oh, OK.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

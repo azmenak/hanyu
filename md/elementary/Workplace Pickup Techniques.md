@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|是你。|
-||shì nǐ 。|
-||It's you.|
-
-|男|是你啊.|
-||shì nǐ a .|
-||It's you.|
-
-|男|我不知道你从这儿下来。|
-||wǒ bù zhīdào nǐ cóng zhèr xiàlai 。|
-||I didn't know you come down this way.|
-
-|女|就一个楼梯啊。|
-||jiù yī ge lóutī a 。|
-||There's only one staircase.|
-
-|男|你抽烟吗？|
-||nǐ chōuyān ma ？|
-||Do you smoke?|
-
-|女|我不抽。|
-||wǒ bù chōu 。|
-||I don't smoke.|
-
-|男|那... 你有电话吗？|
-||nà ... nǐ yǒu diànhuà ma ？|
-||So... do you have a telephone number?|
+|女|是你。<br />shì nǐ 。<br />It's you.|
+|男|是你啊.<br />shì nǐ a .<br />It's you.|
+|男|我不知道你从这儿下来。<br />wǒ bù zhīdào nǐ cóng zhèr xiàlai 。<br />I didn't know you come down this way.|
+|女|就一个楼梯啊。<br />jiù yī ge lóutī a 。<br />There's only one staircase.|
+|男|你抽烟吗？<br />nǐ chōuyān ma ？<br />Do you smoke?|
+|女|我不抽。<br />wǒ bù chōu 。<br />I don't smoke.|
+|男|那... 你有电话吗？<br />nà ... nǐ yǒu diànhuà ma ？<br />So... do you have a telephone number?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

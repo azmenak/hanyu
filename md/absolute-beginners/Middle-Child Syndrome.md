@@ -18,54 +18,18 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||能借我一根儿笔吗？|
-||néng jiè wǒ yī gēnr bǐ ma ？|
-||Can you lend me a pen?|
-
-||我告儿你。|
-||wǒ gàor nǐ 。|
-||I'll tell you.|
-
-||别告儿他。|
-||bié gàor tā 。|
-||Don't tell him.|
-
-||一瓶水儿。|
-||yī píng shuǐr 。|
-||A bottle of water.|
-
-||他在那儿。|
-||tā zài nàr 。|
-||He is there.|
-
-||我在这儿。|
-||wǒ zài zhèr 。|
-||I'm here.|
-
-||你在哪儿？|
-||nǐ zài nǎr ？|
-||Where are you?|
-
-||我要一点儿。|
-||wǒ yào yīdiǎnr 。|
-||I want a bit.|
-
-||他一会儿来。|
-||tā yīhuìr lái 。|
-||He'll be here in a while.|
-
-||你有小孩儿吗？|
-||nǐ yǒu xiǎoháir ma ？|
-||Do you have children?|
-
-||他有一个男孩儿，一个女孩儿。|
-||tā yǒu yī ge nánháir ， yī ge nǚháir 。|
-||He has a boy and a girl.|
-
-||我们出去玩儿吧。|
-||wǒmen chūqù wánr ba 。|
-||Let's go out and have fun.|
+||能借我一根儿笔吗？<br />néng jiè wǒ yī gēnr bǐ ma ？<br />Can you lend me a pen?|
+||我告儿你。<br />wǒ gàor nǐ 。<br />I'll tell you.|
+||别告儿他。<br />bié gàor tā 。<br />Don't tell him.|
+||一瓶水儿。<br />yī píng shuǐr 。<br />A bottle of water.|
+||他在那儿。<br />tā zài nàr 。<br />He is there.|
+||我在这儿。<br />wǒ zài zhèr 。<br />I'm here.|
+||你在哪儿？<br />nǐ zài nǎr ？<br />Where are you?|
+||我要一点儿。<br />wǒ yào yīdiǎnr 。<br />I want a bit.|
+||他一会儿来。<br />tā yīhuìr lái 。<br />He'll be here in a while.|
+||你有小孩儿吗？<br />nǐ yǒu xiǎoháir ma ？<br />Do you have children?|
+||他有一个男孩儿，一个女孩儿。<br />tā yǒu yī ge nánháir ， yī ge nǚháir 。<br />He has a boy and a girl.|
+||我们出去玩儿吧。<br />wǒmen chūqù wánr ba 。<br />Let's go out and have fun.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

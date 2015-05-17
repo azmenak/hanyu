@@ -15,42 +15,15 @@ Selina：嗯。
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|嗨，Selina！|
-||hāi ， Selina ！|
-||Hi,Selina!|
-
-|Selina|嗨！|
-||hāi ！|
-||Hi!|
-
-|甲|你这件T恤衫真好看。|
-||nǐ zhè jiàn tīxùshān zhēn hǎokàn 。|
-||Your t-shirt is really good looking.|
-
-|Selina|好看吧？|
-||hǎokàn ba ？|
-||It's good looking?|
-
-|甲|是什么牌子的呢？|
-||shì shénme páizi de ne ？|
-||What brand is it?|
-
-|Selina|是泡泡中文的。|
-||shì Pàopào Zhōngwén de 。|
-||It's Popup Chinese.|
-
-|甲|哦，泡泡中文！|
-||ò ， Pàopào Zhōngwén ！|
-||Oh, Popup Chinese.|
-
-|Selina|嗯。|
-||èn 。|
-||Yeah.|
-
-|甲|没听说过。|
-||méi tīngshuō guo 。|
-||Haven't heard of it.|
+|甲|嗨，Selina！<br />hāi ， Selina ！<br />Hi,Selina!|
+|Selina|嗨！<br />hāi ！<br />Hi!|
+|甲|你这件T恤衫真好看。<br />nǐ zhè jiàn tīxùshān zhēn hǎokàn 。<br />Your t-shirt is really good looking.|
+|Selina|好看吧？<br />hǎokàn ba ？<br />It's good looking?|
+|甲|是什么牌子的呢？<br />shì shénme páizi de ne ？<br />What brand is it?|
+|Selina|是泡泡中文的。<br />shì Pàopào Zhōngwén de 。<br />It's Popup Chinese.|
+|甲|哦，泡泡中文！<br />ò ， Pàopào Zhōngwén ！<br />Oh, Popup Chinese.|
+|Selina|嗯。<br />èn 。<br />Yeah.|
+|甲|没听说过。<br />méi tīngshuō guo 。<br />Haven't heard of it.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|师傅，我想去复兴中路。|
-||shīfu ， wǒ xiǎng qù Fùxīng Zhōnglù 。|
-||Driver, I want to go to Fuxing Central Road.|
-
-|乙|你想去复兴中路？|
-||nǐ xiǎng qù Fùxīng Zhōnglù ？|
-||You want to go to Fuxing Central Road?|
-
-|甲|对，复兴中路，靠近音乐学院那边的。|
-||duì ， Fùxīng Zhōnglù ， kàojìn yīnyuè  xuéyuàn nàbiān de 。|
-||Yes, Fuxing Central Road. It's the one near the music conservatory.|
-
-|乙|在淮海路南边那个？|
-||zài Huáihǎi Lù nánbiān nàge ？|
-||The one south of Huaihai Road?|
-
-|甲|对呀，只有一条复兴中路。|
-||duì ya ， zhǐyǒu yī tiáo Fùxīng Zhōnglù 。|
-||Right. There's only one Fuxing Central Road.|
-
-|乙|哦，靠近音乐学院那个？|
-||o ， kàojìn yīnyuè  xuéyuàn nàge ？|
-||Oh, the one near the music conservatory?|
-
-|甲|对，复兴中路。|
-||duì ， Fùxīng Zhōnglù 。|
-||Yes, Fuxingzhong Road.|
-
-|乙|嗯，不清楚。|
-||en ， bù qīngchu 。|
-||Oh. I don't understand.|
+|甲|师傅，我想去复兴中路。<br />shīfu ， wǒ xiǎng qù Fùxīng Zhōnglù 。<br />Driver, I want to go to Fuxing Central Road.|
+|乙|你想去复兴中路？<br />nǐ xiǎng qù Fùxīng Zhōnglù ？<br />You want to go to Fuxing Central Road?|
+|甲|对，复兴中路，靠近音乐学院那边的。<br />duì ， Fùxīng Zhōnglù ， kàojìn yīnyuè  xuéyuàn nàbiān de 。<br />Yes, Fuxing Central Road. It's the one near the music conservatory.|
+|乙|在淮海路南边那个？<br />zài Huáihǎi Lù nánbiān nàge ？<br />The one south of Huaihai Road?|
+|甲|对呀，只有一条复兴中路。<br />duì ya ， zhǐyǒu yī tiáo Fùxīng Zhōnglù 。<br />Right. There's only one Fuxing Central Road.|
+|乙|哦，靠近音乐学院那个？<br />o ， kàojìn yīnyuè  xuéyuàn nàge ？<br />Oh, the one near the music conservatory?|
+|甲|对，复兴中路。<br />duì ， Fùxīng Zhōnglù 。<br />Yes, Fuxingzhong Road.|
+|乙|嗯，不清楚。<br />en ， bù qīngchu 。<br />Oh. I don't understand.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

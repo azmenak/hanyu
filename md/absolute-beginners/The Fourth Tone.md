@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|喂，我想点餐。|
-||wéi ， wǒ xiǎng diǎncān 。|
-||Hi, I'd like to order a meal.|
-
-|女|什么?|
-||shénme ?|
-||What?|
-
-|男|我想叫外卖。|
-||wǒ xiǎng jiào wàimài 。|
-||I want to order take-out.|
-
-|女|啊，行。你要什么?|
-||a ， xíng 。 nǐ yào shénme ?|
-||Ah, OK. What do you want?|
-
-|男|烤鸭。|
-||kǎoyā 。|
-||Roast duck.|
+|男|喂，我想点餐。<br />wéi ， wǒ xiǎng diǎncān 。<br />Hi, I'd like to order a meal.|
+|女|什么?<br />shénme ?<br />What?|
+|男|我想叫外卖。<br />wǒ xiǎng jiào wàimài 。<br />I want to order take-out.|
+|女|啊，行。你要什么?<br />a ， xíng 。 nǐ yào shénme ?<br />Ah, OK. What do you want?|
+|男|烤鸭。<br />kǎoyā 。<br />Roast duck.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -17,50 +17,17 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||[第一部]|
-||[ dì  yī bù ]|
-||Part One|
-
-|甲|我们的车在哪儿？|
-||wǒmen de chē zài nǎr ？|
-||Where's our car?|
-
-|乙|不是在三层吗？|
-||bù shì zài sān céng ma ？|
-||It's on the third floor, right?|
-
-|甲|这不是三层吗？|
-||zhè bù shì sān céng ma ？|
-||Isn't this the third floor?|
-
-|乙|我不知道。|
-||wǒ bù zhīdào 。|
-||I don't know.|
-
-|甲|这个地方真像个迷宫。|
-||zhège dìfang zhēn xiàng ge mígōng 。|
-||This place is like a labyrinth.|
-
-||[第二部]|
-||[ dì  èr bù ]|
-||Part Two|
-
-|甲|你不是说我们的车在三层吗？|
-||nǐ bù shì shuō wǒmen de chē zài sān céng ma ？|
-||Didn't you say our car was on the third floor?|
-
-|乙|我记得是三层啊，难道是在四层？|
-||wǒ jìde shì sān céng a ， nándào shì zài sì céng ？|
-||I remember it being the third floor, could it possibly be on the fourth?|
-
-|甲|你有没有记性啊？|
-||nǐ yǒu méiyǒu jìxing a ？|
-||What kind of memory is that?|
-
-|乙|是你开的车，又不是我。|
-||shì nǐ kāi de chē ， yòu bù shì wǒ 。|
-||You were the one driving, not me.|
+||[第一部]<br />[ dì  yī bù ]<br />Part One|
+|甲|我们的车在哪儿？<br />wǒmen de chē zài nǎr ？<br />Where's our car?|
+|乙|不是在三层吗？<br />bù shì zài sān céng ma ？<br />It's on the third floor, right?|
+|甲|这不是三层吗？<br />zhè bù shì sān céng ma ？<br />Isn't this the third floor?|
+|乙|我不知道。<br />wǒ bù zhīdào 。<br />I don't know.|
+|甲|这个地方真像个迷宫。<br />zhège dìfang zhēn xiàng ge mígōng 。<br />This place is like a labyrinth.|
+||[第二部]<br />[ dì  èr bù ]<br />Part Two|
+|甲|你不是说我们的车在三层吗？<br />nǐ bù shì shuō wǒmen de chē zài sān céng ma ？<br />Didn't you say our car was on the third floor?|
+|乙|我记得是三层啊，难道是在四层？<br />wǒ jìde shì sān céng a ， nándào shì zài sì céng ？<br />I remember it being the third floor, could it possibly be on the fourth?|
+|甲|你有没有记性啊？<br />nǐ yǒu méiyǒu jìxing a ？<br />What kind of memory is that?|
+|乙|是你开的车，又不是我。<br />shì nǐ kāi de chē ， yòu bù shì wǒ 。<br />You were the one driving, not me.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你好。|
-||nǐhǎo 。|
-||Hello.|
-
-|乙|你好。|
-||nǐhǎo 。|
-||Hello.|
-
-|丙|你好。|
-||nǐhǎo 。|
-||Hello.|
-
-|甲|田森，9527，我还不知道你们俩在一起。|
-||Tiánsēn ， jiǔwǔèrqī ， wǒ hái bù zhīdào nǐmen liǎ zài yīqǐ 。|
-||Tiansen and 9527, I didn't know you two were together.|
-
-|乙、丙|呃....|
-||e ....|
-||Uhhh....|
-
-|甲|不是那个在一起，是在这儿。|
-||bù shì nàge zài yīqǐ ， shì zài zhèr 。|
-||Oh, not together like that. I mean here.|
-
-|丙|啊，不久，不久。|
-||a ， bùjiǔ ， bùjiǔ 。|
-||Oh, we haven't been here long.|
-
-|乙|对，不久，不久。|
-||duì ， bùjiǔ ， bùjiǔ 。|
-||Yeah, we haven't been dating very long.|
+|甲|你好。<br />nǐhǎo 。<br />Hello.|
+|乙|你好。<br />nǐhǎo 。<br />Hello.|
+|丙|你好。<br />nǐhǎo 。<br />Hello.|
+|甲|田森，9527，我还不知道你们俩在一起。<br />Tiánsēn ， jiǔwǔèrqī ， wǒ hái bù zhīdào nǐmen liǎ zài yīqǐ 。<br />Tiansen and 9527, I didn't know you two were together.|
+|乙、丙|呃....<br />e ....<br />Uhhh....|
+|甲|不是那个在一起，是在这儿。<br />bù shì nàge zài yīqǐ ， shì zài zhèr 。<br />Oh, not together like that. I mean here.|
+|丙|啊，不久，不久。<br />a ， bùjiǔ ， bùjiǔ 。<br />Oh, we haven't been here long.|
+|乙|对，不久，不久。<br />duì ， bùjiǔ ， bùjiǔ 。<br />Yeah, we haven't been dating very long.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

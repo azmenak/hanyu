@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，再放下那个Ewok之歌。|
-||ai ， zài fàngxià nà ge Ewok zhī gē 。|
-||Hey, play the song of the Ewoks again.|
-
-|乙|啊，什么是Ewok？|
-||a ， shénme shì Ewok ？|
-||Huh, what's an Ewok?|
-
-|甲|就是那个跳舞的泰迪熊，美国文化。|
-||jiùshì nà ge tiàowǔ de tàidíxióng ， Měiguó wénhuà 。|
-||It's the dancing teddy bears. You know, American culture.|
-
-|乙|哦，我挺喜欢这首歌的。|
-||o ， wǒ tǐng xǐhuān zhè shǒu gē de 。|
-||Oh, I really like that song.|
-
-|甲|我也是。|
-||wǒ yě shì 。|
-||Me too.|
-
-|乙|那个歌里唱的什么东西啊？|
-||nà ge gē lǐ chàng de shénme dōngxi a ？|
-||What are they singing in that song, anyway?|
-
-|甲|Yub nub，就是美国的江南style。|
-||Yub  nub ， jiùshì Měiguó de Jiāngnán style 。|
-||Yub nub. It's the American gangnam style.|
-
-|乙|哦，yub nub。|
-||o ， yub  nub 。|
-||Oh, yub num.|
-
-|甲|哎，yub nub。|
-||ai ， yub  nub 。|
-||Yeah, yub nub.|
+|甲|哎，再放下那个Ewok之歌。<br />ai ， zài fàngxià nà ge Ewok zhī gē 。<br />Hey, play the song of the Ewoks again.|
+|乙|啊，什么是Ewok？<br />a ， shénme shì Ewok ？<br />Huh, what's an Ewok?|
+|甲|就是那个跳舞的泰迪熊，美国文化。<br />jiùshì nà ge tiàowǔ de tàidíxióng ， Měiguó wénhuà 。<br />It's the dancing teddy bears. You know, American culture.|
+|乙|哦，我挺喜欢这首歌的。<br />o ， wǒ tǐng xǐhuān zhè shǒu gē de 。<br />Oh, I really like that song.|
+|甲|我也是。<br />wǒ yě shì 。<br />Me too.|
+|乙|那个歌里唱的什么东西啊？<br />nà ge gē lǐ chàng de shénme dōngxi a ？<br />What are they singing in that song, anyway?|
+|甲|Yub nub，就是美国的江南style。<br />Yub  nub ， jiùshì Měiguó de Jiāngnán style 。<br />Yub nub. It's the American gangnam style.|
+|乙|哦，yub nub。<br />o ， yub  nub 。<br />Oh, yub num.|
+|甲|哎，yub nub。<br />ai ， yub  nub 。<br />Yeah, yub nub.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

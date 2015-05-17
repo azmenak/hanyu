@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|不好意思....|
-||bùhǎoyìsi ....|
-||I'm sorry....|
-
-|女|哦？|
-||ò ？|
-||Huh?|
-
-|男|过一下。|
-||guòyīxià 。|
-||Let me by, please.|
-
-|女|没问题。真见鬼！|
-||méi wèntí 。 zhēnjiànguǐ ！|
-||No problem. Dammit!|
+|男|不好意思....<br />bùhǎoyìsi ....<br />I'm sorry....|
+|女|哦？<br />ò ？<br />Huh?|
+|男|过一下。<br />guòyīxià 。<br />Let me by, please.|
+|女|没问题。真见鬼！<br />méi wèntí 。 zhēnjiànguǐ ！<br />No problem. Dammit!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

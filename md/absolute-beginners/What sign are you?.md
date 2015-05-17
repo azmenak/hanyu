@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|刘|你是中国人吗？|
-||nǐ shì Zhōngguórén ma ？|
-||Are you Chinese?|
-
-|秦|不，我是日本人。|
-||bù ， wǒ shì Rìběnrén 。|
-||No, I'm Japanese.|
-
-|刘|你的汉语真好！|
-||nǐ de hànyǔ zhēn hǎo ！|
-||Your Chinese is really good!|
-
-|秦|谢谢！|
-||xièxiè ！|
-||Thank You!|
+|刘|你是中国人吗？<br />nǐ shì Zhōngguórén ma ？<br />Are you Chinese?|
+|秦|不，我是日本人。<br />bù ， wǒ shì Rìběnrén 。<br />No, I'm Japanese.|
+|刘|你的汉语真好！<br />nǐ de hànyǔ zhēn hǎo ！<br />Your Chinese is really good!|
+|秦|谢谢！<br />xièxiè ！<br />Thank You!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

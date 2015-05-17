@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|老大|最近要进一批货，帮派里出了内鬼，帮我把他揪出来，剩下的，你该会办了吧？|
-||zuìjìn yào jìn yī pī huò ， bāngpài lǐ chū le nèiguǐ ， bāng wǒ bǎ tā jiū chūlai ， shèngxià de ， nǐ gāi huì bàn le ba ？|
-||A shipment is coming in soon, but there's a rat in the gang. I want you to pick him out for me. And as for the rest, you should know what to do.|
-
-|小孙|剩下的事就听老大一句话！|
-||shèngxià de shì jiù tīng lǎodà yī jù huà ！|
-||Just tell me what you want done and I'll take care of it!|
-
-|老大|我不希望再跟他同时呼吸这个城市里的空气。|
-||wǒ bù xīwàng zài gēn tā tóngshí hūxī zhè ge chéngshì lǐ de kōngqì 。|
-||I don't want to be here breathing the same air as this guy.|
-
-|小孙|哦，我明白了，老大，您是让我把他送到另一个城市。|
-||o ， wǒ míngbai le ， lǎodà ， nín shì ràng wǒ bǎ tā sòng dào lìng yī ge chéngshì 。|
-||Oh, I get it, boss. You want me to take him to another city.|
-
-|老大|你傻吗？从小把你养大，这点儿事都不明白吗？做了他！|
-||nǐ shǎ ma ？ cóngxiǎo bǎ nǐ yǎng dà ， zhè diǎnr shì dōu bù míngbái ma ？ zuò le tā ！|
-||Are you an idiot? I've raised you since you were a little kid and you don't even understand this little thing? Take care of him!|
-
-|小孙|哦，老大是让我把他......|
-||o ， lǎodà shì ràng wǒ bǎ tā ......|
-||Oh, the boss wants me to take him and....|
-
-|老大|哈哈哈，算你懂事！|
-||hahaha ， suàn nǐ dǒngshì ！|
-||Ha ha ha, so you're not an idiot after all!|
+|老大|最近要进一批货，帮派里出了内鬼，帮我把他揪出来，剩下的，你该会办了吧？<br />zuìjìn yào jìn yī pī huò ， bāngpài lǐ chū le nèiguǐ ， bāng wǒ bǎ tā jiū chūlai ， shèngxià de ， nǐ gāi huì bàn le ba ？<br />A shipment is coming in soon, but there's a rat in the gang. I want you to pick him out for me. And as for the rest, you should know what to do.|
+|小孙|剩下的事就听老大一句话！<br />shèngxià de shì jiù tīng lǎodà yī jù huà ！<br />Just tell me what you want done and I'll take care of it!|
+|老大|我不希望再跟他同时呼吸这个城市里的空气。<br />wǒ bù xīwàng zài gēn tā tóngshí hūxī zhè ge chéngshì lǐ de kōngqì 。<br />I don't want to be here breathing the same air as this guy.|
+|小孙|哦，我明白了，老大，您是让我把他送到另一个城市。<br />o ， wǒ míngbai le ， lǎodà ， nín shì ràng wǒ bǎ tā sòng dào lìng yī ge chéngshì 。<br />Oh, I get it, boss. You want me to take him to another city.|
+|老大|你傻吗？从小把你养大，这点儿事都不明白吗？做了他！<br />nǐ shǎ ma ？ cóngxiǎo bǎ nǐ yǎng dà ， zhè diǎnr shì dōu bù míngbái ma ？ zuò le tā ！<br />Are you an idiot? I've raised you since you were a little kid and you don't even understand this little thing? Take care of him!|
+|小孙|哦，老大是让我把他......<br />o ， lǎodà shì ràng wǒ bǎ tā ......<br />Oh, the boss wants me to take him and....|
+|老大|哈哈哈，算你懂事！<br />hahaha ， suàn nǐ dǒngshì ！<br />Ha ha ha, so you're not an idiot after all!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

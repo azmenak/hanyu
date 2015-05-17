@@ -11,26 +11,11 @@ Bunny：我买了一堆玫瑰花。
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|朋友|你给你爸爸买礼物了吗？|
-||nǐ gěi nǐ bàba mǎi lǐwù le ma ？|
-||Have you bought your father a present?|
-
-|Bunny|为什么？|
-||wèishénme ？|
-||Why?|
-
-|朋友|因为父亲节！|
-||yīnwèi Fùqinjié ！|
-||Because of Father's Day!|
-
-|Bunny|我买了一堆玫瑰花。|
-||wǒ mǎi le yī duī méiguīhuār 。|
-||I bought a pile of roses.|
-
-|朋友|玫瑰花...?|
-||méiguīhuār ...?|
-||Roses...?|
+|朋友|你给你爸爸买礼物了吗？<br />nǐ gěi nǐ bàba mǎi lǐwù le ma ？<br />Have you bought your father a present?|
+|Bunny|为什么？<br />wèishénme ？<br />Why?|
+|朋友|因为父亲节！<br />yīnwèi Fùqinjié ！<br />Because of Father's Day!|
+|Bunny|我买了一堆玫瑰花。<br />wǒ mǎi le yī duī méiguīhuār 。<br />I bought a pile of roses.|
+|朋友|玫瑰花...?<br />méiguīhuār ...?<br />Roses...?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

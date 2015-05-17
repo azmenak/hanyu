@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|刘|我不舒服。|
-||wǒ bù shūfu 。|
-||I'm not comfortable.|
-
-|秦|怎么了？|
-||zěnme le ？|
-||What's wrong?|
-
-|刘|我有点儿拉肚子。|
-||wǒ yǒu diǎnr lādùzi 。|
-||I've got a bit of diarrhea.|
-
-|秦|你快回家吧。|
-||nǐ kuài huíjiā ba 。|
-||Go home, quickly.|
+|刘|我不舒服。<br />wǒ bù shūfu 。<br />I'm not comfortable.|
+|秦|怎么了？<br />zěnme le ？<br />What's wrong?|
+|刘|我有点儿拉肚子。<br />wǒ yǒu diǎnr lādùzi 。<br />I've got a bit of diarrhea.|
+|秦|你快回家吧。<br />nǐ kuài huíjiā ba 。<br />Go home, quickly.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

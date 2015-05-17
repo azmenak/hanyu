@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|三里屯怎么走？|
-||Sānlǐtún zěnme zǒu ？|
-||How do I get to Sanlitun?|
-
-|乙|去死。|
-||qùsǐ 。|
-||Go to hell.|
-
-|甲|怎么走？|
-||zěnme zǒu ？|
-||Which way?|
-
-|乙|一直走，然后死。|
-||yīzhí zǒu ， ránhòu sǐ 。|
-||Go straight and drop dead.|
-
-|甲|不是右转吗？|
-||bù shì yòuzhuǎn ma ？|
-||Isn't there a right turn somewhere?|
-
-|乙|滚！|
-||gǔn ！|
-||Get lost!|
-
-|甲|好，谢谢。|
-||hǎo ， xièxie 。|
-||OK, thanks.|
+|甲|三里屯怎么走？<br />Sānlǐtún zěnme zǒu ？<br />How do I get to Sanlitun?|
+|乙|去死。<br />qùsǐ 。<br />Go to hell.|
+|甲|怎么走？<br />zěnme zǒu ？<br />Which way?|
+|乙|一直走，然后死。<br />yīzhí zǒu ， ránhòu sǐ 。<br />Go straight and drop dead.|
+|甲|不是右转吗？<br />bù shì yòuzhuǎn ma ？<br />Isn't there a right turn somewhere?|
+|乙|滚！<br />gǔn ！<br />Get lost!|
+|甲|好，谢谢。<br />hǎo ， xièxie 。<br />OK, thanks.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

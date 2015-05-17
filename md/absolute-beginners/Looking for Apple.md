@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女的|喂?|
-||wéi ?|
-||Hello?|
-
-|男的|喂? Apple 在吗?|
-||wéi ? Apple zài ma ?|
-||Hello? Is Apple there?|
-
-|女的|听不见，喂?|
-||tīngbujiàn ， wéi ?|
-||I can't hear you properly, hello?|
-
-|男的|喂? 请问，Apple 在吗?|
-||wéi ? qǐngwèn ， Apple zài ma ?|
-||Hello? Is Apple there please?|
-
-|女的|我听不见。|
-||wǒ tīngbujiàn 。|
-||I can't hear you.|
-
-|男的|喂? 喂? 是Apple吗?|
-||wéi ? wéi ? shì Apple ma ?|
-||Hello? Hello? Are you Apple?|
-
-|女的|对不起，听不见!|
-||duìbuqǐ ， tīngbujiàn !|
-||I'm sorry, I can't hear you!|
-
-|男的|喂? Apple? Apple? Apple... 哎，算了。|
-||wéi ? Apple? Apple? Apple... ai ， suànle 。|
-||Hello? Apple? Apple? Apple... oh, forget it.|
+|女的|喂?<br />wéi ?<br />Hello?|
+|男的|喂? Apple 在吗?<br />wéi ? Apple zài ma ?<br />Hello? Is Apple there?|
+|女的|听不见，喂?<br />tīngbujiàn ， wéi ?<br />I can't hear you properly, hello?|
+|男的|喂? 请问，Apple 在吗?<br />wéi ? qǐngwèn ， Apple zài ma ?<br />Hello? Is Apple there please?|
+|女的|我听不见。<br />wǒ tīngbujiàn 。<br />I can't hear you.|
+|男的|喂? 喂? 是Apple吗?<br />wéi ? wéi ? shì Apple ma ?<br />Hello? Hello? Are you Apple?|
+|女的|对不起，听不见!<br />duìbuqǐ ， tīngbujiàn !<br />I'm sorry, I can't hear you!|
+|男的|喂? Apple? Apple? Apple... 哎，算了。<br />wéi ? Apple? Apple? Apple... ai ， suànle 。<br />Hello? Apple? Apple? Apple... oh, forget it.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

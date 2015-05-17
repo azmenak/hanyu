@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||我第一次写汉字。|
-||wǒ dì yī cì xiě hànzì 。|
-||My first time writing Chinese characters.|
-
-||我自己去。|
-||wǒ zìjǐ qù 。|
-||I'll go myself.|
-
-||你的工资是多少？|
-||nǐ de gōngzī shì duōshǎo ？|
-||How much is your salary?|
+||我第一次写汉字。<br />wǒ dì yī cì xiě hànzì 。<br />My first time writing Chinese characters.|
+||我自己去。<br />wǒ zìjǐ qù 。<br />I'll go myself.|
+||你的工资是多少？<br />nǐ de gōngzī shì duōshǎo ？<br />How much is your salary?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

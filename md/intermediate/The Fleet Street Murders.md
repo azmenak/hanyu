@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|猜丁壳！|
-||cèidīngké ！|
-||Paper, rock, scissors!|
-
-|乙|等会儿，你那是什么呀？|
-||děnghuìr ， nǐ nà shì shénme ya ？|
-||Wait a sec, what on earth is that?|
-
-|甲|剪刀啊....|
-||jiǎndāo a . . . .|
-||Scissors....|
-
-|乙|有你那样的剪刀吗？你在哪儿学的猜丁壳啊？你小儿麻痹吧你！|
-||yǒu nǐ nàyàng de jiǎndāo ma ？ nǐ zài nǎr xué de cèidīngké a ？ nǐ xiǎoérmábì ba nǐ ！|
-||Are there any scissors that look like that? Where did you learn paper, rock, scissors? Did you fall on your head as a child or something?|
+|甲|猜丁壳！<br />cèidīngké ！<br />Paper, rock, scissors!|
+|乙|等会儿，你那是什么呀？<br />děnghuìr ， nǐ nà shì shénme ya ？<br />Wait a sec, what on earth is that?|
+|甲|剪刀啊....<br />jiǎndāo a . . . .<br />Scissors....|
+|乙|有你那样的剪刀吗？你在哪儿学的猜丁壳啊？你小儿麻痹吧你！<br />yǒu nǐ nàyàng de jiǎndāo ma ？ nǐ zài nǎr xué de cèidīngké a ？ nǐ xiǎoérmábì ba nǐ ！<br />Are there any scissors that look like that? Where did you learn paper, rock, scissors? Did you fall on your head as a child or something?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

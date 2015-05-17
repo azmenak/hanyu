@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|累吗？|
-||lèi ma ？|
-||Are you tired?|
-
-|乙|嗯，我很累。|
-||ng ， wǒ hěn lèi 。|
-||Yes, I'm very tired.|
-
-|甲|你该睡觉。|
-||nǐ gāi shuìjiào 。|
-||You should go to sleep.|
-
-|乙|我还有工作。|
-||wǒ hái yǒu gōngzuò 。|
-||I still have work to do.|
+|甲|累吗？<br />lèi ma ？<br />Are you tired?|
+|乙|嗯，我很累。<br />ng ， wǒ hěn lèi 。<br />Yes, I'm very tired.|
+|甲|你该睡觉。<br />nǐ gāi shuìjiào 。<br />You should go to sleep.|
+|乙|我还有工作。<br />wǒ hái yǒu gōngzuò 。<br />I still have work to do.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

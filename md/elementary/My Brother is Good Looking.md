@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|老板，来瓶鲜橙多。|
-||lǎobǎn ， lái píng Xiānchéngduō 。|
-||Boss, give me a bottle of orange tang.|
-
-|乙|挣那么多钱，来瓶脉动呗。|
-||zhèng nàme duō qián ， lái píng Màidòng bei 。|
-||You earn so much money, how about a bottle of Mizone sports drink.|
-
-|甲|不了，我就要鲜橙多。|
-||bù le ， wǒ jiù yào Xiānchéngduō 。|
-||Nah, I just want orange tang.|
-
-|乙|哎呀，脉动比鲜橙多贵不了多少钱。|
-||aiya ， Màidòng bǐ Xiānchéngduō guì bù liǎo duōshǎo qián 。|
-||Good gracious. Mizone sports drink isn't really that much more expensive than tang!|
-
-|甲|我就要鲜橙多。|
-||wǒ jiù yào Xiānchéngduō 。|
-||I just want orange tang.|
-
-|乙|好吧。抠门儿。|
-||hǎoba 。 kōuménr 。|
-||Alright, cheapskate.|
+|甲|老板，来瓶鲜橙多。<br />lǎobǎn ， lái píng Xiānchéngduō 。<br />Boss, give me a bottle of orange tang.|
+|乙|挣那么多钱，来瓶脉动呗。<br />zhèng nàme duō qián ， lái píng Màidòng bei 。<br />You earn so much money, how about a bottle of Mizone sports drink.|
+|甲|不了，我就要鲜橙多。<br />bù le ， wǒ jiù yào Xiānchéngduō 。<br />Nah, I just want orange tang.|
+|乙|哎呀，脉动比鲜橙多贵不了多少钱。<br />aiya ， Màidòng bǐ Xiānchéngduō guì bù liǎo duōshǎo qián 。<br />Good gracious. Mizone sports drink isn't really that much more expensive than tang!|
+|甲|我就要鲜橙多。<br />wǒ jiù yào Xiānchéngduō 。<br />I just want orange tang.|
+|乙|好吧。抠门儿。<br />hǎoba 。 kōuménr 。<br />Alright, cheapskate.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你去哪儿？|
-||nǐ qù nǎr ？|
-||Where are you going?|
-
-|乙|成都。你不就是成都的吗？|
-||Chéngdū 。 nǐ bù jiùshì Chéngdū de ma ？|
-||Chengdu. Aren't you also from Chengdu?|
-
-|甲|成都？我没听过。|
-||Chéngdū ？ wǒ méi tīngguo 。|
-||Chengdu? Never heard of it.|
-
-|乙|什么？那是四川的省会。|
-||shénme ？ nà shì Sìchuān de shěnghuì 。|
-||What? It's the capital of Sichuan.|
-
-|甲|四川？四川在哪儿？|
-||Sìchuān ？ Sìchuān zài nǎr ？|
-||Sichuan? Where is Sichuan?|
-
-|乙|别告诉我你没听过四川。|
-||bié gàosu wǒ nǐ méi tīngguo Sìchuān 。|
-||Don't tell me you've never heard of Sichuan.|
-
-|甲|从来没听过，我是大栅栏的。|
-||cónglái méi tīngguo ， wǒ shì dàshílàr de 。|
-||Never heard of it. I'm from Dashilar.|
+|甲|你去哪儿？<br />nǐ qù nǎr ？<br />Where are you going?|
+|乙|成都。你不就是成都的吗？<br />Chéngdū 。 nǐ bù jiùshì Chéngdū de ma ？<br />Chengdu. Aren't you also from Chengdu?|
+|甲|成都？我没听过。<br />Chéngdū ？ wǒ méi tīngguo 。<br />Chengdu? Never heard of it.|
+|乙|什么？那是四川的省会。<br />shénme ？ nà shì Sìchuān de shěnghuì 。<br />What? It's the capital of Sichuan.|
+|甲|四川？四川在哪儿？<br />Sìchuān ？ Sìchuān zài nǎr ？<br />Sichuan? Where is Sichuan?|
+|乙|别告诉我你没听过四川。<br />bié gàosu wǒ nǐ méi tīngguo Sìchuān 。<br />Don't tell me you've never heard of Sichuan.|
+|甲|从来没听过，我是大栅栏的。<br />cónglái méi tīngguo ， wǒ shì dàshílàr de 。<br />Never heard of it. I'm from Dashilar.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

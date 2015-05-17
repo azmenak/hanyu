@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|DVD能退吗？|
-||DVD néng tuì ma ？|
-||Can I return this DVD?|
-
-|乙|不好意思，不能退。|
-||bùhǎoyìsi ， bù néng tuì 。|
-||I'm sorry, you can't return it.|
-
-|甲|可是放不了。|
-||kěshì fàng bù liǎo 。|
-||But it won't play.|
-
-|乙|那给您换吧。|
-||nà gěi nín huàn ba 。|
-||Then let's exchange it.|
+|甲|DVD能退吗？<br />DVD néng tuì ma ？<br />Can I return this DVD?|
+|乙|不好意思，不能退。<br />bùhǎoyìsi ， bù néng tuì 。<br />I'm sorry, you can't return it.|
+|甲|可是放不了。<br />kěshì fàng bù liǎo 。<br />But it won't play.|
+|乙|那给您换吧。<br />nà gěi nín huàn ba 。<br />Then let's exchange it.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

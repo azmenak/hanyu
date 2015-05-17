@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|一，二....|
-||yī ， èr . . . .|
-||One, two....|
-
-|乙|停，我说。我告诉你，我都告诉你！|
-||tíng ， wǒ shuō 。 wǒ gàosu nǐ ， wǒ dōu gàosu nǐ ！|
-||Stop, I'll talk. I'll tell you. I'll tell you everything!|
-
-|丙|别，别告诉他！|
-||bié ， bié gàosu tā ！|
-||Don't, don't tell him!|
-
-|甲|你看，他懂事儿。|
-||nǐ kàn ， tā dǒngshìr 。|
-||You see? He gets it.|
+|甲|一，二....<br />yī ， èr . . . .<br />One, two....|
+|乙|停，我说。我告诉你，我都告诉你！<br />tíng ， wǒ shuō 。 wǒ gàosu nǐ ， wǒ dōu gàosu nǐ ！<br />Stop, I'll talk. I'll tell you. I'll tell you everything!|
+|丙|别，别告诉他！<br />bié ， bié gàosu tā ！<br />Don't, don't tell him!|
+|甲|你看，他懂事儿。<br />nǐ kàn ， tā dǒngshìr 。<br />You see? He gets it.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

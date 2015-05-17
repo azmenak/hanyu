@@ -16,46 +16,16 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|雇主|今天你要洗衣服。|
-||jīntiān nǐ yào xǐ yīfu 。|
-||Today I want you to wash the clothing.|
-
-|阿姨|洗衣服。|
-||xǐ yīfu 。|
-||Ok, I'll wash the clothing.|
-
-|雇主|拖地。|
-||tuōdì 。|
-||I also want you to mop the floor.|
-
-|阿姨|嗯，拖地。|
-||en ， tuōdì 。|
-||Ok, I'll mop the floor.|
-
-|雇主|不过，首先擦这个。|
-||bùguò ， shǒuxiān cā zhège 。|
-||But first scrub this.|
-
-|阿姨|好，那我先干了。|
-||hǎo ， nà wǒ xiān gàn le 。|
-||Ok, then I'll first do it.|
-
-||[唱歌：我从山中来，带着兰花草......]|
-||[ chànggē ： wǒ cóng shān zhōng lái ， dàizhe lánhuācǎo ...... ]|
-||[I came from the mountain carrying cymbidium flowers....]|
-
-|雇主|不，你用力一点儿，用力！|
-||bù ， nǐ yònglì yīdiǎnr ， yònglì ！|
-||No, use a bit more force! Scrub harder!|
-
-|阿姨|嗯，用力。|
-||en ， yònglì 。|
-||Ok, I'll scrub a bit harder.|
-
-|雇主|哎呀，你，给我！用力，像这样！|
-||āiya ， nǐ ， gěi wǒ ！ yònglì ， xiàng zhèyàng ！|
-||Give it to me! Put some muscle into it, like this!|
+|雇主|今天你要洗衣服。<br />jīntiān nǐ yào xǐ yīfu 。<br />Today I want you to wash the clothing.|
+|阿姨|洗衣服。<br />xǐ yīfu 。<br />Ok, I'll wash the clothing.|
+|雇主|拖地。<br />tuōdì 。<br />I also want you to mop the floor.|
+|阿姨|嗯，拖地。<br />en ， tuōdì 。<br />Ok, I'll mop the floor.|
+|雇主|不过，首先擦这个。<br />bùguò ， shǒuxiān cā zhège 。<br />But first scrub this.|
+|阿姨|好，那我先干了。<br />hǎo ， nà wǒ xiān gàn le 。<br />Ok, then I'll first do it.|
+||[唱歌：我从山中来，带着兰花草......]<br />[ chànggē ： wǒ cóng shān zhōng lái ， dàizhe lánhuācǎo ...... ]<br />[I came from the mountain carrying cymbidium flowers....]|
+|雇主|不，你用力一点儿，用力！<br />bù ， nǐ yònglì yīdiǎnr ， yònglì ！<br />No, use a bit more force! Scrub harder!|
+|阿姨|嗯，用力。<br />en ， yònglì 。<br />Ok, I'll scrub a bit harder.|
+|雇主|哎呀，你，给我！用力，像这样！<br />āiya ， nǐ ， gěi wǒ ！ yònglì ， xiàng zhèyàng ！<br />Give it to me! Put some muscle into it, like this!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

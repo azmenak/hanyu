@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|一|哦，我的胳膊。|
-||ò ， wǒ de gēbo 。|
-||Oh, my arm.|
-
-|二|你的胳膊怎么了？|
-||nǐ de gēbo zěnme le ？|
-||What's wrong with your arm?|
-
-|一|折了。|
-||shé le 。|
-||It's broken.|
-
-|二|我们去医院吧。|
-||wǒmen qù yīyuàn ba 。|
-||Lets go to the hospital.|
+|一|哦，我的胳膊。<br />ò ， wǒ de gēbo 。<br />Oh, my arm.|
+|二|你的胳膊怎么了？<br />nǐ de gēbo zěnme le ？<br />What's wrong with your arm?|
+|一|折了。<br />shé le 。<br />It's broken.|
+|二|我们去医院吧。<br />wǒmen qù yīyuàn ba 。<br />Lets go to the hospital.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

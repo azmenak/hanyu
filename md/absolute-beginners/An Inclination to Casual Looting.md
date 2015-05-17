@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|她没有邮箱？|
-||tā méiyǒu yóuxiāng ？|
-||She doesn't have email?|
-
-|乙|没有。|
-||méiyǒu 。|
-||No.|
-
-|甲|也没有电话？|
-||yě méiyǒu diànhuà ？|
-||She doesn't have a telephone either?|
-
-|乙|没有。|
-||méiyǒu 。|
-||No.|
-
-|甲|她是80后？|
-||tā shì bā líng hòu ？|
-||She was born in the 1980s?|
-
-|乙|1880后。|
-||yī bā bā líng hòu 。|
-||The 1880s.|
+|甲|她没有邮箱？<br />tā méiyǒu yóuxiāng ？<br />She doesn't have email?|
+|乙|没有。<br />méiyǒu 。<br />No.|
+|甲|也没有电话？<br />yě méiyǒu diànhuà ？<br />She doesn't have a telephone either?|
+|乙|没有。<br />méiyǒu 。<br />No.|
+|甲|她是80后？<br />tā shì bā líng hòu ？<br />She was born in the 1980s?|
+|乙|1880后。<br />yī bā bā líng hòu 。<br />The 1880s.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

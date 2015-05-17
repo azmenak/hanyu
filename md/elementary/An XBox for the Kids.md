@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你知道我为什么喜欢泡泡中文吗？|
-||nǐ zhīdào wǒ wèishénme xǐhuān Pàopào Zhōngwén ma ？|
-||Do you know why I like Popup Chinese?|
-
-|乙|为什么呢？|
-||wèishénme ne ？|
-||Why?|
-
-|甲|因为我工作五个小时，他们给我面包吃。|
-||yīnwèi wǒ gōngzuò wǔ ge xiǎoshí ， tāmen gěi wǒ miànbāo chī 。|
-||Because if I work for five hours, they give me bread to eat.|
-
-|丙|还有水。|
-||hái yǒu shuǐ 。|
-||There's also water.|
-
-|乙|还有面包？|
-||hái yǒu miànbāo ？|
-||You get bread?|
-
-|丙|我想回家......|
-||wǒ xiǎng huíjiā ......|
-||I want to go home....|
+|甲|你知道我为什么喜欢泡泡中文吗？<br />nǐ zhīdào wǒ wèishénme xǐhuān Pàopào Zhōngwén ma ？<br />Do you know why I like Popup Chinese?|
+|乙|为什么呢？<br />wèishénme ne ？<br />Why?|
+|甲|因为我工作五个小时，他们给我面包吃。<br />yīnwèi wǒ gōngzuò wǔ ge xiǎoshí ， tāmen gěi wǒ miànbāo chī 。<br />Because if I work for five hours, they give me bread to eat.|
+|丙|还有水。<br />hái yǒu shuǐ 。<br />There's also water.|
+|乙|还有面包？<br />hái yǒu miànbāo ？<br />You get bread?|
+|丙|我想回家......<br />wǒ xiǎng huíjiā ......<br />I want to go home....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

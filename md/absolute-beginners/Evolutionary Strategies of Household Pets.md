@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|那是你女朋友？|
-||nà shì nǐ nǚpéngyou ？|
-||Is that your girlfriend?|
-
-|乙|不，是我的猫。|
-||bù ， shì wǒde māo 。|
-||No, it's my cat.|
-
-|甲|它会打电话？|
-||tā huì dǎ diànhuà ？|
-||It can dial a phone?|
-
-|乙|嗯，对，它饿了。|
-||en ， duì ， tā è le 。|
-||Uh, yeah, it's hungry.|
+|甲|那是你女朋友？<br />nà shì nǐ nǚpéngyou ？<br />Is that your girlfriend?|
+|乙|不，是我的猫。<br />bù ， shì wǒde māo 。<br />No, it's my cat.|
+|甲|它会打电话？<br />tā huì dǎ diànhuà ？<br />It can dial a phone?|
+|乙|嗯，对，它饿了。<br />en ， duì ， tā è le 。<br />Uh, yeah, it's hungry.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

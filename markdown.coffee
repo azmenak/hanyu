@@ -21,10 +21,7 @@ for level, lessons of groupedByLevel
       |----|----|
     """
     for sentence in lesson.transcript
-      l   = sentence.speaker.length
-      md += "\n|#{sentence.speaker}|#{sentence.chinese}|"
-      md += "\n||#{sentence.pinyin}|"
-      md += "\n||#{sentence.translation}|"
+      md += "\n|#{sentence.speaker}|#{sentence.chinese}<br />#{sentence.pinyin}<br />#{sentence.translation}|"
 
     md += """
 

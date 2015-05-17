@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|你想要哪个？|
-||nǐ xiǎng yào nǎ ge ？|
-||Which one do you want?|
-
-|女|这个。|
-||zhège 。|
-||This one.|
-
-|男|那个怎么样？|
-||nà ge zěnmeyàng ？|
-||How about that one?|
-
-|女|不，就这个。|
-||bù ， jiù zhège 。|
-||No, exactly this one.|
+|男|你想要哪个？<br />nǐ xiǎng yào nǎ ge ？<br />Which one do you want?|
+|女|这个。<br />zhège 。<br />This one.|
+|男|那个怎么样？<br />nà ge zěnmeyàng ？<br />How about that one?|
+|女|不，就这个。<br />bù ， jiù zhège 。<br />No, exactly this one.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

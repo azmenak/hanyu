@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|你听得懂吗？|
-||nǐ tīngdedǒng ma ？|
-||Do you understand?|
-
-|男|听不懂。|
-||tīngbùdǒng 。|
-||I don't understand.|
-
-|女|它们有没有中文字幕？|
-||tāmen yǒu méiyǒu zhōngwén zìmù ？|
-||Do they have Chinese subtitles?|
-
-|男|没有。|
-||méiyǒu 。|
-||No.|
-
-|女|妈的。|
-||māde 。|
-||Damn.|
+|女|你听得懂吗？<br />nǐ tīngdedǒng ma ？<br />Do you understand?|
+|男|听不懂。<br />tīngbùdǒng 。<br />I don't understand.|
+|女|它们有没有中文字幕？<br />tāmen yǒu méiyǒu zhōngwén zìmù ？<br />Do they have Chinese subtitles?|
+|男|没有。<br />méiyǒu 。<br />No.|
+|女|妈的。<br />māde 。<br />Damn.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

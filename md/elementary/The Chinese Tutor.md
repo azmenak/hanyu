@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|他又开始唱歌了。|
-||tā yòu kāishǐ chànggē le 。|
-||He's started singing again.|
-
-|乙|我听见了。我受不了了。|
-||wǒ tīng  jiàn le 。 wǒ shòu bu liǎo le 。|
-||I can hear it. I can't take it anymore.|
-
-|甲|压力之下。谁没压力？有压力的应该是咱们。|
-||yālì zhī xià 。 shéi méi yālì ？ yǒu yālì de yīnggāi shì zánmen 。|
-||Under pressure. Who doesn't have pressure? We're the ones who have pressure.|
-
-|乙|三天了吧。|
-||sān tiān le ba 。|
-||It's been three days now.|
-
-|甲|是你找的室友。|
-||shì nǐ zhǎo de shìyǒu 。|
-||You're the one who found this guy for a roommate.|
+|甲|他又开始唱歌了。<br />tā yòu kāishǐ chànggē le 。<br />He's started singing again.|
+|乙|我听见了。我受不了了。<br />wǒ tīng  jiàn le 。 wǒ shòu bu liǎo le 。<br />I can hear it. I can't take it anymore.|
+|甲|压力之下。谁没压力？有压力的应该是咱们。<br />yālì zhī xià 。 shéi méi yālì ？ yǒu yālì de yīnggāi shì zánmen 。<br />Under pressure. Who doesn't have pressure? We're the ones who have pressure.|
+|乙|三天了吧。<br />sān tiān le ba 。<br />It's been three days now.|
+|甲|是你找的室友。<br />shì nǐ zhǎo de shìyǒu 。<br />You're the one who found this guy for a roommate.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

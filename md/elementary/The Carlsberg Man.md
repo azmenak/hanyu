@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|酒保，四杯威士忌！|
-||jiǔbǎo ， sì bēi wēishiji ！|
-||Bartender, four whiskeys!|
-
-|乙|哎，你别喝那么多威士忌吧。|
-||āi ， nǐ bié hē nàme duō wēishiji ba 。|
-||Hey, don't drink that much whiskey.|
-
-|甲|别管我，你不懂爱情！|
-||bié guǎn wǒ ， nǐ bù dǒng àiqíng ！|
-||Leave me alone, you don't understand love.|
-
-|丙|刚分手？想喝酒？要喝就喝嘉士伯！|
-||gāng fēnshǒu ？ xiǎng hē jiǔ ？ yào hē jiù hē jiāshìbó ！|
-||Just broke up? Feel like drinking? If you want a drink, drink Carlsberg!|
-
-|甲|给我一杯嘉士伯。|
-||gěi wǒ yī bēi jiāshìbó 。|
-||Give me a glass of Carlsberg.|
-
-|乙|哎，这就对了！|
-||ai ， zhè jiù duì le ！|
-||Hey, that's more like it!|
+|甲|酒保，四杯威士忌！<br />jiǔbǎo ， sì bēi wēishiji ！<br />Bartender, four whiskeys!|
+|乙|哎，你别喝那么多威士忌吧。<br />āi ， nǐ bié hē nàme duō wēishiji ba 。<br />Hey, don't drink that much whiskey.|
+|甲|别管我，你不懂爱情！<br />bié guǎn wǒ ， nǐ bù dǒng àiqíng ！<br />Leave me alone, you don't understand love.|
+|丙|刚分手？想喝酒？要喝就喝嘉士伯！<br />gāng fēnshǒu ？ xiǎng hē jiǔ ？ yào hē jiù hē jiāshìbó ！<br />Just broke up? Feel like drinking? If you want a drink, drink Carlsberg!|
+|甲|给我一杯嘉士伯。<br />gěi wǒ yī bēi jiāshìbó 。<br />Give me a glass of Carlsberg.|
+|乙|哎，这就对了！<br />ai ， zhè jiù duì le ！<br />Hey, that's more like it!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

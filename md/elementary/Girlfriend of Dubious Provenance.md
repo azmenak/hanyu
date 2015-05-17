@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎！ 你能帮我看一下这上面都写什么了？|
-||āi ！  nǐ néng bāng wǒ kàn yīxià zhè shàngmian dōu xiě shénme le ？|
-||Hey! Can you help me see what this says on here?|
-
-|乙|不知道，西班牙语吧?|
-||bù zhīdào ， xībānyáyǔ ba ?|
-||I don't know. It's Spanish?|
-
-|甲|这好像是希腊文。|
-||zhè hǎoxiàng shì xīlàwén 。|
-||It looks like Greek.|
-
-|乙|你干嘛看这个？|
-||nǐ gànmá kàn zhège ？|
-||What are you doing reading this?|
-
-|甲|这是我女朋友写给我的信啊。|
-||zhè shì wǒ nǚpéngyou xiě gěi wǒ de xìn ā 。|
-||This is a letter my girlfriend wrote me.|
-
-|丙|你有女朋友了？|
-||nǐ yǒu nǚpéngyou le ？|
-||You have a girlfriend?|
-
-|甲|对啊。|
-||duì a 。|
-||Yeah.|
-
-|乙|你连你女朋友是哪国人你都不知道？|
-||nǐ lián nǐ nǚpéngyou shì nǎ guó rén nǐ dōu bù zhīdào ？|
-||You don't even know which country your girlfriend is from?|
-
-|甲|哎，你甭管这个。我只是想找人帮我翻译一下。|
-||āi ， nǐ béng guǎn zhège 。 wǒ zhǐ shì xiǎng zhǎo rén bāng wǒ fānyì yīxià 。|
-||Hey, don't worry about that. I only want to find someone to help me translate it.|
+|甲|哎！ 你能帮我看一下这上面都写什么了？<br />āi ！  nǐ néng bāng wǒ kàn yīxià zhè shàngmian dōu xiě shénme le ？<br />Hey! Can you help me see what this says on here?|
+|乙|不知道，西班牙语吧?<br />bù zhīdào ， xībānyáyǔ ba ?<br />I don't know. It's Spanish?|
+|甲|这好像是希腊文。<br />zhè hǎoxiàng shì xīlàwén 。<br />It looks like Greek.|
+|乙|你干嘛看这个？<br />nǐ gànmá kàn zhège ？<br />What are you doing reading this?|
+|甲|这是我女朋友写给我的信啊。<br />zhè shì wǒ nǚpéngyou xiě gěi wǒ de xìn ā 。<br />This is a letter my girlfriend wrote me.|
+|丙|你有女朋友了？<br />nǐ yǒu nǚpéngyou le ？<br />You have a girlfriend?|
+|甲|对啊。<br />duì a 。<br />Yeah.|
+|乙|你连你女朋友是哪国人你都不知道？<br />nǐ lián nǐ nǚpéngyou shì nǎ guó rén nǐ dōu bù zhīdào ？<br />You don't even know which country your girlfriend is from?|
+|甲|哎，你甭管这个。我只是想找人帮我翻译一下。<br />āi ， nǐ béng guǎn zhège 。 wǒ zhǐ shì xiǎng zhǎo rén bāng wǒ fānyì yīxià 。<br />Hey, don't worry about that. I only want to find someone to help me translate it.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

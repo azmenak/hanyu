@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你刚才拿的是我的iPad.|
-||nǐ gāngcái ná de shì wǒ de iPad .|
-||That's my iPad you just took.|
-
-|乙|没有，我没拿你iPad.|
-||méiyǒu ， wǒ méi ná nǐ iPad .|
-||No. I didn't take your iPad.|
-
-|甲|我看见你把它放包里了。|
-||wǒ kànjiàn nǐ bǎ tā fàng bāo lǐ le 。|
-||I saw you put it in the bag.|
-
-|乙|包里是我的iPad.|
-||bāo lǐ shì wǒ de iPad .|
-||The one in the bag is my iPad.|
-
-|甲|给我。你居然偷我的东西。|
-||gěi wǒ 。 nǐ jūrán tōu wǒ de dōngxi 。|
-||Give that to me. I can't believe you'd steal my things.|
-
-|乙|大姐，拜托。不是只是你一个人有iPad.|
-||dàjiě ， bàituō 。 bù shì zhǐ shì nǐ yī ge rén yǒu iPad .|
-||Please, girl. It isn't as if you're the only one with an iPad.|
-
-|甲|哎？这不是我的iPhone吗？|
-||ai ？ zhè bù shì wǒ de iPhone ma ？|
-||Hey! Isn't this my iPhone?|
+|甲|你刚才拿的是我的iPad.<br />nǐ gāngcái ná de shì wǒ de iPad .<br />That's my iPad you just took.|
+|乙|没有，我没拿你iPad.<br />méiyǒu ， wǒ méi ná nǐ iPad .<br />No. I didn't take your iPad.|
+|甲|我看见你把它放包里了。<br />wǒ kànjiàn nǐ bǎ tā fàng bāo lǐ le 。<br />I saw you put it in the bag.|
+|乙|包里是我的iPad.<br />bāo lǐ shì wǒ de iPad .<br />The one in the bag is my iPad.|
+|甲|给我。你居然偷我的东西。<br />gěi wǒ 。 nǐ jūrán tōu wǒ de dōngxi 。<br />Give that to me. I can't believe you'd steal my things.|
+|乙|大姐，拜托。不是只是你一个人有iPad.<br />dàjiě ， bàituō 。 bù shì zhǐ shì nǐ yī ge rén yǒu iPad .<br />Please, girl. It isn't as if you're the only one with an iPad.|
+|甲|哎？这不是我的iPhone吗？<br />ai ？ zhè bù shì wǒ de iPhone ma ？<br />Hey! Isn't this my iPhone?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

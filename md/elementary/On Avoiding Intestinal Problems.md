@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|亲爱的，我们今晚吃什么？|
-||qīn_APOS_àide ， wǒmen jīnwǎn chī shénme ？|
-||Honey, what are we eating tonight?|
-
-|乙|呃，什么都行，随便。|
-||e ， shénme dōu xíng ， suíbiàn 。|
-||Uh... anything is ok. Whatever you want.|
-
-|甲|随便？那我们吃火锅？|
-||suíbiàn ？ nà wǒmen chī huǒguō ？|
-||Whatever? Then how about hot-pot?|
-
-|乙|火锅太上火了吧？换点儿别的。|
-||huǒguō tài shànghuǒ le ba ？ huàn diǎnr biéde 。|
-||Hot-pot is too inflammatory, let's switch to something else.|
-
-|甲|上火？那我们吃水煮鱼吧。|
-||shànghuǒ ？ nà wǒmen chī shuǐzhǔyú ba 。|
-||Inflammatory? Then let's have fish-in-chili-oil.|
-
-|乙|水煮鱼太辣了。|
-||shuǐzhǔyú tài là le 。|
-||Fish-in-chili-oil is too spicy.|
-
-|甲|那你究竟吃什么？|
-||nà nǐ jiūjìng chī shénme ？|
-||Then what do you want to eat?|
-
-|乙|我不是说了嘛，随便。|
-||wǒ bù shì shuōle ma ， suíbiàn 。|
-||I already told you, whatever.|
+|甲|亲爱的，我们今晚吃什么？<br />qīn_APOS_àide ， wǒmen jīnwǎn chī shénme ？<br />Honey, what are we eating tonight?|
+|乙|呃，什么都行，随便。<br />e ， shénme dōu xíng ， suíbiàn 。<br />Uh... anything is ok. Whatever you want.|
+|甲|随便？那我们吃火锅？<br />suíbiàn ？ nà wǒmen chī huǒguō ？<br />Whatever? Then how about hot-pot?|
+|乙|火锅太上火了吧？换点儿别的。<br />huǒguō tài shànghuǒ le ba ？ huàn diǎnr biéde 。<br />Hot-pot is too inflammatory, let's switch to something else.|
+|甲|上火？那我们吃水煮鱼吧。<br />shànghuǒ ？ nà wǒmen chī shuǐzhǔyú ba 。<br />Inflammatory? Then let's have fish-in-chili-oil.|
+|乙|水煮鱼太辣了。<br />shuǐzhǔyú tài là le 。<br />Fish-in-chili-oil is too spicy.|
+|甲|那你究竟吃什么？<br />nà nǐ jiūjìng chī shénme ？<br />Then what do you want to eat?|
+|乙|我不是说了嘛，随便。<br />wǒ bù shì shuōle ma ， suíbiàn 。<br />I already told you, whatever.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

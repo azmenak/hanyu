@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？|
-||Qín ， nǐ zěnme jīntiān shàngbānr yòu chídào le ？ bù shì gàosu guò nǐ zuò dìtiě le ma ？|
-||Qin, why are you late for work again this morning? Didn't I tell you to take the subway?|
-
-|乙|老板，我是坐地铁来的....|
-||lǎobǎn ， wǒ shì zuò dìtiě lái de ....|
-||Boss, I did take the subway....|
-
-|甲|开什么玩笑？从你们家到公司只有两站地。|
-||kāi shénme wánxiào ？ cóng nǐmen jiā dào gōngsī zhǐ yǒu liǎng zhàndì 。|
-||What are you trying to pull? It's only two stops from your home to the office.|
-
-|乙|是，但是....|
-||shì ， dànshì ....|
-||Yes, but....|
-
-|甲|而且你那儿是起始站！|
-||érqiě nǐ nàr shì qǐshǐzhàn ！|
-||And you're at the first station!|
-
-|乙|可是我只能在终点站才下得了车。|
-||kěshì wǒ zhǐ néng zài zhōngdiǎnzhàn cái xiàdeliǎo chē 。|
-||But I was only able to get off at the last stop.|
-
-|甲|你傻吗？|
-||nǐ shǎ ma ？|
-||Are you stupid?|
-
-|乙|我挤不下来啊。|
-||wǒ jǐ bu xiàlai ā 。|
-||I couldn't squeeze my way off.|
+|甲|秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？<br />Qín ， nǐ zěnme jīntiān shàngbānr yòu chídào le ？ bù shì gàosu guò nǐ zuò dìtiě le ma ？<br />Qin, why are you late for work again this morning? Didn't I tell you to take the subway?|
+|乙|老板，我是坐地铁来的....<br />lǎobǎn ， wǒ shì zuò dìtiě lái de ....<br />Boss, I did take the subway....|
+|甲|开什么玩笑？从你们家到公司只有两站地。<br />kāi shénme wánxiào ？ cóng nǐmen jiā dào gōngsī zhǐ yǒu liǎng zhàndì 。<br />What are you trying to pull? It's only two stops from your home to the office.|
+|乙|是，但是....<br />shì ， dànshì ....<br />Yes, but....|
+|甲|而且你那儿是起始站！<br />érqiě nǐ nàr shì qǐshǐzhàn ！<br />And you're at the first station!|
+|乙|可是我只能在终点站才下得了车。<br />kěshì wǒ zhǐ néng zài zhōngdiǎnzhàn cái xiàdeliǎo chē 。<br />But I was only able to get off at the last stop.|
+|甲|你傻吗？<br />nǐ shǎ ma ？<br />Are you stupid?|
+|乙|我挤不下来啊。<br />wǒ jǐ bu xiàlai ā 。<br />I couldn't squeeze my way off.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

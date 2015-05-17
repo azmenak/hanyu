@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女的|谢谢你照顾我的狗。|
-||xièxiè nǐ zhàogu wǒ de gǒu 。|
-||Thanks for taking care of my dog.|
-
-|男的|不用谢，全搞定了。|
-||bù yòng xiè ， quán gǎodìng le 。|
-||No thanks needed. Everything's taken care of.|
-
-|女的|它在哪儿呢? 我都想死它了。|
-||tā zài nǎr ne ? wǒ dōu xiǎngsǐ tā le 。|
-||Where is he? I've missed him so much.|
-
-|男的|什么意思? 你不是让我帮你搞定它吗?|
-||shénme yìsi ? nǐ bù shì ràng wǒ bāng nǐ gǎo dìng tā ma ?|
-||What do you mean? Didn't you ask me to help you take care of him?|
-
-|女的|什么?|
-||shénme ?|
-||Huh?|
-
-|男的|放心，它以后再也不会来烦你了。|
-||fàngxīn ， tā yǐhòu zàiyěbù huì lái fán nǐ le 。|
-||Relax, he won't be back to bother you.|
+|女的|谢谢你照顾我的狗。<br />xièxiè nǐ zhàogu wǒ de gǒu 。<br />Thanks for taking care of my dog.|
+|男的|不用谢，全搞定了。<br />bù yòng xiè ， quán gǎodìng le 。<br />No thanks needed. Everything's taken care of.|
+|女的|它在哪儿呢? 我都想死它了。<br />tā zài nǎr ne ? wǒ dōu xiǎngsǐ tā le 。<br />Where is he? I've missed him so much.|
+|男的|什么意思? 你不是让我帮你搞定它吗?<br />shénme yìsi ? nǐ bù shì ràng wǒ bāng nǐ gǎo dìng tā ma ?<br />What do you mean? Didn't you ask me to help you take care of him?|
+|女的|什么?<br />shénme ?<br />Huh?|
+|男的|放心，它以后再也不会来烦你了。<br />fàngxīn ， tā yǐhòu zàiyěbù huì lái fán nǐ le 。<br />Relax, he won't be back to bother you.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

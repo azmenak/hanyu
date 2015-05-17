@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我们吃什么？|
-||wǒmen chī shénme ？|
-||What should we eat?|
-
-|乙|外卖吧。|
-||wàimài ba 。|
-||How about take-out?|
-
-|甲|外卖什么？|
-||wàimài shénme ？|
-||What kind of take-out?|
-
-|乙|韩国菜吧。|
-||Hánguó cài ba 。|
-||How about Korean food?|
+|甲|我们吃什么？<br />wǒmen chī shénme ？<br />What should we eat?|
+|乙|外卖吧。<br />wàimài ba 。<br />How about take-out?|
+|甲|外卖什么？<br />wàimài shénme ？<br />What kind of take-out?|
+|乙|韩国菜吧。<br />Hánguó cài ba 。<br />How about Korean food?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

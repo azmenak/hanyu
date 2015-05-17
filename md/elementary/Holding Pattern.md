@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|哦，你们家没有卫生间吗？|
-||ò ， nǐmen jiā méiyǒu wèishēngjiān ma ？|
-||Hey, does your home have a washroom?|
-
-|女|没有啊。|
-||méiyǒu a 。|
-||No.|
-
-|男|那你爸妈平时怎么解决的？|
-||nà nǐ bàmā píngshí zěnme jiějué de ？|
-||Then how do your parents usually deal with it?|
-
-|女|他们年纪大了，就不用了。|
-||tāmen niánjì dà le ， jiù bùyòng le 。|
-||They're getting old and don't use it.|
-
-|男|年纪大了也不能不用洗手间呀。|
-||niánjì dà le yě bù néng bù yòng xǐshǒujiān yā 。|
-||You can't not use the washroom even when you're old.|
-
-|女|我也不知道为什么。|
-||wǒ yě bù zhīdào wèishénme 。|
-||I don't understand it either.|
+|男|哦，你们家没有卫生间吗？<br />ò ， nǐmen jiā méiyǒu wèishēngjiān ma ？<br />Hey, does your home have a washroom?|
+|女|没有啊。<br />méiyǒu a 。<br />No.|
+|男|那你爸妈平时怎么解决的？<br />nà nǐ bàmā píngshí zěnme jiějué de ？<br />Then how do your parents usually deal with it?|
+|女|他们年纪大了，就不用了。<br />tāmen niánjì dà le ， jiù bùyòng le 。<br />They're getting old and don't use it.|
+|男|年纪大了也不能不用洗手间呀。<br />niánjì dà le yě bù néng bù yòng xǐshǒujiān yā 。<br />You can't not use the washroom even when you're old.|
+|女|我也不知道为什么。<br />wǒ yě bù zhīdào wèishénme 。<br />I don't understand it either.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|几点了？|
-||jǐ diǎn le ？|
-||What time is it?|
-
-|乙|两点。|
-||liǎng diǎn 。|
-||Two o'clock.|
-
-|甲|天哪！晚了，晚了！|
-||tiānna ！ wǎn le ， wǎn le ！|
-||Good heavens! It's late!|
+|甲|几点了？<br />jǐ diǎn le ？<br />What time is it?|
+|乙|两点。<br />liǎng diǎn 。<br />Two o'clock.|
+|甲|天哪！晚了，晚了！<br />tiānna ！ wǎn le ， wǎn le ！<br />Good heavens! It's late!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

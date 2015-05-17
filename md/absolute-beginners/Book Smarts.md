@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你在看什么？|
-||nǐ zài kàn shénme ？|
-||What are you reading?|
-
-|乙|在看一本书。|
-||zài kàn yī běn shū 。|
-||Reading a book.|
-
-|甲|我知道。|
-||wǒ zhīdào 。|
-||I know.|
-
-|乙|那你还问？|
-||nà nǐ hái wèn ？|
-||So why did you ask?|
-
-|甲|看什么书？|
-||kàn shénme shū ？|
-||What book are you reading?|
+|甲|你在看什么？<br />nǐ zài kàn shénme ？<br />What are you reading?|
+|乙|在看一本书。<br />zài kàn yī běn shū 。<br />Reading a book.|
+|甲|我知道。<br />wǒ zhīdào 。<br />I know.|
+|乙|那你还问？<br />nà nǐ hái wèn ？<br />So why did you ask?|
+|甲|看什么书？<br />kàn shénme shū ？<br />What book are you reading?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

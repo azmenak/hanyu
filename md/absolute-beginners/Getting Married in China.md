@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你是哪国人？|
-||nǐ shì něi guó rén ？|
-||Where are you from?|
-
-|乙|我是德国人。|
-||wǒ shì Déguó rén 。|
-||I'm German.|
-
-|甲|你做什么工作？|
-||nǐ zuò shénme gōngzuò ？|
-||What job do you do?|
-
-|乙|我是工程师。|
-||wǒ shì gōngchéngshī 。|
-||I'm an engineer.|
+|甲|你是哪国人？<br />nǐ shì něi guó rén ？<br />Where are you from?|
+|乙|我是德国人。<br />wǒ shì Déguó rén 。<br />I'm German.|
+|甲|你做什么工作？<br />nǐ zuò shénme gōngzuò ？<br />What job do you do?|
+|乙|我是工程师。<br />wǒ shì gōngchéngshī 。<br />I'm an engineer.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我会打你的。|
-||wǒ huì dǎ nǐ de 。|
-||I will hit you.|
-
-|乙|你敢打我？|
-||nǐ gǎn dǎ wǒ ？|
-||You dare to hit me?|
-
-|甲|我真的真的会打你的。|
-||wǒ zhēnde zhēnde huì dǎ nǐ de 。|
-||I'm really really going to hit you.|
-
-|乙|你真的敢打我？|
-||nǐ zhēnde gǎn dǎ wǒ ？|
-||You really dare to hit me?|
+|甲|我会打你的。<br />wǒ huì dǎ nǐ de 。<br />I will hit you.|
+|乙|你敢打我？<br />nǐ gǎn dǎ wǒ ？<br />You dare to hit me?|
+|甲|我真的真的会打你的。<br />wǒ zhēnde zhēnde huì dǎ nǐ de 。<br />I'm really really going to hit you.|
+|乙|你真的敢打我？<br />nǐ zhēnde gǎn dǎ wǒ ？<br />You really dare to hit me?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

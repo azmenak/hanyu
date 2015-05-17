@@ -7,10 +7,7 @@ Please share your thoughts with us... in Chinese.
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||Please share your thoughts with us... in Chinese.|
-|||
-|||
+||Please share your thoughts with us... in Chinese.<br /><br />|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

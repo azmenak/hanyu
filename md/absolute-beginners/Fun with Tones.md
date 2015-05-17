@@ -10,22 +10,10 @@ B：他爱你!
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|A|我爱你.|
-||wǒ ài nǐ .|
-||I love you.|
-
-|B|你爱我,可是我爱他.|
-||nǐ ài wǒ , kěshì wǒ ài tā .|
-||You love me, but I love him.|
-
-|A|他爱你吗?|
-||tā ài nǐ ma ?|
-||Does he love you?|
-
-|B|他爱你!|
-||tā ài nǐ !|
-||He loves you|
+|A|我爱你.<br />wǒ ài nǐ .<br />I love you.|
+|B|你爱我,可是我爱他.<br />nǐ ài wǒ , kěshì wǒ ài tā .<br />You love me, but I love him.|
+|A|他爱你吗?<br />tā ài nǐ ma ?<br />Does he love you?|
+|B|他爱你!<br />tā ài nǐ !<br />He loves you|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

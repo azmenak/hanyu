@@ -8,14 +8,8 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|你是谁？|
-||nǐ shì shéi ？|
-||Who are you?|
-
-|女|我是你的老婆！|
-||wǒ shì nǐ de lǎopo ！|
-||I'm your wife!|
+|男|你是谁？<br />nǐ shì shéi ？<br />Who are you?|
+|女|我是你的老婆！<br />wǒ shì nǐ de lǎopo ！<br />I'm your wife!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

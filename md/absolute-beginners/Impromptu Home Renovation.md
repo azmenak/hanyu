@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你干嘛呢？|
-||nǐ gànmá ne ？|
-||What are you doing?|
-
-|乙|没什么，没什么！|
-||méi shénme ， méi shénme ！|
-||Nothing, nothing!|
-
-|甲|怎么回事？|
-||zěnme huíshì ？|
-||What's going on?|
-
-|乙|一切正常。|
-||yīqiè zhèngcháng 。|
-||Everything's normal.|
-
-|甲|我下来看看。|
-||wǒ xiàlai kànkan 。|
-||I'm coming downstairs to take a look.|
-
-|乙|你别下来，你别下来，别下来....|
-||nǐ bié xiàlai ， nǐ bié xiàlai ， bié xiàlai . . . .|
-||No! Don't come down, don't come down....|
+|甲|你干嘛呢？<br />nǐ gànmá ne ？<br />What are you doing?|
+|乙|没什么，没什么！<br />méi shénme ， méi shénme ！<br />Nothing, nothing!|
+|甲|怎么回事？<br />zěnme huíshì ？<br />What's going on?|
+|乙|一切正常。<br />yīqiè zhèngcháng 。<br />Everything's normal.|
+|甲|我下来看看。<br />wǒ xiàlai kànkan 。<br />I'm coming downstairs to take a look.|
+|乙|你别下来，你别下来，别下来....<br />nǐ bié xiàlai ， nǐ bié xiàlai ， bié xiàlai . . . .<br />No! Don't come down, don't come down....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

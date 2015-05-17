@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你的手表在哪儿买的？|
-||nǐ de shǒubiǎo zài nǎr mǎi de ？|
-||Where did you buy your watch?|
-
-|乙|在网上。|
-||zài wǎngshàng 。|
-||On the Internet.|
-
-|甲|什么网？|
-||shénme wǎng ？|
-||Which website?|
-
-|乙|因特网。|
-||yīntèwǎng 。|
-||The Internet.|
-
-|甲|哦，没听说过。|
-||ò ， méi tīngshuō guo 。|
-||Oh, never heard of it.|
+|甲|你的手表在哪儿买的？<br />nǐ de shǒubiǎo zài nǎr mǎi de ？<br />Where did you buy your watch?|
+|乙|在网上。<br />zài wǎngshàng 。<br />On the Internet.|
+|甲|什么网？<br />shénme wǎng ？<br />Which website?|
+|乙|因特网。<br />yīntèwǎng 。<br />The Internet.|
+|甲|哦，没听说过。<br />ò ， méi tīngshuō guo 。<br />Oh, never heard of it.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

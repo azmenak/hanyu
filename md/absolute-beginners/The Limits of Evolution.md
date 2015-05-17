@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|蛐蛐|蛐蛐。|
-||qūqur 。|
-||Cricket.|
-
-|人|哎，一个蛐蛐。|
-||ai ， yī ge qūqur 。|
-||Oh, it's a cricket.|
-
-|蛐蛐|我是蛐蛐。|
-||wǒ shì qūqur 。|
-||I'm a cricket.|
-
-|人|我不知道蛐蛐还会说话。|
-||wǒ bù zhīdào qūqur hái huì shuōhuà 。|
-||I didn't know that crickets could speak too.|
-
-|蛐蛐|蛐蛐，我是蛐蛐。|
-||qūqur ， wǒ shì qūqur 。|
-||Cricket. I'm a cricket.|
-
-|人|哦。|
-||o 。|
-||Oh.|
-
-|蛐蛐|蛐蛐。|
-||qūqur 。|
-||Cricket.|
-
-|人|我知道了。|
-||wǒ zhīdào le 。|
-||I know.|
+|蛐蛐|蛐蛐。<br />qūqur 。<br />Cricket.|
+|人|哎，一个蛐蛐。<br />ai ， yī ge qūqur 。<br />Oh, it's a cricket.|
+|蛐蛐|我是蛐蛐。<br />wǒ shì qūqur 。<br />I'm a cricket.|
+|人|我不知道蛐蛐还会说话。<br />wǒ bù zhīdào qūqur hái huì shuōhuà 。<br />I didn't know that crickets could speak too.|
+|蛐蛐|蛐蛐，我是蛐蛐。<br />qūqur ， wǒ shì qūqur 。<br />Cricket. I'm a cricket.|
+|人|哦。<br />o 。<br />Oh.|
+|蛐蛐|蛐蛐。<br />qūqur 。<br />Cricket.|
+|人|我知道了。<br />wǒ zhīdào le 。<br />I know.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

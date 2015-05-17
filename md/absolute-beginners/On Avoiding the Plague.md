@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|要去吗？|
-||yào qù ma ？|
-||Want to go?|
-
-|乙|无所谓。|
-||wúsuǒwèi 。|
-||It doesn't matter.|
-
-|甲|不要去吗？|
-||bù yào qù ma ？|
-||Don't want to go?|
-
-|乙|我说了，无所谓。|
-||wǒ shuō le ， wúsuǒwèi 。|
-||I said, I don't care.|
+|甲|要去吗？<br />yào qù ma ？<br />Want to go?|
+|乙|无所谓。<br />wúsuǒwèi 。<br />It doesn't matter.|
+|甲|不要去吗？<br />bù yào qù ma ？<br />Don't want to go?|
+|乙|我说了，无所谓。<br />wǒ shuō le ， wúsuǒwèi 。<br />I said, I don't care.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

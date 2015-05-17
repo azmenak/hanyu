@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|小白|服务员！|
-||fúwùyuán ！|
-||Server!|
-
-|周|你好！|
-||nǐhǎo ！|
-||Hello!|
-
-|小白|有火儿吗？|
-||yǒu huǒr ma ？|
-||Got a light?|
-
-|周|这里不能吸烟。|
-||zhèlǐ bùnéng xīyān 。|
-||There's no smoking here.|
-
-|小白|我不吸烟，我玩儿火！|
-||wǒ bù xīyān ， wǒ wánr huǒ ！|
-||I'm not smoking. I want to play with fire.|
+|小白|服务员！<br />fúwùyuán ！<br />Server!|
+|周|你好！<br />nǐhǎo ！<br />Hello!|
+|小白|有火儿吗？<br />yǒu huǒr ma ？<br />Got a light?|
+|周|这里不能吸烟。<br />zhèlǐ bùnéng xīyān 。<br />There's no smoking here.|
+|小白|我不吸烟，我玩儿火！<br />wǒ bù xīyān ， wǒ wánr huǒ ！<br />I'm not smoking. I want to play with fire.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

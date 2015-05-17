@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|有蚊子！|
-||yǒu wénzi ！|
-||There's a mosquito!|
-
-|乙|嗯？嗷！|
-||en ？ ao ！|
-||Oh? Oww!|
-
-|甲|死了。|
-||sǐ le 。|
-||It's dead.|
-
-|乙|你打我？|
-||nǐ dǎ wǒ ？|
-||You hit me?|
-
-|甲|哎，等一下，没死呢。|
-||ai ， děng yīxià ， méi sǐ ne 。|
-||Hey, wait a sec, it isn't dead.|
-
-|乙|你脸上也有蚊子。|
-||nǐ liǎn shàng yě yǒu wénzi 。|
-||There's also one on your face.|
-
-|甲|喔！|
-||o ！|
-||Oh!|
-
-|乙|嗷！|
-||ao ！|
-||Oww!|
-
-|乙|是没死呢。|
-||shì méi sǐ ne 。|
-||It's not dead, right?|
+|甲|有蚊子！<br />yǒu wénzi ！<br />There's a mosquito!|
+|乙|嗯？嗷！<br />en ？ ao ！<br />Oh? Oww!|
+|甲|死了。<br />sǐ le 。<br />It's dead.|
+|乙|你打我？<br />nǐ dǎ wǒ ？<br />You hit me?|
+|甲|哎，等一下，没死呢。<br />ai ， děng yīxià ， méi sǐ ne 。<br />Hey, wait a sec, it isn't dead.|
+|乙|你脸上也有蚊子。<br />nǐ liǎn shàng yě yǒu wénzi 。<br />There's also one on your face.|
+|甲|喔！<br />o ！<br />Oh!|
+|乙|嗷！<br />ao ！<br />Oww!|
+|乙|是没死呢。<br />shì méi sǐ ne 。<br />It's not dead, right?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

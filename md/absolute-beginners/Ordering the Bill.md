@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|买单。|
-||mǎidān 。|
-||Bill please!|
-
-|甲|哎，买单！|
-||ai ， mǎidān ！|
-||Hey, can I get the bill!|
-
-|甲|服务员，买单！|
-||fúwùyuán ， mǎidān ！|
-||Waiter, the bill!|
-
-|乙|马上！|
-||mǎshàng ！|
-||Right away!|
+|甲|买单。<br />mǎidān 。<br />Bill please!|
+|甲|哎，买单！<br />ai ， mǎidān ！<br />Hey, can I get the bill!|
+|甲|服务员，买单！<br />fúwùyuán ， mǎidān ！<br />Waiter, the bill!|
+|乙|马上！<br />mǎshàng ！<br />Right away!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

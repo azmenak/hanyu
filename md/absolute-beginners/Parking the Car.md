@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|先生，请系好安全套。|
-||xiānsheng ， qǐng jìhǎo ānquántào 。|
-||Mister. Please put on your condom.|
-
-|乙|啊？你说什么？|
-||a ？ nǐ shuō shénme ？|
-||What? What did you say?|
-
-|甲|安全带，安全带。|
-||ānquándài ， ānquándài 。|
-||Seatbelt, seatbelt....|
+|甲|先生，请系好安全套。<br />xiānsheng ， qǐng jìhǎo ānquántào 。<br />Mister. Please put on your condom.|
+|乙|啊？你说什么？<br />a ？ nǐ shuō shénme ？<br />What? What did you say?|
+|甲|安全带，安全带。<br />ānquándài ， ānquándài 。<br />Seatbelt, seatbelt....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

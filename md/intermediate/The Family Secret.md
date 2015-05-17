@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|爸爸|亲爱的，我觉得是时候谈谈你的儿子了。|
-||qīn`ài de ， wǒ juéde shìshíhou tántan nǐ de érzi le 。|
-||Honey, I think it's about time we talked about your son.|
-
-|妈妈|噢，你还在为那个小事故生气吗？|
-||o ， nǐ hái zài wèi nà ge xiǎo shìgu shēngqì ma ？|
-||Oh, you're still angry about that little accident?|
-
-|爸爸|小事故？那可是五百伏电压！|
-||xiǎo shìgu ？ nà kě shì wǔ bǎi fú diànyā ！|
-||Little accident? That was 500 volts of electric current!|
-
-|妈妈|噢，怪不得我们家电费这么贵！|
-||o ， guàibudé wǒmen jiā diànfèi zhème guì ！|
-||Really? No wonder our electric bill is so high.|
-
-|爸爸|我的心跳都停了！|
-||wǒ de xīntiào dōu tíng le ！|
-||It stopped my heart!|
-
-|妈妈|啊，小孩子，真淘气！|
-||a ， xiǎo háizi ， zhēn táoqì ！|
-||Oh, boys will be boys!|
+|爸爸|亲爱的，我觉得是时候谈谈你的儿子了。<br />qīn`ài de ， wǒ juéde shìshíhou tántan nǐ de érzi le 。<br />Honey, I think it's about time we talked about your son.|
+|妈妈|噢，你还在为那个小事故生气吗？<br />o ， nǐ hái zài wèi nà ge xiǎo shìgu shēngqì ma ？<br />Oh, you're still angry about that little accident?|
+|爸爸|小事故？那可是五百伏电压！<br />xiǎo shìgu ？ nà kě shì wǔ bǎi fú diànyā ！<br />Little accident? That was 500 volts of electric current!|
+|妈妈|噢，怪不得我们家电费这么贵！<br />o ， guàibudé wǒmen jiā diànfèi zhème guì ！<br />Really? No wonder our electric bill is so high.|
+|爸爸|我的心跳都停了！<br />wǒ de xīntiào dōu tíng le ！<br />It stopped my heart!|
+|妈妈|啊，小孩子，真淘气！<br />a ， xiǎo háizi ， zhēn táoqì ！<br />Oh, boys will be boys!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

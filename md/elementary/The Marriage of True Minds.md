@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|听说李健要结婚了。|
-||tīngshuō Lǐ Jiàn yào jiéhūn le 。|
-||I've heard Li Jian is getting married.|
-
-|乙|结婚？和谁呀？|
-||jiéhūn ？ hé shéi ya ？|
-||Married? With whom?|
-
-|甲|和他前妻。|
-||hé tā qiánqī 。|
-||With his ex-wife.|
-
-|乙|他已经结过一次啦？我怎么什么都不知道啊。|
-||tā yǐjīng jiéguò yī cì la ？ wǒ zěnme shénme dōu bù zhīdào a 。|
-||He's already been married before? How do I not know anything about this?|
+|甲|听说李健要结婚了。<br />tīngshuō Lǐ Jiàn yào jiéhūn le 。<br />I've heard Li Jian is getting married.|
+|乙|结婚？和谁呀？<br />jiéhūn ？ hé shéi ya ？<br />Married? With whom?|
+|甲|和他前妻。<br />hé tā qiánqī 。<br />With his ex-wife.|
+|乙|他已经结过一次啦？我怎么什么都不知道啊。<br />tā yǐjīng jiéguò yī cì la ？ wǒ zěnme shénme dōu bù zhīdào a 。<br />He's already been married before? How do I not know anything about this?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

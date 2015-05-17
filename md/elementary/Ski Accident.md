@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|你被解雇了！|
-||nǐ bèi jiěgù le ！|
-||You're being let go.|
-
-|男|开玩笑！我是老板的儿子！|
-||kāiwánxiào ！ wǒ shì lǎobǎn de érzi ！|
-||You've got to be kidding. I'm the boss' son.|
-
-|女|什么？我是老板的女儿！|
-||shénma ？ wǒ shì lǎobǎn de nǚér ！|
-||What? I'm the boss' daughter!|
-
-|男|这么说......咱们俩是姐弟......|
-||zhème shuō ...... zánmen liǎ shì jiědì ......|
-||That means we're brother and sister.|
-
-|女|天哪！这是什么公司！|
-||tiānna ！ zhè shì shénme gōngsī ！|
-||Good gracious! What kind of company is this!|
+|女|你被解雇了！<br />nǐ bèi jiěgù le ！<br />You're being let go.|
+|男|开玩笑！我是老板的儿子！<br />kāiwánxiào ！ wǒ shì lǎobǎn de érzi ！<br />You've got to be kidding. I'm the boss' son.|
+|女|什么？我是老板的女儿！<br />shénma ？ wǒ shì lǎobǎn de nǚér ！<br />What? I'm the boss' daughter!|
+|男|这么说......咱们俩是姐弟......<br />zhème shuō ...... zánmen liǎ shì jiědì ......<br />That means we're brother and sister.|
+|女|天哪！这是什么公司！<br />tiānna ！ zhè shì shénme gōngsī ！<br />Good gracious! What kind of company is this!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

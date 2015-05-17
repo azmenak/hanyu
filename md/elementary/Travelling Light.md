@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|这个报告上写你朋友喝了太多的可口可乐。喝了多少可乐呀？|
-||zhège bàogào shàng xiě nǐ péngyou hēle tài duō de Kěkǒukělè 。 hēle duōshǎo kělè yā ？|
-||The report says your friend drank too much Coco-Cola. How much did he drink?|
-
-|乙|不知道。四、五升吧。|
-||bù zhīdào 。 sì 、 wǔ shēng ba 。|
-||I don't know. Four or five liters.|
-
-|甲|啊？才四升？|
-||ā ？ cái sì shēng ？|
-||What? Only four liters?|
-
-|乙|但是是在刚才的一个小时之内喝的。|
-||dànshì shìzài gāngcái de yīgexiǎoshí zhīnèi hē de 。|
-||But it was in the space of the last hour.|
-
-|甲|很正常啊。|
-||hěn zhèngcháng ā 。|
-||That's normal.|
-
-|乙|那午饭的时候好像还喝了两升。|
-||nà wǔfàn de shíhou hǎoxiàng hái hēle liǎng shēng 。|
-||And it seems he had another two liters with lunch.|
-
-|甲|挺爽的呀。|
-||tǐng shuǎng de yā 。|
-||Sounds refreshing.|
-
-|乙|不会太多吗？|
-||bùhuì tài duō ma ？|
-||Isn't that too much?|
-
-|甲|不会。不会。不会有事的。|
-||bùhuì 。 bùhuì 。 bùhuì yǒushì de 。|
-||No. No. That won't cause problems.|
+|甲|这个报告上写你朋友喝了太多的可口可乐。喝了多少可乐呀？<br />zhège bàogào shàng xiě nǐ péngyou hēle tài duō de Kěkǒukělè 。 hēle duōshǎo kělè yā ？<br />The report says your friend drank too much Coco-Cola. How much did he drink?|
+|乙|不知道。四、五升吧。<br />bù zhīdào 。 sì 、 wǔ shēng ba 。<br />I don't know. Four or five liters.|
+|甲|啊？才四升？<br />ā ？ cái sì shēng ？<br />What? Only four liters?|
+|乙|但是是在刚才的一个小时之内喝的。<br />dànshì shìzài gāngcái de yīgexiǎoshí zhīnèi hē de 。<br />But it was in the space of the last hour.|
+|甲|很正常啊。<br />hěn zhèngcháng ā 。<br />That's normal.|
+|乙|那午饭的时候好像还喝了两升。<br />nà wǔfàn de shíhou hǎoxiàng hái hēle liǎng shēng 。<br />And it seems he had another two liters with lunch.|
+|甲|挺爽的呀。<br />tǐng shuǎng de yā 。<br />Sounds refreshing.|
+|乙|不会太多吗？<br />bùhuì tài duō ma ？<br />Isn't that too much?|
+|甲|不会。不会。不会有事的。<br />bùhuì 。 bùhuì 。 bùhuì yǒushì de 。<br />No. No. That won't cause problems.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

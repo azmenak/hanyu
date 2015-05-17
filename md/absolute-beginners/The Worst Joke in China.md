@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哦，我好饿。|
-||ò ， wǒ hǎo è 。|
-||I'm really hungry.|
-
-|乙|那吃吧。|
-||nà chī ba 。|
-||Eat then.|
-
-|甲|吃什么？|
-||chī shénme ？|
-||Eat what?|
-
-|乙|笨蛋！吃饭！|
-||bèndàn ！ chīfàn ！|
-||Idiot! Eat food!|
+|甲|哦，我好饿。<br />ò ， wǒ hǎo è 。<br />I'm really hungry.|
+|乙|那吃吧。<br />nà chī ba 。<br />Eat then.|
+|甲|吃什么？<br />chī shénme ？<br />Eat what?|
+|乙|笨蛋！吃饭！<br />bèndàn ！ chīfàn ！<br />Idiot! Eat food!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

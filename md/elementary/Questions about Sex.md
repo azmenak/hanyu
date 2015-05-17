@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女的|你的狗真可爱。|
-||nǐ de gǒu zhēn kěài 。|
-||Your dog is really cute.|
-
-|男的|谢谢。|
-||xièxie 。|
-||Thanks.|
-
-|女的|公的母的?|
-||gōngde mǔde ?|
-||Is it male or female?|
-
-|男的|我怎么知道?|
-||wǒ zěnme zhīdào ?|
-||How should I know?|
-
-|女的|你怎么不知道?|
-||nǐ zěnme bù zhīdào ?|
-||How can you not know?|
-
-|男的|看不出来。|
-||kàn bù chūlái 。|
-||Can't tell the difference.|
+|女的|你的狗真可爱。<br />nǐ de gǒu zhēn kěài 。<br />Your dog is really cute.|
+|男的|谢谢。<br />xièxie 。<br />Thanks.|
+|女的|公的母的?<br />gōngde mǔde ?<br />Is it male or female?|
+|男的|我怎么知道?<br />wǒ zěnme zhīdào ?<br />How should I know?|
+|女的|你怎么不知道?<br />nǐ zěnme bù zhīdào ?<br />How can you not know?|
+|男的|看不出来。<br />kàn bù chūlái 。<br />Can't tell the difference.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

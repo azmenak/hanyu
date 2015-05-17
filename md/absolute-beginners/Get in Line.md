@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，借过一下。|
-||ai ， jièguò yīxià 。|
-||Hey, let me through.|
-
-|乙|不借！|
-||bù jiè ！|
-||No way!|
-
-|甲|嗯？|
-||en ？|
-||Huh?|
-
-|乙|排队去！|
-||páiduì qù ！|
-||Go get in line!|
+|甲|哎，借过一下。<br />ai ， jièguò yīxià 。<br />Hey, let me through.|
+|乙|不借！<br />bù jiè ！<br />No way!|
+|甲|嗯？<br />en ？<br />Huh?|
+|乙|排队去！<br />páiduì qù ！<br />Go get in line!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

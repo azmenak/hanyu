@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我觉得我吃不了僵尸的肉。|
-||wǒ juéde wǒ chībùliǎo jiāngshī de ròu 。|
-||I don't think I can eat zombie meat.|
-
-|乙|那你原来喝羊杂汤怎么没事呢？|
-||nà nǐ yuánlái hē yángzátāng zěnme méishì ne ？|
-||So how come you didn't have a problem with sheep offal soup?|
-
-|丙|羊杂汤太恶心了。|
-||yángzátāng tài ěxīn le 。|
-||Sheep offal soup is really gross.|
-
-|甲|他们原来可都是人呢...  这不是楼上的张大爷吗？|
-||tāmen yuánlái kě dōu shì rén ne ...  zhè bù shì lóushàng de Zhāng dàye ma ？|
-||But they used to be people... I mean, isn't this Papa Zhang from upstairs?|
-
-|乙|他原来是张大爷，现在是张僵尸。而且现在是世界末日，你觉得我们还有的选吗？|
-||tā yuánlái shì Zhāng dàye ， xiànzài shì Zhāng jiāngshī 。 érqiě xiànzài shì shìjièmòrì ， nǐ juéde wǒmen hái yǒude xuǎn ma ？|
-||It used to be Papa Zhang, but now it's Zombie Zhang. And it's the end of the world, what kind of choice do you think we have?|
-
-|丙|要是有的选我还选僵尸，反正我不会再喝羊杂汤了。|
-||yàoshi yǒude xuǎn wǒ hái xuǎn jiāngshī ， fǎnzhèng wǒ bùhuì zài hē yángzátāng le 。|
-||If we had a choice I'd still go for the zombie. I won't be eating any more sheep offal soup, anyway.|
+|甲|我觉得我吃不了僵尸的肉。<br />wǒ juéde wǒ chībùliǎo jiāngshī de ròu 。<br />I don't think I can eat zombie meat.|
+|乙|那你原来喝羊杂汤怎么没事呢？<br />nà nǐ yuánlái hē yángzátāng zěnme méishì ne ？<br />So how come you didn't have a problem with sheep offal soup?|
+|丙|羊杂汤太恶心了。<br />yángzátāng tài ěxīn le 。<br />Sheep offal soup is really gross.|
+|甲|他们原来可都是人呢...  这不是楼上的张大爷吗？<br />tāmen yuánlái kě dōu shì rén ne ...  zhè bù shì lóushàng de Zhāng dàye ma ？<br />But they used to be people... I mean, isn't this Papa Zhang from upstairs?|
+|乙|他原来是张大爷，现在是张僵尸。而且现在是世界末日，你觉得我们还有的选吗？<br />tā yuánlái shì Zhāng dàye ， xiànzài shì Zhāng jiāngshī 。 érqiě xiànzài shì shìjièmòrì ， nǐ juéde wǒmen hái yǒude xuǎn ma ？<br />It used to be Papa Zhang, but now it's Zombie Zhang. And it's the end of the world, what kind of choice do you think we have?|
+|丙|要是有的选我还选僵尸，反正我不会再喝羊杂汤了。<br />yàoshi yǒude xuǎn wǒ hái xuǎn jiāngshī ， fǎnzhèng wǒ bùhuì zài hē yángzátāng le 。<br />If we had a choice I'd still go for the zombie. I won't be eating any more sheep offal soup, anyway.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

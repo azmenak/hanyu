@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我生气了。|
-||wǒ shēngqì le 。|
-||I'm angry.|
-
-|乙|你生什么气呀？|
-||nǐ shēng shénme qì ya ？|
-||What are you angry about?|
-
-|甲|我生你的气。|
-||wǒ shēng nǐ de qì 。|
-||I'm angry at you.|
-
-|乙|哦，这样啊。|
-||o ， zhè yàng ā 。|
-||Oh, it's like that.|
+|甲|我生气了。<br />wǒ shēngqì le 。<br />I'm angry.|
+|乙|你生什么气呀？<br />nǐ shēng shénme qì ya ？<br />What are you angry about?|
+|甲|我生你的气。<br />wǒ shēng nǐ de qì 。<br />I'm angry at you.|
+|乙|哦，这样啊。<br />o ， zhè yàng ā 。<br />Oh, it's like that.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -21,66 +21,21 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|早上好，麦克。|
-||zǎoshang hǎo ， Màikè 。|
-||Morning, Michael.|
-
-|乙|早上好，约翰。|
-||zǎoshang hǎo ， Yuēhàn 。|
-||Morning, John.|
-
-|甲|Hamish，早上好。|
-||Hamish ， zǎoshang hǎo 。|
-||Good morning, Hamish.|
-
-|乙|我说，约翰，你看起来脸色不太好。|
-||wǒ shuō ， Yuēhàn ， nǐ kàn qǐlai liǎnsè bùtài hǎo 。|
-||I say John, you look at little off today.|
-
-|甲|噢，我做了一个非常奇怪的梦....|
-||o ， wǒ zuò le yī ge fēicháng qíguài de mèng . . . .|
-||Oh, I had an extremely strange dream....|
-
-|乙|嗯？|
-||en ？|
-||Hmmm?|
-
-|甲|我梦见我醒过来，发现Hamish正在喝威廉太太的血！|
-||wǒ mèngjian wǒ xǐng guòlai ， fāxiàn Hamish zhèngzài hē Wēilián tàitai de xiě ！|
-||I dream that I woke, and discovered Hamish drinking Mrs. William's blood.|
-
-|甲|噢，我知道，很荒唐。|
-||o ， wǒ zhīdao ， hěn huāngtang 。|
-||Oh, it's absurd, I know.|
-
-|乙|就是，我是说，就算我是个吸血鬼，我也不会碰我们的房东。|
-||jiùshi ， wǒ shì shuō ， jiùsuàn wǒ shì ge xīxuèguǐ ， wǒ yě bùhuì pèng wǒmen de fángdōng 。|
-||That's right, I say, even if I were a vampire, I'd never touch our landlord.|
-
-|甲|我猜，我是被那些传言给影响了。|
-||wǒ cāi ， wǒ shì bèi nàxiē chuányán gěi yǐngxiǎng le 。|
-||I suppose I've been affected by all those rumors.|
-
-|乙|你呀，就是报纸看得太多了。|
-||nǐ ya ， jiùshi bàozhǐ kàn de tài duō le 。|
-||You... uh... you've just been reading the papers too much.|
-
-|甲|不不不，伦敦已经不安全了，太多离奇恐怖的谋杀案。|
-||bù bù bù ， Lúndūn yǐjīng bù ānquán le ， tài duō líqí kǒngbù de móushāàn 。|
-||No, London isn't safe any more. There are too many strange and terrible murders.|
-
-|乙|咳，一直就是这样的。|
-||hai ， yīzhí jiùshi zhèyàng de 。|
-||It's always been this way.|
-
-|甲|可能你是对的。|
-||kěnéng nǐ shì duì de 。|
-||Maybe you're right.|
-
-|乙|来，来点儿橙汁儿。|
-||lái ， lái diǎnr chéngzhīr 。|
-||Here, have some orange juice.|
+|甲|早上好，麦克。<br />zǎoshang hǎo ， Màikè 。<br />Morning, Michael.|
+|乙|早上好，约翰。<br />zǎoshang hǎo ， Yuēhàn 。<br />Morning, John.|
+|甲|Hamish，早上好。<br />Hamish ， zǎoshang hǎo 。<br />Good morning, Hamish.|
+|乙|我说，约翰，你看起来脸色不太好。<br />wǒ shuō ， Yuēhàn ， nǐ kàn qǐlai liǎnsè bùtài hǎo 。<br />I say John, you look at little off today.|
+|甲|噢，我做了一个非常奇怪的梦....<br />o ， wǒ zuò le yī ge fēicháng qíguài de mèng . . . .<br />Oh, I had an extremely strange dream....|
+|乙|嗯？<br />en ？<br />Hmmm?|
+|甲|我梦见我醒过来，发现Hamish正在喝威廉太太的血！<br />wǒ mèngjian wǒ xǐng guòlai ， fāxiàn Hamish zhèngzài hē Wēilián tàitai de xiě ！<br />I dream that I woke, and discovered Hamish drinking Mrs. William's blood.|
+|甲|噢，我知道，很荒唐。<br />o ， wǒ zhīdao ， hěn huāngtang 。<br />Oh, it's absurd, I know.|
+|乙|就是，我是说，就算我是个吸血鬼，我也不会碰我们的房东。<br />jiùshi ， wǒ shì shuō ， jiùsuàn wǒ shì ge xīxuèguǐ ， wǒ yě bùhuì pèng wǒmen de fángdōng 。<br />That's right, I say, even if I were a vampire, I'd never touch our landlord.|
+|甲|我猜，我是被那些传言给影响了。<br />wǒ cāi ， wǒ shì bèi nàxiē chuányán gěi yǐngxiǎng le 。<br />I suppose I've been affected by all those rumors.|
+|乙|你呀，就是报纸看得太多了。<br />nǐ ya ， jiùshi bàozhǐ kàn de tài duō le 。<br />You... uh... you've just been reading the papers too much.|
+|甲|不不不，伦敦已经不安全了，太多离奇恐怖的谋杀案。<br />bù bù bù ， Lúndūn yǐjīng bù ānquán le ， tài duō líqí kǒngbù de móushāàn 。<br />No, London isn't safe any more. There are too many strange and terrible murders.|
+|乙|咳，一直就是这样的。<br />hai ， yīzhí jiùshi zhèyàng de 。<br />It's always been this way.|
+|甲|可能你是对的。<br />kěnéng nǐ shì duì de 。<br />Maybe you're right.|
+|乙|来，来点儿橙汁儿。<br />lái ， lái diǎnr chéngzhīr 。<br />Here, have some orange juice.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

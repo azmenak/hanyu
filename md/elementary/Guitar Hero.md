@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|护士|脱裤子。|
-||tuō kùzi 。|
-||Take off your pants.|
-
-|病人|啊？|
-||ā ？|
-||Huh?|
-
-|护士|脱裤子!|
-||tuō kùzi !|
-||Take off your pants!|
-
-|护士|脱裤子！|
-||tuō kùzi ！|
-||Take off your pants！|
-
-|病人|干什么呀？|
-||gàn shénme yā ？|
-||What are you doing?|
-
-|护士|你脱不脱？不脱裤子怎么打针!|
-||nǐ tuō bù tuō ？ bù tuō kùzi zěnme dǎzhēn !|
-||If you don't take off your pants, how can I give you a shot?|
+|护士|脱裤子。<br />tuō kùzi 。<br />Take off your pants.|
+|病人|啊？<br />ā ？<br />Huh?|
+|护士|脱裤子!<br />tuō kùzi !<br />Take off your pants!|
+|护士|脱裤子！<br />tuō kùzi ！<br />Take off your pants！|
+|病人|干什么呀？<br />gàn shénme yā ？<br />What are you doing?|
+|护士|你脱不脱？不脱裤子怎么打针!<br />nǐ tuō bù tuō ？ bù tuō kùzi zěnme dǎzhēn !<br />If you don't take off your pants, how can I give you a shot?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

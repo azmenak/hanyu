@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|咳，我听说他....|
-||hai ， wǒ tīngshuō tā . . . .|
-||Hey, I heard he....|
-
-|乙|嘿，怎么样？|
-||hei ， zěnmeyàng ？|
-||Hey, what's up?|
-
-|甲|呃....|
-||e . . . .|
-||Uhhh....|
-
-|乙|你们在说什么？|
-||nǐmen zài shuō shénme ？|
-||What are you guys saying?|
-
-|甲|没说什么，没说什么。|
-||méi shuō shénme ， méi shuō shénme 。|
-||Nothing, nothing at all.|
+|甲|咳，我听说他....<br />hai ， wǒ tīngshuō tā . . . .<br />Hey, I heard he....|
+|乙|嘿，怎么样？<br />hei ， zěnmeyàng ？<br />Hey, what's up?|
+|甲|呃....<br />e . . . .<br />Uhhh....|
+|乙|你们在说什么？<br />nǐmen zài shuō shénme ？<br />What are you guys saying?|
+|甲|没说什么，没说什么。<br />méi shuō shénme ， méi shuō shénme 。<br />Nothing, nothing at all.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

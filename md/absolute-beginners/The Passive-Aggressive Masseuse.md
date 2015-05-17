@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|一|你觉得_____怎么样？|
-||nǐ juéde _____ zěnmeyàng ？|
-||How you you feel about _____?|
-
-|二|我觉得______不错。|
-||wǒ juéde ______ bùcuò 。|
-||I think _____ isn't bad.|
-
-|一|我同意。|
-||wǒ tóngyì 。|
-||I agree.|
-
-|二|好，明天见！|
-||hǎo ， míng tiān jiàn ！|
-||Ok, see you tomorrow!|
+|一|你觉得_____怎么样？<br />nǐ juéde _____ zěnmeyàng ？<br />How you you feel about _____?|
+|二|我觉得______不错。<br />wǒ juéde ______ bùcuò 。<br />I think _____ isn't bad.|
+|一|我同意。<br />wǒ tóngyì 。<br />I agree.|
+|二|好，明天见！<br />hǎo ， míng tiān jiàn ！<br />Ok, see you tomorrow!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|嫁给我吧。|
-||jià gěi wǒ ba 。|
-||Marry me.|
-
-|乙|不要。|
-||bù yào 。|
-||No.|
-
-|甲|求求你了。|
-||qiú qiú nǐ le 。|
-||I beg you.|
-
-|乙|好吧。|
-||hǎo ba 。|
-||Ok.|
+|甲|嫁给我吧。<br />jià gěi wǒ ba 。<br />Marry me.|
+|乙|不要。<br />bù yào 。<br />No.|
+|甲|求求你了。<br />qiú qiú nǐ le 。<br />I beg you.|
+|乙|好吧。<br />hǎo ba 。<br />Ok.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

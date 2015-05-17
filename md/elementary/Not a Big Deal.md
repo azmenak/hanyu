@@ -20,62 +20,20 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||［美国公司］|
-||［ Měiguó  gōngsī ］|
-||American company|
-
-|甲|你不说要给我发邮件吗？|
-||nǐ bù shuō yào gěi wǒ fā yóujiàn ma ？|
-||Didn't you say you were going to send me an email?|
-
-|乙|就是那个金融报告？|
-||jiùshì nà 个jīnróng bàogào ？|
-||You mean the finance report?|
-
-|甲|你明知故问，我等了你一下午了，你看这还没有呢，我一直在刷新。|
-||nǐ míngzhīgùwèn ， wǒ děng le nǐ yīxiàwǔ le ， nǐ kàn zhè hái méiyǒu ne ， wǒ yīzhí zài shuāxīn 。|
-||You already know the answer to that question. I've been waiting for you this whole afternoon.|
-
-|乙|明天吧。|
-||míngtiān ba 。|
-||Maybe tomorrow.|
-
-|甲|什么？明天？你这叫工作啊？|
-||shénme ？ míngtiān ？ nǐ zhè jiào gōngzuò ā ？|
-||What? Tomorrow? You call this working?|
-
-|乙|我现在没时间，等我有时间再发给你啊。|
-||wǒ xiànzài méi shíjiān ， děng wǒ yǒu  shíjiān zài fā gěi nǐ ā 。|
-||I don't have time right now, I will send it to you when I've got time.|
-
-|甲|你玩去吧你，我也歇一会儿。|
-||nǐ wánqùba nǐ ， wǒ yě xiēyīhuìr 。|
-||Get stuffed, I'm going to take a break, too.|
-
-||[德国公司]|
-||[ Déguógōngsī ]|
-||German company|
-
-|甲|你好，很感谢给我发这个邮件。|
-||nǐ hǎo ， hěn gǎnxiè gěi wǒ fā zhè ge yóujiàn 。|
-||Hello, thank you very much for sending over this e-mail.|
-
-|乙|是的，我是八点四十一分二十三秒发过去的。|
-||shì de ， wǒ shì bā dián sìshíyī fēn èrshísǎn miǎo fāguòqu de 。|
-||Yup, I sent it over at 8:41:23.|
-
-|甲|对，我是在八点四十二分三十四秒收到的。|
-||duì ， wǒ shì zài bā dián sìshí fēn sānshísì miǎo shōudào de 。|
-||Yes, I received it at 8:42:34.|
-
-|乙|八点四十二？|
-||bā dián sìshíèr ？|
-||8:42?|
-
-|甲|没错，今天网络有点慢。|
-||méicuò ， jīntiān wǎngluò yǒu diǎn màn 。|
-||Correct, the Internet is a bit slow today.|
+||［美国公司］<br />［ Měiguó  gōngsī ］<br />American company|
+|甲|你不说要给我发邮件吗？<br />nǐ bù shuō yào gěi wǒ fā yóujiàn ma ？<br />Didn't you say you were going to send me an email?|
+|乙|就是那个金融报告？<br />jiùshì nà 个jīnróng bàogào ？<br />You mean the finance report?|
+|甲|你明知故问，我等了你一下午了，你看这还没有呢，我一直在刷新。<br />nǐ míngzhīgùwèn ， wǒ děng le nǐ yīxiàwǔ le ， nǐ kàn zhè hái méiyǒu ne ， wǒ yīzhí zài shuāxīn 。<br />You already know the answer to that question. I've been waiting for you this whole afternoon.|
+|乙|明天吧。<br />míngtiān ba 。<br />Maybe tomorrow.|
+|甲|什么？明天？你这叫工作啊？<br />shénme ？ míngtiān ？ nǐ zhè jiào gōngzuò ā ？<br />What? Tomorrow? You call this working?|
+|乙|我现在没时间，等我有时间再发给你啊。<br />wǒ xiànzài méi shíjiān ， děng wǒ yǒu  shíjiān zài fā gěi nǐ ā 。<br />I don't have time right now, I will send it to you when I've got time.|
+|甲|你玩去吧你，我也歇一会儿。<br />nǐ wánqùba nǐ ， wǒ yě xiēyīhuìr 。<br />Get stuffed, I'm going to take a break, too.|
+||[德国公司]<br />[ Déguógōngsī ]<br />German company|
+|甲|你好，很感谢给我发这个邮件。<br />nǐ hǎo ， hěn gǎnxiè gěi wǒ fā zhè ge yóujiàn 。<br />Hello, thank you very much for sending over this e-mail.|
+|乙|是的，我是八点四十一分二十三秒发过去的。<br />shì de ， wǒ shì bā dián sìshíyī fēn èrshísǎn miǎo fāguòqu de 。<br />Yup, I sent it over at 8:41:23.|
+|甲|对，我是在八点四十二分三十四秒收到的。<br />duì ， wǒ shì zài bā dián sìshí fēn sānshísì miǎo shōudào de 。<br />Yes, I received it at 8:42:34.|
+|乙|八点四十二？<br />bā dián sìshíèr ？<br />8:42?|
+|甲|没错，今天网络有点慢。<br />méicuò ， jīntiān wǎngluò yǒu diǎn màn 。<br />Correct, the Internet is a bit slow today.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

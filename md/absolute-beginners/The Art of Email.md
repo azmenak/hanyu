@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||[第一部]|
-||[ dì  yī bù ]|
-||[Part One]|
-
-|甲|你的邮箱地址是多少？|
-||nǐ de yóuxiāng dìzhǐ shì duōshǎo ？|
-||What is your email address?|
-
-|乙|zyxf419fczy@163.com|
-||zyxf sì yāo jiǔ fczy@ yāo liù sān . com|
-||zyxf419fczy@163.com|
-
-||[第二部]|
-||[ dì  èr bù ]|
-||[Part Two]|
-
-|甲|我今天给你发的邮件你收到了吗？|
-||wǒ jīntiān gěi nǐ fā de yóujiàn nǐ shōudào le ma ？|
-||Have you received the email I sent you today?|
-
-|乙|没有啊。你不会记错地址了吧？|
-||méiyǒu a 。 nǐ bù huì jìcuò dìzhǐ le ba ？|
-||Nope. You didn't get the address wrong, did you?|
-
-|甲|你的地址不是 zyyzxu51997zczhang97@126.com 吗？|
-||nǐ de dìzhǐ bù shì  zyyzxū997zczhang97@126.com ma ？|
-||Isn't your address zyyzxu51997zczhang97@126.com?|
-
-|乙|你真的记错了呀。是 zyyzxu51999zczhang97@126.com。是 1999，不是1997。|
-||nǐ zhēnde jìcuò le ya 。 shì zyyzxū999zczhang97@126.com 。 shì yī jiǔ jiǔ jiǔ ， bù shì yī jiǔ jiǔ qī 。|
-||You really did get it wrong. It's zyyzxu51999zczhang97@126.com. It's 1999 not 1997.|
-
-|甲|哦，那我再给你发一遍。|
-||o ， nà wǒ zài gěi nǐ fā yībiàn 。|
-||Oh, I'll send it again then.|
+||[第一部]<br />[ dì  yī bù ]<br />[Part One]|
+|甲|你的邮箱地址是多少？<br />nǐ de yóuxiāng dìzhǐ shì duōshǎo ？<br />What is your email address?|
+|乙|zyxf419fczy@163.com<br />zyxf sì yāo jiǔ fczy@ yāo liù sān . com<br />zyxf419fczy@163.com|
+||[第二部]<br />[ dì  èr bù ]<br />[Part Two]|
+|甲|我今天给你发的邮件你收到了吗？<br />wǒ jīntiān gěi nǐ fā de yóujiàn nǐ shōudào le ma ？<br />Have you received the email I sent you today?|
+|乙|没有啊。你不会记错地址了吧？<br />méiyǒu a 。 nǐ bù huì jìcuò dìzhǐ le ba ？<br />Nope. You didn't get the address wrong, did you?|
+|甲|你的地址不是 zyyzxu51997zczhang97@126.com 吗？<br />nǐ de dìzhǐ bù shì  zyyzxū997zczhang97@126.com ma ？<br />Isn't your address zyyzxu51997zczhang97@126.com?|
+|乙|你真的记错了呀。是 zyyzxu51999zczhang97@126.com。是 1999，不是1997。<br />nǐ zhēnde jìcuò le ya 。 shì zyyzxū999zczhang97@126.com 。 shì yī jiǔ jiǔ jiǔ ， bù shì yī jiǔ jiǔ qī 。<br />You really did get it wrong. It's zyyzxu51999zczhang97@126.com. It's 1999 not 1997.|
+|甲|哦，那我再给你发一遍。<br />o ， nà wǒ zài gěi nǐ fā yībiàn 。<br />Oh, I'll send it again then.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

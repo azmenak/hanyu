@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我给你买了一条围巾。|
-||wǒ gěi nǐ mǎi le yī tiáo wéijīn 。|
-||I bought you a scarf.|
-
-|乙|真好看。|
-||zhēn hǎokàn 。|
-||It's really beautiful.|
-
-|甲|是猫毛做的。你不是很喜欢猫吗？|
-||shì māomáo zuò de 。 nǐ bù shì hěn xǐhuān māo ma ？|
-||It's made of cat hair. Don't you just love cats?|
-
-|乙|我对猫过敏....|
-||wǒ duì māo guòmǐn . . . .|
-||I'm allergic to cats....|
+|甲|我给你买了一条围巾。<br />wǒ gěi nǐ mǎi le yī tiáo wéijīn 。<br />I bought you a scarf.|
+|乙|真好看。<br />zhēn hǎokàn 。<br />It's really beautiful.|
+|甲|是猫毛做的。你不是很喜欢猫吗？<br />shì māomáo zuò de 。 nǐ bù shì hěn xǐhuān māo ma ？<br />It's made of cat hair. Don't you just love cats?|
+|乙|我对猫过敏....<br />wǒ duì māo guòmǐn . . . .<br />I'm allergic to cats....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

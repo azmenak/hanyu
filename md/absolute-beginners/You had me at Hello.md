@@ -10,22 +10,10 @@ A：再见！
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|B|你好。|
-||nǐhǎo 。|
-||Hello.|
-
-|A|你好吗？|
-||nǐhǎo ma ？|
-||How are you?|
-
-|B|我很好，谢谢。|
-||wǒ hěn hǎo ， xièxie 。|
-||I'm fine, thank you.|
-
-|A|再见！|
-||zàijiàn ！|
-||Goodbye!|
+|B|你好。<br />nǐhǎo 。<br />Hello.|
+|A|你好吗？<br />nǐhǎo ma ？<br />How are you?|
+|B|我很好，谢谢。<br />wǒ hěn hǎo ， xièxie 。<br />I'm fine, thank you.|
+|A|再见！<br />zàijiàn ！<br />Goodbye!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

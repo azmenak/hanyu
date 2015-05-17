@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男的|美女，你好。|
-||měinǚ ， nǐhǎo 。|
-||Hello beautiful.|
-
-|女的|什么?|
-||shénme ?|
-||What?|
-
-|男的|美女，你好!|
-||měinǚ ， nǐhǎo !|
-||Hey beautiful!|
-
-|女的|听不见。|
-||tīngbùjiàn 。|
-||I can't hear you.|
-
-|男的|留个电话吧。|
-||liú ge diànhuà ba 。|
-||Give me your number.|
+|男的|美女，你好。<br />měinǚ ， nǐhǎo 。<br />Hello beautiful.|
+|女的|什么?<br />shénme ?<br />What?|
+|男的|美女，你好!<br />měinǚ ， nǐhǎo !<br />Hey beautiful!|
+|女的|听不见。<br />tīngbùjiàn 。<br />I can't hear you.|
+|男的|留个电话吧。<br />liú ge diànhuà ba 。<br />Give me your number.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

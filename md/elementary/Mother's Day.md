@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎，哥们儿，把空调打开。快！我朋友快热死了。|
-||āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。|
-||Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.|
-
-|乙|已经打开了。|
-||yǐjīng dǎkāi le 。|
-||It's already on.|
-
-|甲|那把温度再调低点儿。|
-||nà bǎ wēndù zài tiáo dī diǎnr 。|
-||Then turn the temperature down a bit more.|
-
-|乙|已经是最低了。|
-||yǐjīng shì zuì dī le 。|
-||It's already as low as it goes.|
-
-|甲|哎，已经热死了。|
-||āi ， yǐjīng rè sǐ le 。|
-||Oh, he's already died.|
-
-|乙|啊？|
-||á ？|
-||Huh?|
+|甲|哎，哥们儿，把空调打开。快！我朋友快热死了。<br />āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。<br />Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.|
+|乙|已经打开了。<br />yǐjīng dǎkāi le 。<br />It's already on.|
+|甲|那把温度再调低点儿。<br />nà bǎ wēndù zài tiáo dī diǎnr 。<br />Then turn the temperature down a bit more.|
+|乙|已经是最低了。<br />yǐjīng shì zuì dī le 。<br />It's already as low as it goes.|
+|甲|哎，已经热死了。<br />āi ， yǐjīng rè sǐ le 。<br />Oh, he's already died.|
+|乙|啊？<br />á ？<br />Huh?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

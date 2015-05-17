@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|马瑞|噢，地震了！|
-||o ， dìzhèn le ！|
-||Oh, earthquake!|
-
-|田森|嗯，感觉还不错，这玩意儿。|
-||en ， gǎnjué hái bùcuò ， zhè wányìr 。|
-||Oh, it feels pretty good, this thing.|
-
-|马瑞|是啊，晃晃悠悠，还有点儿意思。|
-||shì a ， huànghuàngyōuyōu ， hái yǒu diǎnr yìsi 。|
-||Yeah. Swaying back and forth. This is a bit interesting.|
-
-|田森|我觉得这感觉好像在坐海盗船一样。|
-||wǒ juéde zhè gǎnjué hǎoxiàng zài zuò hǎidàochuán yīyàng 。|
-||I think it feels a lot like being in a Pirate Ship.|
-
-|马瑞|这，倒不错。|
-||zhè ， dào bùcuò 。|
-||This is pretty good.|
-
-|田森|嗯，是啊，天天都地震就好了。|
-||en ， shì a ， tiāntiān dōu dìzhèn jiù hǎo le 。|
-||Yeah. It would be nice to have one every day.|
+|马瑞|噢，地震了！<br />o ， dìzhèn le ！<br />Oh, earthquake!|
+|田森|嗯，感觉还不错，这玩意儿。<br />en ， gǎnjué hái bùcuò ， zhè wányìr 。<br />Oh, it feels pretty good, this thing.|
+|马瑞|是啊，晃晃悠悠，还有点儿意思。<br />shì a ， huànghuàngyōuyōu ， hái yǒu diǎnr yìsi 。<br />Yeah. Swaying back and forth. This is a bit interesting.|
+|田森|我觉得这感觉好像在坐海盗船一样。<br />wǒ juéde zhè gǎnjué hǎoxiàng zài zuò hǎidàochuán yīyàng 。<br />I think it feels a lot like being in a Pirate Ship.|
+|马瑞|这，倒不错。<br />zhè ， dào bùcuò 。<br />This is pretty good.|
+|田森|嗯，是啊，天天都地震就好了。<br />en ， shì a ， tiāntiān dōu dìzhèn jiù hǎo le 。<br />Yeah. It would be nice to have one every day.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

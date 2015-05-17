@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|王大明先生？|
-||Wáng Dàmíng Xiānsheng ？|
-||Mr. Wang Daming?|
-
-|乙|这儿没什么....|
-||zhèr méi shénme . . . .|
-||There's no....|
-
-|甲|您想把沙发放哪儿？|
-||nín xiǎng bǎ shāfā fàng nǎr ？|
-||Where do you want the sofa put?|
-
-|乙|沙发？噢... 那个... 王大明！是我，是我....|
-||shāfā ？ O . . .  nàge . . .  Wáng Dàmíng ！ shì wǒ ， shì wǒ . . . .|
-||Sofa? Oh... hmm... Wang Daming. It's me, yes, me....|
-
-|丙|迈克，你在跟谁说话？|
-||Màikè ， nǐ zài gēn shéi shuōhuà ？|
-||Mike, who are you talking to?|
-
-|乙|没谁！那个... 放客厅，对，放客厅。|
-||méi shéi ！ nàge . . .  fàng kètīng ， duì ， fàng kètīng 。|
-||It's no-one. Umm... put it in the living room. Yeah, the living room.|
+|甲|王大明先生？<br />Wáng Dàmíng Xiānsheng ？<br />Mr. Wang Daming?|
+|乙|这儿没什么....<br />zhèr méi shénme . . . .<br />There's no....|
+|甲|您想把沙发放哪儿？<br />nín xiǎng bǎ shāfā fàng nǎr ？<br />Where do you want the sofa put?|
+|乙|沙发？噢... 那个... 王大明！是我，是我....<br />shāfā ？ O . . .  nàge . . .  Wáng Dàmíng ！ shì wǒ ， shì wǒ . . . .<br />Sofa? Oh... hmm... Wang Daming. It's me, yes, me....|
+|丙|迈克，你在跟谁说话？<br />Màikè ， nǐ zài gēn shéi shuōhuà ？<br />Mike, who are you talking to?|
+|乙|没谁！那个... 放客厅，对，放客厅。<br />méi shéi ！ nàge . . .  fàng kètīng ， duì ， fàng kètīng 。<br />It's no-one. Umm... put it in the living room. Yeah, the living room.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|今天晚上有事吗?|
-||jīntiān wǎnshang yǒushì ma ?|
-||Got anything tonight?|
-
-|乙|没事。|
-||méishì 。|
-||Nope.|
-
-|甲|那我们一起去看电影吧?|
-||nà wǒmen yīqǐ qù kān diànyǐng ba ?|
-||Let's go watch a movie then, ok?|
-
-|乙|好呀。|
-||hǎo ya 。|
-||Ok.|
+|甲|今天晚上有事吗?<br />jīntiān wǎnshang yǒushì ma ?<br />Got anything tonight?|
+|乙|没事。<br />méishì 。<br />Nope.|
+|甲|那我们一起去看电影吧?<br />nà wǒmen yīqǐ qù kān diànyǐng ba ?<br />Let's go watch a movie then, ok?|
+|乙|好呀。<br />hǎo ya 。<br />Ok.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

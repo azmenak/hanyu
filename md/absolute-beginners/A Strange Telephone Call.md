@@ -13,34 +13,13 @@ Echo：谢谢！
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|Echo，祝你生日快乐！|
-||Echo ， zhù nǐ shēngrì kuàilè ！|
-||Happy Birthday, Echo!|
-
-|Echo|谢谢！|
-||xièxie ！|
-||Thanks!|
-
-|乙|Echo，生日快乐！|
-||Echo ， shēngrì kuàilè ！|
-||Happy Birthday, Echo!|
-
-|Echo|谢谢！|
-||xièxie ！|
-||Thanks!|
-
-|丙|我的呢？|
-||wǒ de ne ？|
-|||
-
-|甲|呃......，你也生日快乐。|
-||e ...... ， nǐ yě shēngrì kuàilè 。|
-||Hmm.... happy birthday to you too.|
-
-|乙|嗯，快乐。|
-||ng ， kuàilè 。|
-||Yeah, happy birthday.|
+|甲|Echo，祝你生日快乐！<br />Echo ， zhù nǐ shēngrì kuàilè ！<br />Happy Birthday, Echo!|
+|Echo|谢谢！<br />xièxie ！<br />Thanks!|
+|乙|Echo，生日快乐！<br />Echo ， shēngrì kuàilè ！<br />Happy Birthday, Echo!|
+|Echo|谢谢！<br />xièxie ！<br />Thanks!|
+|丙|我的呢？<br />wǒ de ne ？<br />|
+|甲|呃......，你也生日快乐。<br />e ...... ， nǐ yě shēngrì kuàilè 。<br />Hmm.... happy birthday to you too.|
+|乙|嗯，快乐。<br />ng ， kuàilè 。<br />Yeah, happy birthday.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

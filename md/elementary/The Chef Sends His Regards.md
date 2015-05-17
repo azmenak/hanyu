@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男的|手机没电了，怎么办？|
-||shǒujī méi diàn le ， zěnme bàn ？|
-||The phone is out of power, what can we do?|
-
-|女的|买新的！|
-||mǎi xīn de ！|
-||Buy a new one!|
-
-|男的|买新的手机？你疯了吗？|
-||mǎi xīn de shǒujī ？ nǐ fēng le ma ？|
-||Buy a new cellphone? Are you crazy?|
-
-|女的|电池！电池！|
-||diànchí ！ diànchí ！|
-||Battery, battery!|
+|男的|手机没电了，怎么办？<br />shǒujī méi diàn le ， zěnme bàn ？<br />The phone is out of power, what can we do?|
+|女的|买新的！<br />mǎi xīn de ！<br />Buy a new one!|
+|男的|买新的手机？你疯了吗？<br />mǎi xīn de shǒujī ？ nǐ fēng le ma ？<br />Buy a new cellphone? Are you crazy?|
+|女的|电池！电池！<br />diànchí ！ diànchí ！<br />Battery, battery!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

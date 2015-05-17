@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|嗯，真香啊，今天晚上吃什么？|
-||en ， zhēn xiāng a ， jīntiān wǎnshang chī shénme ？|
-||Hey, that smells good. What's for dinner tonight?|
-
-|乙|兔子。|
-||tùzi 。|
-||Rabbit.|
-
-|甲|兔子？|
-||tùzi ？|
-||Rabbit?|
-
-|乙|红烧兔子。哎，对了，下次记得买个肥点儿的。这身上都没什么肉。|
-||hóngshāo tùzi 。 āi ， duìle ， xiàcì jìde mǎi ge féi diǎnr de 。 zhè shēn shàng dōu méi shénme ròu 。|
-||Red braised rabbit. Oh, remember to buy a fatter one next time. There's no meat on this one.|
-
-|甲|那是我买给孩子的！|
-||nà shì wǒ mǎi gěi háizi de ！|
-||I got that for our kid!|
-
-|乙|嗯，会给他的。|
-||en ， huì gěi tā de 。|
-||Oh, he'll get some.|
+|甲|嗯，真香啊，今天晚上吃什么？<br />en ， zhēn xiāng a ， jīntiān wǎnshang chī shénme ？<br />Hey, that smells good. What's for dinner tonight?|
+|乙|兔子。<br />tùzi 。<br />Rabbit.|
+|甲|兔子？<br />tùzi ？<br />Rabbit?|
+|乙|红烧兔子。哎，对了，下次记得买个肥点儿的。这身上都没什么肉。<br />hóngshāo tùzi 。 āi ， duìle ， xiàcì jìde mǎi ge féi diǎnr de 。 zhè shēn shàng dōu méi shénme ròu 。<br />Red braised rabbit. Oh, remember to buy a fatter one next time. There's no meat on this one.|
+|甲|那是我买给孩子的！<br />nà shì wǒ mǎi gěi háizi de ！<br />I got that for our kid!|
+|乙|嗯，会给他的。<br />en ， huì gěi tā de 。<br />Oh, he'll get some.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

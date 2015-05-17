@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女的|那是什么？|
-||nà shì shénme ？|
-||What is that?|
-
-|男的|那是安全警报。|
-||nà shì ānquán jǐngbào 。|
-||That's the security alarm.|
-
-|女的|这里不安全吗？|
-||zhèli bù ānquán ma ？|
-||It isn't safe here?|
-
-|男的|不不不，意思是现在非常安全。|
-||bù bù bù ， yìsi shì xiànzài fēicháng ānquán 。|
-||Not at all, it means it's extremely safe now.|
+|女的|那是什么？<br />nà shì shénme ？<br />What is that?|
+|男的|那是安全警报。<br />nà shì ānquán jǐngbào 。<br />That's the security alarm.|
+|女的|这里不安全吗？<br />zhèli bù ānquán ma ？<br />It isn't safe here?|
+|男的|不不不，意思是现在非常安全。<br />bù bù bù ， yìsi shì xiànzài fēicháng ānquán 。<br />Not at all, it means it's extremely safe now.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

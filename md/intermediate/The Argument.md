@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|咳，老板走了没?|
-||hai ， lǎobǎn zǒu le méi ?|
-||Hey, has the boss gone yet?|
-
-|男|终于走了。|
-||zhōngyú zǒu le 。|
-||He's finally gone.|
-
-|女|哎呀，太好了。走。咱们吃饭去!|
-||āiya ， tài hǎo le 。 zǒu 。 zánmen chīfàn qù !|
-||Great! Come on, let's go eat!|
-
-|男|你还没工作完呢?|
-||nǐ hái méi gōngzuò wán ne ?|
-||Are you finished with work?|
-
-|女|哎呀，老板都走了谁还要工作呢? 走吧, 走吧, 别假正经了!|
-||āiya ， lǎobǎn dōu zǒu le shéi hái yào gōngzuò ne ? zǒu ba , zǒu ba , bié jiǎ zhèngjǐng le !|
-||What are you thinking? Who keeps working once the boss leaves? Get moving, get moving, don't act all straightlaced!|
-
-|男|好，走吧。|
-||hǎo ， zǒu ba 。|
-||Ok, let's go.|
+|女|咳，老板走了没?<br />hai ， lǎobǎn zǒu le méi ?<br />Hey, has the boss gone yet?|
+|男|终于走了。<br />zhōngyú zǒu le 。<br />He's finally gone.|
+|女|哎呀，太好了。走。咱们吃饭去!<br />āiya ， tài hǎo le 。 zǒu 。 zánmen chīfàn qù !<br />Great! Come on, let's go eat!|
+|男|你还没工作完呢?<br />nǐ hái méi gōngzuò wán ne ?<br />Are you finished with work?|
+|女|哎呀，老板都走了谁还要工作呢? 走吧, 走吧, 别假正经了!<br />āiya ， lǎobǎn dōu zǒu le shéi hái yào gōngzuò ne ? zǒu ba , zǒu ba , bié jiǎ zhèngjǐng le !<br />What are you thinking? Who keeps working once the boss leaves? Get moving, get moving, don't act all straightlaced!|
+|男|好，走吧。<br />hǎo ， zǒu ba 。<br />Ok, let's go.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

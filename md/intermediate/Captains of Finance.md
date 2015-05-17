@@ -16,46 +16,16 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你以前在华尔街工作，是吗？|
-||nǐ yǐqián zài Huáěrjiē gōngzuò ， shìma ？|
-||You've worked on Wall Street before, right?|
-
-|乙|Errr...华尔街....|
-||Errr . . . Huáěrjiē . . . .|
-||Errr... Wall Street....|
-
-|甲|我们问你的主要原因是....|
-||wǒmen wèn nǐ de zhǔyào yuányīn shì . . . .|
-||The main reason we're asking is....|
-
-|丙|这项并购涉及很高的利润。你的计划具体是什么？|
-||zhè xiàng bìnggòu shèjí hěn gāo de lìrùn 。 nǐ de jìhuà jùtǐ shì shénme ？|
-||This project involves a huge profit. What exactly is your plan?|
-
-|乙|杀...杀...errr...拿钱....|
-||shā . . . shā . . . errr . . . ná qián . . . .|
-||Kill... kill... and take the money....|
-
-|甲|嗯，我觉得差不多。|
-||en ， wǒ juéde chàbuduō 。|
-||Oh, I think that's about it.|
-
-|丙|谢谢你，船长，你可以走了。|
-||xièxie nǐ ， chuánzhǎng ， nǐ kěyǐ zǒu le 。|
-||Thank you Captain, you can go now.|
-
-|乙|我的船....|
-||wǒ de chuán . . . .|
-||My ship....|
-
-|甲|他很独特。|
-||tā hěn dútè 。|
-||He's very unique.|
-
-|丙|非常出色。|
-||fēicháng chūsè 。|
-||Extremely outstanding.|
+|甲|你以前在华尔街工作，是吗？<br />nǐ yǐqián zài Huáěrjiē gōngzuò ， shìma ？<br />You've worked on Wall Street before, right?|
+|乙|Errr...华尔街....<br />Errr . . . Huáěrjiē . . . .<br />Errr... Wall Street....|
+|甲|我们问你的主要原因是....<br />wǒmen wèn nǐ de zhǔyào yuányīn shì . . . .<br />The main reason we're asking is....|
+|丙|这项并购涉及很高的利润。你的计划具体是什么？<br />zhè xiàng bìnggòu shèjí hěn gāo de lìrùn 。 nǐ de jìhuà jùtǐ shì shénme ？<br />This project involves a huge profit. What exactly is your plan?|
+|乙|杀...杀...errr...拿钱....<br />shā . . . shā . . . errr . . . ná qián . . . .<br />Kill... kill... and take the money....|
+|甲|嗯，我觉得差不多。<br />en ， wǒ juéde chàbuduō 。<br />Oh, I think that's about it.|
+|丙|谢谢你，船长，你可以走了。<br />xièxie nǐ ， chuánzhǎng ， nǐ kěyǐ zǒu le 。<br />Thank you Captain, you can go now.|
+|乙|我的船....<br />wǒ de chuán . . . .<br />My ship....|
+|甲|他很独特。<br />tā hěn dútè 。<br />He's very unique.|
+|丙|非常出色。<br />fēicháng chūsè 。<br />Extremely outstanding.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

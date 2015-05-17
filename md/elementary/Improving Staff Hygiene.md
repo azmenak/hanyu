@@ -8,14 +8,8 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎呀，坏了，老板在。|
-||āiya ， huài le ， lǎobǎn zài 。|
-||Oh no, dammit, the boss is here.|
-
-|乙|不许聊天，回去工作。|
-||bù xǔ liáotiān ， huíqu gōngzuò 。|
-||No chatting allowed, get back to work.|
+|甲|哎呀，坏了，老板在。<br />āiya ， huài le ， lǎobǎn zài 。<br />Oh no, dammit, the boss is here.|
+|乙|不许聊天，回去工作。<br />bù xǔ liáotiān ， huíqu gōngzuò 。<br />No chatting allowed, get back to work.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

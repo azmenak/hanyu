@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|几点关门儿？|
-||jǐdiǎn guān ménr ？|
-||What time do you close?|
-
-|乙|我们不关门儿。|
-||wǒmen bù guān ménr 。|
-||We don't close.|
-
-|甲|是吗？|
-||shìma ？|
-||Is that the case?|
-
-|乙|对，我们通宵。|
-||duì ， wǒmen tōngxiāo 。|
-||Correct, we're open all night.|
+|甲|几点关门儿？<br />jǐdiǎn guān ménr ？<br />What time do you close?|
+|乙|我们不关门儿。<br />wǒmen bù guān ménr 。<br />We don't close.|
+|甲|是吗？<br />shìma ？<br />Is that the case?|
+|乙|对，我们通宵。<br />duì ， wǒmen tōngxiāo 。<br />Correct, we're open all night.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

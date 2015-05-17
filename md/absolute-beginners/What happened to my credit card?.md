@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|机器坏了。|
-||jīqì huài le 。|
-||The machine's broken.|
-
-|乙|你的卡呢？|
-||nǐ de kǎ ne ？|
-||What about your card?|
-
-|甲|不行，卡住了。|
-||bù xíng ， kǎzhù le 。|
-||No go, it's stuck.|
-
-|乙|去叫服务员。|
-||qù jiào fúwùyuán 。|
-||Go call a staff member.|
+|甲|机器坏了。<br />jīqì huài le 。<br />The machine's broken.|
+|乙|你的卡呢？<br />nǐ de kǎ ne ？<br />What about your card?|
+|甲|不行，卡住了。<br />bù xíng ， kǎzhù le 。<br />No go, it's stuck.|
+|乙|去叫服务员。<br />qù jiào fúwùyuán 。<br />Go call a staff member.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

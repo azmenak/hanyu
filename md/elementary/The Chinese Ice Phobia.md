@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|咱们的猫不再爱你了。它给你写的信。|
-||zánmen de māo bù zài ài nǐ le 。 tā gěi nǐ xiě de xìn 。|
-||Our cat no longer loves you. This is the letter it wrote you.|
-
-|乙|咱们的猫会写字儿？|
-||zánmen de māo huìxiě zìr ？|
-||Our cat can write?|
-
-|甲|对，我一直在训练它。|
-||duì ， wǒ yīzhí zài xùnliàn tā 。|
-||Yes. I've been training him for a while.|
+|甲|咱们的猫不再爱你了。它给你写的信。<br />zánmen de māo bù zài ài nǐ le 。 tā gěi nǐ xiě de xìn 。<br />Our cat no longer loves you. This is the letter it wrote you.|
+|乙|咱们的猫会写字儿？<br />zánmen de māo huìxiě zìr ？<br />Our cat can write?|
+|甲|对，我一直在训练它。<br />duì ， wǒ yīzhí zài xùnliàn tā 。<br />Yes. I've been training him for a while.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

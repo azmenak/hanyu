@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我们...分手吧。|
-||wǒmen ... fēnshǒu ba 。|
-||Let's break up.|
-
-|乙|别把自己当回事，像你这种人，满大街都是。|
-||bié bǎ zìjǐ dāng huíshì ， xiàng nǐ zhè 种 rén ， mǎn dàjiē dōu shì 。|
-||Don't think you're anything special. The streets are full of people like you.|
-
-|甲|呃...|
-||e ...|
-||Uh....|
-
-|乙|哈，没了我的钱，你连一天都活不了。|
-||hā ， méi le wǒ de qián ， nǐ lián yī tiān dōu huóbù liǎo 。|
-||Ha! You wouldn't last a single day without my money.|
-
-|甲|我...我能靠自己！|
-||wǒ ... wǒ néng kào zìjǐ ！|
-||I... I can support myself!|
-
-|乙|好，你去靠，后面排着呢。|
-||hǎo ， nǐ qù kào ， hòumian páizhe ne 。|
-||Ok, go. There's a line forming behind you.|
+|甲|我们...分手吧。<br />wǒmen ... fēnshǒu ba 。<br />Let's break up.|
+|乙|别把自己当回事，像你这种人，满大街都是。<br />bié bǎ zìjǐ dāng huíshì ， xiàng nǐ zhè 种 rén ， mǎn dàjiē dōu shì 。<br />Don't think you're anything special. The streets are full of people like you.|
+|甲|呃...<br />e ...<br />Uh....|
+|乙|哈，没了我的钱，你连一天都活不了。<br />hā ， méi le wǒ de qián ， nǐ lián yī tiān dōu huóbù liǎo 。<br />Ha! You wouldn't last a single day without my money.|
+|甲|我...我能靠自己！<br />wǒ ... wǒ néng kào zìjǐ ！<br />I... I can support myself!|
+|乙|好，你去靠，后面排着呢。<br />hǎo ， nǐ qù kào ， hòumian páizhe ne 。<br />Ok, go. There's a line forming behind you.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

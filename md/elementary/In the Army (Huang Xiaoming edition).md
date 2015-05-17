@@ -14,38 +14,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我给你五分钟的时间，好好儿考虑一下。|
-||wǒ gěi nǐ wǔ fēnzhōng de shíjiān ， hǎohāor kǎolǜ  yīxià 。|
-||I'll give you five minutes to think it over.|
-
-|乙|啊，就五分钟？|
-||a ， jiù wǔ fēnzhōng ？|
-||Huh, just five minutes?|
-
-|甲|好了。|
-||hǎo le 。|
-||Ok.|
-
-|乙|你等会儿，你等会儿，我捋捋。|
-||nǐ děng huǐr ， nǐ děng huìr ， wǒ lǚlv 。|
-||Wait a minute. Wait a minute. I'm working it out.|
-
-|甲|五分钟到了。|
-||wǔ fēnzhōng dào le 。|
-||Five minutes is up.|
-
-|乙|这么快，哥，咱这表坏了吧。|
-||zhème kuài ， gē ， zá zhè biǎo huài le ba 。|
-||So fast? Dude, this watch of ours is broken.|
-
-|甲|你的答案是什么？|
-||nǐ de dáàn shì shénme ？|
-||What's your answer?|
-
-|乙|我还来不及想呢，我送你一块表，咱们再重新想行不行。|
-||wǒ hái láibùjí xiǎng ne ， wǒ sòng nǐ yī kuài biǎo ， zánmen zài chóngxīn xiǎng xíng bù xíng 。|
-||I haven't had time to think. How about I give you a watch and we start all over again?|
+|甲|我给你五分钟的时间，好好儿考虑一下。<br />wǒ gěi nǐ wǔ fēnzhōng de shíjiān ， hǎohāor kǎolǜ  yīxià 。<br />I'll give you five minutes to think it over.|
+|乙|啊，就五分钟？<br />a ， jiù wǔ fēnzhōng ？<br />Huh, just five minutes?|
+|甲|好了。<br />hǎo le 。<br />Ok.|
+|乙|你等会儿，你等会儿，我捋捋。<br />nǐ děng huǐr ， nǐ děng huìr ， wǒ lǚlv 。<br />Wait a minute. Wait a minute. I'm working it out.|
+|甲|五分钟到了。<br />wǔ fēnzhōng dào le 。<br />Five minutes is up.|
+|乙|这么快，哥，咱这表坏了吧。<br />zhème kuài ， gē ， zá zhè biǎo huài le ba 。<br />So fast? Dude, this watch of ours is broken.|
+|甲|你的答案是什么？<br />nǐ de dáàn shì shénme ？<br />What's your answer?|
+|乙|我还来不及想呢，我送你一块表，咱们再重新想行不行。<br />wǒ hái láibùjí xiǎng ne ， wǒ sòng nǐ yī kuài biǎo ， zánmen zài chóngxīn xiǎng xíng bù xíng 。<br />I haven't had time to think. How about I give you a watch and we start all over again?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

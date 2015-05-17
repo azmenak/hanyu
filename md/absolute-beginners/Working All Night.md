@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||他去.|
-||tā qù .|
-||He goes.|
-
-||我爱中国.|
-||wǒ ài Zhōngguó .|
-||I love China.|
-
-||今天很热.|
-||jīntiān hěn rè .|
-||It's hot today.|
-
-||我想去中国.|
-||wǒ xiǎng qù Zhōngguó .|
-||I want to go to China.|
-
-||你太忙！|
-||nǐ tài máng ！|
-||You're too busy!|
-
-||中文不难．|
-||zhōngwén bù nán ．|
-||Chinese is not difficult.|
-
-||爸爸爱吃串儿.|
-||bàba ài chī chuànr .|
-||Dad loves eating meat-on-a-stick.|
+||他去.<br />tā qù .<br />He goes.|
+||我爱中国.<br />wǒ ài Zhōngguó .<br />I love China.|
+||今天很热.<br />jīntiān hěn rè .<br />It's hot today.|
+||我想去中国.<br />wǒ xiǎng qù Zhōngguó .<br />I want to go to China.|
+||你太忙！<br />nǐ tài máng ！<br />You're too busy!|
+||中文不难．<br />zhōngwén bù nán ．<br />Chinese is not difficult.|
+||爸爸爱吃串儿.<br />bàba ài chī chuànr .<br />Dad loves eating meat-on-a-stick.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

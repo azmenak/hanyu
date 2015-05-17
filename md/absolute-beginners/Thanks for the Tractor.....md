@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||中国行|
-||Zhōngguó xíng|
-||China is ok.|
-
-||十一人|
-||shíyī rén|
-||11 people|
-
-||中国人说中文|
-||Zhōngguórén shuō zhōngwén|
-||Chinese people speak Chinese|
-
-||英国人说英文|
-||Yīngguórén shuō yīngwén|
-||People from England speak English|
-
-||多花钱|
-||duō huāqián|
-||Spend more money|
-
-||他行|
-||tā xíng|
-||He is ok|
-
-||他很忙|
-||tā hěn máng|
-||He is very busy|
-
-||中国人花钱|
-||Zhōngguórén huāqián|
-||Chinese people spend money|
-
-||别烦人|
-||bié fánrén|
-||Don't be such a nuisance|
+||中国行<br />Zhōngguó xíng<br />China is ok.|
+||十一人<br />shíyī rén<br />11 people|
+||中国人说中文<br />Zhōngguórén shuō zhōngwén<br />Chinese people speak Chinese|
+||英国人说英文<br />Yīngguórén shuō yīngwén<br />People from England speak English|
+||多花钱<br />duō huāqián<br />Spend more money|
+||他行<br />tā xíng<br />He is ok|
+||他很忙<br />tā hěn máng<br />He is very busy|
+||中国人花钱<br />Zhōngguórén huāqián<br />Chinese people spend money|
+||别烦人<br />bié fánrén<br />Don't be such a nuisance|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

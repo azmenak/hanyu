@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男的|你需要点儿什么？|
-||nǐ xūyào diǎnr shénme ？|
-||What would you like?|
-
-|女的|啤酒。|
-||píjiǔ 。|
-||Beer.|
-
-|男的|一扎还是一瓶儿?|
-||yī zhā hái shì yī píngr ?|
-||A draft or a bottle?|
-
-|女的|一瓶儿。|
-||yī píngr 。|
-||A bottle.|
+|男的|你需要点儿什么？<br />nǐ xūyào diǎnr shénme ？<br />What would you like?|
+|女的|啤酒。<br />píjiǔ 。<br />Beer.|
+|男的|一扎还是一瓶儿?<br />yī zhā hái shì yī píngr ?<br />A draft or a bottle?|
+|女的|一瓶儿。<br />yī píngr 。<br />A bottle.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|师傅....|
-||shīfu . . . .|
-||Mister....|
-
-|甲|往左打，往左打，倒，倒，好。|
-||wǎng zuǒ dǎ ， wǎng zuǒ dǎ ， dào ， dào ， hǎo 。|
-||Turn left, turn left, now back up, back up... good.|
-
-|甲|好，倒倒倒，好。|
-||hǎo ， dào dào dào ， hǎo 。|
-||Ok, back up, back up, back up, good.|
-
-|甲|啊！我的脚！|
-||a ！ wǒ de jiǎo ！|
-||Ouch! My foot!|
+|甲|师傅....<br />shīfu . . . .<br />Mister....|
+|甲|往左打，往左打，倒，倒，好。<br />wǎng zuǒ dǎ ， wǎng zuǒ dǎ ， dào ， dào ， hǎo 。<br />Turn left, turn left, now back up, back up... good.|
+|甲|好，倒倒倒，好。<br />hǎo ， dào dào dào ， hǎo 。<br />Ok, back up, back up, back up, good.|
+|甲|啊！我的脚！<br />a ！ wǒ de jiǎo ！<br />Ouch! My foot!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

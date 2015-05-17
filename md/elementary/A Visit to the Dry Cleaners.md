@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-||小姐，你好，我来取衣服。给你我的票。|
-||xiǎojie ， nǐhǎo ， wǒ lái qǔ yīfu 。 gěi nǐ wǒ de piào 。|
-||Hello Miss. I'm here to pick up my clothes. Here is my ticket.|
-
-||这是您的衣服。|
-||zhè shì nín de yīfu 。|
-||Here are your clothes.|
-
-||嗯？这是我的衣服吗？|
-||en ？ zhè shì wǒ de yīfu ma ？|
-||Huh? These are my clothes?|
-
-||不是吗？|
-||bùshì ma ？|
-||Aren't they?|
-
-||颜色不对，大小也不对，款式都不对！我是女人。|
-||yánsè bù duì ， dàxiǎo yě bù duì ， kuǎnshì dōu bù duì ！ wǒ shì nǚrén 。|
-||The colors are wrong. The size is wrong. The style is also wrong! I'm a woman.|
-
-||那，这是谁的衣服？|
-||nà ， zhè shì shéi de yīfu ？|
-||Then whose clothes are these?|
-
-||啊，我的衣服。谢谢。|
-||ā ， wǒ de yīfu 。 xièxie 。|
-||These are my clothes. Thank you.|
+||小姐，你好，我来取衣服。给你我的票。<br />xiǎojie ， nǐhǎo ， wǒ lái qǔ yīfu 。 gěi nǐ wǒ de piào 。<br />Hello Miss. I'm here to pick up my clothes. Here is my ticket.|
+||这是您的衣服。<br />zhè shì nín de yīfu 。<br />Here are your clothes.|
+||嗯？这是我的衣服吗？<br />en ？ zhè shì wǒ de yīfu ma ？<br />Huh? These are my clothes?|
+||不是吗？<br />bùshì ma ？<br />Aren't they?|
+||颜色不对，大小也不对，款式都不对！我是女人。<br />yánsè bù duì ， dàxiǎo yě bù duì ， kuǎnshì dōu bù duì ！ wǒ shì nǚrén 。<br />The colors are wrong. The size is wrong. The style is also wrong! I'm a woman.|
+||那，这是谁的衣服？<br />nà ， zhè shì shéi de yīfu ？<br />Then whose clothes are these?|
+||啊，我的衣服。谢谢。<br />ā ， wǒ de yīfu 。 xièxie 。<br />These are my clothes. Thank you.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

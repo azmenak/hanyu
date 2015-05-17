@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|哦，Bradley Cooper!|
-||ò ， Bradley Cooper!|
-||Oh, Bradley Cooper!|
-
-|男|他是谁？|
-||tā shì shéi ？|
-||Who is he?|
-
-|女|Bradley，我在这儿！|
-||Bradley ， wǒ zài zhèr ！|
-||Bradley, I'm here!|
-
-|男|Bradley Cooper是谁？|
-||Bradley Cooper shì shéi ？|
-||Who is Bradley Cooper?|
-
-|女|我的天啊，Bradley!|
-||wǒde tiānā ， Bradley!|
-||My heavens, Bradley!|
-
-|女|Bradley，我爱你！|
-||Bradley ， wǒ ài nǐ ！|
-||Bradley, I love you!|
-
-|男|他是谁？|
-||tā shì shéi ？|
-||Who is he?|
+|女|哦，Bradley Cooper!<br />ò ， Bradley Cooper!<br />Oh, Bradley Cooper!|
+|男|他是谁？<br />tā shì shéi ？<br />Who is he?|
+|女|Bradley，我在这儿！<br />Bradley ， wǒ zài zhèr ！<br />Bradley, I'm here!|
+|男|Bradley Cooper是谁？<br />Bradley Cooper shì shéi ？<br />Who is Bradley Cooper?|
+|女|我的天啊，Bradley!<br />wǒde tiānā ， Bradley!<br />My heavens, Bradley!|
+|女|Bradley，我爱你！<br />Bradley ， wǒ ài nǐ ！<br />Bradley, I love you!|
+|男|他是谁？<br />tā shì shéi ？<br />Who is he?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

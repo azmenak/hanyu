@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|不行啊。|
-||bù xíng a 。|
-||It doesn't work.|
-
-|乙|它太重了。|
-||tā tài zhòng le 。|
-||It's too heavy.|
-
-|甲|那... 我们怎么办？|
-||nà ... wǒmen zěnme bàn ？|
-||Then... what should we do?|
-
-|乙|没办法，再来一次。|
-||méi bànfǎ ， zài lái yī cì 。|
-||No solution, let's try again.|
-
-|甲|好，一，二，三。加油，加油，加油... 好，成功啦！|
-||hǎo ， yī ， èr ， sān 。 jiāyóu ， jiāyóu ， jiāyóu . . .  hǎo ， chénggōng la ！|
-||Okay, one, two, three... Come on, come on, come on... Good, we succeed!|
-
-|乙|好，干得好。|
-||hǎo ， gàn de hǎo 。|
-||Good, well done!|
+|甲|不行啊。<br />bù xíng a 。<br />It doesn't work.|
+|乙|它太重了。<br />tā tài zhòng le 。<br />It's too heavy.|
+|甲|那... 我们怎么办？<br />nà ... wǒmen zěnme bàn ？<br />Then... what should we do?|
+|乙|没办法，再来一次。<br />méi bànfǎ ， zài lái yī cì 。<br />No solution, let's try again.|
+|甲|好，一，二，三。加油，加油，加油... 好，成功啦！<br />hǎo ， yī ， èr ， sān 。 jiāyóu ， jiāyóu ， jiāyóu . . .  hǎo ， chénggōng la ！<br />Okay, one, two, three... Come on, come on, come on... Good, we succeed!|
+|乙|好，干得好。<br />hǎo ， gàn de hǎo 。<br />Good, well done!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

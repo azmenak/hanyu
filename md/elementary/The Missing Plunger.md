@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|又在看别的女人！|
-||yòu zài kàn bié de nǚrén ！|
-||You're looking at other women again!|
-
-|乙|她是人妖。|
-||tā shì rényāo 。|
-||She's a transsexual.|
-
-|甲|少废话！昨天呢？前天呢？全是人妖吗？|
-||shǎo fèihuà ！ zuótiān ne ？ qiántiān ne ？ quán shì rényāo ma ？|
-||Rubbish! What about yesterday and the day before? Were they all transsexuals too?|
-
-|乙|这不是在泰国吗？|
-||zhè bù shì zài Tàiguó ma ？|
-||Aren't we in Thailand?|
-
-|甲|你就是个色鬼！|
-||nǐ jiùshì ge sèguǐ ！|
-||You're nothing but a pervert!|
+|甲|又在看别的女人！<br />yòu zài kàn bié de nǚrén ！<br />You're looking at other women again!|
+|乙|她是人妖。<br />tā shì rényāo 。<br />She's a transsexual.|
+|甲|少废话！昨天呢？前天呢？全是人妖吗？<br />shǎo fèihuà ！ zuótiān ne ？ qiántiān ne ？ quán shì rényāo ma ？<br />Rubbish! What about yesterday and the day before? Were they all transsexuals too?|
+|乙|这不是在泰国吗？<br />zhè bù shì zài Tàiguó ma ？<br />Aren't we in Thailand?|
+|甲|你就是个色鬼！<br />nǐ jiùshì ge sèguǐ ！<br />You're nothing but a pervert!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女的|你电话打不通。|
-||nǐ diànhuà dǎ bu tōng 。|
-||Your phone won't connect.|
-
-|男的|是吗？|
-||shìma ？|
-||Is that so?|
-
-|女的|该付费了。|
-||gāi fù fèi le 。|
-||You should pay the bill.|
-
-|男的|电话费是什么？|
-||diànhuà fèi shì shénme ？|
-||What's a telephone bill?|
+|女的|你电话打不通。<br />nǐ diànhuà dǎ bu tōng 。<br />Your phone won't connect.|
+|男的|是吗？<br />shìma ？<br />Is that so?|
+|女的|该付费了。<br />gāi fù fèi le 。<br />You should pay the bill.|
+|男的|电话费是什么？<br />diànhuà fèi shì shénme ？<br />What's a telephone bill?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

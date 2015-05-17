@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你怎么又爬进冰箱里啦？|
-||nǐ zěnme yòu pájìn bīngxiāng lǐ la ？|
-||How have you got into the fridge again?|
-
-|乙|什么？猫又进冰箱里啦？|
-||shénme ？ māo yòu jìn bīngxiāng lǐ la ？|
-||What? The cat's in the fridge again?|
-
-|甲|你怎么进去的？|
-||nǐ zěnme jìnqù de ？|
-||How did you get in?|
-
-|乙|打它，打它！|
-||dǎ tā ， dǎ tā ！|
-||Beat it, beat it!|
-
-|甲|快，快出来！|
-||kuài ， kuài chūlai ！|
-||Quick, get out!|
+|甲|你怎么又爬进冰箱里啦？<br />nǐ zěnme yòu pájìn bīngxiāng lǐ la ？<br />How have you got into the fridge again?|
+|乙|什么？猫又进冰箱里啦？<br />shénme ？ māo yòu jìn bīngxiāng lǐ la ？<br />What? The cat's in the fridge again?|
+|甲|你怎么进去的？<br />nǐ zěnme jìnqù de ？<br />How did you get in?|
+|乙|打它，打它！<br />dǎ tā ， dǎ tā ！<br />Beat it, beat it!|
+|甲|快，快出来！<br />kuài ， kuài chūlai ！<br />Quick, get out!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

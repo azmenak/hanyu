@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|刘|哎，我说你那边儿网怎么样啊？我这边儿慢死了。|
-||āi ， wǒ shuō nǐ nàbiānr wǎng zěnme yàng ā ？ wǒ zhèbiānr mànsǐ le 。|
-||Hey, how's the Internet over there? It's ridiculously slow over here.|
-
-|秦|你别说了，我这儿也是。浏览器都打不开网页。|
-||nǐ bié shuō le ， wǒ zhèr yě shì 。 liúlǎnqì dōu dǎbùkāi wǎngyè 。|
-||I don't want to hear about it, it sucks here too. My browser can't even open anything.|
-
-|刘|就是，下载一东西等半天呢。|
-||jiùshi ， xiàzǎi yī dōngxi děng bàntiān ne 。|
-||Yeah, it's taking me ages to download a single thing.|
-
-|秦|你帮我看看那个端口是怎么回事啊。|
-||nǐ bāng wǒ kànkan nàge duānkǒu shì zěnme huíshì ā 。|
-||Can you take a look at what's up with that port for me?|
-
-|刘|我瞅瞅... 插着呢，你看那路由器灯亮着呢。|
-||wǒ chǒuchou ... chāzhene ， nǐ kàn nà lùyóuqì dēng liàngzhene 。|
-||Looking now... it's plugged in. Look, the router light's on.|
-
-|秦|我这儿正下载着东西呢。你看，这MSN又掉线了，哎呀！|
-||wǒ zhèr zhèng xiàzǎizhe dōngxi ne 。 nǐ kàn ， zhè MSN yòu diàoxiàn le ， āiya ！|
-||I'm just downloading something here. Arg! Look! MSN just cut off again.|
-
-|刘|哎，我说你那打印机，现在用吗？|
-||āi ， wǒ shuō nǐ nà dǎyìnjī ， xiànzài yòng ma ？|
-||Hey, are you using your printer now?|
-
-|秦|哦... 我帮你看看。好像用不了，你看停电了，开不了。|
-||òu ...  wǒ bāng nǐ kànkan 。 hǎoxiàng yòngbùliǎo ， nǐ kàn tíngdiàn le ， kāibùliǎo 。|
-||Uh... I'll take a look for you. Seems it's useless, power is off as you can see. It won't start.|
-
-|刘|得，什么都歇菜。|
-||dé ， shénme dōu xiēcài 。|
-||Whatever, it's all messed up.|
+|刘|哎，我说你那边儿网怎么样啊？我这边儿慢死了。<br />āi ， wǒ shuō nǐ nàbiānr wǎng zěnme yàng ā ？ wǒ zhèbiānr mànsǐ le 。<br />Hey, how's the Internet over there? It's ridiculously slow over here.|
+|秦|你别说了，我这儿也是。浏览器都打不开网页。<br />nǐ bié shuō le ， wǒ zhèr yě shì 。 liúlǎnqì dōu dǎbùkāi wǎngyè 。<br />I don't want to hear about it, it sucks here too. My browser can't even open anything.|
+|刘|就是，下载一东西等半天呢。<br />jiùshi ， xiàzǎi yī dōngxi děng bàntiān ne 。<br />Yeah, it's taking me ages to download a single thing.|
+|秦|你帮我看看那个端口是怎么回事啊。<br />nǐ bāng wǒ kànkan nàge duānkǒu shì zěnme huíshì ā 。<br />Can you take a look at what's up with that port for me?|
+|刘|我瞅瞅... 插着呢，你看那路由器灯亮着呢。<br />wǒ chǒuchou ... chāzhene ， nǐ kàn nà lùyóuqì dēng liàngzhene 。<br />Looking now... it's plugged in. Look, the router light's on.|
+|秦|我这儿正下载着东西呢。你看，这MSN又掉线了，哎呀！<br />wǒ zhèr zhèng xiàzǎizhe dōngxi ne 。 nǐ kàn ， zhè MSN yòu diàoxiàn le ， āiya ！<br />I'm just downloading something here. Arg! Look! MSN just cut off again.|
+|刘|哎，我说你那打印机，现在用吗？<br />āi ， wǒ shuō nǐ nà dǎyìnjī ， xiànzài yòng ma ？<br />Hey, are you using your printer now?|
+|秦|哦... 我帮你看看。好像用不了，你看停电了，开不了。<br />òu ...  wǒ bāng nǐ kànkan 。 hǎoxiàng yòngbùliǎo ， nǐ kàn tíngdiàn le ， kāibùliǎo 。<br />Uh... I'll take a look for you. Seems it's useless, power is off as you can see. It won't start.|
+|刘|得，什么都歇菜。<br />dé ， shénme dōu xiēcài 。<br />Whatever, it's all messed up.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你手怎么了？|
-||nǐ shǒu zěnme le ？|
-||What's wrong with your hands?|
-
-|乙|哦，是血。|
-||ò ， shì xiě 。|
-||Oh, it's blood.|
-
-|甲|血？那么多血？|
-||xiě ？ nàme duō xiě ？|
-||Blood? That much blood?|
-
-|乙|哦，别担心，这不是我的。|
-||ò ， bié dānxīn ， zhè bù shì wǒde 。|
-||Oh, don't worry. This isn't mine.|
+|甲|你手怎么了？<br />nǐ shǒu zěnme le ？<br />What's wrong with your hands?|
+|乙|哦，是血。<br />ò ， shì xiě 。<br />Oh, it's blood.|
+|甲|血？那么多血？<br />xiě ？ nàme duō xiě ？<br />Blood? That much blood?|
+|乙|哦，别担心，这不是我的。<br />ò ， bié dānxīn ， zhè bù shì wǒde 。<br />Oh, don't worry. This isn't mine.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你生病了吗？|
-||nǐ shēngbìng le ma ？|
-||Are you sick?|
-
-|乙|是的。|
-||shìde 。|
-||Yes.|
-
-|甲|传染吗？|
-||chuánrǎn ma ？|
-||Is it contagious?|
-
-|乙|非常。|
-||fēicháng 。|
-||Extremely.|
+|甲|你生病了吗？<br />nǐ shēngbìng le ma ？<br />Are you sick?|
+|乙|是的。<br />shìde 。<br />Yes.|
+|甲|传染吗？<br />chuánrǎn ma ？<br />Is it contagious?|
+|乙|非常。<br />fēicháng 。<br />Extremely.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

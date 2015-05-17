@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|八，九，十....|
-||bā ， jiǔ ， shí . . . .|
-||Eight, nine, ten....|
-
-|乙|好，加油！|
-||hǎo ， jiāyóu ！|
-||Great, way to go!|
-
-|甲|看，肌肉。|
-||kàn ， jīròu 。|
-||Look, muscles.|
-
-|乙|嗯，好看，我来。|
-||en ， hǎokàn ， wǒ lái 。|
-||Hey, looking good. My turn.|
+|甲|八，九，十....<br />bā ， jiǔ ， shí . . . .<br />Eight, nine, ten....|
+|乙|好，加油！<br />hǎo ， jiāyóu ！<br />Great, way to go!|
+|甲|看，肌肉。<br />kàn ， jīròu 。<br />Look, muscles.|
+|乙|嗯，好看，我来。<br />en ， hǎokàn ， wǒ lái 。<br />Hey, looking good. My turn.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

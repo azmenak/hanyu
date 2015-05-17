@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|可以用你的卫生间吗？|
-||kěyǐ yòng nǐ de wèishēngjiān ma ？|
-||Can I use your bathroom?|
-
-|乙|没问题。|
-||méiwèntí 。|
-||No problem.|
-
-|甲|手纸呢？|
-||shǒuzhǐ ne ？|
-||What about toilet paper?|
-
-|乙|用完了。|
-||yòng wán le 。|
-||It's used up.|
-
-|甲|哦。|
-||o 。|
-||Oh.|
+|甲|可以用你的卫生间吗？<br />kěyǐ yòng nǐ de wèishēngjiān ma ？<br />Can I use your bathroom?|
+|乙|没问题。<br />méiwèntí 。<br />No problem.|
+|甲|手纸呢？<br />shǒuzhǐ ne ？<br />What about toilet paper?|
+|乙|用完了。<br />yòng wán le 。<br />It's used up.|
+|甲|哦。<br />o 。<br />Oh.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|门锁了。|
-||mén suǒ le 。|
-||The door is locked.|
-
-|乙|你有钥匙吗？|
-||nǐ yǒu yàoshi ma ？|
-||Do you have the keys?|
-
-|甲|没有。|
-||méiyǒu 。|
-||No.|
-
-|乙|哦，天哪！|
-||o ， tiān na ！|
-||Oh, goodness gracious!|
+|甲|门锁了。<br />mén suǒ le 。<br />The door is locked.|
+|乙|你有钥匙吗？<br />nǐ yǒu yàoshi ma ？<br />Do you have the keys?|
+|甲|没有。<br />méiyǒu 。<br />No.|
+|乙|哦，天哪！<br />o ， tiān na ！<br />Oh, goodness gracious!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

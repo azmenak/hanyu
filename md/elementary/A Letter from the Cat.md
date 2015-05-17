@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|这是你的内裤吗？|
-||zhè shì nǐ de nèikù ma ？|
-||Is this your underwear?|
-
-|乙|嗯....|
-||en . . . .|
-||Um....|
-
-|甲|你怎么放到冰箱里了？|
-||nǐ zěnme fàngdào bīngxiāng lǐ le ？|
-||Why did you put it in the fridge?|
-
-|乙|那个....|
-||nà ge . . . .|
-||Well....|
-
-|甲|我在酸奶瓶里找到的！|
-||wǒ zài suānnǎi píng lǐ zhǎodào de ！|
-||I found it in the bottle of yoghurt!|
-
-|乙|你喝酸奶了吗？|
-||nǐ hē suānnǎi le ma ？|
-||Did you drink the yoghurt?|
-
-|甲|我受够了，我要分手！|
-||wǒ shòugòu le ， wǒ yào fēnshǒu ！|
-||I've had it, I want to break up.|
+|甲|这是你的内裤吗？<br />zhè shì nǐ de nèikù ma ？<br />Is this your underwear?|
+|乙|嗯....<br />en . . . .<br />Um....|
+|甲|你怎么放到冰箱里了？<br />nǐ zěnme fàngdào bīngxiāng lǐ le ？<br />Why did you put it in the fridge?|
+|乙|那个....<br />nà ge . . . .<br />Well....|
+|甲|我在酸奶瓶里找到的！<br />wǒ zài suānnǎi píng lǐ zhǎodào de ！<br />I found it in the bottle of yoghurt!|
+|乙|你喝酸奶了吗？<br />nǐ hē suānnǎi le ma ？<br />Did you drink the yoghurt?|
+|甲|我受够了，我要分手！<br />wǒ shòugòu le ， wǒ yào fēnshǒu ！<br />I've had it, I want to break up.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

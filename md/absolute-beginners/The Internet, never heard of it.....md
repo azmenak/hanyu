@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|一|你舒服吗？|
-||nǐ shūfu ma ？|
-||Are you comfortable?|
-
-|二|我很舒服，为什么？啊！|
-||wǒ hěn shūfu ， wèishénme ？ a ！|
-||I'm very comfortable, why? Arg!|
-
-|一|开玩笑。|
-||kāi wánxiào 。|
-||Just kidding.|
+|一|你舒服吗？<br />nǐ shūfu ma ？<br />Are you comfortable?|
+|二|我很舒服，为什么？啊！<br />wǒ hěn shūfu ， wèishénme ？ a ！<br />I'm very comfortable, why? Arg!|
+|一|开玩笑。<br />kāi wánxiào 。<br />Just kidding.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

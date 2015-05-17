@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|天气真好啊。|
-||tiānqì zhēn hǎo a 。|
-||The weather is great.|
-
-|乙|嗯。|
-||ng 。|
-||Hmmm.|
-
-|甲|生菜也很好吃。|
-||shēngcài yě hěn hǎochī 。|
-||The lettuce is also very tasty.|
-
-|乙|生活真好。|
-||shēnghuó zhēn hǎo 。|
-||Life is great.|
-
-|甲|生活真好。|
-||shēnghuó zhēn hǎo 。|
-||Life is really good.|
-
-|乙|嗯。|
-||ng 。|
-||Hmmm.|
+|甲|天气真好啊。<br />tiānqì zhēn hǎo a 。<br />The weather is great.|
+|乙|嗯。<br />ng 。<br />Hmmm.|
+|甲|生菜也很好吃。<br />shēngcài yě hěn hǎochī 。<br />The lettuce is also very tasty.|
+|乙|生活真好。<br />shēnghuó zhēn hǎo 。<br />Life is great.|
+|甲|生活真好。<br />shēnghuó zhēn hǎo 。<br />Life is really good.|
+|乙|嗯。<br />ng 。<br />Hmmm.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

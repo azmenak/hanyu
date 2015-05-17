@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|一|哎，怎么下雨了？|
-||āi ， zěnme xiàyǔ le ？|
-||Hey, is it raining?|
-
-|二|哦，没下雨啊。|
-||ò ， méi xiàyǔ ā 。|
-||Huh, it isn't raining.|
-
-|一|那我怎么....|
-||nà wǒ zěnme ....|
-||Then why do I....|
-
-|三|哎，不好意思！|
-||āi ， bùhǎoyìsi ！|
-||Hey, sorry about that!|
+|一|哎，怎么下雨了？<br />āi ， zěnme xiàyǔ le ？<br />Hey, is it raining?|
+|二|哦，没下雨啊。<br />ò ， méi xiàyǔ ā 。<br />Huh, it isn't raining.|
+|一|那我怎么....<br />nà wǒ zěnme ....<br />Then why do I....|
+|三|哎，不好意思！<br />āi ， bùhǎoyìsi ！<br />Hey, sorry about that!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

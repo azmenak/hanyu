@@ -11,26 +11,11 @@ A：是！是！你是汤姆克鲁斯！
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|A|你是汤姆克鲁斯？|
-||nǐ shì Tāngmǔ Kèlǔsī ？|
-||Are you Tom Cruise?|
-
-|B|不是。|
-||bù shì 。|
-||No.|
-
-|A|你是谁？|
-||nǐ shì shéi ？|
-||Who are you?|
-
-|B|我不说....|
-||wǒ bù shuō ....|
-||I won't say....|
-
-|A|是！是！你是汤姆克鲁斯！|
-||shì ！ shì ！ nǐ shì Tāngmǔ Kèlǔsī ！|
-||You are! You are! You are Tom Cruise!|
+|A|你是汤姆克鲁斯？<br />nǐ shì Tāngmǔ Kèlǔsī ？<br />Are you Tom Cruise?|
+|B|不是。<br />bù shì 。<br />No.|
+|A|你是谁？<br />nǐ shì shéi ？<br />Who are you?|
+|B|我不说....<br />wǒ bù shuō ....<br />I won't say....|
+|A|是！是！你是汤姆克鲁斯！<br />shì ！ shì ！ nǐ shì Tāngmǔ Kèlǔsī ！<br />You are! You are! You are Tom Cruise!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

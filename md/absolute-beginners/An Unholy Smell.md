@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女人|这个十块。|
-||zhège shí kuài 。|
-||This is ten dollars.|
-
-|男人|五块。|
-||wǔ kuài 。|
-||Five dollars.|
-
-|女人|十块。|
-||shí kuài 。|
-||Ten dollars.|
-
-|男人|七块。|
-||qī kuài 。|
-||Seven dollars.|
-
-|女人|十块。|
-||shí kuài 。|
-||Ten dollars.|
-
-|男人|好。十块。|
-||hǎo 。 shí kuài 。|
-||Ok. Ten dollars.|
+|女人|这个十块。<br />zhège shí kuài 。<br />This is ten dollars.|
+|男人|五块。<br />wǔ kuài 。<br />Five dollars.|
+|女人|十块。<br />shí kuài 。<br />Ten dollars.|
+|男人|七块。<br />qī kuài 。<br />Seven dollars.|
+|女人|十块。<br />shí kuài 。<br />Ten dollars.|
+|男人|好。十块。<br />hǎo 。 shí kuài 。<br />Ok. Ten dollars.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -9,18 +9,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我想我妈妈。|
-||wǒ xiǎng wǒ māma 。|
-||I miss my mother.|
-
-|乙|我也是。|
-||wǒ yě shì 。|
-||Me too.|
-
-|甲|你不是住在家里吗？|
-||nǐ bù shì zhù zài jiā lǐ ma ？|
-||Don't you live at home?|
+|甲|我想我妈妈。<br />wǒ xiǎng wǒ māma 。<br />I miss my mother.|
+|乙|我也是。<br />wǒ yě shì 。<br />Me too.|
+|甲|你不是住在家里吗？<br />nǐ bù shì zhù zài jiā lǐ ma ？<br />Don't you live at home?|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

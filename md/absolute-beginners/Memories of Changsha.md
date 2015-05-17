@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|妈妈|小宝，你的中文课怎么样？|
-||Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？|
-||Darling, how is your Chinese class?|
-
-|小宝|我学的不是中文！|
-||wǒ xué de bù shì Zhōngwén ！|
-||What I study isn't Chinese!|
-
-|妈妈|啊，是吗？|
-||a ， shì ma ？|
-||Oh, is that so?|
-
-|小宝|妈妈！|
-||māma ！|
-||Mother!|
+|妈妈|小宝，你的中文课怎么样？<br />Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？<br />Darling, how is your Chinese class?|
+|小宝|我学的不是中文！<br />wǒ xué de bù shì Zhōngwén ！<br />What I study isn't Chinese!|
+|妈妈|啊，是吗？<br />a ， shì ma ？<br />Oh, is that so?|
+|小宝|妈妈！<br />māma ！<br />Mother!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

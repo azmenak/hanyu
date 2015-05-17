@@ -15,42 +15,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哇！你瘦了好多啊！是怎么做到的？|
-||wa ！ nǐ shòu le hǎo duō ā ！ shì zěnme zuò dào de ？|
-||Whoa! You've lost so much weight. How did you do it?|
-
-|乙|你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！|
-||nǐ xiǎng jiǎnféi ma ？ nǐ xiǎng biànchéng zhēnzhèng de yuēhàn kùsàkè ma ？ qǐng yòng shìjiè zhùmíng de jīnhóuzi sǎngbǎo ！|
-||Want to lose weight? Want to become a real John Cusack? Please use the world-famous Golden Monkey Throat Lozenges.|
-
-|丙|啊?!那不是感冒药吗?|
-||ā ?! nà bù shì gǎnmàoyào ma ?|
-||Huh? Isn't that cold medicine?|
-
-|乙|没关系。|
-||méiguānxi 。|
-||That doesn't matter.|
-
-|丙|那不是有很严重的副作用吗？|
-||nà bù shì yǒu hěn yánzhòng de fùzuòyòng ma ？|
-||Doesn't that have serious side effects?|
-
-|乙|没关系。|
-||méi guānxi 。|
-||That doesn't matter.|
-
-|丙|那不是违禁品吗？|
-||nà bù shì wéijīnpǐn ma ？|
-||Isn't that banned?|
-
-|乙|没关系。要减肥，就用金猴子嗓宝！订购热线：|
-||méi guānxi 。 yào jiǎnféi ， jiù yòng jīnhóuzi sǎngbǎo ！ dìnggòu rèxiàn ：|
-||That doesn't matter. If you want to lose weight, use Golden Monkey Throat Lozenges! The ordering hotline:|
-
-|丁|800-820-8820|
-||bālínglíng bāèrlíng bābāèrlíng|
-||800-820-8820|
+|甲|哇！你瘦了好多啊！是怎么做到的？<br />wa ！ nǐ shòu le hǎo duō ā ！ shì zěnme zuò dào de ？<br />Whoa! You've lost so much weight. How did you do it?|
+|乙|你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！<br />nǐ xiǎng jiǎnféi ma ？ nǐ xiǎng biànchéng zhēnzhèng de yuēhàn kùsàkè ma ？ qǐng yòng shìjiè zhùmíng de jīnhóuzi sǎngbǎo ！<br />Want to lose weight? Want to become a real John Cusack? Please use the world-famous Golden Monkey Throat Lozenges.|
+|丙|啊?!那不是感冒药吗?<br />ā ?! nà bù shì gǎnmàoyào ma ?<br />Huh? Isn't that cold medicine?|
+|乙|没关系。<br />méiguānxi 。<br />That doesn't matter.|
+|丙|那不是有很严重的副作用吗？<br />nà bù shì yǒu hěn yánzhòng de fùzuòyòng ma ？<br />Doesn't that have serious side effects?|
+|乙|没关系。<br />méi guānxi 。<br />That doesn't matter.|
+|丙|那不是违禁品吗？<br />nà bù shì wéijīnpǐn ma ？<br />Isn't that banned?|
+|乙|没关系。要减肥，就用金猴子嗓宝！订购热线：<br />méi guānxi 。 yào jiǎnféi ， jiù yòng jīnhóuzi sǎngbǎo ！ dìnggòu rèxiàn ：<br />That doesn't matter. If you want to lose weight, use Golden Monkey Throat Lozenges! The ordering hotline:|
+|丁|800-820-8820<br />bālínglíng bāèrlíng bābāèrlíng<br />800-820-8820|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哦，我的天哪，我们的五号六号舱门都起火了！|
-||ò ， wǒ de tiānna ， wǒmen de wǔ hào liùhào cāngmén dōu qǐhuǒ le ！|
-||Oh, my heavens! Cabin doors five and six have both burst into flame!|
-
-|乙|我现在打开120毫米的光子炮。|
-||wǒ xiànzài dǎkāi yībǎi èrshí háomǐ de guāngzǐpào 。|
-||I'm starting the 120 millimeter photon cannon.|
-
-|甲|好，亲爱的，让我们发射！|
-||hǎo ， qīn`ài de ， ràng wǒmen fāshè ！|
-||Great, darling. Let's shoot!|
-
-|乙|好的。|
-||hǎo de 。|
-||OK.|
-
-|甲|来吧，杂种们！|
-||lái ba ， zázhongmen ！|
-||Come and get it, you bastards.|
+|甲|哦，我的天哪，我们的五号六号舱门都起火了！<br />ò ， wǒ de tiānna ， wǒmen de wǔ hào liùhào cāngmén dōu qǐhuǒ le ！<br />Oh, my heavens! Cabin doors five and six have both burst into flame!|
+|乙|我现在打开120毫米的光子炮。<br />wǒ xiànzài dǎkāi yībǎi èrshí háomǐ de guāngzǐpào 。<br />I'm starting the 120 millimeter photon cannon.|
+|甲|好，亲爱的，让我们发射！<br />hǎo ， qīn`ài de ， ràng wǒmen fāshè ！<br />Great, darling. Let's shoot!|
+|乙|好的。<br />hǎo de 。<br />OK.|
+|甲|来吧，杂种们！<br />lái ba ， zázhongmen ！<br />Come and get it, you bastards.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

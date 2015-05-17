@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|我真羡慕你。|
-||wǒ zhēn xiànmu nǐ 。|
-||I really envy you.|
-
-|乙|什么？|
-||shénme ？|
-||What?|
-
-|甲|你这么有钱，还这么帅。|
-||nǐ zhème yǒuqián ， hái zhème shuài 。|
-||You're so rich and handsome too.|
-
-|乙|别拍马屁。|
-||bié pāimǎpì 。|
-||Don't kiss my ass.|
+|甲|我真羡慕你。<br />wǒ zhēn xiànmu nǐ 。<br />I really envy you.|
+|乙|什么？<br />shénme ？<br />What?|
+|甲|你这么有钱，还这么帅。<br />nǐ zhème yǒuqián ， hái zhème shuài 。<br />You're so rich and handsome too.|
+|乙|别拍马屁。<br />bié pāimǎpì 。<br />Don't kiss my ass.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|还有一百米。|
-||hái yǒu yībǎi mǐ 。|
-||There's still another hundred meters.|
-
-|乙|我不行了....|
-||wǒ bù xíng le . . . .|
-||I can't do it....|
-
-|甲|坚持，坚持，一定要....|
-||jiānchí ， jiānchí ， yīdìng yào . . . .|
-||Keep at it, you've got to....|
-
-|乙|我太累了。|
-||wǒ tài lèi le 。|
-||I'm too tired.|
-
-|甲|想想孩子。|
-||xiǎngxiang háizi 。|
-||Think of the children.|
-
-|乙|别管我。我，对不起....|
-||bié guǎn wǒ 。 wǒ ， duìbuqǐ . . . .|
-||Leave me be. I'm... I'm sorry.|
+|甲|还有一百米。<br />hái yǒu yībǎi mǐ 。<br />There's still another hundred meters.|
+|乙|我不行了....<br />wǒ bù xíng le . . . .<br />I can't do it....|
+|甲|坚持，坚持，一定要....<br />jiānchí ， jiānchí ， yīdìng yào . . . .<br />Keep at it, you've got to....|
+|乙|我太累了。<br />wǒ tài lèi le 。<br />I'm too tired.|
+|甲|想想孩子。<br />xiǎngxiang háizi 。<br />Think of the children.|
+|乙|别管我。我，对不起....<br />bié guǎn wǒ 。 wǒ ， duìbuqǐ . . . .<br />Leave me be. I'm... I'm sorry.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

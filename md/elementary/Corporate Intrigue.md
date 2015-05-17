@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|哎？你的脸怎么了？|
-||ai ？ nǐ de liǎn zěnme le ？|
-||Hey, what's wrong with your face?|
-
-|乙|唉，别提了。我撞树上了。|
-||āi ， bié tí le 。 wǒ zhuàng shù shàng le 。|
-||Oh, don't get me started. I ran into a tree.|
-
-|甲|我都不认识你了。|
-||wǒ dōu bù rènshi nǐ le 。|
-||I almost didn't recognize you.|
-
-|乙|有那么严重吗？|
-||yǒu nàme yánzhòng ma ？|
-||Is it that bad?|
-
-|甲|你这样儿还嫁得出去吗？|
-||nǐ zhèyàngr hái jià de chūqù ma ？|
-||Are you still going to get married, looking like this?|
-
-|乙|我们能不能别提这事了。|
-||wǒmen néngbùnéng bié tí zhè shì le 。|
-||Can we not talk about this?|
-
-|甲|唉，真难看。|
-||āi ， zhēn nánkàn 。|
-||Wow that's ugly.|
+|甲|哎？你的脸怎么了？<br />ai ？ nǐ de liǎn zěnme le ？<br />Hey, what's wrong with your face?|
+|乙|唉，别提了。我撞树上了。<br />āi ， bié tí le 。 wǒ zhuàng shù shàng le 。<br />Oh, don't get me started. I ran into a tree.|
+|甲|我都不认识你了。<br />wǒ dōu bù rènshi nǐ le 。<br />I almost didn't recognize you.|
+|乙|有那么严重吗？<br />yǒu nàme yánzhòng ma ？<br />Is it that bad?|
+|甲|你这样儿还嫁得出去吗？<br />nǐ zhèyàngr hái jià de chūqù ma ？<br />Are you still going to get married, looking like this?|
+|乙|我们能不能别提这事了。<br />wǒmen néngbùnéng bié tí zhè shì le 。<br />Can we not talk about this?|
+|甲|唉，真难看。<br />āi ， zhēn nánkàn 。<br />Wow that's ugly.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

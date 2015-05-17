@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|呃，你的衣服。|
-||e ， nǐ de yīfu 。|
-||Uh, your clothing....|
-
-|乙|怎么了？|
-||zěnme le ？|
-||What's wrong?|
-
-|甲|你的衣服哪儿去了？|
-||nǐ de yīfu nǎr qù le ？|
-||Where did your clothes go?|
-
-|乙|哦，真丢人。|
-||ò ， zhēn diūrén 。|
-||Oh, how embarrassing.|
+|甲|呃，你的衣服。<br />e ， nǐ de yīfu 。<br />Uh, your clothing....|
+|乙|怎么了？<br />zěnme le ？<br />What's wrong?|
+|甲|你的衣服哪儿去了？<br />nǐ de yīfu nǎr qù le ？<br />Where did your clothes go?|
+|乙|哦，真丢人。<br />ò ， zhēn diūrén 。<br />Oh, how embarrassing.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

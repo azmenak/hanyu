@@ -13,34 +13,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|您好，请输入你的密码。|
-||nínhǎo ， qǐng shūrù nǐ de mìmǎ 。|
-||Hello, please enter your password.|
-
-|乙|哦，好的。|
-||o ， hǎo de 。|
-||Oh, ok.|
-
-|甲|对不起，你输入的密码是错误的。请重新输入密码。|
-||duìbuqǐ ， nǐ shūrù de mìmǎ shì cuòwù de 。 qǐng chóngxīn shūrù mìmǎ 。|
-||I'm sorry, the password you entered is incorrect. Please re-enter your password.|
-
-|乙|错误的？我再输入一遍。|
-||cuòwù de ？ wǒ zài shūrù yībiàn 。|
-||Wrong? I'll enter it again.|
-
-|甲|对不起，你输入的密码是错误的。请重新输入密码。|
-||duìbuqǐ ， nǐ shūrù de mìmǎ shì cuòwù de 。 qǐng chóngxīn shūrù mìmǎ 。|
-||I'm sorry, the password you entered is incorrect. Please re-enter your password.|
-
-|乙|啊，肯定是对的！|
-||ā ， kěndìng shì duì de ！|
-||Huh, that's definitely right.|
-
-|甲|笨蛋，别惹我生气！|
-||bèndàn ， bié rě wǒ shēngqì ！|
-||Idiot, don't make me angry!|
+|甲|您好，请输入你的密码。<br />nínhǎo ， qǐng shūrù nǐ de mìmǎ 。<br />Hello, please enter your password.|
+|乙|哦，好的。<br />o ， hǎo de 。<br />Oh, ok.|
+|甲|对不起，你输入的密码是错误的。请重新输入密码。<br />duìbuqǐ ， nǐ shūrù de mìmǎ shì cuòwù de 。 qǐng chóngxīn shūrù mìmǎ 。<br />I'm sorry, the password you entered is incorrect. Please re-enter your password.|
+|乙|错误的？我再输入一遍。<br />cuòwù de ？ wǒ zài shūrù yībiàn 。<br />Wrong? I'll enter it again.|
+|甲|对不起，你输入的密码是错误的。请重新输入密码。<br />duìbuqǐ ， nǐ shūrù de mìmǎ shì cuòwù de 。 qǐng chóngxīn shūrù mìmǎ 。<br />I'm sorry, the password you entered is incorrect. Please re-enter your password.|
+|乙|啊，肯定是对的！<br />ā ， kěndìng shì duì de ！<br />Huh, that's definitely right.|
+|甲|笨蛋，别惹我生气！<br />bèndàn ， bié rě wǒ shēngqì ！<br />Idiot, don't make me angry!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

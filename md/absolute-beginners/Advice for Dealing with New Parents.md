@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你的孩子还好吗？|
-||nǐ de háizi hái hǎo ma ？|
-||Is your child still ok?|
-
-|乙|她会好的。|
-||tā huì hǎo de 。|
-||She'll be fine.|
-
-|甲|但是... 她已经用了十分钟了。|
-||dànshì . . .  tā yǐjīng yòng le shí fēnzhōng le 。|
-||But... she's already been using it for ten minutes now.|
-
-|乙|她就是有点儿慢。|
-||tā jiùshì yǒudiǎnr màn 。|
-||She's just a little slow.|
+|甲|你的孩子还好吗？<br />nǐ de háizi hái hǎo ma ？<br />Is your child still ok?|
+|乙|她会好的。<br />tā huì hǎo de 。<br />She'll be fine.|
+|甲|但是... 她已经用了十分钟了。<br />dànshì . . .  tā yǐjīng yòng le shí fēnzhōng le 。<br />But... she's already been using it for ten minutes now.|
+|乙|她就是有点儿慢。<br />tā jiùshì yǒudiǎnr màn 。<br />She's just a little slow.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

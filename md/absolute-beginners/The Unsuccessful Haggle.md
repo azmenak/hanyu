@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|谁放屁啦？|
-||shéi fàngpì la ？|
-||Who farted?|
-
-|女|不是我。|
-||bù shì wǒ 。|
-||It wasn't me.|
-
-|男|很臭啊。|
-||hěn chòu a 。|
-||That really smells.|
-
-|女|是你吧！|
-||shì nǐ ba ！|
-||It was you!|
+|男|谁放屁啦？<br />shéi fàngpì la ？<br />Who farted?|
+|女|不是我。<br />bù shì wǒ 。<br />It wasn't me.|
+|男|很臭啊。<br />hěn chòu a 。<br />That really smells.|
+|女|是你吧！<br />shì nǐ ba ！<br />It was you!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

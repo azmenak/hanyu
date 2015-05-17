@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|男|你看过《盗梦空间》吗？|
-||nǐ kàn guo 《 dàomèng kōngjiān 》 ma ？|
-||Have you seen Inception?|
-
-|女|对，它很好。|
-||duì ， tā hěn hǎo 。|
-||Right, it's very good.|
-
-|男|太好了，非常好！|
-||tài hǎo le ， fēicháng hǎo ！|
-||It's really good, extremely good!|
-
-|女|好极了！|
-||hǎo jí le ！|
-||Couldn't be better!|
+|男|你看过《盗梦空间》吗？<br />nǐ kàn guo 《 dàomèng kōngjiān 》 ma ？<br />Have you seen Inception?|
+|女|对，它很好。<br />duì ， tā hěn hǎo 。<br />Right, it's very good.|
+|男|太好了，非常好！<br />tài hǎo le ， fēicháng hǎo ！<br />It's really good, extremely good!|
+|女|好极了！<br />hǎo jí le ！<br />Couldn't be better!|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

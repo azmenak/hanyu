@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|插座儿在哪儿？|
-||chāzuòr zài nǎr ？|
-||Where is the power outlet?|
-
-|乙|你说什么？|
-||nǐ shuō shénme ？|
-||What do you mean?|
-
-|甲|我想用笔记本儿。|
-||wǒ xiǎng yòng bǐjìběnr 。|
-||I want to use a laptop.|
-
-|乙|哦，在这儿。|
-||ò ， zài zhèr 。|
-||Oh, it's here.|
+|甲|插座儿在哪儿？<br />chāzuòr zài nǎr ？<br />Where is the power outlet?|
+|乙|你说什么？<br />nǐ shuō shénme ？<br />What do you mean?|
+|甲|我想用笔记本儿。<br />wǒ xiǎng yòng bǐjìběnr 。<br />I want to use a laptop.|
+|乙|哦，在这儿。<br />ò ， zài zhèr 。<br />Oh, it's here.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

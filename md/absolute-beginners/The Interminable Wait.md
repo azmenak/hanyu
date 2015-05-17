@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|已经八点了。|
-||yǐjīng bā diǎn le 。|
-||It's already eight o'clock.|
-
-|乙|她会来的。|
-||tā huì lái de 。|
-||She'll come.|
-
-|甲|她忘了。|
-||tā wàng le 。|
-||She's forgotten.|
-
-|乙|她说她会来的，我知道她会来的。|
-||tā shuō tā huì lái de ， wǒ zhīdao tā huì lái de 。|
-||She said she'll come. I know she'll come.|
+|甲|已经八点了。<br />yǐjīng bā diǎn le 。<br />It's already eight o'clock.|
+|乙|她会来的。<br />tā huì lái de 。<br />She'll come.|
+|甲|她忘了。<br />tā wàng le 。<br />She's forgotten.|
+|乙|她说她会来的，我知道她会来的。<br />tā shuō tā huì lái de ， wǒ zhīdao tā huì lái de 。<br />She said she'll come. I know she'll come.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

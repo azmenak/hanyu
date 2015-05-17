@@ -11,26 +11,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|请进。|
-||qǐng jìn 。|
-||Come in.|
-
-|乙|请问王先生在吗？|
-||qǐngwèn Wáng xiānsheng zài ma ？|
-||Excuse me, is Mr. Wang in?|
-
-|甲|稍等。他马上来。|
-||shāoděng 。 tā mǎshàng lái 。|
-||Wait a moment. He'll be here right away.|
-
-|乙|好的。|
-||hǎo de 。|
-||Ok.|
-
-|甲|我先失陪了。|
-||wǒ xiān shīpéi le 。|
-||I have to excuse myself.|
+|甲|请进。<br />qǐng jìn 。<br />Come in.|
+|乙|请问王先生在吗？<br />qǐngwèn Wáng xiānsheng zài ma ？<br />Excuse me, is Mr. Wang in?|
+|甲|稍等。他马上来。<br />shāoděng 。 tā mǎshàng lái 。<br />Wait a moment. He'll be here right away.|
+|乙|好的。<br />hǎo de 。<br />Ok.|
+|甲|我先失陪了。<br />wǒ xiān shīpéi le 。<br />I have to excuse myself.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

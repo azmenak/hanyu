@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|嘿，我刚做了些苹果派在厨房里。|
-||hei ， wǒ gāng zuò le xiē píngguǒ pài zài chúfáng lǐ 。|
-||Hey，I just made some apple pie in the kitchen.|
-
-|男|太棒了，我最爱吃苹果派了。|
-||tài bàng le ， wǒ zuì ài chī píngguǒpài le 。|
-||Fantastic, apple pie is my favorite.|
-
-|女|好，那让我们去吃吧。|
-||hǎo ， nà ràng wǒmen qù chī ba 。|
-||Great，let's go and eat.|
-
-|男|走吧。|
-||zǒu ba 。|
-||Let's go.|
-
-|女|天哪！原始人在吃我的派。|
-||tiānna ！ yuánshǐrén zài chī wǒde pài 。|
-||Heavens! The caveman is eating my pie.|
-
-|动物|派....|
-||pài ....|
-||Pie....|
+|女|嘿，我刚做了些苹果派在厨房里。<br />hei ， wǒ gāng zuò le xiē píngguǒ pài zài chúfáng lǐ 。<br />Hey，I just made some apple pie in the kitchen.|
+|男|太棒了，我最爱吃苹果派了。<br />tài bàng le ， wǒ zuì ài chī píngguǒpài le 。<br />Fantastic, apple pie is my favorite.|
+|女|好，那让我们去吃吧。<br />hǎo ， nà ràng wǒmen qù chī ba 。<br />Great，let's go and eat.|
+|男|走吧。<br />zǒu ba 。<br />Let's go.|
+|女|天哪！原始人在吃我的派。<br />tiānna ！ yuánshǐrén zài chī wǒde pài 。<br />Heavens! The caveman is eating my pie.|
+|动物|派....<br />pài ....<br />Pie....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

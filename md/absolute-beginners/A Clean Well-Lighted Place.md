@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|你叫什么？|
-||nǐ jiào shénme ？|
-||What are you called?|
-
-|男|我叫布拉德·皮特。你呢？|
-||wǒ jiào bùlādé pítè 。 nǐ ne ？|
-||I'm Brad Pitt, how about you?|
-
-|女|我叫安杰利娜·朱莉。|
-||wǒ jiào ānjiélìnà · zhūlì 。|
-||I'm Angelina Jolie.|
-
-|男|啊... 你很漂亮。|
-||ā ... nǐ hěn piàoliang 。|
-||Ah, you are pretty.|
+|女|你叫什么？<br />nǐ jiào shénme ？<br />What are you called?|
+|男|我叫布拉德·皮特。你呢？<br />wǒ jiào bùlādé pítè 。 nǐ ne ？<br />I'm Brad Pitt, how about you?|
+|女|我叫安杰利娜·朱莉。<br />wǒ jiào ānjiélìnà · zhūlì 。<br />I'm Angelina Jolie.|
+|男|啊... 你很漂亮。<br />ā ... nǐ hěn piàoliang 。<br />Ah, you are pretty.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

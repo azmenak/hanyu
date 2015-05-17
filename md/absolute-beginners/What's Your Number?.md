@@ -10,22 +10,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女|你今天怎么样?|
-||nǐ jīntiān zěnmeyàng ?|
-||How are you today?|
-
-|男|我不怎么样。|
-||wǒ bù zěnmeyàng 。|
-||I'm not too good.|
-
-|女|为什么不怎么样?|
-||wèishénme bù zěnmeyàng ?|
-||Why aren't you feeling so good?|
-
-|男|因为我熬夜了，很累。|
-||yīnwèi wǒ áoyè le ， hěn lèi 。|
-||Because I was up all night, I'm tired.|
+|女|你今天怎么样?<br />nǐ jīntiān zěnmeyàng ?<br />How are you today?|
+|男|我不怎么样。<br />wǒ bù zěnmeyàng 。<br />I'm not too good.|
+|女|为什么不怎么样?<br />wèishénme bù zěnmeyàng ?<br />Why aren't you feeling so good?|
+|男|因为我熬夜了，很累。<br />yīnwèi wǒ áoyè le ， hěn lèi 。<br />Because I was up all night, I'm tired.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

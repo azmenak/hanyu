@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|甲|你别动!|
-||nǐ bié dòng !|
-||Don't move, you!|
-
-|乙|没事!|
-||méishì !|
-||Don't worry about it!|
-
-|甲|别动!|
-||bié dòng !|
-||Don't move!|
-
-|乙|没事!|
-||méishì !|
-||There's nothing wrong!|
-
-|甲|别动!|
-||bié dòng !|
-||Don't move!|
-
-|乙|没....|
-||méi ....|
-||There's no....|
+|甲|你别动!<br />nǐ bié dòng !<br />Don't move, you!|
+|乙|没事!<br />méishì !<br />Don't worry about it!|
+|甲|别动!<br />bié dòng !<br />Don't move!|
+|乙|没事!<br />méishì !<br />There's nothing wrong!|
+|甲|别动!<br />bié dòng !<br />Don't move!|
+|乙|没....<br />méi ....<br />There's no....|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

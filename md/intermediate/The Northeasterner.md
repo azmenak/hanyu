@@ -12,30 +12,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-
-|女的|亲爱的，咱们别再泡网吧了。|
-||qīn`ài de ， zánmen bié zài pào wǎngbā le 。|
-||Baby, let's stop wasting time at this Internet Cafe.|
-
-|男的|稍等一下，我先救了这盘人质。|
-||shāoděng yīxià ， wǒ xiān jiù le zhè pán rénzhì 。|
-||Wait a sec, let me save this round of hostages first.|
-
-|女的|你不是说要带我去一个见证我们伟大爱情的地方吗?|
-||nǐ bù shì shuō yào dài wǒ qù yī ge jiànzhèng wǒmen wěidà àiqíng de dìfang ma ?|
-||Didn't you say you'd take me to a place suited to our great love?|
-
-|男的|啊，你看这不就是吗?|
-||a ， nǐ kàn zhè bù jiùshì ma ?|
-||Huh, what do you think this is?|
-
-|女的|原来你是带我来打CS，哼。|
-||yuánlái nǐ shì dài wǒ lái dǎ CS ， hèng 。|
-||So, you brought me here to play Counterstrike? Humph.|
-
-|女的|哎呀，快趴下，你后面有匪。|
-||aiya ， kuài pāxià ， nǐ hòumian yǒu fěi 。|
-||Get down quickly, there's a terrorist behind you.|
+|女的|亲爱的，咱们别再泡网吧了。<br />qīn`ài de ， zánmen bié zài pào wǎngbā le 。<br />Baby, let's stop wasting time at this Internet Cafe.|
+|男的|稍等一下，我先救了这盘人质。<br />shāoděng yīxià ， wǒ xiān jiù le zhè pán rénzhì 。<br />Wait a sec, let me save this round of hostages first.|
+|女的|你不是说要带我去一个见证我们伟大爱情的地方吗?<br />nǐ bù shì shuō yào dài wǒ qù yī ge jiànzhèng wǒmen wěidà àiqíng de dìfang ma ?<br />Didn't you say you'd take me to a place suited to our great love?|
+|男的|啊，你看这不就是吗?<br />a ， nǐ kàn zhè bù jiùshì ma ?<br />Huh, what do you think this is?|
+|女的|原来你是带我来打CS，哼。<br />yuánlái nǐ shì dài wǒ lái dǎ CS ， hèng 。<br />So, you brought me here to play Counterstrike? Humph.|
+|女的|哎呀，快趴下，你后面有匪。<br />aiya ， kuài pāxià ， nǐ hòumian yǒu fěi 。<br />Get down quickly, there's a terrorist behind you.|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
