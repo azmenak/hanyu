@@ -7,9 +7,9 @@ data = JSON.parse fs.readFileSync('combined.json', 'utf-8')
 groupedByLevel = _.groupBy(data, 'level')
 
 for level, lessons of groupedByLevel
-  mkdirp.sync "./md/#{level}"
+  mkdirp.sync "./txt/#{level}"
   for lesson in lessons
-    md = """
+    txt = """
       # #{lesson.title}
       ## *#{lesson.level}* level
 
@@ -17,22 +17,16 @@ for level, lessons of groupedByLevel
       #{lesson.pasteboard}
 
       ### Pinyin and Translation
-      |说人|句子|
-      |----|----|
     """
     for sentence in lesson.transcript
       l   = sentence.speaker.length
-      md += "\n|#{sentence.speaker}|#{sentence.chinese}|"
-      md += "\n||#{sentence.pinyin}|"
-      md += "\n||#{sentence.translation}|"
+      pad = if l >= 1 then (l*2)+2 else 0
+      txt += "\n\n#{if l >= 1 then sentence.speaker+': ' else ''}#{sentence.chinese}"
+      txt += "\n#{_.repeat(' ', pad)}#{sentence.pinyin}"
+      txt += "\n#{_.repeat(' ', pad)}#{sentence.translation}"
 
-    md += """
-
-      ### Vocab
-      |汉子|拼音|英文|词类|
-      |----|----|----|----|
-    """
+    txt += "\n### Vocab"
     for word in lesson.vocab
-      md += "\n|#{word.hanzi}|#{word.pinyin}|#{word.definition}|#{word.partOfSpeach}|"
+      txt += "\n-#{word.hanzi} (#{word.pinyin}) [#{word.partOfSpeach}] #{word.definition}"
 
-    fs.writeFileSync "./md/#{level}/#{lesson.title}.md", md
+    fs.writeFileSync "./txt/#{level}/#{lesson.title}.txt", txt
