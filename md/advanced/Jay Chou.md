@@ -1,0 +1,76 @@
+# Jay Chou
+## *advanced* level
+
+### Chinese Text
+甲：董事长您好，谢谢您给我这次机会，给大家介绍一下我们公司的设计图。下面大家请看....
+乙：呃，她，她，她....
+丙：不要紧，咱们谈正事，正如我同事刚才所说的，我们即将为您打造的是一个全新理念的办公环境。您看到手中的报表，翻到第十三页。
+乙：那个，她...不要紧吧？
+丙：噢，不要紧，这些都不重要，重要的是您马上赶紧看到十三页，上面的计划可以让您的办公效率提高35％。
+乙：我是说...要不要给她叫辆救护车呀？
+丙：董事长，我实话实说，您觉得到底是贵公司的利益重要，还是我同事的安危重要？
+乙：说实话，你们这个数据，是挺诱人的....
+丙：那我们还是继续谈工作吧。
+乙：好。
+
+### Pinyin and Translation
+|说人|句子|
+|----|----|
+
+|甲|董事长您好，谢谢您给我这次机会，给大家介绍一下我们公司的设计图。下面大家请看....|
+||dǒngshìzhǎng nínhǎo ， xièxie nín gěi wǒ zhè cì jīhuì ， gěi dàjiā jièshào yīxià wǒmen gōngsī de shèjìtú 。 xiàmian dàjiā qǐng kàn . . . .|
+||Hello, Mr. Chairman. Thank you for giving me this opportunity to introduce our company's plan. Now if everyone would please look....|
+
+|乙|呃，她，她，她....|
+||e ， tā ， tā ， tā . . . .|
+||Uh... she, she, she....|
+
+|丙|不要紧，咱们谈正事，正如我同事刚才所说的，我们即将为您打造的是一个全新理念的办公环境。您看到手中的报表，翻到第十三页。|
+||bù yào jǐn ， zánmen tán zhèngshì ， zhèngrú wǒ tóngshì gāngcái suǒ shuō de ， wǒmen jíjiāng wèi nín dǎzào de shì yī ge quánxīn lǐniàn de bàngōng huánjìng 。 nín kàndào shǒu zhōng de bàobiǎo ， fāndào dì shísān yè 。|
+||Don't be alarmed, and let's talk about business. As my colleague was just saying, we will create an entirely new office environment concept for you. Now if you'll please turn to page thirteen and look at the chart....|
+
+|乙|那个，她...不要紧吧？|
+||nàge ， tā . . . bù yào jǐn ba ？|
+||Well, is she going to be ok?|
+
+|丙|噢，不要紧，这些都不重要，重要的是您马上赶紧看到十三页，上面的计划可以让您的办公效率提高35％。|
+||o ， bù yào jǐn ， zhèxiē dōu bù zhòngyào ， zhòngyào de shì nín mǎshàng gǎnjǐn kàndào shísān yè ， shàngmian de jìhuà kěyǐ ràng nín de bàngōng xiàolǜ tígāo bǎifēn zhī sānshíwǔ 。|
+||There's no reason to be alarmed. This isn't important. What's important is that you turn to page thirty right away. The plan outlined there can raise your office efficiency by 35 percent.|
+
+|乙|我是说...要不要给她叫辆救护车呀？|
+||wǒ shì shuō . . . yào bu yào gěi tā jiào liàng jiùhùchē ya ？|
+||What I mean is... shouldn't we get her an ambulance?|
+
+|丙|董事长，我实话实说，您觉得到底是贵公司的利益重要，还是我同事的安危重要？|
+||dǒngshìzhǎng ， wǒ shíhuàshíshuō ， nín juéde dàodǐ shì guì gōngsī de lìyì zhòngyào ， hái shì wǒ tóngshì de ānwēi zhòngyào ？|
+||Let me speak directly Mr. Chairman. Do you feel that your company's profit is important, or the health and welfare of my colleague?|
+
+|乙|说实话，你们这个数据，是挺诱人的....|
+||shuōshíhuà ， nǐmen zhège shùjù ， shì tǐng yòurén de . . . .|
+||To be honest, your numbers here are really enticing....|
+
+|丙|那我们还是继续谈工作吧。|
+||nà wǒmen hái shì jìxù tán gōngzuò ba 。|
+||Then let's continue talking about work.|
+
+|乙|好。|
+||hǎo 。|
+|||
+### Vocab
+|汉子|拼音|英文|词类|
+|----|----|----|----|
+|最高峰|zuì gāofēng|highest peak|phrase|
+|适得其反|shìdéqífǎn|to get the opposite result|chengyu|
+|夜宵|yèxiāo|late-night snack|noun|
+|沉稳|chénwěn|stable|adjective|
+|瘦身|shòushēn|thin body|noun|
+|貌似|màosì|seems|adverb|
+|骨头架子|gǔtou jiàzi|bony frame|phrase|
+|食欲|shíyù|desire for food|noun|
+|豆制品|dòuzhipǐn|tofu product|noun|
+|人品|rénpǐn|personal character|noun|
+|极端|jíduān|extreme|adjective|
+|可劲儿|kějinr4|strenuously|adverb|
+|针灸|zhēnjiǔ|acupuncture|noun|
+|反弹|fǎntán|to spring back|verb|
+|一蹴而就|yīcùérjiù|to achieve one's goals in one move|chengyu|

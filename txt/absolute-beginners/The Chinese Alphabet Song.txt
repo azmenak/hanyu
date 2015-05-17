@@ -1,0 +1,26 @@
+# The Chinese Alphabet Song
+## *absolute-beginners* level
+
+### Chinese Text
+甲：姚葳，姚葳，你在吗？问你个问题！
+乙：她今天很忙。
+
+### Pinyin and Translation
+
+甲: 姚葳，姚葳，你在吗？问你个问题！
+    Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！
+    Echo, Echo, are you there? I've got a question to ask!
+
+乙: 她今天很忙。
+    tā jīntiān hěn máng 。
+    She's very busy today.
+### Vocab
+-你 (nǐ) [pronoun] you
+-有 (yǒu) [verb] to have
+-没有 (méiyǒu) [verb] not to have
+-有没有 (yǒu méiyǒu) [question] to have or not to have
+-中文字幕 (zhōngwén zìmù) [noun] Chinese subtitles
+-吗 (ma) [question] (question particle)
+-妈的 (māde) [slang] damn
+-听得懂 (tīngdedǒng) [phrase] to understand
+-听不懂 (tīngbùdǒng) [phrase] not to understand

@@ -1,0 +1,42 @@
+# A Glass of Ice Water
+## *absolute-beginners* level
+
+### Chinese Text
+甲：这是第一次吗？
+乙：不，第二次。
+甲：这个疫苗需要打三次。
+乙：我需要回来吗？
+甲：六个月以后，再来一次。
+
+### Pinyin and Translation
+
+甲: 这是第一次吗？
+    zhè shì dì yī cì ma ？
+    This is your first time?
+
+乙: 不，第二次。
+    bù ， dì èr cì 。
+    No. The second time.
+
+甲: 这个疫苗需要打三次。
+    zhège yìmiáo xūyào dǎ sān cì 。
+    This vaccine needs three injections.
+
+乙: 我需要回来吗？
+    wǒ xūyào huílai ma ？
+    I need to come back?
+
+甲: 六个月以后，再来一次。
+    liù  ge yuè yǐhòu ， zài lái yī cì 。
+    Come back once more after six months.
+### Vocab
+-蛐蛐 (qūqur) [noun] cricket
+-蝈蝈 (guōguor) [noun] grasshopper
+-知道 (zhīdào) [verb] to know
+-说话 (shuōhuà) [verb] to speak
+-会 (huì) [verb] can
+-还 (hái) [adverb] still
+-不 (bù) [adverb] not
+-没 (méi) [adverb] not
+-真没辙 (zhēn méizhé) [phrase] there's nothing anyone can do about it
+-没办法 (méibànfǎ) [phrase] there's no way

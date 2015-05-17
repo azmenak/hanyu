@@ -1,0 +1,108 @@
+# Strange and Unusual Erhuaization
+## *intermediate* level
+
+### Chinese Text
+[第一部]
+甲：能借我根儿笔吗？
+乙：哎，你怎么又来借笔？
+甲：我需要用。
+乙：可是上次那几根儿你还没还呢。
+甲：我这次一定还。
+乙：唉，好吧，这次一定还我。
+[第二部]
+乙：哎，小姜。
+甲：小秦？！
+乙：哎，你看，我没忘吧。
+丙：他是谁？
+乙：你的笔呀。
+甲：你是怎么进来的？
+乙：跟你保证过，说到做到。
+丙：你疯了吗？
+乙：哎，别起来，你们忙，我把笔放桌上了啊，明儿见。
+
+### Pinyin and Translation
+
+[第一部]
+[ dì yī bù ]
+[part one]
+
+甲: 能借我根儿笔吗？
+    néng jiè wǒ gēnr bǐ ma ？
+    Can you lend me a pen?
+
+乙: 哎，你怎么又来借笔？
+    ai ， nǐ zěnme yòu lái jiè bǐ ？
+    Hey, what are you doing asking for another pen?
+
+甲: 我需要用。
+    wǒ xūyào yòng 。
+    I need to use one.
+
+乙: 可是上次那几根儿你还没还呢。
+    kěshì shàng cì nà jǐ gēnr nǐ hái méi huán ne 。
+    But you still haven't returned the last ones I gave you.
+
+甲: 我这次一定还。
+    wǒ zhè cì yīdìng huán 。
+    This time I'll return them for sure.
+
+乙: 唉，好吧，这次一定还我。
+    āi ， hǎo ba ， zhè cì yīdìng huán wǒ 。
+    Ok. But you've got to give it back this time.
+
+[第二部]
+[ dì èr bù ]
+[part two]
+
+乙: 哎，小姜。
+    ai ， Xiǎo Jiāng 。
+    Hey, Xiao Jiang.
+
+甲: 小秦？！
+    Xiǎo Qín ？ ！
+    Xiao Qin?!
+
+乙: 哎，你看，我没忘吧。
+    ai ， nǐ kàn ， wǒ méi wàng ba 。
+    Hey, look, I didn't forget.
+
+丙: 他是谁？
+    tā shì shéi ？
+    Who is he?
+
+乙: 你的笔呀。
+    nǐ de bǐ ya 。
+    Your pen.
+
+甲: 你是怎么进来的？
+    nǐ shì zěnme jìnlai de ？
+    How did you get in?
+
+乙: 跟你保证过，说到做到。
+    gēn nǐ bǎozhèng guò ， shuōdào zuòdào 。
+    Like I promised you, my word is my bond.
+
+丙: 你疯了吗？
+    nǐ fēng le ma ？
+    Are you crazy?
+
+乙: 哎，别起来，你们忙，我把笔放桌上了啊，明儿见。
+    ai ， bié qǐlai ， nǐmen máng ， wǒ bǎ bǐ fàng zhuō shàng le a ， míngr jiàn 。
+    No, don't get up. Keep doing what you're doing. I'll put the pen on the table. See you tomorrow.
+### Vocab
+-决不能 (juébù néng) [verb] absolutely cannot
+-倒霉 (dǎoméi) [adjective] unlucky
+-击落 (jīluò) [verb] to shoot down
+-今儿 (jīnr) [noun] today
+-架 (jià) [measure] (measure word for aircraft)
+-敌机 (díjī) [noun] enemy aircraft
+-照 (zhào) [conjunction] following
+-按照 (ànzhào) [conjunction] according to
+-照着 (zhàozhe) [conjunction] going by
+-消灭 (xiāomiè) [verb] to perish
+-跳伞 (tiàosǎn) [verb] to parachute
+-发射 (fāshè) [verb] to launch
+-毒气弹 (dúqìdàn) [noun] poison gas bomb
+-枚 (méi) [measure] (measure word for bombs)
+-火箭弹 (huǒjiàndàn) [noun] rocket mortar
+-手下留情 (shǒuxiàliúqíng) [idiom] to show mercy

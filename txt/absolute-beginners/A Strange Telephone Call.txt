@@ -1,0 +1,53 @@
+# A Strange Telephone Call
+## *absolute-beginners* level
+
+### Chinese Text
+甲：Echo，祝你生日快乐！
+Echo：谢谢！
+乙：Echo，生日快乐！
+Echo：谢谢！
+丙：我的呢？
+甲：呃......，你也生日快乐。
+乙：嗯，快乐。
+
+### Pinyin and Translation
+
+甲: Echo，祝你生日快乐！
+    Echo ， zhù nǐ shēngrì kuàilè ！
+    Happy Birthday, Echo!
+
+Echo: 谢谢！
+          xièxie ！
+          Thanks!
+
+乙: Echo，生日快乐！
+    Echo ， shēngrì kuàilè ！
+    Happy Birthday, Echo!
+
+Echo: 谢谢！
+          xièxie ！
+          Thanks!
+
+丙: 我的呢？
+    wǒ de ne ？
+    
+
+甲: 呃......，你也生日快乐。
+    e ...... ， nǐ yě shēngrì kuàilè 。
+    Hmm.... happy birthday to you too.
+
+乙: 嗯，快乐。
+    ng ， kuàilè 。
+    Yeah, happy birthday.
+### Vocab
+-天气 (tiānqì) [noun] weather
+-生活 (shēnghuó) [noun] life
+-生菜 (shēngcài) [noun] lettuce
+-很 (hěn) [adverb] very
+-真 (zhēn) [adverb] really
+-好 (hǎo) [adjective] good
+-也 (yě) [conjunction] also
+-好吃 (hǎochī) [adjective] tasty
+-兔子 (tùzi) [noun] rabbit
+-累 (lèi) [adjective] tired
+-饿 (è) [adjective] hungry

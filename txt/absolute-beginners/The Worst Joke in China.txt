@@ -1,0 +1,37 @@
+# The Worst Joke in China
+## *absolute-beginners* level
+
+### Chinese Text
+甲：哦，我好饿。
+乙：那吃吧。
+甲：吃什么？
+乙：笨蛋！吃饭！
+
+### Pinyin and Translation
+
+甲: 哦，我好饿。
+    ò ， wǒ hǎo è 。
+    I'm really hungry.
+
+乙: 那吃吧。
+    nà chī ba 。
+    Eat then.
+
+甲: 吃什么？
+    chī shénme ？
+    Eat what?
+
+乙: 笨蛋！吃饭！
+    bèndàn ！ chīfàn ！
+    Idiot! Eat food!
+### Vocab
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I
+-妈妈 (māma) [noun] mother
+-爸爸 (bàba) [noun] father
+-买 (mǎi) [verb] to buy
+-给 (gěi) [verb] to give
+-礼物 (lǐwù) [noun] gift
+-吗 (ma) [particle] question particle
+-为什么 (wèishénme) [question] why
+-因为 (yīnwèi) [conjunction] because

@@ -1,0 +1,55 @@
+# Shanghai 2010: The Crime Wave
+## *elementary* level
+
+### Chinese Text
+甲：服务员，这个筷子有点脏。
+乙：哦，没事儿，我帮您换一双。
+甲：谢谢你啊。
+乙：不用谢。只不过就是厨师感冒了而已。
+甲：感冒？
+乙：对呀，他不是打喷嚏就是流鼻涕的，脏死了。
+甲：这是鼻涕？
+乙：祝您用餐愉快！
+
+### Pinyin and Translation
+
+甲: 服务员，这个筷子有点脏。
+    fúwùyuán ， zhège kuàizi yǒudiǎn zāng 。
+    Waiter, this pair of chopsticks is a little dirty.
+
+乙: 哦，没事儿，我帮您换一双。
+    ò ， méi shìr ， wǒ bāng nín huàn yī shuāng 。
+    Oh, no problem. I will help you get a new pair.
+
+甲: 谢谢你啊。
+    xièxie nǐ ā 。
+    Thanks a bunch.
+
+乙: 不用谢。只不过就是厨师感冒了而已。
+    bù yòng xiè 。 zhǐ bùguò jiùshì chúshī gǎnmào le éryǐ 。
+    Don't mention it. It's just that the chef has caught a cold, that's all.
+
+甲: 感冒？
+    gǎnmào ？
+    Cold?
+
+乙: 对呀，他不是打喷嚏就是流鼻涕的，脏死了。
+    duì ya ， tā bù shì dǎ pēnti jiùshì liú bíti de ， zāng sǐ le 。
+    That's right, he's not sneezing, just a runny nose, filthy.
+
+甲: 这是鼻涕？
+    zhè shì bíti ？
+    Is this snot?
+
+乙: 祝您用餐愉快！
+    zhù nín yòng cān yúkuài ！
+    Wish you happy eating!
+### Vocab
+-呃 (e) [sound] uhhh
+-哦 (ò) [sound] oh
+-衣服 (yīfu) [noun] clothing
+-怎么了 (zěnme le) [phrase] what's wrong
+-哪儿去 (nǎr qù) [verb phrase] to get off to where
+-去哪儿 (qù nǎr) [verb phrase] to go where
+-丢人 (diūrén) [verb] to lose face
+-真 (zhēn) [adverb] really

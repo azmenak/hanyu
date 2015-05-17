@@ -1,0 +1,37 @@
+# Where is the Washroom
+## *absolute-beginners* level
+
+### Chinese Text
+男的：服务员!
+男的：我要一个这个，两个这个，一个那个。
+女的：您一个人吗?
+男的：我饿了。
+
+### Pinyin and Translation
+
+男的: 服务员!
+      fúwùyuán !
+      Waiter!
+
+男的: 我要一个这个，两个这个，一个那个。
+      wǒ yào yī ge zhège ， liǎng ge zhège ， yī ge nàge 。
+      I want one of these, two of these, and one of those.
+
+女的: 您一个人吗?
+      nín yī ge rén ma ?
+      Are you eating alone?
+
+男的: 我饿了。
+      wǒ è le 。
+      I'm hungry.
+### Vocab
+-你 (nǐ) [pronoun] you
+-需要 (xūyào) [verb] to need
+-什么 (shénme) [question] what
+-啤酒 (píjiǔ) [noun] beer
+-一 (yī) [number] one
+-扎 (zhā) [measure word] draft
+-还是 (hái shì) [conjunction] or
+-瓶 (píng) [measure word] bottle
+-水 (shuǐ) [noun] water
+-杯 (bēi) [measure word] glass

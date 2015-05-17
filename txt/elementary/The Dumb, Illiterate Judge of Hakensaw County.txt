@@ -1,0 +1,50 @@
+# The Dumb, Illiterate Judge of Hakensaw County
+## *elementary* level
+
+### Chinese Text
+甲：哎，你喂猫了吗？
+乙：没有，你喂猫了吗？
+甲：没有。你昨天喂了吗？
+乙：没有，你呢？
+甲：我也没喂。
+乙：怪不得他今天这么老实。
+
+### Pinyin and Translation
+
+甲: 哎，你喂猫了吗？
+    ai ， nǐ wèi māo le ma ？
+    Hey, you feed the cat?
+
+乙: 没有，你喂猫了吗？
+    méiyǒu ， nǐ wèi māo le ma ？
+    No, you feed the cat?
+
+甲: 没有。你昨天喂了吗？
+    méiyǒu 。 nǐ zuótiān wèi le ma ？
+    No. Did you feed it yesterday?
+
+乙: 没有，你呢？
+    méiyǒu ， nǐ ne ？
+    No, you?
+
+甲: 我也没喂。
+    wǒ yě méi wèi 。
+    I didn't either.
+
+乙: 怪不得他今天这么老实。
+    guàibudé tā jīntiān zhème lǎoshi 。
+    No wonder he's being so good today.
+### Vocab
+-芬达 (fēndá) [noun] Fanta
+-刚 (gāng) [adverb] just recently
+-瓶 (píng) [measure word] bottle
+-吧 (ba) [particle] (suggestion)
+-正好 (zhènghǎo) [adverb] as it happens
+-就着 (jiùzhe) [verb] together with
+-就 (jiù) [verb] along with
+-披萨 (pīsà) [noun] pizza
+-一起 (yīqǐ) [adverb] together
+-原始人 (yuánshǐrén) [noun] caveman
+-厨房 (chúfáng) [noun] kitchen
+-可 (kě) [particle] (adds emphasis)
+-可是 (kěshì) [conjunction] but

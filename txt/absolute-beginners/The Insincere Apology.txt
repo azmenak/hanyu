@@ -1,0 +1,39 @@
+# The Insincere Apology
+## *absolute-beginners* level
+
+### Chinese Text
+一：哎，怎么下雨了？
+二：哦，没下雨啊。
+一：那我怎么....
+三：哎，不好意思！
+
+### Pinyin and Translation
+
+一: 哎，怎么下雨了？
+    āi ， zěnme xiàyǔ le ？
+    Hey, is it raining?
+
+二: 哦，没下雨啊。
+    ò ， méi xiàyǔ ā 。
+    Huh, it isn't raining.
+
+一: 那我怎么....
+    nà wǒ zěnme ....
+    Then why do I....
+
+三: 哎，不好意思！
+    āi ， bùhǎoyìsi ！
+    Hey, sorry about that!
+### Vocab
+-我 (wǒ) [pronoun] I, me
+-你 (nǐ) [pronoun] you
+-钥匙 (yàoshi) [noun] key
+-手机 (shǒujī) [noun] cellphone
+-钱包 (qiánbāo) [noun] wallet
+-昨天 (zuótiān) [noun] yesterday
+-在 (zài) [verb] to be at
+-知道 (zhīdào) [verb] to know
+-看 (kàn) [verb] to look
+-见 (jiàn) [verb] to see
+-哪儿 (nǎr) [question] where
+-怎么 (zěnme) [question] how

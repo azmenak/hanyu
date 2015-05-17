@@ -1,0 +1,41 @@
+# The Numbers
+## *absolute-beginners* level
+
+### Chinese Text
+男的：你需要点儿什么？
+女的：啤酒。
+男的：一扎还是一瓶儿?
+女的：一瓶儿。
+
+### Pinyin and Translation
+
+男的: 你需要点儿什么？
+      nǐ xūyào diǎnr shénme ？
+      What would you like?
+
+女的: 啤酒。
+      píjiǔ 。
+      Beer.
+
+男的: 一扎还是一瓶儿?
+      yī zhā hái shì yī píngr ?
+      A draft or a bottle?
+
+女的: 一瓶儿。
+      yī píngr 。
+      A bottle.
+### Vocab
+-服务员 (fúwùyuán) [noun] waiter
+-我 (wǒ) [pronoun] I
+-您 (nín) [pronoun] you
+-要 (yào) [verb] to want
+-一 (yī) [number] one
+-两 (liǎng) [number] two
+-个 (ge) [measure word] (measure word)
+-人 (rén) [noun] person
+-吗 (ma) [question marker] (question marker)
+-饿 (è) [adjective] hungry
+-这 (zhè) [determiner] this
+-那 (nà) [determiner] that
+-这个 (zhège) [phrase] this one
+-那个 (nàge) [phrase] that one

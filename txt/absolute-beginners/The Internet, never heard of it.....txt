@@ -1,0 +1,31 @@
+# The Internet, never heard of it....
+## *absolute-beginners* level
+
+### Chinese Text
+一：你舒服吗？
+二：我很舒服，为什么？啊！
+一：开玩笑。
+
+### Pinyin and Translation
+
+一: 你舒服吗？
+    nǐ shūfu ma ？
+    Are you comfortable?
+
+二: 我很舒服，为什么？啊！
+    wǒ hěn shūfu ， wèishénme ？ a ！
+    I'm very comfortable, why? Arg!
+
+一: 开玩笑。
+    kāi wánxiào 。
+    Just kidding.
+### Vocab
+-你 (nǐ) [pronoun] you
+-在 (zài) [preposition] at
+-哪儿 (nǎr) [question] where
+-什么 (shénme) [question] what
+-网上 (wǎngshàng) [noun] online
+-因特网 (yīntèwǎng) [noun] Internet
+-没听说过 (méi tīngshuō guo) [phrase] not to have heard of
+-没听见 (méi tīngjiàn) [phrase] not to have heard
+-没听懂 (méi tīngdǒng) [phrase] not to have understood

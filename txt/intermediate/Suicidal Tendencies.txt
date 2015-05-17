@@ -1,0 +1,58 @@
+# Suicidal Tendencies
+## *intermediate* level
+
+### Chinese Text
+甲：喂，别跳！
+乙：你们都别管我，我的钱全部都被骗光了。
+甲：你的人生是有价值的，而且你刚中了联合国大奖，四百万。
+乙：你们都是些骗子！
+甲：我是来救你的命，也给你带来一个惊喜，今天下午就可以转账给你。
+甲：你先从阳台上下来，去拿你的银行卡。
+
+### Pinyin and Translation
+
+甲: 喂，别跳！
+    wèi ， bié tiào ！
+    Hey, don't jump!
+
+乙: 你们都别管我，我的钱全部都被骗光了。
+    nǐmen dōu bié guǎn wǒ ， wǒ de qián quánbù dōu bèi piànguāng le 。
+    Don't pay any attention to me. I've been cheated out of all my money.
+
+甲: 你的人生是有价值的，而且你刚中了联合国大奖，四百万。
+    nǐ de rénshēng shì yǒu jiàzhí de ， érqiě nǐ gāng zhòng le Liánhéguó dàjiǎng ， sìbǎiwàn 。
+    Your life still has value, and you've just won a prize from the United Nations worth four million.
+
+乙: 你们都是些骗子！
+    nǐmen dōu shì xiē piànzi ！
+    You're all frauds!
+
+甲: 我是来救你的命，也给你带来一个惊喜，今天下午就可以转账给你。
+    wǒ shì lái jiù nǐ de mìng ， yě gěi nǐ dàilái yī ge jīngxǐ ， jīntiān xiàwǔ jiù kěyǐ zhuǎnzhàng gěi nǐ 。
+    I've come to save your life, and bring you a pleasant surprise. We can transfer the money into your account this afternoon.
+
+甲: 你先从阳台上下来，去拿你的银行卡。
+    nǐ xiān cóng yángtái shàng xiàlai ， qù ná nǐ de yínhángkǎ 。
+    Come down off the balcony, and go get your bank card.
+### Vocab
+-饥饿 (jī'è) [noun] hunger
+-革命 (gémìng) [noun] revolution
+-起义 (qǐyì) [noun] uprising
+-暴乱 (bàoluàn) [noun] riot
+-序曲 (xùqǔ) [noun] prelude
+-养活 (yǎnghuo) [verb] to support
+-贡献 (gòngxiàn) [noun] contribution
+-收拾 (shōushi) [verb] to put in order
+-财产 (cáichǎn) [noun] property
+-阶级 (jiējí) [noun] class
+-汉奸 (hànjiān) [noun] race traitor
+-走狗 (zǒugǒu) [noun] running-dog
+-卖国贼 (màiguózéi) [noun] traitor
+-不安分 (bù ānfèn) [adjective] restless
+-懒骨头 (lǎngǔtóu) [noun] lazy-bones
+-反动派 (fǎndòngpài) [noun] reactionary force
+-无产阶级 (wúchǎnjiējí) [noun] proletariat
+-资产阶级 (zīchǎnjiējí) [noun] bourgeoisie
+-游手好闲 (yóushǒuhàoxián) [adjective] to do nothing
+-自然淘汰 (zìrán táotài) [phrase] natural selection
+-首当其冲 (shǒudāngqíchōng) [verb] to bear the brunt first

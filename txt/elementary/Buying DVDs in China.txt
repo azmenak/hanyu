@@ -1,0 +1,45 @@
+# Buying DVDs in China
+## *elementary* level
+
+### Chinese Text
+甲：我还准备了一首歌。
+乙：停停停停停停停。
+丙：别别别别别
+乙：行行，你唱得够好了，真的非常好。
+甲：特精心的准备，都一年了！
+丁：门在你右手边，谢谢。
+
+### Pinyin and Translation
+
+甲: 我还准备了一首歌。
+    wǒ hái zhǔnbèi le yī shǒu gē 。
+    I've prepared another song.
+
+乙: 停停停停停停停。
+    tíng tíng tíng tíng tíng tíng tíng 。
+    Stop!
+
+丙: 别别别别别
+    bié bié bié bié bié
+    Don't!
+
+乙: 行行，你唱得够好了，真的非常好。
+    xíng xíng ， nǐ chàng de gòu hǎo le ， zhēnde fēicháng hǎo 。
+    Enough! You've already sung quite well. Really, extraordinarily well.
+
+甲: 特精心的准备，都一年了！
+    tè jīngxīn de zhǔnbèi ， dōu yī nián le ！
+    I prepared so hard, and it's already been a year!
+
+丁: 门在你右手边，谢谢。
+    mén zài nǐ yòushǒu biān ， xièxie 。
+    The door is to your right, thank you.
+### Vocab
+-退 (tuì) [verb] to return for a refund
+-换 (huàn) [verb] to exchange
+-还 (huán) [verb] to return
+-能 (néng) [verb] to be able
+-不好意思 (bùhǎoyìsi) [phrase] I'm sorry
+-可是 (kěshì) [conjunction] but
+-放不了 (fàng bù liǎo) [verb] to be unable to play
+-光盘 (guāngpán) [noun] optical disc

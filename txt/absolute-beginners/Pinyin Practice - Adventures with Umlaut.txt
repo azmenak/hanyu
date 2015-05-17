@@ -1,0 +1,43 @@
+# Pinyin Practice - Adventures with Umlaut
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你是学生吗？
+乙：是，你呢？
+甲：我是老师。
+乙：你可以教我中文吗？
+甲：可以。
+
+### Pinyin and Translation
+
+甲: 你是学生吗？
+    nǐ shì xuéshēng ma ？
+    Are you a student?
+
+乙: 是，你呢？
+    shì ， nǐ ne ？
+    Yes, I am. And you?
+
+甲: 我是老师。
+    wǒ shì lǎoshī 。
+    I am a teacher.
+
+乙: 你可以教我中文吗？
+    nǐ kěyǐ jiāo wǒ Zhōngwén ma ？
+    Can you teach me Chinese?
+
+甲: 可以。
+    kěyǐ 。
+    Yes, I can.
+### Vocab
+-你 (nǐ) [pronoun] you
+-是 (shì) [verb] to be
+-学生 (xuéshēng) [noun] student
+-吗 (ma) [particle] (question marker)
+-中国人 (Zhōngguórén) [noun] Chinese person
+-我 (wǒ) [pronoun] I
+-老师 (lǎoshī) [noun] teacher
+-可以 (kěyǐ) [verb] can
+-教 (jiāo) [verb] to teach
+-中文 (Zhōngwén) [noun] Chinese language
+-美国人 (Měiguórén) [noun] American person

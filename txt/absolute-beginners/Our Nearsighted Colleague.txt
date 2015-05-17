@@ -1,0 +1,38 @@
+# Our Nearsighted Colleague
+## *absolute-beginners* level
+
+### Chinese Text
+女：哎，看！
+男：天哪，超人！
+女：不不不，那是一只鸟。
+男：天哪，是一只鸟！
+
+### Pinyin and Translation
+
+女: 哎，看！
+    āi ， kàn ！
+    Hey, look!
+
+男: 天哪，超人！
+    tiāna ， chāorén ！
+    Heavens, it's Superman!
+
+女: 不不不，那是一只鸟。
+    bù bù bù ， nà shì yī zhī niǎo 。
+    No... that's a bird.
+
+男: 天哪，是一只鸟！
+    tiāna ， shì yī zhī niǎo !
+    Sweet Lord, it's a bird!
+### Vocab
+-天哪 (tiāna) [exclamation] heavens; goodness gracious
+-那是什么 (nà shì shénme) [phrase] what is that
+-超人 (chāorén) [noun] superman
+-看 (kàn) [verb] to see
+-鸟 (niǎo) [noun] bird
+-不 (bù) [adverb] no
+-那 (nà) [determiner] that
+-是 (shì) [verb] to be
+-一 (yī) [number] one
+-只 (zhī) [measure word] (measure word for birds)
+-什么 (shénme) [question] what

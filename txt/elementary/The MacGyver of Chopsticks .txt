@@ -1,0 +1,49 @@
+# The MacGyver of Chopsticks 
+## *elementary* level
+
+### Chinese Text
+甲：你会用筷子吗？
+乙：用筷子杀人？没问题。
+甲：哦，我的意思是....
+乙：用筷子开锁？有点儿难，不过也没问题。
+甲：哦，不不不....
+乙：哦，你说用筷子吃饭。不好意思，我理解错了。
+
+### Pinyin and Translation
+
+甲: 你会用筷子吗？
+    nǐ huì yòng kuàizi ma ？
+    Can you use chopsticks?
+
+乙: 用筷子杀人？没问题。
+    yòng kuàizi shārén ？ méiwèntí 。
+    Use chopsticks to kill a man? No problem.
+
+甲: 哦，我的意思是....
+    ò ， wǒ de yìsi shì ....
+    Oh, what I meant was....
+
+乙: 用筷子开锁？有点儿难，不过也没问题。
+    yòng kuàizi kāisuǒ ？ yǒu diǎnr nán ， búguò yě méiwèntí 。
+    Use chopsticks to pick a lock? That's a bit difficult, but it's also no problem.
+
+甲: 哦，不不不....
+    ò ， bù bù bù ....
+    Oh, no no no....
+
+乙: 哦，你说用筷子吃饭。不好意思，我理解错了。
+    ò ， nǐ shuō yòng kuàizi chīfàn 。 bùhǎoyìsi ， wǒ lǐjiě cuò le 。
+    Oh, you mean to eat. I'm sorry, I misunderstood.
+### Vocab
+-上班儿 (shàngbānr) [verb] to go to work
+-迟到 (chídào) [verb] to be late
+-告诉 (gàosu) [verb] to tell
+-坐 (zuò) [verb] to ride
+-挤 (jǐ) [verb] to squeeze
+-地铁 (dìtiě) [noun] subway
+-终点站 (zhōngdiǎnzhàn) [noun] terminus station
+-起始站 (qǐshǐzhàn) [noun] first station
+-傻 (shǎ) [adjective] idiotic
+-可是 (kěshì) [conjunction] but
+-但是 (dànshì) [conjunction] however
+-而且 (érqiě) [conjunction] moreover

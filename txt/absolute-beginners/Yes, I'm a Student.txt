@@ -1,0 +1,42 @@
+# Yes, I'm a Student
+## *absolute-beginners* level
+
+### Chinese Text
+甲：嗯......
+乙：怎么了？
+甲：我不舒服。
+乙：哪儿不舒服？
+甲：我这儿疼。
+
+### Pinyin and Translation
+
+甲: 嗯......
+    en ......
+    Ouch....
+
+乙: 怎么了？
+    zěnmele ？
+    What's wrong?
+
+甲: 我不舒服。
+    wǒ bù shūfu 。
+    I'm not comfortable.
+
+乙: 哪儿不舒服？
+    nǎr bù shūfu ？
+    Where does it hurt?
+
+甲: 我这儿疼。
+    wǒ zhèr téng 。
+    I hurt here.
+### Vocab
+-我们 (wǒmen) [pronoun] we
+-吃 (chī) [verb] to eat
+-什么 (shénme) [question] what
+-外卖 (wàimài) [noun] take-out
+-韩国 (Hánguó) [noun] South Korea
+-韩国菜 (Hánguó cài) [noun] Korean food
+-中国 (Zhōngguó) [noun] China
+-中国菜 (Zhōngguó cài) [noun] Chinese food
+-美国 (Měiguó) [noun] America
+-美国菜 (Měiguó cài) [noun] American food

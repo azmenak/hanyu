@@ -1,0 +1,41 @@
+# Thanks But No Thanks
+## *absolute-beginners* level
+
+### Chinese Text
+甲：累吗？
+乙：嗯，我很累。
+甲：你该睡觉。
+乙：我还有工作。
+
+### Pinyin and Translation
+
+甲: 累吗？
+    lèi ma ？
+    Are you tired?
+
+乙: 嗯，我很累。
+    ng ， wǒ hěn lèi 。
+    Yes, I'm very tired.
+
+甲: 你该睡觉。
+    nǐ gāi shuìjiào 。
+    You should go to sleep.
+
+乙: 我还有工作。
+    wǒ hái yǒu gōngzuò 。
+    I still have work to do.
+### Vocab
+-往 (wǎng) [preposition] towards
+-左 (zuǒ) [noun] left
+-右 (yòu) [noun] right
+-左边 (zuǒbiān) [noun] left side
+-右边 (yòubiān) [noun] right side
+-对 (duì) [phrase] correct
+-再 (zài) [adverb] again
+-一点 (yīdiǎn) [phrase] a bit
+-好的 (hǎo de) [phrase] OK
+-别 (bié) [auxiliary verb] don't
+-动 (dòng) [verb] to move
+-一 (yī) [number] one
+-二 (èr) [number] two
+-三 (sān) [number] three

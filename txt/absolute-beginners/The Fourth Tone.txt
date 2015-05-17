@@ -1,0 +1,44 @@
+# The Fourth Tone
+## *absolute-beginners* level
+
+### Chinese Text
+男：喂，我想点餐。
+女：什么?
+男：我想叫外卖。
+女：啊，行。你要什么?
+男：烤鸭。
+
+### Pinyin and Translation
+
+男: 喂，我想点餐。
+    wéi ， wǒ xiǎng diǎncān 。
+    Hi, I'd like to order a meal.
+
+女: 什么?
+    shénme ?
+    What?
+
+男: 我想叫外卖。
+    wǒ xiǎng jiào wàimài 。
+    I want to order take-out.
+
+女: 啊，行。你要什么?
+    a ， xíng 。 nǐ yào shénme ?
+    Ah, OK. What do you want?
+
+男: 烤鸭。
+    kǎoyā 。
+    Roast duck.
+### Vocab
+-人 (rén) [noun] person
+-国 (guó) [noun] country
+-瓶 (píng) [measure word] bottle
+-钱 (qián) [noun] money
+-忙 (máng) [adjective] busy
+-烦 (fán) [adjective] bothersome
+-烦人 (fánrén) [adjective] bothersome
+-成 (chéng) [phrase] ok
+-行 (xíng) [phrase] ok
+-中国 (Zhōngguó) [noun] China
+-中国人 (Zhōngguórén) [noun] Chinese person
+-中文 (zhōngwén) [noun] Chinese

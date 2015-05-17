@@ -1,0 +1,38 @@
+# Return of the Chinese Tutor
+## *elementary* level
+
+### Chinese Text
+甲：哎，车钥匙呢？
+乙：不是在你兜里吗？
+甲：没有。我给你了。是你开车来的。
+乙：妈的。
+
+### Pinyin and Translation
+
+甲: 哎，车钥匙呢？
+    āi ， chē yàoshi ne ？
+    Hey, where are the car keys?
+
+乙: 不是在你兜里吗？
+    bù shì zài nǐ dōu lǐ ma ？
+    Aren't they in your pocket?
+
+甲: 没有。我给你了。是你开车来的。
+    méiyǒu 。 wǒ gěi nǐ le 。 shì nǐ kāichē lái de 。
+    No. I gave them to you. It was you who drove here.
+
+乙: 妈的。
+    māde 。
+    Dammit.
+### Vocab
+-丢 (diū) [verb] to lose
+-钥匙 (yàoshi) [noun] key
+-开车 (kāichē) [verb] to drive a car
+-眼镜 (yǎnjìng) [noun] glasses
+-妈的 (māde) [phrase] damn
+-找到 (zhǎodào) [verb] to find
+-插队 (chāduì) [verb] to be sent to the countryside for work
+-在地上 (zài dì shàng) [phrase] on the ground
+-在兜里 (zài dōu lǐ) [phrase] in one's pocket
+-在手里 (zài shǒu lǐ) [phrase] in one's hand
+-毛主席 (Máo zhǔxí) [person] Chairman Mao

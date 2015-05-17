@@ -1,0 +1,35 @@
+# Evolutionary Strategies of Household Pets
+## *absolute-beginners* level
+
+### Chinese Text
+甲：那是你女朋友？
+乙：不，是我的猫。
+甲：它会打电话？
+乙：嗯，对，它饿了。
+
+### Pinyin and Translation
+
+甲: 那是你女朋友？
+    nà shì nǐ nǚpéngyou ？
+    Is that your girlfriend?
+
+乙: 不，是我的猫。
+    bù ， shì wǒde māo 。
+    No, it's my cat.
+
+甲: 它会打电话？
+    tā huì dǎ diànhuà ？
+    It can dial a phone?
+
+乙: 嗯，对，它饿了。
+    en ， duì ， tā è le 。
+    Uh, yeah, it's hungry.
+### Vocab
+-疼 (téng) [adjective] painful
+-舒服 (shūfu) [adjective] comfortable
+-好 (hǎo) [adjective] good
+-哪儿 (nǎr) [pronoun] where
+-那儿 (nàr) [pronoun] there
+-这儿 (zhèr) [pronoun] here
+-我 (wǒ) [pronoun] I; me
+-很 (hěn) [adverb] very

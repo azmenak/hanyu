@@ -1,0 +1,50 @@
+# Mother's Day
+## *elementary* level
+
+### Chinese Text
+甲：哎，哥们儿，把空调打开。快！我朋友快热死了。
+乙：已经打开了。
+甲：那把温度再调低点儿。
+乙：已经是最低了。
+甲：哎，已经热死了。
+乙：啊？
+
+### Pinyin and Translation
+
+甲: 哎，哥们儿，把空调打开。快！我朋友快热死了。
+    āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。
+    Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.
+
+乙: 已经打开了。
+    yǐjīng dǎkāi le 。
+    It's already on.
+
+甲: 那把温度再调低点儿。
+    nà bǎ wēndù zài tiáo dī diǎnr 。
+    Then turn the temperature down a bit more.
+
+乙: 已经是最低了。
+    yǐjīng shì zuì dī le 。
+    It's already as low as it goes.
+
+甲: 哎，已经热死了。
+    āi ， yǐjīng rè sǐ le 。
+    Oh, he's already died.
+
+乙: 啊？
+    á ？
+    Huh?
+### Vocab
+-空调 (kōngtiáo) [noun] air conditioner
+-暖气 (nuǎnqì) [noun] heater
+-电扇 (diànshàn) [noun] electric fan
+-电热毯 (diànrètǎn) [noun] electric blanket
+-暖风机 (nuǎnfēngjī) [noun] electric heat fan
+-冷 (lěng) [adjective] cold
+-热 (rè) [adjective] hot
+-冻 (dòng) [adjective] freezing
+-烫 (tàng) [adjective] scalding
+-打开 (dǎkāi) [verb] to turn on
+-关上 (guānshàng) [verb] to turn off
+-修好 (xiūhǎo) [verb] to repair
+-插上 (chāshàng) [verb] to plug in

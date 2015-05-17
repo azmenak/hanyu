@@ -1,0 +1,58 @@
+# The Spanish Main
+## *intermediate* level
+
+### Chinese Text
+船长：啊，终于到了要挖宝藏的时候了！
+大副：船长，我们马上就要变成富翁了！
+船长：对！快，拿铲子来！
+大副：什么铲子？
+船长：挖宝藏的铲子呀！
+大副：不是去年冬天已经烧了吗？
+船长：什么？你是说你没买新的吗？
+大副：可是我们哪儿有钱买新的？钱都埋在地底下呢！
+
+### Pinyin and Translation
+
+船长: 啊，终于到了要挖宝藏的时候了！
+      a ， zhōngyú dào le yào wā bǎozàng de shíhou le ！
+      Arr... it finally be the time to dig up our buried treasure!
+
+大副: 船长，我们马上就要变成富翁了！
+      chuánzhǎng ， wǒmen mǎshàng jiù yào biànchéng fùwēng le ！
+      Captain, we're going to become millionaires!
+
+船长: 对！快，拿铲子来！
+      duì ！ kuài ， ná chǎnzi lái ！
+      Correct! Quick, fetch the spades!
+
+大副: 什么铲子？
+      shénme chǎnzi ？
+      What spades?
+
+船长: 挖宝藏的铲子呀！
+      wā bǎozàng de chǎnzi yā ！
+      The spades for digging up the buried treasure!
+
+大副: 不是去年冬天已经烧了吗？
+      bù shì qùnián dōngtiān yǐjīng shāo le ma ？
+      Didn't we burn those last winter?
+
+船长: 什么？你是说你没买新的吗？
+      shénme ？ nǐ shì shuō nǐ méi mǎi xīn de ma ？
+      What? You mean you didn't buy new ones?
+
+大副: 可是我们哪儿有钱买新的？钱都埋在地底下呢！
+      kěshì wǒmen nǎr yǒu qián mǎi xīn de ？ qián dōu mái zài dì dǐxià ne ！
+      Where did we have the cash to buy new ones? The money's all buried underground!
+### Vocab
+-挖 (wā) [verb] to dig
+-埋 (mái) [verb] to bury
+-埋单 (máidān) [verb] to get the bill
+-船长 (chuánzhǎng) [noun] captain
+-终于 (zhōngyú) [adverb] at last
+-海盗 (hǎidào) [noun] pirate
+-宝藏 (bǎozàng) [noun] buried treasure
+-铲子 (chǎnzi) [noun] spade
+-盗墓者 (dàomùzhě) [noun] graverobber
+-大副 (dàfù) [noun] second-in-command
+-富翁 (fùwēng) [noun] millionaire

@@ -1,0 +1,51 @@
+# The Lost Generation
+## *absolute-beginners* level
+
+### Chinese Text
+一：他是谁？
+二：我不认识。
+三：哎，哎，宝贝！
+一：宝贝？
+二：我不认识！
+三：小王，我爱你！
+二：哦....
+
+### Pinyin and Translation
+
+一: 他是谁？
+    tā shì shéi ？
+    Who is he?
+
+二: 我不认识。
+    wǒ bù rènshi 。
+    I don't know him.
+
+三: 哎，哎，宝贝！
+    āi ， āi ， bǎobèi ！
+    Hey, hey, baby!
+
+一: 宝贝？
+    bǎobèi ？
+    Baby?
+
+二: 我不认识！
+    wǒ bù rènshi ！
+    I don't know him!
+
+三: 小王，我爱你！
+    Xiǎo Wáng ， wǒ ài nǐ ！
+    Miss Wang, I love you!
+
+二: 哦....
+    ò ....
+    Oh....
+### Vocab
+-怎么 (zěnme) [unknown] how
+-下雨 (xiàyǔ) [unknown] to rain
+-没 (méi) [adverb] not to have
+-我 (wǒ) [unknown] I
+-你 (nǐ) [pronoun] you
+-不 (bù) [adverb] not
+-好 (hǎo) [adjective] good
+-意思 (yìsi) [noun] idea
+-不好意思 (bùhǎoyìsi) [phrase] sorry about that

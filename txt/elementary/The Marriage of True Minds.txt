@@ -1,0 +1,38 @@
+# The Marriage of True Minds
+## *elementary* level
+
+### Chinese Text
+甲：听说李健要结婚了。
+乙：结婚？和谁呀？
+甲：和他前妻。
+乙：他已经结过一次啦？我怎么什么都不知道啊。
+
+### Pinyin and Translation
+
+甲: 听说李健要结婚了。
+    tīngshuō Lǐ Jiàn yào jiéhūn le 。
+    I've heard Li Jian is getting married.
+
+乙: 结婚？和谁呀？
+    jiéhūn ？ hé shéi ya ？
+    Married? With whom?
+
+甲: 和他前妻。
+    hé tā qiánqī 。
+    With his ex-wife.
+
+乙: 他已经结过一次啦？我怎么什么都不知道啊。
+    tā yǐjīng jiéguò yī cì la ？ wǒ zěnme shénme dōu bù zhīdào a 。
+    He's already been married before? How do I not know anything about this?
+### Vocab
+-百科 (bǎikē) [noun] encyclopedia
+-维基百科 (wéijī bǎikē) [noun] Wikipedia
+-百度百科 (bǎidù bǎikē) [noun] Baidupedia
+-早 (zǎo) [adverb] early
+-在 (zài) [preposition] at
+-从 (cóng) [preposition] from
+-上 (shàng) [directional complement] on
+-里 (lǐ) [directional complement] in
+-抄 (chāo) [verb] to copy
+-报告 (bàogào) [noun] report
+-天下文章一大抄，看你会抄不会抄 (tiānxià wénzhāng yī dà chāo, kàn nǐ huì chāo būhuì chāo) [saying] writing articles is just a matter of copying, you just need to know how

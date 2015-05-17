@@ -1,0 +1,30 @@
+# Parking the Car
+## *absolute-beginners* level
+
+### Chinese Text
+甲：先生，请系好安全套。
+乙：啊？你说什么？
+甲：安全带，安全带。
+
+### Pinyin and Translation
+
+甲: 先生，请系好安全套。
+    xiānsheng ， qǐng jìhǎo ānquántào 。
+    Mister. Please put on your condom.
+
+乙: 啊？你说什么？
+    a ？ nǐ shuō shénme ？
+    What? What did you say?
+
+甲: 安全带，安全带。
+    ānquándài ， ānquándài 。
+    Seatbelt, seatbelt....
+### Vocab
+-卫生间 (wèishēngjiān) [noun] bathroom
+-洗手间 (xǐshǒujiān) [noun] washroom
+-手纸 (shǒuzhǐ) [noun] toilet paper
+-洗手 (xǐshǒu) [verb] to wash hands
+-用完了 (yòngwán le) [verb phrase] to be used up
+-洗完了 (xǐwán le) [verb phrase] to be done washing
+-看完了 (kànwán le) [verb phrase] to be done looking
+-吃完了 (chīwán le) [verb phrase] to be done eating

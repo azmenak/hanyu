@@ -1,0 +1,38 @@
+# Do You Speak Chinese
+## *elementary* level
+
+### Chinese Text
+甲：你会说中文吗？
+乙：当然了，我是中国人。
+甲：噢，我原来以为你是韩国人呢！
+
+### Pinyin and Translation
+
+甲: 你会说中文吗？
+    nǐ huì shuō Zhōngwén ma ？
+    Do you speak Chinese?
+
+乙: 当然了，我是中国人。
+    dāngrán le ， wǒ shì zhōngguórén 。
+    Of course, I'm Chinese.
+
+甲: 噢，我原来以为你是韩国人呢！
+    o ， wǒ yuánlái yǐwéi nǐ shì hánguórén ne ！
+    Oh, I thought you were Korean!
+### Vocab
+-被 (bèi) [preposition] by
+-解雇 (jiěgù) [verb] to be fired
+-开玩笑 (kāiwánxiào) [phrase] you're kidding
+-老板 (lǎobǎn) [noun] boss
+-儿子 (érzi) [noun] son
+-咱们 (zánmen) [pronoun] we
+-女儿 (nǚér) [noun] daughter
+-这么说 (zhème shuō) [unknown] this is to say
+-俩 (liǎ) [noun] two
+-姐弟 (jiědì) [noun phrase] older sister and younger brother
+-天哪 (tiānna) [phrase] good gracious
+-公司 (gōngsī) [noun] company
+-姐姐 (jiějie) [noun] older sister
+-妹妹 (mèimei) [noun] younger sister
+-哥哥 (gēge) [noun] older brother
+-弟弟 (dìdi) [noun] younger brother

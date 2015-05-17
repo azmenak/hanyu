@@ -1,0 +1,38 @@
+# The Industrial Accident
+## *absolute-beginners* level
+
+### Chinese Text
+一：哦，我的胳膊。
+二：你的胳膊怎么了？
+一：折了。
+二：我们去医院吧。
+
+### Pinyin and Translation
+
+一: 哦，我的胳膊。
+    ò ， wǒ de gēbo 。
+    Oh, my arm.
+
+二: 你的胳膊怎么了？
+    nǐ de gēbo zěnme le ？
+    What's wrong with your arm?
+
+一: 折了。
+    shé le 。
+    It's broken.
+
+二: 我们去医院吧。
+    wǒmen qù yīyuàn ba 。
+    Lets go to the hospital.
+### Vocab
+-我的 (wǒ de) [pronoun] my
+-你的 (nǐ de) [pronoun] your
+-胳膊 (gēbo) [noun] arm
+-腿 (tuǐ) [noun] leg
+-肚子 (dùzi) [noun] stomach
+-头 (tóu) [noun] head
+-怎么了 (zěnme le) [phrase] what's wrong
+-医院 (yīyuàn) [noun] hospital
+-去 (qù) [verb] to go to
+-疼 (téng) [verb] to hurt
+-折 (shé) [verb] to break

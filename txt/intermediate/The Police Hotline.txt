@@ -1,0 +1,64 @@
+# The Police Hotline
+## *intermediate* level
+
+### Chinese Text
+甲：警察局吗？有人抢银行，我要报案！
+乙：您好，欢迎您拨打北京报警服务中心，如果您需要帮助请按1。
+甲：1，1。
+乙：您好，如果您需要中文服务请按1，需要英文服务请按2。
+甲：我们还得找个会英文的吗？1。
+乙：如果您有会员卡请按1....
+甲：会员？办理会员卡？
+乙：如果没有会员卡想办理此服务的话，请按2。
+甲：快来人！快来人！我需要真正的警察！1。
+乙：不好意思，我们的工作时间截止到下午两点整，服务工作已经取消，再见。
+
+### Pinyin and Translation
+
+甲: 警察局吗？有人抢银行，我要报案！
+    jǐngchájú ma ？ yǒu rén qiǎng yínháng ， wǒ yào bàoàn ！
+    Police department? Someone is robbing a bank, I want to make a report!
+
+乙: 您好，欢迎您拨打北京报警服务中心，如果您需要帮助请按1。
+    nínhǎo ， huānyíng nín bōdǎ Běijīng bàojǐng fúwù zhōngxīn ， rúguǒ nín xūyào bāngzhù qǐng àn yī 。
+    Hello. Thank you for dialing the Beijing Police Reporting Service Center. If you would like assistance please press 1.
+
+甲: 1，1。
+    yī ， yī 。
+    One, one....
+
+乙: 您好，如果您需要中文服务请按1，需要英文服务请按2。
+    nínhǎo ， rúguǒ nín xūyào zhōngwén fúwù qǐng àn yī ， xūyào yīngwén fúwù qǐng àn èr 。
+    Hello. If you need Chinese language service please press one. If you need English language service please press two.
+
+甲: 我们还得找个会英文的吗？1。
+    wǒmen hái děi zhǎo ge huì yīngwén de ma ？ yī 。
+    You think I need someone who speaks English? One.
+
+乙: 如果您有会员卡请按1....
+    rúguǒ nín yǒu huìyuánkǎ qǐng àn yī ....
+    If you have a membership card, please press one....
+
+甲: 会员？办理会员卡？
+    huìyuán ？ bànlǐ huìyuánkǎ ？
+    Member? Get a membership card?
+
+乙: 如果没有会员卡想办理此服务的话，请按2。
+    rúguǒ méiyǒu huìyuánkǎ xiǎng bànlǐ cǐ fúwù dehuà ， qǐng àn èr 。
+    If you don't have a membership card and wish to apply for one, please press two.
+
+甲: 快来人！快来人！我需要真正的警察！1。
+    kuài lái rén ！ kuài lái rén ！ wǒ xūyào zhēnzhèng de jǐngchá ！ yī 。
+    Hurry up! I need someone! I need a real police officer! One.
+
+乙: 不好意思，我们的工作时间截止到下午两点整，服务工作已经取消，再见。
+    bùhǎo yìsi ， wǒmen de gōngzuò shíjiān jiézhǐ dào xiàwǔ liǎng diǎn zhěng ， fúwù gōngzuò yǐjīng qǔxiāo ， zàijiàn 。
+    We're sorry. Our working hours last until two in the afternoon. Service is already closed for the day. Goodbye.
+### Vocab
+-全球气候变暖 (quánqiú qìhòu biàn nuǎn) [phrase] global warming
+-站地 (zhàndì) [noun] stops
+-好 (hǎo) [perfective] (perfective)
+-泳裤 (yǒngkù) [noun] swim trunks
+-麻烦 (máfan) [verb] to bother
+-倒 (dǎo) [verb] to switch to
+-公交船 (gōngjiāo chuán) [noun] public ferry

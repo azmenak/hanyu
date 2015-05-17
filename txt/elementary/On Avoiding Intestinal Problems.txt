@@ -1,0 +1,58 @@
+# On Avoiding Intestinal Problems
+## *elementary* level
+
+### Chinese Text
+甲：亲爱的，我们今晚吃什么？
+乙：呃，什么都行，随便。
+甲：随便？那我们吃火锅？
+乙：火锅太上火了吧？换点儿别的。
+甲：上火？那我们吃水煮鱼吧。
+乙：水煮鱼太辣了。
+甲：那你究竟吃什么？
+乙：我不是说了嘛，随便。
+
+### Pinyin and Translation
+
+甲: 亲爱的，我们今晚吃什么？
+    qīn_APOS_àide ， wǒmen jīnwǎn chī shénme ？
+    Honey, what are we eating tonight?
+
+乙: 呃，什么都行，随便。
+    e ， shénme dōu xíng ， suíbiàn 。
+    Uh... anything is ok. Whatever you want.
+
+甲: 随便？那我们吃火锅？
+    suíbiàn ？ nà wǒmen chī huǒguō ？
+    Whatever? Then how about hot-pot?
+
+乙: 火锅太上火了吧？换点儿别的。
+    huǒguō tài shànghuǒ le ba ？ huàn diǎnr biéde 。
+    Hot-pot is too inflammatory, let's switch to something else.
+
+甲: 上火？那我们吃水煮鱼吧。
+    shànghuǒ ？ nà wǒmen chī shuǐzhǔyú ba 。
+    Inflammatory? Then let's have fish-in-chili-oil.
+
+乙: 水煮鱼太辣了。
+    shuǐzhǔyú tài là le 。
+    Fish-in-chili-oil is too spicy.
+
+甲: 那你究竟吃什么？
+    nà nǐ jiūjìng chī shénme ？
+    Then what do you want to eat?
+
+乙: 我不是说了嘛，随便。
+    wǒ bù shì shuōle ma ， suíbiàn 。
+    I already told you, whatever.
+### Vocab
+-筷子 (kuàizi) [noun] chopsticks
+-杀人 (shārén) [verb] to kill a person
+-开锁 (kāisuǒ) [verb] to open a lock
+-吃饭 (chīfàn) [verb] to eat food
+-不过 (búguò) [conjunction] but
+-可是 (kěshì) [conjunction] but
+-但是 (dànshì) [conjunction] but
+-意思 (yìsi) [noun] idea
+-不好意思 (bùhǎoyìsi) [phrase] sorry
+-会 (huì) [verb] to be able
+-理解 (lǐjiě) [verb] to understand

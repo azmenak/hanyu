@@ -1,0 +1,124 @@
+# Corn Batman
+## *intermediate* level
+
+### Chinese Text
+甲：亲爱的，一会儿见我妈之前有一件事我得告诉你。
+乙：什么事？
+甲：就是我妈她在年轻的时候失去了一条腿，所以呢，她就对这件事特别敏感。一会儿你无论如何千万不要提到她那条木腿。
+乙：我保证不提。
+甲：行，那我敲门了啊。
+丙：迈克，终于见到你啦。
+乙：伯母，您好。
+丙：不好意思啊，让你久等了，都怪我这条该死的木腿。
+甲：妈，你怎么又提那腿....
+丙：不，迈克不是外人，他应该知道。文革那年，厂里出了事故....
+甲：哎，行了行了。
+丙：哦，哦，那你们俩怎么过来的？
+乙：我们走过来的。
+丙：哦，两个人，四条腿，走过来散散步挺好的哈。那进来吧。
+乙：你们家还是复式呢？
+丙：跟住单层一样，我都好久没上二楼啦。
+乙：为什么呀？
+甲：迈克！
+丙：因为我这条该死的木腿呀，混蛋！
+
+### Pinyin and Translation
+|说人|句子|
+|----|----|
+
+|甲|亲爱的，一会儿见我妈之前有一件事我得告诉你。|
+||qīn_APOS_àide ， yīhuìr jiàn wǒ mā zhīqián yǒu yī jiàn shì wǒ děi gàosu nǐ 。|
+||Darling, before we see my mother in a moment there's something I need to tell you.|
+
+|乙|什么事？|
+||shénme shì ？|
+||What's that?|
+
+|甲|就是我妈她在年轻的时候失去了一条腿，所以呢，她就对这件事特别敏感。一会儿你无论如何千万不要提到她那条木腿。|
+||jiùshì wǒ mā tā zài niánqīng de shíhou shīqù le yī tiáo tuǐ ， suǒyǐ ne ， tā jiù duì zhè jiàn shì tèbié mǐngǎn 。 yīhuìr nǐ wúlùnrúhé qiānwàn bù yào tídào tā nà tiáo mùtuǐ 。|
+||It's that she lost a leg when she was younger. And so she's quite sensitive about this. So no matter what happens just don't bring up that leg of hers.|
+
+|乙|我保证不提。|
+||wǒ bǎozhèng bù tí 。|
+||I promise I won't.|
+
+|甲|行，那我敲门了啊。|
+||xíng ， nà wǒ qiāomén le a 。|
+||Ok, then I'll knock on the door.|
+
+|丙|迈克，终于见到你啦。|
+||Màikè ， zhōngyú jiàndào nǐ la 。|
+||Michael, finally we meet.|
+
+|乙|伯母，您好。|
+||bómǔ ， nínhǎo 。|
+||Hello, Auntie.|
+
+|丙|不好意思啊，让你久等了，都怪我这条该死的木腿。|
+||bùhǎoyìsi a ， ràng nǐ jiǔděng le ， dōu guài wǒ zhè tiáo gāisǐ de mùtuǐ 。|
+||I'm sorry to have kept you waiting, it's all the fault of this damn pegleg of mine.|
+
+|甲|妈，你怎么又提那腿....|
+||mā ， nǐ zěnme yòu tí nà tuǐ ....|
+||Mother, why are you bringing up your leg again....|
+
+|丙|不，迈克不是外人，他应该知道。文革那年，厂里出了事故....|
+||bù ， Màikè bù shì wàirén ， tā yīnggāi zhīdào 。 wéngé nà nián ， chǎng lǐ chū le shìgù . . . .|
+||No, Michael isn't an outsider and he should know. It was that year during the Cultural Revolution, there was an accident in the factory....|
+
+|甲|哎，行了行了。|
+||ai ， xíng le xíng le 。|
+||Hey, that's enough of this.|
+
+|丙|哦，哦，那你们俩怎么过来的？|
+||ò ， ò ， nà nǐmen liǎ zěnme guòlai de ？|
+||Oh, fine. So how did you two come over?|
+
+|乙|我们走过来的。|
+||wǒmen zǒu guòlái de 。|
+||We walked over.|
+
+|丙|哦，两个人，四条腿，走过来散散步挺好的哈。那进来吧。|
+||ò ， liǎng ge rén ， sì tiáo tuǐ ， zǒu guòlái sànsanbù tǐng hǎo de ha 。 nà jìnlai ba 。|
+||Ah. Two people. Four legs. That's just right for a nice stroll, isn't it? Well, come in then.|
+
+|乙|你们家还是复式呢？|
+||nǐmen jiā hái shì fùshì ne ？|
+||I didn't know your home was a duplex.|
+
+|丙|跟住单层一样，我都好久没上二楼啦。|
+||gēn zhù dāncéng yīyàng ， wǒ dōu hǎojiǔ méi shàng èrlóu la 。|
+||It's the same as having one story to me. I haven't been upstairs in ages.|
+
+|乙|为什么呀？|
+||wèishénme ya ？|
+||Why?|
+
+|甲|迈克！|
+||Màikè ！|
+||Michael!|
+
+|丙|因为我这条该死的木腿呀，混蛋！|
+||yīnwèi wǒ zhè tiáo gāisǐ de mùtuǐ ya ， húndàn ！|
+||Because of my damn wooden leg, you bastard!|
+### Vocab
+|汉子|拼音|英文|词类|
+|----|----|----|----|
+|关键|guānjiàn|critical; key|adjective|
+|仓库|cāngkù|warehouse|noun|
+|动作|dòngzuò|movement|noun|
+|目的|mùdi|goal|noun|
+|真实|zhēnshí|true|adjective|
+|孤儿|gū'ér|orphan|noun|
+|满嘴|mǎnzuǐ|the entire mouth|adverb|
+|念叨|niàndao|to grumble|verb|
+|汇报|huìbào|to report|verb|
+|上级|shàngjí|higher-up|noun|
+|丰收|fēngshōu|harvest|noun|
+|蝙蝠侠|biānfúxiá|Batman|noun|
+|下水道|xiàshuǐdào|sewer|noun|
+|玉米摊儿|yùmǐ tānr|corn stand|noun|
+|谋杀案|móushāàn|murder case|noun|
+|背黑锅|bēihēiguō|to be made a scapegoat|verb|
+|当替罪羊|dāng tìzuìyáng|to be made a scapegoat|phrase|
+|当冤大头|dāng yuāndàtóu|to be made a scapegoat|phrase|

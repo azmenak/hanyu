@@ -1,0 +1,54 @@
+# Buying a Train Ticket
+## *elementary* level
+
+### Chinese Text
+甲：去天津的车票还有吗？
+乙：最后两张。
+甲：软座还是硬座？
+乙：没坐儿。站票要不要?
+甲：啊。
+乙：不要后面的。
+甲：要，要，要！
+
+### Pinyin and Translation
+
+甲: 去天津的车票还有吗？
+    qù Tiānjīn de chēpiào hái yǒu ma ？
+    Are there any tickets to Tianjin left?
+
+乙: 最后两张。
+    zuìhòu liǎng zhāng 。
+    The last two.
+
+甲: 软座还是硬座？
+    ruǎnzuò hái shì yìngzuò ？
+    Soft or hard seater?
+
+乙: 没坐儿。站票要不要?
+    méi zuòr 。 zhànpiào yào bu yào ?
+    No seats left. Standing tickets only. Want them?
+
+甲: 啊。
+    a 。
+    Ah....
+
+乙: 不要后面的。
+    bù yào hòumian de 。
+    If you don't want them... next!
+
+甲: 要，要，要！
+    yào ， yào ， yào ！
+    Yes, I want them.
+### Vocab
+-车票 (chēpiào) [noun] train ticket
+-张 (zhāng) [measure word] (measure word for tickets)
+-坐儿 (zuòr) [noun] seat
+-站票 (zhànpiào) [noun] standing-only ticket
+-软座 (ruǎnzuò) [noun] soft seat
+-软卧 (ruǎnwò) [noun] soft sleeper
+-硬座 (yìngzuò) [noun] hard seat
+-硬卧 (yìngwò) [noun] hard sleeper
+-上铺 (shàngpù) [noun] upper bunk
+-中铺 (zhōngpù) [noun] middle bunk
+-下铺 (xiàpù) [noun] lower bunk
+-机票 (jīpiào) [noun] plane ticket

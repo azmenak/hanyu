@@ -1,0 +1,47 @@
+# Squeak: Master and Companion....
+## *absolute-beginners* level
+
+### Chinese Text
+甲：来一杯冰水。
+乙：白开水吗？
+甲：行，可以。
+乙：你要凉的还是热的？
+甲：冰的。
+乙：哦，对，不好意思。
+
+### Pinyin and Translation
+
+甲: 来一杯冰水。
+    lái yī bēi bīngshuǐ 。
+    Bring me a glass of ice water.
+
+乙: 白开水吗？
+    báikāishuǐ ma ？
+    Is boiled tap water ok?
+
+甲: 行，可以。
+    xíng ， kěyǐ 。
+    Sure, that'll do.
+
+乙: 你要凉的还是热的？
+    nǐ yào liáng de háishì rè de ？
+    Do you want it cold or hot?
+
+甲: 冰的。
+    bīng de 。
+    Ice cold.
+
+乙: 哦，对，不好意思。
+    o ， duì ， bùhǎoyìsi 。
+    Oh, right, sorry.
+### Vocab
+-来 (lái) [verb] to bring
+-对 (duì) [phrase] right
+-杯 (bēi) [measure word] cup
+-冰水 (bīngshuǐ) [noun] ice water
+-凉水 (liángshuǐ) [noun] cool water
+-热水 (rèshuǐ) [noun] hot water
+-可以 (kěyǐ) [phrase] alright
+-常温 (chángwēn) [adjective] room temperature
+-白开水 (báikāishuǐ) [noun] boiled water
+-不好意思 (bùhǎoyìsi) [phrase] sorry

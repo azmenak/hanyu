@@ -1,0 +1,43 @@
+# Buried Under Work
+## *absolute-beginners* level
+
+### Chinese Text
+甲：给您菜单。
+乙：啊，谢谢。
+甲：您要什么？
+乙：呃，等一下儿，我先看看吧。
+甲：嗯，好的。
+
+### Pinyin and Translation
+
+甲: 给您菜单。
+    gěi nín càidān 。
+    Here is a menu.
+
+乙: 啊，谢谢。
+    a ， xièxie 。
+    Ah, thank you.
+
+甲: 您要什么？
+    nín yào shénme ？
+    What do you want?
+
+乙: 呃，等一下儿，我先看看吧。
+    e ， děng yīxiàr ， wǒ xiān kànkan ba 。
+    Wait a moment, I want to take a look.
+
+甲: 嗯，好的。
+    ng ， hǎo de 。
+    Oh, OK.
+### Vocab
+-很 (hěn) [adverb] very
+-累 (lèi) [adjective] tired
+-吗 (ma) [question marker] yes/no
+-嗯 (ng) [interjection] hmmm
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-该 (gāi) [auxiliary verb] should
+-睡觉 (shuìjiào) [verb] to go to bed
+-还 (hái) [adverb] also
+-有 (yǒu) [verb] to have
+-工作 (gōngzuò) [noun] work

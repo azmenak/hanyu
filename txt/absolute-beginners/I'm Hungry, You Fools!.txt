@@ -1,0 +1,40 @@
+# I'm Hungry, You Fools!
+## *absolute-beginners* level
+
+### Chinese Text
+甲：这是什么？
+乙：那是......天哪！那是什么？
+甲：嗯，好吃！
+乙：哦。
+
+### Pinyin and Translation
+
+甲: 这是什么？
+    zhè shì shénme ？
+    What is this?
+
+乙: 那是......天哪！那是什么？
+    nà shì ...... tiānna ！ nà shì shénme ？
+    That is... good heavens! What is that?
+
+甲: 嗯，好吃！
+    Ng ， hǎochī ！
+    Hmmm... tastes good!
+
+乙: 哦。
+    ò 。
+    Ewww....
+### Vocab
+-好 (hǎo) [adverb] really
+-很 (hěn) [adverb] very
+-饿 (è) [adjective] hungry
+-渴 (kě) [adjective] thirsty
+-累 (lèi) [adjective] tired
+-困 (kùn) [adjective] sleepy
+-烦 (fán) [adjective] troubled
+-忙 (máng) [adjective] busy
+-喝 (hē) [verb] to drink
+-吃 (chī) [verb] to eat
+-吃饭 (chīfàn) [verb] to eat food
+-笨蛋 (bèndàn) [noun] fool
+-什么 (shénme) [question] what

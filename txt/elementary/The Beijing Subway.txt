@@ -1,0 +1,47 @@
+# The Beijing Subway
+## *elementary* level
+
+### Chinese Text
+甲：你得起床了。
+乙：我不想起。
+甲：你必须起了。
+乙：我不想起。
+甲：八点了。
+乙：哦，天哪。
+
+### Pinyin and Translation
+
+甲: 你得起床了。
+    nǐ děi qǐchuáng le 。
+    You've got to get out of bed.
+
+乙: 我不想起。
+    wǒ bù xiǎng qǐ 。
+    I don't want to get up.
+
+甲: 你必须起了。
+    nǐ bìxū qǐ le 。
+    You must get up.
+
+乙: 我不想起。
+    wǒ bù xiǎng qǐ 。
+    I don't want to get up.
+
+甲: 八点了。
+    bā diǎn le 。
+    It's eight o'clock.
+
+乙: 哦，天哪。
+    o ， tiānna 。
+    Oh, goodness gracious.
+### Vocab
+-得 (děi) [auxiliary verb] must
+-必须 (bìxū) [auxiliary verb] must
+-应该 (yīnggāi) [auxiliary verb] should
+-需要 (xūyāo) [auxiliary verb] should
+-起床 (qǐchuáng) [verb] to get up
+-天哪 (tiānna) [phrase] dear God
+-起 (qǐ) [verb] to rise
+-想 (xiǎng) [verb] to wish
+-点 (diǎn) [noun] hour
+-了 (le) [particle] (change of state)

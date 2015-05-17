@@ -1,0 +1,42 @@
+# Digital Volleyball
+## *elementary* level
+
+### Chinese Text
+秦：你的笔记本真小啊！
+刘：这是上网本，不算笔记本。
+秦：还很轻，你看，就像...... 不过，质量不大好。
+刘：你弄坏了我的笔记本！
+秦：拜托，上网本。
+
+### Pinyin and Translation
+
+秦: 你的笔记本真小啊！
+    nǐ de bǐjìběn zhēn xiǎo a ！
+    Your notebook is really small!
+
+刘: 这是上网本，不算笔记本。
+    zhè shì shàngwǎngběn ， bù suàn bǐjìběn 。
+    This is a netbook. It's not really a notebook.
+
+秦: 还很轻，你看，就像...... 不过，质量不大好。
+    hái hěn qīng ， nǐ kàn ， jiùxiàng ...... bùguò ， zhìliàng bù dà hǎo 。
+    It's really light, just like... then again, the quality isn't very good.
+
+刘: 你弄坏了我的笔记本！
+    nǐ nòng huài le wǒ de bǐjìběn ！
+    You broke my notebook!
+
+秦: 拜托，上网本。
+    bàituō ， shàngwǎngběn 。
+    Please, it's a netbook.
+### Vocab
+-笔记本 (bǐjìběn) [noun] notebook
+-上网本 (shàngwǎngběn) [noun] netbook
+-算 (suàn) [verb] to count as
+-像 (xiàng) [verb] like
+-弄坏 (nòng huài) [phrase] to ruin
+-拜托 (bàituō) [phrase] give me a break
+-质量 (zhìliàng) [noun] quality
+-大 (dà) [adverb] very
+-不过 (bùguò) [conjunction] but
+-还 (hái) [adverb] also

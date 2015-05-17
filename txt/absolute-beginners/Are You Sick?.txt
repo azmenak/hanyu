@@ -1,0 +1,37 @@
+# Are You Sick?
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你生病了吗？
+乙：是的。
+甲：传染吗？
+乙：非常。
+
+### Pinyin and Translation
+
+甲: 你生病了吗？
+    nǐ shēngbìng le ma ？
+    Are you sick?
+
+乙: 是的。
+    shìde 。
+    Yes.
+
+甲: 传染吗？
+    chuánrǎn ma ？
+    Is it contagious?
+
+乙: 非常。
+    fēicháng 。
+    Extremely.
+### Vocab
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I; me
+-吗 (ma) [particle] (question marker)
+-是的 (shìde) [phrase] yes
+-没错 (méicuò) [phrase] not wrong
+-对 (duì) [adjective] correct
+-很 (hěn) [adverb] very
+-非常 (fēicháng) [adverb] extremely
+-好 (hǎo) [adjective] good
+-忙 (máng) [adjective] busy

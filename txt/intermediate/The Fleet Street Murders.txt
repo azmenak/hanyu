@@ -1,0 +1,38 @@
+# The Fleet Street Murders
+## *intermediate* level
+
+### Chinese Text
+甲：猜丁壳！
+乙：等会儿，你那是什么呀？
+甲：剪刀啊....
+乙：有你那样的剪刀吗？你在哪儿学的猜丁壳啊？你小儿麻痹吧你！
+
+### Pinyin and Translation
+
+甲: 猜丁壳！
+    cèidīngké ！
+    Paper, rock, scissors!
+
+乙: 等会儿，你那是什么呀？
+    děnghuìr ， nǐ nà shì shénme ya ？
+    Wait a sec, what on earth is that?
+
+甲: 剪刀啊....
+    jiǎndāo a . . . .
+    Scissors....
+
+乙: 有你那样的剪刀吗？你在哪儿学的猜丁壳啊？你小儿麻痹吧你！
+    yǒu nǐ nàyàng de jiǎndāo ma ？ nǐ zài nǎr xué de cèidīngké a ？ nǐ xiǎoérmábì ba nǐ ！
+    Are there any scissors that look like that? Where did you learn paper, rock, scissors? Did you fall on your head as a child or something?
+### Vocab
+-老乡 (lǎoxiāng) [noun] fellow countryman
+-没精神 (méi jīngshen) [phrase] to be listless
+-乡亲 (xiāngqin) [noun] beloved countryman
+-同胞 (tóngbāo) [noun] compatriot
+-爆发 (bàofā) [verb] to erupt
+-派 (pài) [verb] to dispatch
+-赈灾 (zhènzāi) [verb] to relieve a disaster
+-瘟疫 (wēnyì) [noun] epidemic
+-山区 (shānqū) [noun] mountain region
+-疾苦 (jíkǔ) [noun] very bitter
+-屈尊纡贵 (qūzūnyūguì) [idiom] to patronize

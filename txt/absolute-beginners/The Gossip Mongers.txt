@@ -1,0 +1,45 @@
+# The Gossip Mongers
+## *absolute-beginners* level
+
+### Chinese Text
+甲：我要买耳机。
+乙：苹果的还是普通的？
+甲：多少钱？
+乙：苹果的一百二，普通的三十。
+甲：给我普通的。
+
+### Pinyin and Translation
+
+甲: 我要买耳机。
+    wǒ yào mǎi ěrjī 。
+    I want to buy earphones.
+
+乙: 苹果的还是普通的？
+    Píngguǒ de háishì pǔtōng de ？
+    Apple earphones or normal earphones?
+
+甲: 多少钱？
+    duōshǎo qián ？
+    How much money?
+
+乙: 苹果的一百二，普通的三十。
+    Píngguǒ de yībǎi èr ， pǔtōng de sānshí 。
+    Apple earphones are 120, normal earphones are 30.
+
+甲: 给我普通的。
+    gěi wǒ pǔtōng de 。
+    Give me the normal ones.
+### Vocab
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-吗 (ma) [question] (yes/no question)
+-了 (le) [particle] (change of state)
+-也 (yě) [adverb] also
+-爱 (ài) [verb] to love
+-知道 (zhīdào) [verb] to know
+-什么 (shénme) [question] what
+-时候 (shíhòu) [noun] time
+-刚才 (gāngcái) [noun] just now
+-女人 (nǚrén) [noun] women
+-男人 (nánrén) [noun] man
+-喜欢 (xǐhuān) [verb] to like

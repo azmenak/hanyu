@@ -1,0 +1,37 @@
+# The Fourteenth Floor
+## *elementary* level
+
+### Chinese Text
+甲：水费这么多！
+乙：哦，多少？
+甲：六千多。
+乙：哦，我最近经常洗澡。
+
+### Pinyin and Translation
+
+甲: 水费这么多！
+    shuǐfèi zhème duō ！
+    The water bill is so expensive!
+
+乙: 哦，多少？
+    o ， duōshǎo ？
+    Oh, how much?
+
+甲: 六千多。
+    liùqiān duō 。
+    More than six thousand.
+
+乙: 哦，我最近经常洗澡。
+    o ， wǒ zuìjìn jīngcháng xǐzǎo 。
+    Oh, I've been showering a lot these days.
+### Vocab
+-随便 (suíbiàn) [phrase] whatever
+-火锅 (huǒguō) [noun] hot pot
+-水煮鱼 (shuǐzhǔyú) [noun] boiled fish
+-上火 (shànghuǒ) [verb] to create internal heat
+-去火 (qùhuǒ) [verb] to diminish internal heat
+-辣 (là) [adjective] spicy
+-究竟 (jiūjìng) [adverb] (adds emphasis to questions)
+-什么 (shénme) [noun] anything
+-哪 (nǎ) [noun] anywhere
+-谁 (shéi) [noun] anyone

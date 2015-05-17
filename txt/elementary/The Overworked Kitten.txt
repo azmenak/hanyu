@@ -1,0 +1,48 @@
+# The Overworked Kitten
+## *elementary* level
+
+### Chinese Text
+甲：嗯，真香啊，今天晚上吃什么？
+乙：兔子。
+甲：兔子？
+乙：红烧兔子。哎，对了，下次记得买个肥点儿的。这身上都没什么肉。
+甲：那是我买给孩子的！
+乙：嗯，会给他的。
+
+### Pinyin and Translation
+
+甲: 嗯，真香啊，今天晚上吃什么？
+    en ， zhēn xiāng a ， jīntiān wǎnshang chī shénme ？
+    Hey, that smells good. What's for dinner tonight?
+
+乙: 兔子。
+    tùzi 。
+    Rabbit.
+
+甲: 兔子？
+    tùzi ？
+    Rabbit?
+
+乙: 红烧兔子。哎，对了，下次记得买个肥点儿的。这身上都没什么肉。
+    hóngshāo tùzi 。 āi ， duìle ， xiàcì jìde mǎi ge féi diǎnr de 。 zhè shēn shàng dōu méi shénme ròu 。
+    Red braised rabbit. Oh, remember to buy a fatter one next time. There's no meat on this one.
+
+甲: 那是我买给孩子的！
+    nà shì wǒ mǎi gěi háizi de ！
+    I got that for our kid!
+
+乙: 嗯，会给他的。
+    en ， huì gěi tā de 。
+    Oh, he'll get some.
+### Vocab
+-电插板 (diànchābǎnr) [noun] power bar
+-接线板 (jiēxiànbǎn) [noun] power cord
+-鼻子 (bízi) [noun] nose
+-嘴唇 (zuǐchún) [noun] lip
+-脾气 (píqì) [noun] temper
+-像 (xiàng) [verb] like
+-挂 (guà) [verb] to hang
+-过分 (guòfèn) [adjective] excessive
+-烂 (làn) [adjective] rotten
+-的确 (díquè) [adverb] actually
+-不过 (bùguò) [conjunction] but

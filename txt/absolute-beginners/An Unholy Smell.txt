@@ -1,0 +1,47 @@
+# An Unholy Smell
+## *absolute-beginners* level
+
+### Chinese Text
+女人：这个十块。
+男人：五块。
+女人：十块。
+男人：七块。
+女人：十块。
+男人：好。十块。
+
+### Pinyin and Translation
+
+女人: 这个十块。
+      zhège shí kuài 。
+      This is ten dollars.
+
+男人: 五块。
+      wǔ kuài 。
+      Five dollars.
+
+女人: 十块。
+      shí kuài 。
+      Ten dollars.
+
+男人: 七块。
+      qī kuài 。
+      Seven dollars.
+
+女人: 十块。
+      shí kuài 。
+      Ten dollars.
+
+男人: 好。十块。
+      hǎo 。 shí kuài 。
+      Ok. Ten dollars.
+### Vocab
+-去 (qù) [verb] to go
+-不 (bù) [adverb] no, not
+-太 (tài) [adverb] too
+-坏 (huài) [adjective] bad
+-贵 (guì) [adjective] expensive
+-是 (shì) [verb] to be
+-爱 (ài) [verb] to love
+-爸爸 (bàba) [noun] father
+-串儿 (chuànr) [noun] kebab
+-热 (rè) [noun] hot

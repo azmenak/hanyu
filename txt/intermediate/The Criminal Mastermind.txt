@@ -1,0 +1,76 @@
+# The Criminal Mastermind
+## *intermediate* level
+
+### Chinese Text
+甲：嘿，兄弟，干嘛呢？
+乙：打电话呢。
+甲：给谁打电话？
+乙：呃....
+甲：不会是那天银行里的那个女警察吧？
+乙：我对她一见钟情。
+甲：哦，好吧，我承认她很性感，但是那天我们正在抢银行！
+乙：我们戴了头套儿，她不知道我们是谁。
+甲：你想自投罗网吗？
+乙：当时她已经下班了，而且是她自己把电话给我的。
+甲：天哪，那是因为你用枪指着人家的脑袋！
+
+### Pinyin and Translation
+
+甲: 嘿，兄弟，干嘛呢？
+    hei ， xiōngdi ， gànmá ne ？
+    Hey, dude, what are you doing?
+
+乙: 打电话呢。
+    dǎ diànhuà ne 。
+    Making a telephone call.
+
+甲: 给谁打电话？
+    gěi shéi dǎ diànhuà ？
+    Who are you calling?
+
+乙: 呃....
+    e ....
+    Uh....
+
+甲: 不会是那天银行里的那个女警察吧？
+    bùhuì shì nà tiān yínháng lǐ de nà ge nǚjǐngchá ba ？
+    It's not that female cop from the other day at the bank, is it?
+
+乙: 我对她一见钟情。
+    wǒ duì tā yījiànzhōngqíng 。
+    I fell in love with her at first sight.
+
+甲: 哦，好吧，我承认她很性感，但是那天我们正在抢银行！
+    o ， hǎo ba ， wǒ chéngrèn tā hěn xìnggǎn ， dànshì nà tiān wǒmen zhèng zài qiǎng yínháng ！
+    Look.... I'll admit that she was sexy, but we were robbing the bank!
+
+乙: 我们戴了头套儿，她不知道我们是谁。
+    wǒmen dài le tóutàor ， tā bù zhīdào wǒmen shì shéi 。
+    We were wearing masks, she doesn't know who we are.
+
+甲: 你想自投罗网吗？
+    nǐ xiǎng zìtóuluówǎng ma ？
+    Do you want to get caught?
+
+乙: 当时她已经下班了，而且是她自己把电话给我的。
+    dāngshí tā yǐjīng xiàbān le ， érqiě shì tā zìjǐ bǎ diànhuà gěi wǒ de 。
+    She was off-duty at the time, and she gave me her number herself.
+
+甲: 天哪，那是因为你用枪指着人家的脑袋！
+    tiānna ， nà shì yīnwèi nǐ yòng qiāng zhǐzhe rénjiā de nǎodai ！
+    Good Lord, that was because you were pointing a gun at her head.
+### Vocab
+-大夫 (dàifu) [noun] doctor
+-病历 (bìnglì) [noun] medical history
+-预防针 (yùfángzhēn) [noun] vaccination
+-病人 (bìngrén) [noun] patient
+-艾滋病 (àizībìng) [noun] AIDS
+-性病 (xìngbìng) [noun] venereal disease
+-癌症 (áizhēng) [noun] cancer
+-盲肠炎 (mángchángyán) [noun] appendicitis
+-阑尾炎 (lánwěiyán) [noun] appendicitis
+-脑炎 (nǎoyán) [noun] encephalitis
+-肝炎 (gānyán) [noun] hepatitis
+-甲肝 (jiǎgān) [noun] hepatitis A
+-乙肝 (yǐgān) [noun] hepatitis B
+-丙肝 (bǐnggān) [noun] hepatitis C

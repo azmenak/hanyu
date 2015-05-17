@@ -1,0 +1,51 @@
+# The Hostile ATM
+## *elementary* level
+
+### Chinese Text
+甲：您好，请输入你的密码。
+乙：哦，好的。
+甲：对不起，你输入的密码是错误的。请重新输入密码。
+乙：错误的？我再输入一遍。
+甲：对不起，你输入的密码是错误的。请重新输入密码。
+乙：啊，肯定是对的！
+甲：笨蛋，别惹我生气！
+
+### Pinyin and Translation
+
+甲: 您好，请输入你的密码。
+    nínhǎo ， qǐng shūrù nǐ de mìmǎ 。
+    Hello, please enter your password.
+
+乙: 哦，好的。
+    o ， hǎo de 。
+    Oh, ok.
+
+甲: 对不起，你输入的密码是错误的。请重新输入密码。
+    duìbuqǐ ， nǐ shūrù de mìmǎ shì cuòwù de 。 qǐng chóngxīn shūrù mìmǎ 。
+    I'm sorry, the password you entered is incorrect. Please re-enter your password.
+
+乙: 错误的？我再输入一遍。
+    cuòwù de ？ wǒ zài shūrù yībiàn 。
+    Wrong? I'll enter it again.
+
+甲: 对不起，你输入的密码是错误的。请重新输入密码。
+    duìbuqǐ ， nǐ shūrù de mìmǎ shì cuòwù de 。 qǐng chóngxīn shūrù mìmǎ 。
+    I'm sorry, the password you entered is incorrect. Please re-enter your password.
+
+乙: 啊，肯定是对的！
+    ā ， kěndìng shì duì de ！
+    Huh, that's definitely right.
+
+甲: 笨蛋，别惹我生气！
+    bèndàn ， bié rě wǒ shēngqì ！
+    Idiot, don't make me angry!
+### Vocab
+-输入 (shūrù) [verb] to input
+-密码 (mìmǎ) [noun] password
+-错误 (cuòwù) [noun] error
+-重新 (chóngxīn) [adverb] all over again
+-再 (zài) [adverb] again
+-肯定 (kěndìng) [adverb] certainly
+-惹 (rě) [verb] to provoke
+-笨蛋 (bèndàn) [noun] idiot
+-生气 (shēngqì) [verb] to be angry

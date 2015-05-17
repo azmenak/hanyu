@@ -1,0 +1,36 @@
+# Get in Line
+## *absolute-beginners* level
+
+### Chinese Text
+甲：哎，借过一下。
+乙：不借！
+甲：嗯？
+乙：排队去！
+
+### Pinyin and Translation
+
+甲: 哎，借过一下。
+    ai ， jièguò yīxià 。
+    Hey, let me through.
+
+乙: 不借！
+    bù jiè ！
+    No way!
+
+甲: 嗯？
+    en ？
+    Huh?
+
+乙: 排队去！
+    páiduì qù ！
+    Go get in line!
+### Vocab
+-借过 (jièguò) [phrase] let me through
+-去 (qù) [verb] to go
+-睡觉 (shuìjiào) [verb] to sleep
+-吃饭 (chīfàn) [verb] to eat
+-休息 (xiūxi) [verb] to relax
+-工作 (gōngzuò) [verb] to work
+-排队 (páiduì) [verb] to line up
+-学习 (xuéxí) [verb] to study
+-吧 (ba) [particle] (suggestion)

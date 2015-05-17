@@ -1,0 +1,39 @@
+# The Passive-Aggressive Masseuse
+## *absolute-beginners* level
+
+### Chinese Text
+一：你觉得_____怎么样？
+二：我觉得______不错。
+一：我同意。
+二：好，明天见！
+
+### Pinyin and Translation
+
+一: 你觉得_____怎么样？
+    nǐ juéde _____ zěnmeyàng ？
+    How you you feel about _____?
+
+二: 我觉得______不错。
+    wǒ juéde ______ bùcuò 。
+    I think _____ isn't bad.
+
+一: 我同意。
+    wǒ tóngyì 。
+    I agree.
+
+二: 好，明天见！
+    hǎo ， míng tiān jiàn ！
+    Ok, see you tomorrow!
+### Vocab
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I
+-吗 (ma) [question] (question particle)
+-为什么 (wèishénme) [question] why
+-很 (hěn) [adverb] very
+-舒服 (shūfu) [adjective] comfortable
+-忙 (máng) [adjective] busy
+-累 (lèi) [adjective] tired
+-饿 (è) [adjective] hungry
+-打 (dǎ) [verb] to hit
+-掐 (qiā) [verb] to pinch
+-开玩笑 (kāi wánxiào) [verb] to play a joke

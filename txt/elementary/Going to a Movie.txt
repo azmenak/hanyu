@@ -1,0 +1,36 @@
+# Going to a Movie
+## *elementary* level
+
+### Chinese Text
+女的：给我一听王老吉。
+男的：冰的还是常温的?
+女的：冰的。
+男的：稍等。
+
+### Pinyin and Translation
+
+女的: 给我一听王老吉。
+      gěi wǒ yī tīng Wánglǎojí 。
+      Give me a can of Wanglaoji.
+
+男的: 冰的还是常温的?
+      bīng de hái shì chángwēn de ?
+      You want that cold or warm?
+
+女的: 冰的。
+      bīng de 。
+      Cold.
+
+男的: 稍等。
+      shāoděng 。
+      Just a moment.
+### Vocab
+-今天 (jīntiān) [noun] today
+-晚上 (wǎnshang) [noun] evening
+-有事 (yǒushì) [verb phrase] to be occupied
+-吗 (ma) [particle] 
+-没事 (méishì) [verb] not to have anything
+-那 (nà) [conjunction] in that case
+-一起 (yīqǐ) [preposition] together
+-电影 (diànyǐng) [noun] movie
+-吧 (ba) [particle] (suggestion)

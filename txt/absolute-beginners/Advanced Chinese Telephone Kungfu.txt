@@ -1,0 +1,43 @@
+# Advanced Chinese Telephone Kungfu
+## *absolute-beginners* level
+
+### Chinese Text
+甲：咳，我听说他....
+乙：嘿，怎么样？
+甲：呃....
+乙：你们在说什么？
+甲：没说什么，没说什么。
+
+### Pinyin and Translation
+
+甲: 咳，我听说他....
+    hai ， wǒ tīngshuō tā . . . .
+    Hey, I heard he....
+
+乙: 嘿，怎么样？
+    hei ， zěnmeyàng ？
+    Hey, what's up?
+
+甲: 呃....
+    e . . . .
+    Uhhh....
+
+乙: 你们在说什么？
+    nǐmen zài shuō shénme ？
+    What are you guys saying?
+
+甲: 没说什么，没说什么。
+    méi shuō shénme ， méi shuō shénme 。
+    Nothing, nothing at all.
+### Vocab
+-喂 (wéi) [other] hello
+-一 (yī) [number] one
+-二 (èr) [number] two
+-三 (sān) [number] three
+-开 (kāi) [verb] to turn on
+-没 (méi) [adverb] not
+-行 (xíng) [adjective] ok
+-好 (hǎo) [adjective] good
+-妈的 (māde) [other] damn
+-讨厌 (tǎoyàn) [verb] to hate
+-工作 (gōngzuò) [noun] work

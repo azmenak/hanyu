@@ -1,0 +1,48 @@
+# Popup Chinese Crossover Madness
+## *elementary* level
+
+### Chinese Text
+甲：我刚买了一大瓶芬达放在厨房里了。
+乙：是吗，我最喜欢喝芬达了。
+甲：正好就着披萨一起喝，我们去吃吧。
+甲：啊？原始人在厨房里！
+乙：我的芬达。
+甲：噢，那可是最后一瓶了。
+
+### Pinyin and Translation
+
+甲: 我刚买了一大瓶芬达放在厨房里了。
+    wǒ gāng mǎi le yī dà píng fēndá fàng zài chúfáng lǐ le 。
+    I just bought a big bottle of Fanta and put it in the kitchen.
+
+乙: 是吗，我最喜欢喝芬达了。
+    shìma ， wǒ zuì xǐhuān hē fēndá le 。
+    Really, I love drinking Fanta.
+
+甲: 正好就着披萨一起喝，我们去吃吧。
+    zhènghǎo jiùzhe pīsà yīqǐ hē ， wǒmen qù chī ba 。
+    And it's really good together with pizza. Let's go eat.
+
+甲: 啊？原始人在厨房里！
+    a ？ yuánshǐrén zài chúfáng lǐ ！
+    Oh? There's a caveman in the kitchen!
+
+乙: 我的芬达。
+    wǒde fēndá 。
+    My Fanta!
+
+甲: 噢，那可是最后一瓶了。
+    o ， nà kě shì zuìhòu yī píng le 。
+    Oh, but that's the last bottle.
+### Vocab
+-人家 (rénjiā) [noun] someone
+-别人 (biérén) [noun] other people
+-酱 (jiàng) [noun] sauce
+-拿 (ná) [verb] to take
+-送 (sòng) [verb] to give; to present
+-把 (bǎ) [verb] to take
+-远 (yuǎn) [adjective] far
+-可 (kě) [particle] (emphatic)
+-给 (gěi) [particle] (emphatic)
+-才 (cái) [adverb] (conversely)
+-过了这村儿没这店儿 (guò le zhè cūnr méi zhè diànr) [idiom] after this village there isn't this shop

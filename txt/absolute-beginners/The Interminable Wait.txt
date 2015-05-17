@@ -1,0 +1,42 @@
+# The Interminable Wait
+## *absolute-beginners* level
+
+### Chinese Text
+甲：已经八点了。
+乙：她会来的。
+甲：她忘了。
+乙：她说她会来的，我知道她会来的。
+
+### Pinyin and Translation
+
+甲: 已经八点了。
+    yǐjīng bā diǎn le 。
+    It's already eight o'clock.
+
+乙: 她会来的。
+    tā huì lái de 。
+    She'll come.
+
+甲: 她忘了。
+    tā wàng le 。
+    She's forgotten.
+
+乙: 她说她会来的，我知道她会来的。
+    tā shuō tā huì lái de ， wǒ zhīdao tā huì lái de 。
+    She said she'll come. I know she'll come.
+### Vocab
+-猫 (māo) [noun] cat
+-又 (yòu) [adverb] once again
+-上 (shàng) [verb] to get on
+-椅子 (yǐzi) [noun] chair
+-下来 (xiàlai) [verb] to come down
+-得 (děi) [verb] must
+-工作 (gōngzuò) [verb] to work
+-别 (bié) [conjunction] don't
+-动 (dòng) [verb] to move
+-它 (tā) [pronoun] it
+-舒服 (shūfu) [adjective] comfortable
+-走 (zǒu) [verb] to leave
+-吃饭 (chīfàn) [verb] to eat
+-睡觉 (shuìjiào) [verb] to sleep
+-上学 (shàngxué) [verb] to go to school

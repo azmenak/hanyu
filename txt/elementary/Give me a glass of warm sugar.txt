@@ -1,0 +1,34 @@
+# Give me a glass of warm sugar
+## *elementary* level
+
+### Chinese Text
+甲：今天晚上有事吗?
+乙：没事。
+甲：那我们一起去看电影吧?
+乙：好呀。
+
+### Pinyin and Translation
+
+甲: 今天晚上有事吗?
+    jīntiān wǎnshang yǒushì ma ?
+    Got anything tonight?
+
+乙: 没事。
+    méishì 。
+    Nope.
+
+甲: 那我们一起去看电影吧?
+    nà wǒmen yīqǐ qù kān diànyǐng ba ?
+    Let's go watch a movie then, ok?
+
+乙: 好呀。
+    hǎo ya 。
+    Ok.
+### Vocab
+-王老吉 (Wánglǎojí) [noun] Wanglaoji
+-听 (tīng) [(measure word)] can
+-给 (gěi) [verb] to give
+-冰的 (bīng de) [adjective] iced
+-还是 (hái shì) [conjunction] or
+-常温的 (chángwēn de) [adjective] room temperature
+-稍等 (shāoděng) [phrase] wait a moment

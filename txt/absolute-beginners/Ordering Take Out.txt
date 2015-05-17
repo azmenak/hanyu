@@ -1,0 +1,41 @@
+# Ordering Take Out
+## *absolute-beginners* level
+
+### Chinese Text
+男的：美女，你好。
+女的：什么?
+男的：美女，你好!
+女的：听不见。
+男的：留个电话吧。
+
+### Pinyin and Translation
+
+男的: 美女，你好。
+      měinǚ ， nǐhǎo 。
+      Hello beautiful.
+
+女的: 什么?
+      shénme ?
+      What?
+
+男的: 美女，你好!
+      měinǚ ， nǐhǎo !
+      Hey beautiful!
+
+女的: 听不见。
+      tīngbùjiàn 。
+      I can't hear you.
+
+男的: 留个电话吧。
+      liú ge diànhuà ba 。
+      Give me your number.
+### Vocab
+-喂 (wéi) [exclamation] hello
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-想 (xiǎng) [verb] to wish
+-点餐 (diǎncān) [verb] to order a meal
+-什么 (shénme) [question] what
+-叫外卖 (jiào wàimài) [verb phrase] to order take-out food
+-行 (xíng) [adjective] OK
+-烤鸭 (kǎoyā) [noun] roast duck

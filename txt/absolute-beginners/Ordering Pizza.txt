@@ -1,0 +1,37 @@
+# Ordering Pizza
+## *absolute-beginners* level
+
+### Chinese Text
+甲：一个大号批萨。
+乙：大号还是中号？
+甲：大号。
+乙：好。
+
+### Pinyin and Translation
+
+甲: 一个大号批萨。
+    yī ge dàhào pīsa 。
+    One large pizza.
+
+乙: 大号还是中号？
+    dàhào hái shì zhōnghào ？
+    Large or medium?
+
+甲: 大号。
+    dàhào 。
+    Large.
+
+乙: 好。
+    hǎo 。
+    Ok.
+### Vocab
+-好 (hǎo) [noun] good
+-号 (hào) [noun] size
+-批萨 (pīsa) [noun] pizza
+-套餐 (tàocān) [noun] combo
+-小号 (xiǎohào) [noun] small size
+-中号 (zhōnghào) [noun] medium size
+-大号 (dàhào) [noun] large size
+-小 (xiǎo) [adjective] small
+-中 (zhōng) [adjective] middle
+-大 (dà) [adjective] big

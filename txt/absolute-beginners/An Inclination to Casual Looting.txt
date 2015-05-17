@@ -1,0 +1,48 @@
+# An Inclination to Casual Looting
+## *absolute-beginners* level
+
+### Chinese Text
+甲：她没有邮箱？
+乙：没有。
+甲：也没有电话？
+乙：没有。
+甲：她是80后？
+乙：1880后。
+
+### Pinyin and Translation
+
+甲: 她没有邮箱？
+    tā méiyǒu yóuxiāng ？
+    She doesn't have email?
+
+乙: 没有。
+    méiyǒu 。
+    No.
+
+甲: 也没有电话？
+    yě méiyǒu diànhuà ？
+    She doesn't have a telephone either?
+
+乙: 没有。
+    méiyǒu 。
+    No.
+
+甲: 她是80后？
+    tā shì bā líng hòu ？
+    She was born in the 1980s?
+
+乙: 1880后。
+    yī bā bā líng hòu 。
+    The 1880s.
+### Vocab
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] my
+-还 (hái) [adverb] still
+-有 (yǒu) [verb] to have
+-多少 (duōshǎo) [question] how much
+-钱 (qián) [noun] money
+-五 (wǔ) [number] five
+-十 (shí) [number] ten
+-那 (nà) [determiner] that
+-给 (gěi) [verb] to give
+-时间 (shíjiān) [noun] time

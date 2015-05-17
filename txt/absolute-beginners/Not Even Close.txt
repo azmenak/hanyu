@@ -1,0 +1,38 @@
+# Not Even Close
+## *absolute-beginners* level
+
+### Chinese Text
+甲：这是工人体育场吗？
+乙：不是。
+甲：真的？
+乙：差远了。
+
+### Pinyin and Translation
+
+甲: 这是工人体育场吗？
+    zhè shì gōngrén tǐyùchǎng ma ？
+    Is this worker's stadium?
+
+乙: 不是。
+    bù shì 。
+    No it isn't.
+
+甲: 真的？
+    zhēnde ？
+    Really?
+
+乙: 差远了。
+    chà yuǎn le 。
+    Not even close.
+### Vocab
+-很 (hěn) [adverb] very
+-远 (yuǎn) [adjective] far
+-近 (jìn) [adjective] near
+-这 (zhè) [determiner] this
+-是 (shì) [verb] to be
+-吗 (ma) [particle] (question)
+-真的 (zhēnde) [adverb] really
+-差远了 (chà yuǎn le) [phrase] not even close
+-差不多 (chàbuduō) [phrase] more or less
+-三里屯 (sānlǐtún) [place] Sanlitun
+-工人体育场 (gōngrén tǐyùchǎng) [place] Workers Stadium

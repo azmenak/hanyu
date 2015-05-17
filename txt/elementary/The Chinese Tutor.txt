@@ -1,0 +1,48 @@
+# The Chinese Tutor
+## *elementary* level
+
+### Chinese Text
+甲：他又开始唱歌了。
+乙：我听见了。我受不了了。
+甲：压力之下。谁没压力？有压力的应该是咱们。
+乙：三天了吧。
+甲：是你找的室友。
+
+### Pinyin and Translation
+
+甲: 他又开始唱歌了。
+    tā yòu kāishǐ chànggē le 。
+    He's started singing again.
+
+乙: 我听见了。我受不了了。
+    wǒ tīng  jiàn le 。 wǒ shòu bu liǎo le 。
+    I can hear it. I can't take it anymore.
+
+甲: 压力之下。谁没压力？有压力的应该是咱们。
+    yālì zhī xià 。 shéi méi yālì ？ yǒu yālì de yīnggāi shì zánmen 。
+    Under pressure. Who doesn't have pressure? We're the ones who have pressure.
+
+乙: 三天了吧。
+    sān tiān le ba 。
+    It's been three days now.
+
+甲: 是你找的室友。
+    shì nǐ zhǎo de shìyǒu 。
+    You're the one who found this guy for a roommate.
+### Vocab
+-现在 (xiànzài) [noun] now
+-适应 (shìyìng) [verb] to adapt to
+-聊一下 (liáoyīxià) [verb] to chat about
+-说一下 (shuōyīxià) [verb] to speak about
+-谈一下 (tányīxià) [verb] to discuss
+-南方 (nánfāng) [noun] southern China
+-北方 (běifāng) [noun] northern China
+-气候 (qìhòu) [noun] climate
+-潮湿 (cháoshī) [adjective] moist
+-干燥 (gānzào) [adjective] dry
+-再来 (zàilái) [adverb] once more
+-起床 (qǐchuáng) [verb] to get out of bed
+-上学 (shàngxué) [verb] to attend school
+-放学 (fàngxué) [verb] to get let out of school
+-对吗 (duìma) [phrase] isn't that right
+-跟我说 (gēn wǒ shuō) [phrase] repeat after me

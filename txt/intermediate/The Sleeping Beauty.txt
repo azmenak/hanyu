@@ -1,0 +1,62 @@
+# The Sleeping Beauty
+## *intermediate* level
+
+### Chinese Text
+甲：没有证据表明这是连环杀手干的。
+乙：两周内五起谋杀案，这只是一个开始。
+甲：这个城市每年至少七百起恶性案件，贩毒仇杀，黑社会斗殴都有。
+乙：但有多少涉及到孩子？我们需要通知上级安全部门。
+甲：给FBI打电话之前我需要有力的证据。
+乙：有力的？
+甲：这些可能只是一个巧合。
+丙：队长，刚才在城西通运河里又发现了一具尸体，十五岁。
+乙：你看，我说过，这只是一个开头。
+
+### Pinyin and Translation
+
+甲: 没有证据表明这是连环杀手干的。
+    méiyǒu zhèngju biǎomíng zhè shì liánhuánshāshǒu gàn de 。
+    There's no evidence to show this is the work of a serial killer.
+
+乙: 两周内五起谋杀案，这只是一个开始。
+    liǎng zhōu nèi wǔ qǐ móushāàn ， zhè zhǐ shì yī ge kāishǐ 。
+    Five killings in two weeks. This is just the beginning.
+
+甲: 这个城市每年至少七百起恶性案件，贩毒仇杀，黑社会斗殴都有。
+    zhège chéngshì měinián zhìshǎo qībǎi qǐ èxìng ànjiàn ， fàndú chóushā ， hēishèhuìdòuōu dōu yǒu 。
+    There are at least 700 cases of foul play a year in this city: between drug traffiking, vengeance killings and mob hits we see it all.
+
+乙: 但有多少涉及到孩子？我们需要通知上级安全部门。
+    dàn yǒu duōshao shèjí dào háizi ？ wǒmen xūyào tōngzhī shàngjíānquánbùmén 。
+    But how many of these involve children? We need to inform our higher-ups in law enforcement.
+
+甲: 给FBI打电话之前我需要有力的证据。
+    gěi FBI dǎ diànhuà zhīqián wǒ xūyào yǒu lì de zhèngju 。
+    I need compelling evidence before calling the FBI.
+
+乙: 有力的？
+    yǒu lì de ？
+    Compelling?
+
+甲: 这些可能只是一个巧合。
+    zhè xiē kěnéng zhǐ shì yī ge qiǎohé 。
+    These might just be a coincidence.
+
+丙: 队长，刚才在城西通运河里又发现了一具尸体，十五岁。
+    duìzhǎng ， gāngcái zài chéngxī tōngyùnhé lǐ yòu fāxiàn le yījùshītǐ ， shíwǔ suì 。
+    Captain, we just discovered another body in the Tongyun river in the western quarters. A fifteen year old.
+
+乙: 你看，我说过，这只是一个开头。
+    nǐ kàn ， wǒ shuō guò ， zhè zhǐ shì yī ge kāitóu 。
+    Look. I told you, this is only the start.
+### Vocab
+-根儿 (gēnr) [measure word] piece
+-块儿 (kuàir) [measure word] piece
+-本儿 (běnr) [measure word] volume
+-片儿 (piànr) [measure word] slice
+-勺儿 (sháor) [measure word] spoon
+-保证 (bǎozhèng) [verb] to guarantee
+-说到做到 (shuōdào zuòdào) [phrase] to do what one says
+-明儿 (míngr) [noun] tomorrow
+-今儿 (jīnr) [noun] today
+-昨儿 (zuór) [noun] yesterday

@@ -1,0 +1,88 @@
+# Occupational Hazard
+## *intermediate* level
+
+### Chinese Text
+甲：风速？
+乙：风速六十。
+甲：高度？
+乙：高度八千。
+乙：机长，机长，你的癫痫病又要发了吗？
+甲：我能控制住。
+乙：空姐空姐快来，机长要犯病了。
+丙：机长，你怎么了，你又犯病了，你又病了吗？要冲咖啡吗？
+甲：别给我咖啡因，我能控制。
+乙：机长，机长，坚持住，坚持住，机长！
+甲：放下起落架。
+乙：放下起落架。
+甲：又一次安全的降落，感谢大家的支持。
+
+### Pinyin and Translation
+
+甲: 风速？
+    fēngsù ？
+    Wind speed?
+
+乙: 风速六十。
+    fēngsù liùshí 。
+    Windspeed of sixty.
+
+甲: 高度？
+    gāodù ？
+    Height?
+
+乙: 高度八千。
+    gāodù bāqiān 。
+    Height of eight thousand.
+
+乙: 机长，机长，你的癫痫病又要发了吗？
+    jīzhǎng ， jīzhǎng ， nǐ de diānxiánbìng yòu yào fā le ma ？
+    Captain, captain, you're having another attack of epilepsy?
+
+甲: 我能控制住。
+    wǒ néng kòngzhizhù 。
+    I can control it.
+
+乙: 空姐空姐快来，机长要犯病了。
+    kōngjiě kōngjiě kuài lái ， jīzhǎng yào fànbìng le 。
+    Stewardess, stewardess, come quickly! The captain is having another episode.
+
+丙: 机长，你怎么了，你又犯病了，你又病了吗？要冲咖啡吗？
+    jīzhǎng ， nǐ zěnme le ， nǐ yòu fànbìng le ， nǐ yòu bìngle ma ？ yào chōng kāfēi ma ？
+    Captain? Are you ok? Sick again? Are you sick again? Want a refill of coffee?
+
+甲: 别给我咖啡因，我能控制。
+    bié gěi wǒ kāfēiyīn ， wǒ néng kòngzhi 。
+    Don't give me caffeine. I can control this.
+
+乙: 机长，机长，坚持住，坚持住，机长！
+    jīzhǎng ， jīzhǎng ， jiānchízhù ， jiānchízhù ， jīzhǎng ！
+    Captain, captain. Keep it under control, captain!
+
+甲: 放下起落架。
+    fàngxià qǐluòjià 。
+    Put down the landing gear.
+
+乙: 放下起落架。
+    fàngxià qǐluòjià 。
+    Putting down the landing gear.
+
+甲: 又一次安全的降落，感谢大家的支持。
+    yòu yī cì ānquán de jiàngluò ， gǎnxiè dàjiā de zhīchí 。
+    Another safe landing. Thanks to everyone for their support.
+### Vocab
+-风速 (fēngsù) [noun] windspeed
+-高度 (gāodù) [noun] height
+-机长 (jīzhǎng) [noun] pilot
+-癫痫病 (diānxiánbìng) [noun] epilepsy
+-空姐 (kōngjiě) [noun] flight stewardess
+-起落架 (qǐluòjià) [noun] landing gear
+-咖啡因 (kāfēiyīn) [noun] caffeine
+-降落 (jiàngluò) [noun] landing
+-控制 (kòngzhi) [verb] to control
+-犯病 (fànbìng) [verb] to have a recurring illness
+-犯错误 (fàncuòwu) [verb] to make a mistake
+-犯傻 (fànshǎ) [verb] to do something dumb
+-犯晕 (fànyūn) [verb] to have a dizzy spell
+-犯忌讳 (fànjìhui) [verb] to break a taboo
+-犯贱 (fànjiàn) [verb] to debase oneself
+-犯神经 (fànshénjīng) [verb] to act unthinkingly

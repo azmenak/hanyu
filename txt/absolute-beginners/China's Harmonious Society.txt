@@ -1,0 +1,41 @@
+# China's Harmonious Society
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你的手表在哪儿买的？
+乙：在网上。
+甲：什么网？
+乙：因特网。
+甲：哦，没听说过。
+
+### Pinyin and Translation
+
+甲: 你的手表在哪儿买的？
+    nǐ de shǒubiǎo zài nǎr mǎi de ？
+    Where did you buy your watch?
+
+乙: 在网上。
+    zài wǎngshàng 。
+    On the Internet.
+
+甲: 什么网？
+    shénme wǎng ？
+    Which website?
+
+乙: 因特网。
+    yīntèwǎng 。
+    The Internet.
+
+甲: 哦，没听说过。
+    ò ， méi tīngshuō guo 。
+    Oh, never heard of it.
+### Vocab
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-觉得 (juéde) [verb] to feel
+-同意 (tóngyì) [verb] to agree
+-和谐 (héxié) [verb] to harmonize; to censor
+-怎么样 (zěnmeyàng) [phrase] how about it
+-不错 (bùcuò) [phrase] not bad
+-明天见 (míng tiān jiàn) [phrase] see you tomorrow
+-好 (hǎo) [adjective] good

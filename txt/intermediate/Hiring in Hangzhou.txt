@@ -1,0 +1,34 @@
+# Hiring in Hangzhou
+## *intermediate* level
+
+### Chinese Text
+A：哎，你看那男的多帅啊！
+B：帅什么呀，长得跟个女的似的。
+A：你不懂，今年就流行这样的！
+
+### Pinyin and Translation
+
+A: 哎，你看那男的多帅啊！
+    ài ， nǐ kàn nà nánde duō shuài à ！
+    Hey, look at how handsome that guy is!
+
+B: 帅什么呀，长得跟个女的似的。
+    shuài shénme yà ， zhǎngde gēn ge nǚde shìde 。
+    Handsome? He looks like a girl.
+
+A: 你不懂，今年就流行这样的！
+    nǐ bù dǒng ， jīnnián jiù liúxíng zhèyang de ！
+    You don't understand. That's in fashion this year!
+### Vocab
+-哥们 (gēmenr) [noun] friend
+-雷曼兄弟 (léimàn xiōngdì) [noun] Lehman Brothers
+-风险 (fēngxiǎn) [noun] risk
+-投资银行 (tóuzī yínháng) [noun] investment bank
+-破产 (pòchǎn) [verb] to go bankrupt
+-期货 (qīhuò) [noun] futures
+-次贷 (cìdài) [noun] subprime loan
+-次贷款 (cìdài kuǎn) [noun] subprime loan
+-价值 (jiàzhí) [noun] value
+-投资 (tóuzī) [verb] to invest
+-疯了 (fēng le) [verb] to go crazy
+-评估 (pínggū) [noun] appraisal

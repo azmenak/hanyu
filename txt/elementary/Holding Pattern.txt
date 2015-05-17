@@ -1,0 +1,49 @@
+# Holding Pattern
+## *elementary* level
+
+### Chinese Text
+男：哦，你们家没有卫生间吗？
+女：没有啊。
+男：那你爸妈平时怎么解决的？
+女：他们年纪大了，就不用了。
+男：年纪大了也不能不用洗手间呀。
+女：我也不知道为什么。
+
+### Pinyin and Translation
+
+男: 哦，你们家没有卫生间吗？
+    ò ， nǐmen jiā méiyǒu wèishēngjiān ma ？
+    Hey, does your home have a washroom?
+
+女: 没有啊。
+    méiyǒu a 。
+    No.
+
+男: 那你爸妈平时怎么解决的？
+    nà nǐ bàmā píngshí zěnme jiějué de ？
+    Then how do your parents usually deal with it?
+
+女: 他们年纪大了，就不用了。
+    tāmen niánjì dà le ， jiù bùyòng le 。
+    They're getting old and don't use it.
+
+男: 年纪大了也不能不用洗手间呀。
+    niánjì dà le yě bù néng bù yòng xǐshǒujiān yā 。
+    You can't not use the washroom even when you're old.
+
+女: 我也不知道为什么。
+    wǒ yě bù zhīdào wèishénme 。
+    I don't understand it either.
+### Vocab
+-卫生间 (wèishēngjiān) [noun] lavatory
+-洗手间 (xǐshǒujiān) [noun] washroom
+-厕所 (cèsuǒ) [noun] toilet
+-爸妈 (bàmā) [noun] parents
+-平时 (píngshí) [adverb] usually
+-解决 (jiějué) [verb] to resolve
+-问题 (wèntí) [noun] question
+-年纪 (niánjì) [noun] age
+-不能不 (bù néng bù) [phrase] cannot not
+-不会不 (bù huì bù) [phrase] wouldn't not
+-不得不 (bù dé bù) [phrase] couldn't not
+-不是不 (bù shì bù) [phrase] it's not that

@@ -1,0 +1,35 @@
+# This and That
+## *absolute-beginners* level
+
+### Chinese Text
+A：这是什么？
+B：这个？
+A：不是，那个！
+B：不知道。
+
+### Pinyin and Translation
+
+A: 这是什么？
+    zhè shì shénme ？
+    What is this?
+
+B: 这个？
+    zhège ？
+    This one?
+
+A: 不是，那个！
+    bù shì ， nàge ！
+    No, that one!
+
+B: 不知道。
+    bù zhīdào 。
+    I don't know.
+### Vocab
+-这 (zhè) [noun] this
+-不 (bù) [adverb] no, not
+-是 (shì) [verb] to be
+-什么 (shénme) [question] what
+-这个 (zhège) [phrase] this one
+-那个 (nàge) [phrase] that one
+-知道 (zhīdào) [verb] to know
+-不知道 (bù zhīdào) [phrase] don't know

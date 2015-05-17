@@ -1,0 +1,58 @@
+# A Bad China Day
+## *elementary* level
+
+### Chinese Text
+甲：你也认识安博？
+乙：我们认识挺久了。
+丙：你们俩聊上了？理查德，我给你介绍一下，这是我朋友小王。
+甲：我们已经认识了。
+乙：理查德... 他不会是个外国人吧....
+丙：理查德，你家是南非的对吧？
+甲：对，南非开普敦，我是做中非贸易的。
+乙：啊，南非的。你喜欢中国吗？
+
+### Pinyin and Translation
+
+甲: 你也认识安博？
+    nǐ yě rènshi An1bó ？
+    Do you know Amber?
+
+乙: 我们认识挺久了。
+    wǒmen rènshi tǐng jiǔ le 。
+    We've known each other for a while.
+
+丙: 你们俩聊上了？理查德，我给你介绍一下，这是我朋友小王。
+    nǐmen liǎ liáoshàng le ？ Lǐchádé ， wǒ gěi nǐ jièshào yīxià ， zhè shì wǒ péngyou Xiǎo Wáng 。
+    You've already started chatting? Richard, let me introduce my friend Xiao Wang here.
+
+甲: 我们已经认识了。
+    wǒmen yǐjīng rènshi le 。
+    We've already met.
+
+乙: 理查德... 他不会是个外国人吧....
+    Lǐchádé . . .  tā bùhuì shì ge wàiguórén ba . . . .
+    Richard... he isn't a foreigner, is he?
+
+丙: 理查德，你家是南非的对吧？
+    Lǐchádé ， nǐ jiā shì Nánfēi de duì ba ？
+    Richard, you're from South Africa, right?
+
+甲: 对，南非开普敦，我是做中非贸易的。
+    duì ， Nánfēi Kāipǔdūn ， wǒ shì zuò ZhōngFēi màoyi de 。
+    That's right. Cape Town, South Africa. I'm involved in Sino-African trade.
+
+乙: 啊，南非的。你喜欢中国吗？
+    a ， Nánfēi de 。 nǐ xǐhuān Zhōngguó ma ？
+    Oh... South Africa. Do you like China?
+### Vocab
+-挺 (tǐng) [adverb] quite
+-久 (jiǔ) [adjective] long time
+-南非 (Nánfēi) [noun] South Africa
+-中非 (ZhōngFēi) [phrase] China Africa
+-贸易 (màoyi) [noun] trade
+-开普敦 (Kāipǔdūn) [noun] Cape Town
+-聊上了 (liáoshàng le) [phrase] to have started chatting
+-说上了 (shuōshàng le) [phrase] to have started talking
+-唱上了 (chàngshàng le) [phrase] to have started singing
+-下上雨了 (xiàshàngyǔ le) [phrase] to have started raining
+-谈上恋爱了 (tánshàngliàn'ài le) [phrase] to have started dating

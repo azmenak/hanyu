@@ -1,0 +1,49 @@
+# The Second Tone
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你别动!
+乙：没事!
+甲：别动!
+乙：没事!
+甲：别动!
+乙：没....
+
+### Pinyin and Translation
+
+甲: 你别动!
+    nǐ bié dòng !
+    Don't move, you!
+
+乙: 没事!
+    méishì !
+    Don't worry about it!
+
+甲: 别动!
+    bié dòng !
+    Don't move!
+
+乙: 没事!
+    méishì !
+    There's nothing wrong!
+
+甲: 别动!
+    bié dòng !
+    Don't move!
+
+乙: 没....
+    méi ....
+    There's no....
+### Vocab
+-谁 (shéi) [question] who
+-放屁 (fàngpì) [verb] to fart
+-不 (bù) [adverb] not
+-是 (shì) [verb] to be
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] me
+-很 (hěn) [adverb] very
+-臭 (chòu) [adjective] smelly
+-吧 (ba) [particle] (suggestion or guess)
+-放心 (fàngxīn) [verb] to relax, be at ease
+-放手 (fàngshòu) [verb] to release
+-屁话 (pìhuà) [phrase] nonsense

@@ -1,0 +1,93 @@
+# The Linguistic Massacre
+## *intermediate* level
+
+### Chinese Text
+甲：我已经把赎金打到你的瑞士账户了，你放了我女儿！
+乙：你是转账了，不过放人，没那么简单。
+甲：你怎么出尔反尔？我已经按照你的要求做了。
+乙：还有我要求你别做的... 你报警了！
+甲：我，我....
+乙：香港的张警官现在正在监听这通电话吧....
+甲：没，没有....
+乙：别否认了，还记得去年维多利亚港的惨案吗？
+甲：我不知道你在说什么。
+乙：你不知道，他知道。反正现在赎金翻倍了。
+甲：翻倍？
+乙：再加五百万，星期二之前给我汇过来。
+甲：你混蛋！
+乙：管好你的嘴，不然别怪我们撕票。
+
+### Pinyin and Translation
+
+甲: 我已经把赎金打到你的瑞士账户了，你放了我女儿！
+    wǒ yǐjīng bǎ shújīn dǎdào nǐ de Ruìshì zhànghù le ， nǐ fàng le wǒ nǚér ！
+    I've already send the funds to your Swiss account. Let my daughter go!
+
+乙: 你是转账了，不过放人，没那么简单。
+    nǐ shì zhuǎnzhàng le ， búguò fàngrén ， méi nàme jiǎndān 。
+    You did make the transfer. But letting go of the girl won't be so easy.
+
+甲: 你怎么出尔反尔？我已经按照你的要求做了。
+    nǐ zěnme chū’ěrfǎn‘ěr ？ wǒ yǐjīng ànzhào nǐ de yāoqiú zuò le 。
+    How can you go back on your word? I already did everything you demanded.
+
+乙: 还有我要求你别做的... 你报警了！
+    hái yǒu wǒ yāoqiú nǐ bié zuò de . . .  nǐ bàojǐng le ！
+    And also some things I asked you not to... you called the police!
+
+甲: 我，我....
+    wǒ ， wǒ . . . .
+    I... I....
+
+乙: 香港的张警官现在正在监听这通电话吧....
+    Xiānggǎng de Zhāng jǐngguān xiànzài zhèngzài jiāntīng zhè tòng diànhuà ba . . . .
+    Sargent Zhang from the Hong Kong police is listening to this very call, isn't he....
+
+甲: 没，没有....
+    méi ， méiyǒu . . . .
+    No... not at all....
+
+乙: 别否认了，还记得去年维多利亚港的惨案吗？
+    bié fǒurèn le ， hái jìde qùnián Wéiduōlìyà gǎng de cǎn_APOS_àn ma ？
+    Don't deny it. Do you still remember the grisly affair at Victoria Harbor last year?
+
+甲: 我不知道你在说什么。
+    wǒ bù zhīdào nǐ zài shuō shénme 。
+    I don't know what you're talking about.
+
+乙: 你不知道，他知道。反正现在赎金翻倍了。
+    nǐ bù zhīdào ， tā zhīdào 。 fǎnzhèng xiànzài shújīn fānbèi le 。
+    You may not, but he does. And the ransom is doubled at any rate.
+
+甲: 翻倍？
+    fānbèi ？
+    Doubled?
+
+乙: 再加五百万，星期二之前给我汇过来。
+    zài jiā wǔbǎiwàn ， xīngqīèr zhīqián gěi wǒ huìguòlai 。
+    It's another 5 million. Send me the wire before Tuesday.
+
+甲: 你混蛋！
+    nǐ húndàn ！
+    You bastard!
+
+乙: 管好你的嘴，不然别怪我们撕票。
+    guǎnhǎo nǐ de zuǐ ， bùrán bié guài wǒmen sīpiào 。
+    Watch your mouth, or else you'll make me kill the hostage.
+### Vocab
+-管 (guǎn) [verb] to take care of
+-骗光 (piànguāng) [verb] to fraud
+-骗子 (piànzi) [noun] swindler
+-骗人 (piànrén) [verb] to cheat others
+-人生 (rénshēng) [noun] life
+-价值 (jiàzhí) [noun] value
+-大奖 (dàjiǎng) [noun] big prize
+-惊喜 (jīngxǐ) [adjective] surprise
+-转账 (zhuǎnzhàng) [verb] to transfer
+-安利 (ānlì) [noun] Amway
+-茶楼 (chálóu) [noun] tea house
+-传票 (chuánpiào) [verb] to send a subpoena
+-银行卡 (yínhángkǎ) [noun] bank card
+-联合国 (Liánhéguó) [noun] United Nations
+-尼日利亚 (Nírìlìyà) [noun] Nigeria
+-害人之心不可有，防人之心不可无 (hàirén zhī xīn bù kě yǒu, fángrén zhī xīn bù kě wú) [phrase] malice towards none, but defense towards all

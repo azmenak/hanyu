@@ -1,0 +1,46 @@
+# Feeling Thirsty?
+## *elementary* level
+
+### Chinese Text
+甲：给我一瓶水。
+乙：好的。一瓶毒水。
+甲：什么？
+乙：我的意思是，一瓶水。
+甲：你说这水有毒？
+乙：没有，你就先喝吧。哦，先付钱再喝。
+
+### Pinyin and Translation
+
+甲: 给我一瓶水。
+    gěi wǒ yī píng shuǐ 。
+    Give me a bottle of water.
+
+乙: 好的。一瓶毒水。
+    hǎo de 。 yī píng dú shuǐ 。
+    Ok, one bottle of poisoned water.
+
+甲: 什么？
+    shénme ？
+    What?
+
+乙: 我的意思是，一瓶水。
+    wǒ de yìsi shì ， yī píng shuǐ 。
+    What I meant was, one bottle of water.
+
+甲: 你说这水有毒？
+    nǐ shuō zhè shuǐ yǒu dú ？
+    Did you say this water is poisoned?
+
+乙: 没有，你就先喝吧。哦，先付钱再喝。
+    méiyǒu ， nǐ jiù xiān hē ba 。 ò ， xiān fù qián zài hē 。
+    No, go ahead and drink it. Or... pay first and then drink.
+### Vocab
+-瓶 (píng) [measure word] bottle
+-毒 (dú) [noun] poison
+-有毒 (yǒu dú) [noun] to be poisoned
+-意思 (yìsi) [noun] meaning
+-先 (xiān) [adverb] first
+-再 (zài) [adverb] and then
+-交钱 (jiāoqián) [verb] to hand over money
+-付钱 (fùqián) [verb] to pay money
+-给钱 (gěi qián) [verb] to give money

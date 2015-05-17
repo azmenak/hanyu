@@ -1,0 +1,54 @@
+# An Evening of Romance and Laughter
+## *absolute-beginners* level
+
+### Chinese Text
+甲：还有一百米。
+乙：我不行了....
+甲：坚持，坚持，一定要....
+乙：我太累了。
+甲：想想孩子。
+乙：别管我。我，对不起....
+
+### Pinyin and Translation
+
+甲: 还有一百米。
+    hái yǒu yībǎi mǐ 。
+    There's still another hundred meters.
+
+乙: 我不行了....
+    wǒ bù xíng le . . . .
+    I can't do it....
+
+甲: 坚持，坚持，一定要....
+    jiānchí ， jiānchí ， yīdìng yào . . . .
+    Keep at it, you've got to....
+
+乙: 我太累了。
+    wǒ tài lèi le 。
+    I'm too tired.
+
+甲: 想想孩子。
+    xiǎngxiang háizi 。
+    Think of the children.
+
+乙: 别管我。我，对不起....
+    bié guǎn wǒ 。 wǒ ， duìbuqǐ . . . .
+    Leave me be. I'm... I'm sorry.
+### Vocab
+-要 (yào) [verb] to want
+-买 (mǎi) [verb] to buy
+-钱 (qián) [noun] money
+-给 (gěi) [verb] to give
+-十 (shí) [number] ten
+-百 (bǎi) [number] hundred
+-耳机 (ěrjī) [noun] earpiece
+-苹果 (Píngguǒ) [noun] Apple
+-还是 (háishì) [conjunction] or
+-普通 (pǔtōng) [adjective] regular
+-多少 (duōshǎo) [other] how much
+-红的 (hóngde) [noun] red ones
+-黑的 (hēide) [noun] black ones
+-贵的 (guìde) [noun] expensive ones
+-冰的 (bīngde) [noun] iced ones
+-常温的 (chángwēnde) [noun] room temperature ones
+-便宜的 (piányide) [noun] cheap ones

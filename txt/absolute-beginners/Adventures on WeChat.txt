@@ -1,0 +1,42 @@
+# Adventures on WeChat
+## *absolute-beginners* level
+
+### Chinese Text
+女：救命！快救我！
+男：你怎么了？
+女：我的心脏，好疼啊！
+男：我去打120.
+
+### Pinyin and Translation
+
+女: 救命！快救我！
+    jiùmìng ！ kuài jiù wǒ ！
+    Help! Save me quickly!
+
+男: 你怎么了？
+    nǐ zěnme le ？
+    What's wrong?
+
+女: 我的心脏，好疼啊！
+    wǒde xīnzàng ， hǎo téng a ！
+    My heart. It's really painful!
+
+男: 我去打120.
+    wǒ qù dǎ yāoèrlíng .
+    I'm going to call 120.
+### Vocab
+-干嘛 (gànmá) [question] what are you doing
+-呢 (ne) [particle] (particle)
+-看 (kàn) [verb] to read; to see
+-书 (shū) [noun] book
+-小说 (xiǎoshuō) [noun] novel
+-什么 (shénme) [question] what
+-能 (néng) [verb] can
+-给 (gěi) [verb] to give
+-我 (wǒ) [pronoun] me
+-想 (xiǎng) [verb] to wish
+-谢谢 (xièxiè) [phrase] thank you
+-人 (rén) [noun] people
+-车 (chē) [noun] car
+-钱包 (qiánbāo) [noun] wallet
+-宝贝儿 (bǎobèir) [noun] baby

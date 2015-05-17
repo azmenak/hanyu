@@ -1,0 +1,34 @@
+# Getting Married in China
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你是哪国人？
+乙：我是德国人。
+甲：你做什么工作？
+乙：我是工程师。
+
+### Pinyin and Translation
+
+甲: 你是哪国人？
+    nǐ shì něi guó rén ？
+    Where are you from?
+
+乙: 我是德国人。
+    wǒ shì Déguó rén 。
+    I'm German.
+
+甲: 你做什么工作？
+    nǐ zuò shénme gōngzuò ？
+    What job do you do?
+
+乙: 我是工程师。
+    wǒ shì gōngchéngshī 。
+    I'm an engineer.
+### Vocab
+-给 (gěi) [verb] to give
+-我 (wǒ) [pronoun] me
+-你 (nǐ) [pronoun] you
+-那个 (nèi ge) [phrase] that (one)
+-这个 (zhèi ge) [phrase] this (one)
+-什么 (shénme) [question] what
+-手机 (shǒujī) [noun] mobile phone

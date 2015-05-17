@@ -1,0 +1,37 @@
+# You had me at Hello
+## *absolute-beginners* level
+
+### Chinese Text
+B：你好。
+A：你好吗？
+B：我很好，谢谢。
+A：再见！
+
+### Pinyin and Translation
+
+B: 你好。
+    nǐhǎo 。
+    Hello.
+
+A: 你好吗？
+    nǐhǎo ma ？
+    How are you?
+
+B: 我很好，谢谢。
+    wǒ hěn hǎo ， xièxie 。
+    I'm fine, thank you.
+
+A: 再见！
+    zàijiàn ！
+    Goodbye!
+### Vocab
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I
+-好 (hǎo) [adjective] good
+-少 (shǎo) [adjective] few
+-有 (yǒu) [verb] to have
+-水 (shuǐ) [noun] water
+-酒 (jiǔ) [noun] alcohol
+-很 (hěn) [adverb] very
+-美 (měi) [adjective] beautiful
+-可爱 (kěài) [adjective] cute

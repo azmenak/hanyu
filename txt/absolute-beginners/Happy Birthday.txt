@@ -1,0 +1,52 @@
+# Happy Birthday
+## *absolute-beginners* level
+
+### Chinese Text
+甲：喂？喂？你是谁？
+乙：谁啊？你在跟谁说话呢？
+甲：电话里哇哇的，听不清楚。 喂，你听听。
+乙：喂？喂？说话。
+甲：听不清吧？
+乙：嗯。
+甲：挂了吧。
+
+### Pinyin and Translation
+
+甲: 喂？喂？你是谁？
+    wéi ？ wéi ？ nǐ shì shéi ？
+    Hello? Hello? Who are you?
+
+乙: 谁啊？你在跟谁说话呢？
+    shéi a ？ nǐ zài gēn shéi shuōhuà ne ？
+    Who? Who are you talking to?
+
+甲: 电话里哇哇的，听不清楚。 喂，你听听。
+    diànhuà lǐ wāwā de ， tīng bu qīngchu 。  wéi ， nǐ tīngting 。
+    It's a wa-wa sound. I can't hear it clearly. Hello, you listen.
+
+乙: 喂？喂？说话。
+    wéi ？ wéi ？ shuōhuà 。
+    Hello? Hello? Say something.
+
+甲: 听不清吧？
+    tīngbùqīng ba ？
+    Can't make it out?
+
+乙: 嗯。
+    ng 。
+    Yeah.
+
+甲: 挂了吧。
+    guà le ba 。
+    Hang up.
+### Vocab
+-给 (gěi) [verb] to give
+-您 (nín) [pronoun] you
+-菜单 (càidān) [noun] menu
+-谢谢 (xièxie) [phrase] thank you
+-等一下儿 (děng yīxiàr) [phrase] wait a moment
+-什么 (shénme) [pronoun] what
+-要 (yào) [verb] to want
+-先 (xiān) [adverb] first
+-看看 (kànkan) [phrase] to look
+-好的 (hǎo de) [phrase] OK

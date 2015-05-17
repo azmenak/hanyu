@@ -1,0 +1,37 @@
+# Beer and Measure Words
+## *absolute-beginners* level
+
+### Chinese Text
+女的：洗手间在哪儿？
+男的：这儿没有。
+女的：那哪儿有？
+男的：这附近都没有洗手间呀。
+
+### Pinyin and Translation
+
+女的: 洗手间在哪儿？
+      xǐshǒujiān zài nǎr ？
+      Where is the washroom?
+
+男的: 这儿没有。
+      zhèr méiyǒu 。
+      There isn't any washroom here.
+
+女的: 那哪儿有？
+      nà nǎr yǒu ？
+      So where is one?
+
+男的: 这附近都没有洗手间呀。
+      zhè fùjìn dōu méiyǒu xǐshǒujiān ya 。
+      There aren't any washrooms anywhere around here.
+### Vocab
+-买单 (mǎidān) [verb] to order the bill
+-服务员 (fúwùyuán) [noun] waiter
+-埋单 (máidān) [verb] to order the bill (variant)
+-马上 (mǎshàng) [adverb] immediately
+-付账 (fùzhàng) [verb] to get the bill
+-付钱 (fùqián) [verb] to pay money
+-结账 (jiézhàng) [verb] to settle the bill
+-算账 (suànzhàng) [verb] to order the bill
+-打包 (dǎbāo) [verb] to take away
+-多少 (duōshǎo) [question] how much

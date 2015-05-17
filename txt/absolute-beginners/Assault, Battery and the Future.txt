@@ -1,0 +1,41 @@
+# Assault, Battery and the Future
+## *absolute-beginners* level
+
+### Chinese Text
+甲：我会打你的。
+乙：你敢打我？
+甲：我真的真的会打你的。
+乙：你真的敢打我？
+
+### Pinyin and Translation
+
+甲: 我会打你的。
+    wǒ huì dǎ nǐ de 。
+    I will hit you.
+
+乙: 你敢打我？
+    nǐ gǎn dǎ wǒ ？
+    You dare to hit me?
+
+甲: 我真的真的会打你的。
+    wǒ zhēnde zhēnde huì dǎ nǐ de 。
+    I'm really really going to hit you.
+
+乙: 你真的敢打我？
+    nǐ zhēnde gǎn dǎ wǒ ？
+    You really dare to hit me?
+### Vocab
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-会 (huì) [verb] will
+-敢 (gǎn) [verb] to dare
+-打 (dǎ) [verb] to hit
+-吃 (chī) [verb] to eat
+-给 (gěi) [verb] to give
+-用 (yòng) [verb] to use
+-说 (shuō) [verb] to speak
+-真的 (zhēnde) [adverb] really
+-中文 (zhōngwén) [noun] Chinese
+-不会 (bùhuì) [verb] won't
+-学习 (xuéxí) [verb] to study
+-告诉 (gàosù) [verb] to tell

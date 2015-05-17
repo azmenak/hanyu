@@ -1,0 +1,38 @@
+# What's Your Number?
+## *absolute-beginners* level
+
+### Chinese Text
+女：你今天怎么样?
+男：我不怎么样。
+女：为什么不怎么样?
+男：因为我熬夜了，很累。
+
+### Pinyin and Translation
+
+女: 你今天怎么样?
+    nǐ jīntiān zěnmeyàng ?
+    How are you today?
+
+男: 我不怎么样。
+    wǒ bù zěnmeyàng 。
+    I'm not too good.
+
+女: 为什么不怎么样?
+    wèishénme bù zěnmeyàng ?
+    Why aren't you feeling so good?
+
+男: 因为我熬夜了，很累。
+    yīnwèi wǒ áoyè le ， hěn lèi 。
+    Because I was up all night, I'm tired.
+### Vocab
+-你 (nǐ) [pronoun] you
+-电话号码 (diànhuà hàomǎ) [noun] telephone number
+-你好 (nǐhǎo) [phrase] hello
+-美女 (měinǚ) [noun] beautiful woman
+-什么 (shénme) [question] what
+-听不见 (tīngbùjiàn) [verb] not to hear
+-听不懂 (tīngbùdǒng) [verb] not to understand
+-留 (liú) [verb] to leave
+-个 (ge) [measure word] (measure word)
+-吧 (ba) [particle] (suggestion)
+-电话 (diànhuà) [noun] telephone

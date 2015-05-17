@@ -1,0 +1,38 @@
+# Where are you from?
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你属什么？
+乙：我属鸡。
+甲：你属鸡？哈⋯⋯咕咕咕咕⋯⋯
+乙：嘿！嘿！别笑了！
+
+### Pinyin and Translation
+
+甲: 你属什么？
+    nǐ shǔ shénme ？
+    What sign are you?
+
+乙: 我属鸡。
+    wǒ shǔ jī 。
+    I'm a chicken.
+
+甲: 你属鸡？哈⋯⋯咕咕咕咕⋯⋯
+    nǐ shǔ jī ？ hā ⋯⋯ gū gū gū gū ⋯⋯
+    You're a chicken. Ha! Cluck, cluck, cluck....
+
+乙: 嘿！嘿！别笑了！
+    hēi ！ hēi ！ bié xiào le ！
+    Hey! Hey! Don't laugh!
+### Vocab
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-是 (shì) [verb] to be
+-不 (bù) [adverb] no
+-好 (hǎo) [adjective] good
+-谢谢 (xièxiè) [phrase] thank you
+-日本人 (Rìběnrén) [noun] Japanese person
+-美国人 (Měiguórén) [noun] American person
+-澳大利亚人 (Aòdàlìyàrén) [noun] Australian person
+-英国人 (Yīngguórén) [noun] British person
+-中国人 (Zhōngguórén) [noun] Chinese person

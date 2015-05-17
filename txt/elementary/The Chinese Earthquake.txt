@@ -1,0 +1,47 @@
+# The Chinese Earthquake
+## *elementary* level
+
+### Chinese Text
+马瑞：噢，地震了！
+田森：嗯，感觉还不错，这玩意儿。
+马瑞：是啊，晃晃悠悠，还有点儿意思。
+田森：我觉得这感觉好像在坐海盗船一样。
+马瑞：这，倒不错。
+田森：嗯，是啊，天天都地震就好了。
+
+### Pinyin and Translation
+
+马瑞: 噢，地震了！
+      o ， dìzhèn le ！
+      Oh, earthquake!
+
+田森: 嗯，感觉还不错，这玩意儿。
+      en ， gǎnjué hái bùcuò ， zhè wányìr 。
+      Oh, it feels pretty good, this thing.
+
+马瑞: 是啊，晃晃悠悠，还有点儿意思。
+      shì a ， huànghuàngyōuyōu ， hái yǒu diǎnr yìsi 。
+      Yeah. Swaying back and forth. This is a bit interesting.
+
+田森: 我觉得这感觉好像在坐海盗船一样。
+      wǒ juéde zhè gǎnjué hǎoxiàng zài zuò hǎidàochuán yīyàng 。
+      I think it feels a lot like being in a Pirate Ship.
+
+马瑞: 这，倒不错。
+      zhè ， dào bùcuò 。
+      This is pretty good.
+
+田森: 嗯，是啊，天天都地震就好了。
+      en ， shì a ， tiāntiān dōu dìzhèn jiù hǎo le 。
+      Yeah. It would be nice to have one every day.
+### Vocab
+-感觉 (gǎnjué) [verb] to feel
+-地震 (dìzhèn) [verb] earthquake
+-不错 (bùcuò) [adjective] not bad
+-好像 (hǎoxiàng) [other] to seem as if
+-玩意儿 (wányìr) [noun] little thing
+-晃晃悠悠 (huànghuàngyōuyōu) [adjective] swaying
+-有点儿意思 (yǒu diǎnr yìsi) [phrase] to be a bit interesting
+-海盗船 (hǎidàochuán) [noun] pirate boat
+-天天 (tiāntiān) [phrase] every day
+-倒 (dào) [adverb] (softens intonation)

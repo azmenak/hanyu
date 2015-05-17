@@ -1,0 +1,52 @@
+# A Simple Transaction
+## *absolute-beginners* level
+
+### Chinese Text
+甲：警察！
+乙：警察！
+甲：开门！
+丙：我不在。
+甲：登记！登记！
+丙：出国了。
+乙：她出国了。
+
+### Pinyin and Translation
+
+甲: 警察！
+    jǐngchá ！
+    Police!
+
+乙: 警察！
+    jǐngchá ！
+    Police!
+
+甲: 开门！
+    kāimén ！
+    Open the door!
+
+丙: 我不在。
+    wǒ bù zài 。
+    I'm not here.
+
+甲: 登记！登记！
+    dēngjì ！ dēngjì ！
+    Register! Register!
+
+丙: 出国了。
+    chūguó le 。
+    I've left the country.
+
+乙: 她出国了。
+    tā chūguó le 。
+    She's left the country.
+### Vocab
+-枪 (qiāng) [noun] gun
+-钱 (qián) [noun] money
+-手 (shǒu) [noun] hand
+-手枪 (shǒuqiāng) [noun] handgun
+-人民币 (rénmínbì) [noun] RMB
+-不 (bù) [adverb] no; not
+-放下 (fàngxià) [verb] to put down
+-有 (yǒu) [verb] to have
+-把 (bǎ) [coverb] (to take)
+-好吧 (hǎo ba) [phrase] alright

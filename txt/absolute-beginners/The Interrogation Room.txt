@@ -1,0 +1,39 @@
+# The Interrogation Room
+## *absolute-beginners* level
+
+### Chinese Text
+甲：一，二....
+乙：停，我说。我告诉你，我都告诉你！
+丙：别，别告诉他！
+甲：你看，他懂事儿。
+
+### Pinyin and Translation
+
+甲: 一，二....
+    yī ， èr . . . .
+    One, two....
+
+乙: 停，我说。我告诉你，我都告诉你！
+    tíng ， wǒ shuō 。 wǒ gàosu nǐ ， wǒ dōu gàosu nǐ ！
+    Stop, I'll talk. I'll tell you. I'll tell you everything!
+
+丙: 别，别告诉他！
+    bié ， bié gàosu tā ！
+    Don't, don't tell him!
+
+甲: 你看，他懂事儿。
+    nǐ kàn ， tā dǒngshìr 。
+    You see? He gets it.
+### Vocab
+-咱们 (zánmen) [pronoun] us
+-朋友 (péngyou) [noun] friend
+-我们 (wǒmen) [pronoun] we
+-去 (qù) [verb] to go
+-喝 (hē) [verb] to drink
+-咖啡 (kāfēi) [noun] coffee
+-咖啡厅 (kāfēitīng) [noun] coffee shop
+-北京 (Běijīng) [noun] Beijing
+-对 (duì) [phrase] that's right
+-怎么样 (zěnmeyàng) [phrase] what's up
+-嘿 (hei) [other] hey
+-宝贝儿 (bǎobèir) [noun] baby

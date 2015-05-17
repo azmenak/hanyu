@@ -1,0 +1,122 @@
+# The Shared Apartment
+## *intermediate* level
+
+### Chinese Text
+甲：哦，亲爱的，你能赏光来晚餐会真是太好了。
+乙：我给你带了一瓶红酒。
+甲：谢谢。把大衣给奴隶。
+丙：请给我。
+甲：我们进去吧。
+乙：现在养奴隶不是犯法吗？
+甲：咳，每个人都这么干，跟逃税一样。
+乙：我们可不逃税。
+甲：嘿！我跟你说过多少次了，奴隶！
+丙：太重了，拿不住....
+乙：哎呀，都怪我大衣太重了。
+甲：你还敢废话！
+丁：亲爱的，怎么啦？
+甲：你看看他！
+丁：跟你说多少次了，想吃饭就得好好干活！
+丙：我知道....
+丁：你又想住冰箱了，是不是，啊？
+乙：哎呀，这不怪他，是我大衣太重了。
+丁：不长记性的，啊，你还跑！
+甲：唉，家庭问题，家庭问题....
+
+### Pinyin and Translation
+|说人|句子|
+|----|----|
+
+|甲|哦，亲爱的，你能赏光来晚餐会真是太好了。|
+||o ， qīn_APOS_àide ， nǐ néng shǎngguāng lái wǎncānhuì zhēn shì tài hǎo le 。|
+||Oh darling, it's so wonderful you've been able to come to dinner.|
+
+|乙|我给你带了一瓶红酒。|
+||wǒ gěi nǐ dài le yī píng hóngjiǔ 。|
+||I brought you a bottle of wine.|
+
+|甲|谢谢。把大衣给奴隶。|
+||xièxie 。 bǎ dàyī gěi núlì 。|
+||Thank you. Give your coat to the slave.|
+
+|丙|请给我。|
+||qǐng gěi wǒ 。|
+||Please give it to me.|
+
+|甲|我们进去吧。|
+||wǒmen jìnqù ba 。|
+||And let's go in.|
+
+|乙|现在养奴隶不是犯法吗？|
+||xiànzài yǎng núlì bù shì fànfǎ ma ？|
+||Isn't slavery illegal these days?|
+
+|甲|咳，每个人都这么干，跟逃税一样。|
+||hai ， měi ge rén dōu zhème gàn ， gēn táoshuì yīyàng 。|
+||Oh, everyone does it, just like tax evasion.|
+
+|乙|我们可不逃税。|
+||wǒmen kě bù táoshuì 。|
+||We don't cheat on our taxes.|
+
+|甲|嘿！我跟你说过多少次了，奴隶！|
+||hei ！ wǒ gēn nǐ shuōguò duōshao cì le ， núlì ！|
+||Hey! How many times have I told you, slave!|
+
+|丙|太重了，拿不住....|
+||tài zhòng le ， nábùzhù . . . .|
+||It's too heavy, I can't keep it up....|
+
+|乙|哎呀，都怪我大衣太重了。|
+||āiya ， dōu guài wǒ dàyī tài zhòng le 。|
+||Oh dear, it's my fault for having such a heavy coat.|
+
+|甲|你还敢废话！|
+||nǐ hái gǎn fèihuà ！|
+||And you still dare to talk this way!|
+
+|丁|亲爱的，怎么啦？|
+||qīn_APOS_àide ， zěnme la ？|
+||What is it, honey?|
+
+|甲|你看看他！|
+||nǐ kànkan tā ！|
+||See for yourself!|
+
+|丁|跟你说多少次了，想吃饭就得好好干活！|
+||gēn nǐ shuō duōshao cì le ， xiǎng chīfàn jiù děi hǎohāo gànhuó ！|
+||How many times have I told you? If you want to eat you need to earn your keep!|
+
+|丙|我知道....|
+||wǒ zhīdào . . . .|
+||I know....|
+
+|丁|你又想住冰箱了，是不是，啊？|
+||nǐ yòu xiǎng zhù bīngxiāng le ， shì bù shì ， a ？|
+||So you want to live in the fridge again, is that it?|
+
+|乙|哎呀，这不怪他，是我大衣太重了。|
+||āiya ， zhè bù guài tā ， shì wǒ dàyī tài zhòng le 。|
+||Oh no, this isn't his fault. It's my coat that's too heavy.|
+
+|丁|不长记性的，啊，你还跑！|
+||bù zhǎng jìxing de ， a ， nǐ hái pǎo ！|
+||You forgetful idiot, and now you're trying to run?|
+
+|甲|唉，家庭问题，家庭问题....|
+||ai ， jiātíng wèntí ， jiātíng wèntí . . . .|
+||Oh dear, family problems, family problems....|
+### Vocab
+|汉子|拼音|英文|词类|
+|----|----|----|----|
+|今儿|jīnr|today|noun|
+|纳闷儿|nàmènr|to be vexed|verb|
+|打听|dǎting|to ask around|verb|
+|外传|wàichuán|to spread information|verb|
+|公安部|Gōngānbù|Public Security Bureau|noun|
+|通缉犯|tōngjīfàn|fugitive|noun|
+|监狱|jiānyù|prison|noun|
+|编号|biānhào|serial number|noun|
+|敢情|gǎnqíng|who would imagine|conjunction|
+|越狱|yuèyù|to escape jail|verb|
+|破解|pòjiě|to unlock|verb|

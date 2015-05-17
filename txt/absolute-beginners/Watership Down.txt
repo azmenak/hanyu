@@ -1,0 +1,47 @@
+# Watership Down
+## *absolute-beginners* level
+
+### Chinese Text
+甲：天气真好啊。
+乙：嗯。
+甲：生菜也很好吃。
+乙：生活真好。
+甲：生活真好。
+乙：嗯。
+
+### Pinyin and Translation
+
+甲: 天气真好啊。
+    tiānqì zhēn hǎo a 。
+    The weather is great.
+
+乙: 嗯。
+    ng 。
+    Hmmm.
+
+甲: 生菜也很好吃。
+    shēngcài yě hěn hǎochī 。
+    The lettuce is also very tasty.
+
+乙: 生活真好。
+    shēnghuó zhēn hǎo 。
+    Life is great.
+
+甲: 生活真好。
+    shēnghuó zhēn hǎo 。
+    Life is really good.
+
+乙: 嗯。
+    ng 。
+    Hmmm.
+### Vocab
+-谁 (shéi) [pronoun] who
+-你是谁 (nǐ shì shéi) [phrase] who are you
+-跟 (gēn) [preposition] with
+-说话 (shuōhuà) [verb] to talk
+-电话 (diànhuà) [noun] telephone
+-听不清楚 (tīng bù qīngchu) [phrase] not to hear clearly
+-看不清楚 (kàn bù qīngchu) [phrase] not to see clearly
+-听不懂 (tīngbùdǒng) [phrase] not to understand audio
+-看不懂 (kànbùdǒng) [phrase] not to understand text
+-挂 (guà) [verb] to hang up

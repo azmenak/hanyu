@@ -1,0 +1,56 @@
+# Looking for Apple
+## *absolute-beginners* level
+
+### Chinese Text
+女的：喂?
+男的：喂? Apple 在吗?
+女的：听不见，喂?
+男的：喂? 请问，Apple 在吗?
+女的：我听不见。
+男的：喂? 喂? 是Apple吗?
+女的：对不起，听不见!
+男的：喂? Apple? Apple? Apple... 哎，算了。
+
+### Pinyin and Translation
+
+女的: 喂?
+      wéi ?
+      Hello?
+
+男的: 喂? Apple 在吗?
+      wéi ? Apple zài ma ?
+      Hello? Is Apple there?
+
+女的: 听不见，喂?
+      tīngbujiàn ， wéi ?
+      I can't hear you properly, hello?
+
+男的: 喂? 请问，Apple 在吗?
+      wéi ? qǐngwèn ， Apple zài ma ?
+      Hello? Is Apple there please?
+
+女的: 我听不见。
+      wǒ tīngbujiàn 。
+      I can't hear you.
+
+男的: 喂? 喂? 是Apple吗?
+      wéi ? wéi ? shì Apple ma ?
+      Hello? Hello? Are you Apple?
+
+女的: 对不起，听不见!
+      duìbuqǐ ， tīngbujiàn !
+      I'm sorry, I can't hear you!
+
+男的: 喂? Apple? Apple? Apple... 哎，算了。
+      wéi ? Apple? Apple? Apple... ai ， suànle 。
+      Hello? Apple? Apple? Apple... oh, forget it.
+### Vocab
+-喂 (wéi) [phrase] hello
+-在 (zài) [verb] to be there
+-吗 (ma) [question marker] yes/no
+-听不懂 (tīngbudǒng) [verb] not to understand
+-听不见 (tīngbujiàn) [verb] not to hear
+-请问 (qǐngwèn) [phrase] may I ask
+-是 (shì) [verb] to be
+-对不起 (duìbuqǐ) [phrase] sorry
+-算了 (suànle) [phrase] forget it

@@ -1,0 +1,47 @@
+# The Grumbling Stomach
+## *elementary* level
+
+### Chinese Text
+男：请问你们这儿有WiFi吗？
+女：什么？
+男：有没有无线网络?
+女：哦，有。你有笔记本儿？
+男：我有。我想上网。
+女：好的。
+
+### Pinyin and Translation
+
+男: 请问你们这儿有WiFi吗？
+    qǐng wèn nǐmen zhèr yǒu WiFi ma ？
+    Excuse me, do you have WiFi?
+
+女: 什么？
+    shénme ？
+    Huh?
+
+男: 有没有无线网络?
+    yǒu méiyǒu wúxiàn wǎngluò ?
+    Do you have wireless Internet?
+
+女: 哦，有。你有笔记本儿？
+    ō ， yǒu 。 nǐ yǒu bǐjìběnr ？
+    Oh, yeah. You have a laptop?
+
+男: 我有。我想上网。
+    wǒ yǒu 。 wǒ xiǎng shàngwǎng 。
+    I do. I want to get online.
+
+女: 好的。
+    hǎo de 。
+    OK.
+### Vocab
+-肚子 (dùzi) [noun] stomach
+-叫 (jiào) [verb] to make a sound
+-今儿 (jīnr) [noun] today
+-绝对 (juéduì) [adverb] absolutely
+-不可能 (bù kěnéng) [phrase] that's not possible
+-肯定 (kěndìng) [adverb] certainly
+-显然 (xiǎnrán) [adverb] clearly
+-你那儿 (nǐ nàr) [noun] you there
+-声音 (shēngyīn) [noun] sound
+-从来没 (cónglái méi) [phrase] never in the past

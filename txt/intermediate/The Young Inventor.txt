@@ -1,0 +1,53 @@
+# The Young Inventor
+## *intermediate* level
+
+### Chinese Text
+儿子：爸爸爸爸，我发明了一个激光发射器！
+爸爸：好的，让我们去看看吧。
+儿子：按这个小按钮。
+爸爸：是这个吧......还真给电呀！哎，这儿还有个大的......
+儿子：爸爸......
+儿子：妈妈妈妈，爸爸弄坏了我的机器！
+妈妈：噢，小良，你又淘气了！
+
+### Pinyin and Translation
+
+儿子: 爸爸爸爸，我发明了一个激光发射器！
+      bàba bàba ， wǒ fāmíng le yī ge jīguāng fāshèqì ！
+      Daddy, daddy. I invented a laser gun!
+
+爸爸: 好的，让我们去看看吧。
+      hǎo de ， ràng wǒmen qù kànkan ba 。
+      Ok, let's go take a look.
+
+儿子: 按这个小按钮。
+      àn zhège xiǎo ànniǔ 。
+      Press this little button.
+
+爸爸: 是这个吧......还真给电呀！哎，这儿还有个大的......
+      shì zhège ba ...... hái zhēn gěi diàn yā ！ āi ， zhèr hái yǒu ge dàde ......
+      This one... wow, what a shock. Hey, there's also a big one here....
+
+儿子: 爸爸......
+      bàba ......
+      Daddy....
+
+儿子: 妈妈妈妈，爸爸弄坏了我的机器！
+      māma māma ， bàba nòng huài le wǒ de jīqì ！
+      Mommy, mommy. Daddy broke my machine!
+
+妈妈: 噢，小良，你又淘气了！
+      o ， Xiǎo Liáng ， nǐ yòu táoqì le ！
+      Oh, Little Liang, you're acting up again!
+### Vocab
+-伏 (fú) [unit] volt
+-瓦 (wǎ) [unit] watt
+-千瓦 (qiānwǎ) [unit] kilowatt
+-千瓦时 (qiānwǎshí) [unit] kilowatt hour
+-度 (dù) [noun] point
+-升 (shēng) [unit] liter
+-毫升 (háoshēng) [unit] milliliter
+-厘米 (lǐmǐ) [unit] centimeter
+-毫米 (háomǐ) [unit] millimeter
+-华氏 (huáshì) [unit] fahrenheit
+-摄氏 (shèshì) [unit] celcius

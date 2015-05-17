@@ -1,0 +1,40 @@
+# Psychopathic Business Cards
+## *elementary* level
+
+### Chinese Text
+甲：这是我的名片。
+乙：这是我的名片。
+甲：怎么是空白的？
+乙：我刚失业。
+甲：真遗憾。
+
+### Pinyin and Translation
+
+甲: 这是我的名片。
+    zhè shì wǒ de míngpiàn 。
+    This is my business card.
+
+乙: 这是我的名片。
+    zhè shì wǒ de míngpiàn 。
+    This is my business card.
+
+甲: 怎么是空白的？
+    zěnme shì kòngbái de ？
+    How is it empty?
+
+乙: 我刚失业。
+    wǒ gāng shīyè 。
+    I just lost my job.
+
+甲: 真遗憾。
+    zhēn yíhàn 。
+    I'm so sorry.
+### Vocab
+-这 (zhè) [pronoun] this
+-名片 (míngpiàn) [noun] business card
+-怎么 (zěnme) [question] how
+-空白 (kòngbái) [adjective] blank
+-刚 (gāng) [adverb] just
+-失业 (shīyè) [verb] to lose a job
+-遗憾 (yíhàn) [verb] to regret
+-失忆 (shīyì) [verb] to lose one's memory

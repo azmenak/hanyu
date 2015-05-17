@@ -1,0 +1,46 @@
+# Who Stole My Subtitles
+## *absolute-beginners* level
+
+### Chinese Text
+女：你听得懂吗？
+男：听不懂。
+女：它们有没有中文字幕？
+男：没有。
+女：妈的。
+
+### Pinyin and Translation
+
+女: 你听得懂吗？
+    nǐ tīngdedǒng ma ？
+    Do you understand?
+
+男: 听不懂。
+    tīngbùdǒng 。
+    I don't understand.
+
+女: 它们有没有中文字幕？
+    tāmen yǒu méiyǒu zhōngwén zìmù ？
+    Do they have Chinese subtitles?
+
+男: 没有。
+    méiyǒu 。
+    No.
+
+女: 妈的。
+    māde 。
+    Damn.
+### Vocab
+-一 (yī) [number] one
+-十一 (shí yī) [number] eleven
+-二十 (èr shí) [number] twenty
+-三十 (sān shí) [number] thirty
+-九十九 (jiǔ shí jiǔ) [number] ninty nine
+-二 (èr) [number] two
+-三 (sān) [number] three
+-四 (sì) [number] four
+-五 (wǔ) [number] five
+-六 (liù) [number] six
+-七 (qī) [number] seven
+-八 (bā) [number] eight
+-九 (jiǔ) [number] nine
+-十 (shí) [number] ten

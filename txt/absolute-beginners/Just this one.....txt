@@ -1,0 +1,38 @@
+# Just this one....
+## *absolute-beginners* level
+
+### Chinese Text
+男：你想要哪个？
+女：这个。
+男：那个怎么样？
+女：不，就这个。
+
+### Pinyin and Translation
+
+男: 你想要哪个？
+    nǐ xiǎng yào nǎ ge ？
+    Which one do you want?
+
+女: 这个。
+    zhège 。
+    This one.
+
+男: 那个怎么样？
+    nà ge zěnmeyàng ？
+    How about that one?
+
+女: 不，就这个。
+    bù ， jiù zhège 。
+    No, exactly this one.
+### Vocab
+-妈妈 (māma) [noun] mother
+-中文 (zhōngwén) [noun] Chinese language
+-英文 (yīngwén) [noun] English language
+-课 (kè) [noun] class
+-是 (shì) [verb] to be
+-学 (xué) [verb] to study
+-吃 (chī) [verb] to eat
+-的 (de) [particle] (subordinating particle)
+-怎么样 (zěnmeyàng) [phrase] how is it
+-汉堡 (hànbǎo) [noun] hamburger
+-东西 (dōngxi) [noun] thing

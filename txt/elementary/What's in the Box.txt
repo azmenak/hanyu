@@ -1,0 +1,43 @@
+# What's in the Box
+## *elementary* level
+
+### Chinese Text
+甲：你知道戴维，我也有罪。
+乙：你闭嘴！
+甲：我的罪就是，我太羡慕你了：你的家庭，你的妻子，还有你那个没出生的儿子。
+乙：盒子里有什么？盒子里有什么？ 什么也没有？
+甲：愤怒吧，生气吧！
+
+### Pinyin and Translation
+
+甲: 你知道戴维，我也有罪。
+    nǐ zhīdào Dàiwéi ， wǒ yě yǒuzuì 。
+    You know David, I also have a sin.
+
+乙: 你闭嘴！
+    nǐ bìzuǐ ！
+    Shut up!
+
+甲: 我的罪就是，我太羡慕你了：你的家庭，你的妻子，还有你那个没出生的儿子。
+    wǒ de zuì jiùshì ， wǒ tài xiànmu nǐ le ： nǐ de jiātíng ， nǐ de qīzi ， háiyǒu nǐ nàge méi chūshēng de érzi 。
+    My sin is that I envy you so much: your house, your wife, and also your unborn son.
+
+乙: 盒子里有什么？盒子里有什么？ 什么也没有？
+    hézi lǐ yǒu shénme ? hézi lǐ yǒu shénme ?  shénme yě méiyǒu ？
+    What's in the box? What's in the box? Nothing at all?
+
+甲: 愤怒吧，生气吧！
+    fènnù ba ， shēngqì ba ！
+    Become anger, become rage!
+### Vocab
+-谁 (shuí) [pronoun] whoever
+-什么 (shénme) [pronoun] whatever
+-哪儿 (nǎr) [pronoun] wherever
+-有罪 (yǒuzuì) [adjective] to be guilty
+-闭嘴 (bìzuǐ) [verb] to shut up
+-羡慕 (xiànmu) [verb] envy
+-家庭 (jiātíng) [noun] family
+-出生 (chūshēng) [verb] to be born
+-盒子 (hézi) [noun] box
+-愤怒 (fènnù) [verb] furious
+-生气 (shēngqì) [verb] angry

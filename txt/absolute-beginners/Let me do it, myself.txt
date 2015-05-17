@@ -1,0 +1,39 @@
+# Let me do it, myself
+## *absolute-beginners* level
+
+### Chinese Text
+甲：哎，你腿怎么青了？
+乙：在哪儿？
+甲：膝盖上。
+乙：哦，昨天摔的。
+
+### Pinyin and Translation
+
+甲: 哎，你腿怎么青了？
+    āi ， nǐ tuǐ zěnme qīng le ？
+    Hey, why is your leg bruised?
+
+乙: 在哪儿？
+    zài nǎr ？
+    Where?
+
+甲: 膝盖上。
+    xīgài shàng 。
+    On the knee.
+
+乙: 哦，昨天摔的。
+    ò ， zuótiān shuāi de 。
+    Oh，I fell yesterday.
+### Vocab
+-头 (tóu) [noun] head
+-腿 (tuǐ) [noun] leg
+-胳膊 (gēbo) [noun] arm
+-肚子 (dùzi) [noun] stomach
+-膝盖 (xīgài) [noun] knee
+-疼 (téng) [adjective] painful
+-青 (qīng) [adjective] bruised
+-麻 (má) [adjective] numb
+-摔 (shuāi) [verb] to slip
+-哪儿 (nǎr) [question] where
+-昨天 (zuótiān) [noun] yesterday
+-锤子 (chuízi) [noun] hammer

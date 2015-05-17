@@ -1,0 +1,36 @@
+# The Chinese Diet
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你真能吃，菜又没了。
+乙：开玩笑！我在减肥。
+甲：减肥还吃那么多？
+乙：我没吃米饭。
+
+### Pinyin and Translation
+
+甲: 你真能吃，菜又没了。
+    nǐ zhēn néng chī ， cài yòu méi le 。
+    You can really eat, all of the food's gone again.
+
+乙: 开玩笑！我在减肥。
+    kāiwánxiào ！ wǒ zài jiǎnféi 。
+    You're kidding! I'm on a diet.
+
+甲: 减肥还吃那么多？
+    jiǎnféi hái chī nàme duō ？
+    You're on a diet and you're still eating that much?
+
+乙: 我没吃米饭。
+    wǒ méi chī mǐfàn 。
+    I didn't have any rice.
+### Vocab
+-先生 (xiānsheng) [noun] Mister
+-请 (qǐng) [verb] please
+-系好 (jìhǎo) [verb] to fasten
+-安全 (ānquán) [adjective] safe
+-安全套 (ānquántào) [noun] condom
+-安全带 (ānquándài) [noun] seat belt
+-你 (nǐ) [pronoun] you
+-说 (shuō) [verb] to say
+-什么 (shénme) [question] what

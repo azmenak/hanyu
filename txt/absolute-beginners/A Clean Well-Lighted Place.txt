@@ -1,0 +1,37 @@
+# A Clean Well-Lighted Place
+## *absolute-beginners* level
+
+### Chinese Text
+女：你叫什么？
+男：我叫布拉德·皮特。你呢？
+女：我叫安杰利娜·朱莉。
+男：啊... 你很漂亮。
+
+### Pinyin and Translation
+
+女: 你叫什么？
+    nǐ jiào shénme ？
+    What are you called?
+
+男: 我叫布拉德·皮特。你呢？
+    wǒ jiào bùlādé pítè 。 nǐ ne ？
+    I'm Brad Pitt, how about you?
+
+女: 我叫安杰利娜·朱莉。
+    wǒ jiào ānjiélìnà · zhūlì 。
+    I'm Angelina Jolie.
+
+男: 啊... 你很漂亮。
+    ā ... nǐ hěn piàoliang 。
+    Ah, you are pretty.
+### Vocab
+-我们 (wǒmen) [pronoun] we
+-几点 (jǐdiǎn) [question] at what time
+-关门儿 (guān ménr) [verb] to close for business
+-关 (guān) [verb] to close
+-开 (kāi) [verb] to open
+-门儿 (ménr) [noun] door
+-电脑 (diànnǎo) [noun] computer
+-灯 (dēng) [noun] light
+-电视 (diànshì) [noun] television
+-通宵 (tōngxiāo) [verb] to be open all night

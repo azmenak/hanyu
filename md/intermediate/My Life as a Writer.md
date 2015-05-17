@@ -1,0 +1,60 @@
+# My Life as a Writer
+## *intermediate* level
+
+### Chinese Text
+甲：哎，小建国怎么了?
+乙：怎么样? 我给他雇了一个催眠师。
+甲：什么? 催眠师?
+乙：现在乖多了。每天睡十八个小时呢。
+甲：你给儿子用催眠术，太离谱儿了。
+乙：没事，他再也不淘气了。
+甲：不对劲儿吧，他怎么坐在那儿，一动不动?
+乙：你看，一个响指就睡了。这是我花的最值的五十块钱了。
+
+### Pinyin and Translation
+|说人|句子|
+|----|----|
+
+|甲|哎，小建国怎么了?|
+||ai ， Xiǎo Jiànguó zěnme le ?|
+||Hey, what's wrong with Little Jianguo?|
+
+|乙|怎么样? 我给他雇了一个催眠师。|
+||zěnmeyàng ? wǒ gěi tā gù le yī ge cuīmiánshī 。|
+||What do you think? I bought him a hypnotist.|
+
+|甲|什么? 催眠师?|
+||shénme ? cuīmiánshī ?|
+||What? A hypnotist?|
+
+|乙|现在乖多了。每天睡十八个小时呢。|
+||xiànzài guāi duō le 。 měitiān shuì shíbā ge xiǎoshí ne 。|
+||He's a lot more obedient now. And he sleeps 18 hours a day.|
+
+|甲|你给儿子用催眠术，太离谱儿了。|
+||nǐ gěi érzi yòng cuīmiánshù ， tài lípǔr le 。|
+||You used hypnotism on your child, that's absurd.|
+
+|乙|没事，他再也不淘气了。|
+||méishì ， tā zàiyěbù táoqì le 。|
+||No worries. He won't act up again.|
+
+|甲|不对劲儿吧，他怎么坐在那儿，一动不动?|
+||bù duìjìnr ba ， tā zěnme zuò zàinàr ， yīdòngbùdòng ?|
+||There's something wrong. Why is he sitting over there not moving at all?|
+
+|乙|你看，一个响指就睡了。这是我花的最值的五十块钱了。|
+||nǐ kàn ， yī ge xiǎngzhǐ jiù shuì le 。 zhè shì wǒ huā de zuì zhí de wǔshí kuài qián le 。|
+||Look. A single snap and he falls asleep. This is the best 50 kuai I ever spent.|
+### Vocab
+|汉子|拼音|英文|词类|
+|----|----|----|----|
+|魔法|mófǎ|magic|noun|
+|学校|xuéxiào|school|noun|
+|哈利|Hālì|Harry|person|
+|波特|Bōtè|Potter|person|
+|怎么可能|zěnme kěnéng|how could it be|phrase|
+|飞天扫帚|fēitiān sàozhou|flying broom|noun|
+|狼人|lángrén|werewolf|noun|
+|三头狗|sāntóugǒu|three-headed dog|noun|
+|地下室|dìxiàshì|underground lair|noun|

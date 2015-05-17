@@ -1,0 +1,37 @@
+# The Electrical Outlet
+## *absolute-beginners* level
+
+### Chinese Text
+甲：插座儿在哪儿？
+乙：你说什么？
+甲：我想用笔记本儿。
+乙：哦，在这儿。
+
+### Pinyin and Translation
+
+甲: 插座儿在哪儿？
+    chāzuòr zài nǎr ？
+    Where is the power outlet?
+
+乙: 你说什么？
+    nǐ shuō shénme ？
+    What do you mean?
+
+甲: 我想用笔记本儿。
+    wǒ xiǎng yòng bǐjìběnr 。
+    I want to use a laptop.
+
+乙: 哦，在这儿。
+    ò ， zài zhèr 。
+    Oh, it's here.
+### Vocab
+-插座儿 (chāzuòr) [noun] power socket
+-笔记本儿 (bǐjìběnr) [noun] notebook
+-哪儿 (nǎr) [question] where
+-这儿 (zhèr) [noun] here
+-插板儿 (chābǎnr) [noun] power bar
+-转换器 (zhuǎnhuànqì) [noun] power converter
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I
+-说 (shuō) [verb] to say
+-什么 (shénme) [question] what

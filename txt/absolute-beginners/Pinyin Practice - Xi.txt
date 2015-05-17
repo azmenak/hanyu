@@ -1,0 +1,46 @@
+# Pinyin Practice - Xi
+## *absolute-beginners* level
+
+### Chinese Text
+我喜欢学习中文。
+我不喜欢玩游戏。
+她是西方人。
+我需要休息。
+多学习，行不行？
+星期天我休息。
+
+### Pinyin and Translation
+
+我喜欢学习中文。
+wǒ xǐhuān xuéxí zhōngwén 。
+I like studying Chinese.
+
+我不喜欢玩游戏。
+wǒ bù xǐhuān wán yóuxì 。
+I don't like playing games.
+
+她是西方人。
+tā shì xīfāng rén 。
+She is a westerner.
+
+我需要休息。
+wǒ xūyào xiūxi 。
+I need to rest.
+
+多学习，行不行？
+duō xuéxí ， xíngbuxíng ？
+Study more. OK?
+
+星期天我休息。
+xīngqītiān wǒ xiūxi 。
+On Sundays I rest.
+### Vocab
+-西方 (xīfāng) [noun] west
+-习惯 (xíguàn) [noun] habit
+-喜欢 (xǐhuān) [verb] to like
+-游戏 (yóuxì) [noun] game
+-学习 (xuéxí) [verb] to learn
+-需要 (xūyào) [verb] to need
+-休息 (xiūxi) [verb] to rest
+-行 (xíng) [adjective] ok
+-星期天 (xīngqītiān) [noun] Sunday

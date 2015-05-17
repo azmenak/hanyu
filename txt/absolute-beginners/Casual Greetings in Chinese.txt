@@ -1,0 +1,48 @@
+# Casual Greetings in Chinese
+## *absolute-beginners* level
+
+### Chinese Text
+甲：喂，喂，喂，喂，喂....
+乙：一，二，三....
+甲：Echo, Echo....
+乙：这开了没啊？
+丙：啊，行，好！
+乙：妈的，我讨厌这份工作。
+
+### Pinyin and Translation
+
+甲: 喂，喂，喂，喂，喂....
+    wéi ， wéi ， wéi ， wéi ， wéi . . . .
+    Hey, hey, testing, testing, testing....
+
+乙: 一，二，三....
+    yī ， èr ， sān . . . .
+    One, two, three...
+
+甲: Echo, Echo....
+    Echo ,  Echo . . . .
+    Echo, Echo....
+
+乙: 这开了没啊？
+    zhè kāi le méi a ？
+    Is this working or not?
+
+丙: 啊，行，好！
+    a ， xíng ， hǎo ！
+    Oh, ok... it's good!
+
+乙: 妈的，我讨厌这份工作。
+    māde ， wǒ tǎoyàn zhè fèn gōngzuò 。
+    Dammit, I hate this job.
+### Vocab
+-在 (zài) [adverb] currently
+-看 (kàn) [verb] to look
+-看书 (kànshū) [verb] to read
+-睡觉 (shuìjiào) [verb] to sleep
+-吃饭 (chīfàn) [verb] to eat
+-工作 (gōngzuò) [verb] to work
+-学 (xué) [verb] to study
+-中文 (zhōngwén) [noun] Chinese
+-问 (wèn) [verb] to ask
+-什么 (shénme) [question] what
+-本 (běn) [measure word] measure word for books

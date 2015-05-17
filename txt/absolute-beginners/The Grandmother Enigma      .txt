@@ -1,0 +1,32 @@
+# The Grandmother Enigma      
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你还有多少钱？
+乙：五十。
+甲：那是我的钱！给我。
+
+### Pinyin and Translation
+
+甲: 你还有多少钱？
+    nǐ hái yǒu duōshǎo qián ？
+    How much money do you have?
+
+乙: 五十。
+    wǔshí 。
+    Fifty bucks.
+
+甲: 那是我的钱！给我。
+    nà shì wǒ de qián ！ gěi wǒ 。
+    That's my money! Give it to me.
+### Vocab
+-请 (qǐng) [other] please
+-停 (tíng) [verb] to stop
+-停下 (tíngxià) [verb] to stop
+-停车 (tíngchē) [phrase] stop the car
+-不要 (bù yào) [verb] not to want
+-松手 (sōngshǒu) [verb] to let go
+-不用了 (bù yòng le) [phrase] there's no need
+-够了 (gòu le) [phrase] enough
+-住手 (zhùshǒu) [verb] stop!
+-手 (shǒu) [noun] hand

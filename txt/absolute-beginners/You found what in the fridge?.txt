@@ -1,0 +1,33 @@
+# You found what in the fridge?
+## *absolute-beginners* level
+
+### Chinese Text
+甲：哎呀，这服务太差了。这儿谁管呢？
+乙：饺子。
+甲：谁？
+乙：饺子馆呢！
+
+### Pinyin and Translation
+
+甲: 哎呀，这服务太差了。这儿谁管呢？
+    aiya ， zhè fúwù tài chà le 。 zhèr shéi guǎn ne ？
+    Great Scott! The service here is awful. Who is in charge!
+
+乙: 饺子。
+    jiǎozi 。
+    Dumplings.
+
+甲: 谁？
+    shéi ？
+    Who?
+
+乙: 饺子馆呢！
+    jiǎoziguǎn ne ！
+    The dumpling restaurant!
+### Vocab
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I
+-属 (shǔ) [verb] to belong to
+-什么 (shénme) [question] what
+-鸡 (jī) [noun] chicken
+-别笑了 (bié xiào le) [phrase] stop laughing

@@ -1,0 +1,38 @@
+# Mamma Mia
+## *absolute-beginners* level
+
+### Chinese Text
+甲：你手怎么了？
+乙：哦，是血。
+甲：血？那么多血？
+乙：哦，别担心，这不是我的。
+
+### Pinyin and Translation
+
+甲: 你手怎么了？
+    nǐ shǒu zěnme le ？
+    What's wrong with your hands?
+
+乙: 哦，是血。
+    ò ， shì xiě 。
+    Oh, it's blood.
+
+甲: 血？那么多血？
+    xiě ？ nàme duō xiě ？
+    Blood? That much blood?
+
+乙: 哦，别担心，这不是我的。
+    ò ， bié dānxīn ， zhè bù shì wǒde 。
+    Oh, don't worry. This isn't mine.
+### Vocab
+-她 (tā) [pronoun] she
+-你 (nǐ) [pronoun] you
+-在 (zài) [verb] to be at
+-吗 (ma) [particle] question marker
+-问 (wèn) [verb] to ask
+-问题 (wèntí) [noun] question
+-今天 (jīntiān) [noun] today
+-很 (hěn) [adverb] very
+-忙 (máng) [adjective] busy
+-好 (hǎo) [adjective] good
+-累 (lèi) [adjective] tired

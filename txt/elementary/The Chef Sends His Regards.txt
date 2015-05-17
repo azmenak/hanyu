@@ -1,0 +1,37 @@
+# The Chef Sends His Regards
+## *elementary* level
+
+### Chinese Text
+男的：手机没电了，怎么办？
+女的：买新的！
+男的：买新的手机？你疯了吗？
+女的：电池！电池！
+
+### Pinyin and Translation
+
+男的: 手机没电了，怎么办？
+      shǒujī méi diàn le ， zěnme bàn ？
+      The phone is out of power, what can we do?
+
+女的: 买新的！
+      mǎi xīn de ！
+      Buy a new one!
+
+男的: 买新的手机？你疯了吗？
+      mǎi xīn de shǒujī ？ nǐ fēng le ma ？
+      Buy a new cellphone? Are you crazy?
+
+女的: 电池！电池！
+      diànchí ！ diànchí ！
+      Battery, battery!
+### Vocab
+-筷子 (kuàizi) [noun] chopsticks
+-脏 (zāng) [adjective] dirty
+-帮 (bāng) [verb] to help
+-双 (shuāng) [measure word] measure word
+-只不过 (zhǐ bùguò) [conjunction] just
+-厨师 (chúshī) [noun] cook
+-感冒 (gǎnmào) [verb] to catch cold
+-而已 (éryǐ) [particle] and that is all
+-打喷嚏 (dǎ pēnti) [phrase] to sneeze
+-流鼻涕 (liú bíti) [phrase] runny nose

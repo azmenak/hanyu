@@ -1,0 +1,55 @@
+# Ordering Under Pressure
+## *absolute-beginners* level
+
+### Chinese Text
+甲：谢谢您，谢谢，谢谢......
+乙：不客气。
+甲：谢谢，谢谢，谢谢您......
+乙：别客气。
+甲：谢谢您，谢谢您，谢谢......
+乙：不用客气。
+甲：谢谢，谢谢......
+乙：放手！放手！
+
+### Pinyin and Translation
+
+甲: 谢谢您，谢谢，谢谢......
+    xièxie nín ， xièxie ， xièxie ......
+    Thank you, thanks, thanks....
+
+乙: 不客气。
+    bù kèqi 。
+    No thanks needed.
+
+甲: 谢谢，谢谢，谢谢您......
+    xièxie ， xièxie ， xièxie nín ......
+    Thank you, thank you, thank you....
+
+乙: 别客气。
+    bié kèqi 。
+    Don't be so polite.
+
+甲: 谢谢您，谢谢您，谢谢......
+    xièxie nín ， xièxie nín ， xièxie ......
+    Thank you, thank you, thank you....
+
+乙: 不用客气。
+    bù yòng kèqi 。
+    Cut it out.
+
+甲: 谢谢，谢谢......
+    xièxie ， xièxie ......
+    Thank you, thank you....
+
+乙: 放手！放手！
+    fàngshǒu ！ fàngshǒu ！
+    Let go! Let go!
+### Vocab
+-祝 (zhù) [verb] to wish
+-你 (nǐ) [pronoun] you
+-快乐 (kuàilè) [adjective] happy
+-生日 (shēngrì) [noun] birthday
+-谢谢 (xièxie) [phrase] thank you
+-我的 (wǒ de) [phrase] mine
+-也 (yě) [adverb] also
+-祝你生日快乐 (zhù nǐ shēngrì kuàilè) [phrase] happy birthday to you

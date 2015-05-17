@@ -1,0 +1,42 @@
+# What happened to my credit card?
+## *absolute-beginners* level
+
+### Chinese Text
+甲：机器坏了。
+乙：你的卡呢？
+甲：不行，卡住了。
+乙：去叫服务员。
+
+### Pinyin and Translation
+
+甲: 机器坏了。
+    jīqì huài le 。
+    The machine's broken.
+
+乙: 你的卡呢？
+    nǐ de kǎ ne ？
+    What about your card?
+
+甲: 不行，卡住了。
+    bù xíng ， kǎzhù le 。
+    No go, it's stuck.
+
+乙: 去叫服务员。
+    qù jiào fúwùyuán 。
+    Go call a staff member.
+### Vocab
+-坏 (huài) [adjective] bad
+-好 (hǎo) [adjective] good
+-饿 (è) [adjective] hungry
+-累 (lèi) [adjective] tired
+-不 (bù) [adverb] not
+-真 (zhēn) [adverb] truely
+-太 (tài) [adverb] too
+-孩子 (háizi) [noun] child
+-妹妹 (mèimei) [noun] younger sister
+-姐姐 (jiějie) [noun] older sister
+-那 (nà) [pronoun] that
+-给 (gěi) [verb] to give
+-我的 (wǒde) [phrase] my
+-你的 (nǐde) [phrase] your
+-他的 (tāde) [phrase] his

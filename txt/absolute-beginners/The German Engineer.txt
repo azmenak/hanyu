@@ -1,0 +1,36 @@
+# The German Engineer
+## *absolute-beginners* level
+
+### Chinese Text
+甲：嫁给我吧。
+乙：不要。
+甲：求求你了。
+乙：好吧。
+
+### Pinyin and Translation
+
+甲: 嫁给我吧。
+    jià gěi wǒ ba 。
+    Marry me.
+
+乙: 不要。
+    bù yào 。
+    No.
+
+甲: 求求你了。
+    qiú qiú nǐ le 。
+    I beg you.
+
+乙: 好吧。
+    hǎo ba 。
+    Ok.
+### Vocab
+-哪国人 (něi guó rén) [question] a person from which country
+-老师 (lǎoshī) [noun] teacher
+-德国人 (Déguó rén) [noun] German
+-俄罗斯人 (éluósī rén) [phrase] Russian
+-智利人 (Zhìlì rén) [phrase] Chilean
+-巴西人 (Bāxī rén) [phrase] Brazilian
+-美国人 (Měiguó rén) [phrase] American
+-工程师 (gōngchéngshī) [noun] engineer
+-学生 (xuéshēng) [noun] student

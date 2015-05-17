@@ -1,0 +1,58 @@
+# Roald Amundsen's Shanghai Diaries
+## *advanced* level
+
+### Chinese Text
+甲：你去哪儿？
+乙：成都。你不就是成都的吗？
+甲：成都？我没听过。
+乙：什么？那是四川的省会。
+甲：四川？四川在哪儿？
+乙：别告诉我你没听过四川。
+甲：从来没听过，我是大栅栏的。
+
+### Pinyin and Translation
+
+甲: 你去哪儿？
+    nǐ qù nǎr ？
+    Where are you going?
+
+乙: 成都。你不就是成都的吗？
+    Chéngdū 。 nǐ bù jiùshì Chéngdū de ma ？
+    Chengdu. Aren't you also from Chengdu?
+
+甲: 成都？我没听过。
+    Chéngdū ？ wǒ méi tīngguo 。
+    Chengdu? Never heard of it.
+
+乙: 什么？那是四川的省会。
+    shénme ？ nà shì Sìchuān de shěnghuì 。
+    What? It's the capital of Sichuan.
+
+甲: 四川？四川在哪儿？
+    Sìchuān ？ Sìchuān zài nǎr ？
+    Sichuan? Where is Sichuan?
+
+乙: 别告诉我你没听过四川。
+    bié gàosu wǒ nǐ méi tīngguo Sìchuān 。
+    Don't tell me you've never heard of Sichuan.
+
+甲: 从来没听过，我是大栅栏的。
+    cónglái méi tīngguo ， wǒ shì dàshílàr de 。
+    Never heard of it. I'm from Dashilar.
+### Vocab
+-节气 (jiéqì) [noun] solar period
+-惊蛰 (jīngzhé) [solar] awakening insects
+-清明 (qīngmíng) [solar] qing ming
+-谷雨 (gǔyǔ) [solar] grain rain
+-霜降 (shuāngjiàng) [solar] falling frost
+-立冬 (lìdōng) [solar] start of winter
+-暖气 (nuǎnqì) [noun] heating
+-糟糕 (zāogāo) [adjective] awful
+-惨 (cǎn) [adjective] miserable
+-好转 (hǎozhuǎn) [noun] turn for the better
+-撑 (chēng) [verb] to support
+-救援 (jiùyuán) [verb] to rescue
+-寻求 (xúnqiú) [verb] to seek
+-熬 (āo) [verb] to boil
+-遇难 (yùnàn) [verb] to die
+-熬不下去 (āobuxiàqù) [verb] to be unable to hold out

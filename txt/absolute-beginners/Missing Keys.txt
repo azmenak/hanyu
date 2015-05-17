@@ -1,0 +1,36 @@
+# Missing Keys
+## *absolute-beginners* level
+
+### Chinese Text
+甲：门锁了。
+乙：你有钥匙吗？
+甲：没有。
+乙：哦，天哪！
+
+### Pinyin and Translation
+
+甲: 门锁了。
+    mén suǒ le 。
+    The door is locked.
+
+乙: 你有钥匙吗？
+    nǐ yǒu yàoshi ma ？
+    Do you have the keys?
+
+甲: 没有。
+    méiyǒu 。
+    No.
+
+乙: 哦，天哪！
+    o ， tiān na ！
+    Oh, goodness gracious!
+### Vocab
+-字 (zì) [noun] character
+-汉字 (hànzì) [noun] Chinese character
+-认字 (rèn zì) [phrase] to recognize characters
+-写字 (xiězì) [phrase] to write
+-自己 (zìjǐ) [pronoun] oneself
+-工资 (gōngzī) [noun] salary
+-资本 (zīběn) [noun] capital
+-次 (cì) [measure word] time
+-词 (cí) [noun] word
