@@ -1,6 +1,5 @@
 # Harry Potter in Chinese
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：哇！你瘦了好多啊！是怎么做到的？
 乙：你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！
@@ -15,15 +14,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哇！你瘦了好多啊！是怎么做到的？<br />wa ！ nǐ shòu le hǎo duō ā ！ shì zěnme zuò dào de ？<br />Whoa! You've lost so much weight. How did you do it?|
-|乙|你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！<br />nǐ xiǎng jiǎnféi ma ？ nǐ xiǎng biànchéng zhēnzhèng de yuēhàn kùsàkè ma ？ qǐng yòng shìjiè zhùmíng de jīnhóuzi sǎngbǎo ！<br />Want to lose weight? Want to become a real John Cusack? Please use the world-famous Golden Monkey Throat Lozenges.|
-|丙|啊?!那不是感冒药吗?<br />ā ?! nà bù shì gǎnmàoyào ma ?<br />Huh? Isn't that cold medicine?|
-|乙|没关系。<br />méiguānxi 。<br />That doesn't matter.|
-|丙|那不是有很严重的副作用吗？<br />nà bù shì yǒu hěn yánzhòng de fùzuòyòng ma ？<br />Doesn't that have serious side effects?|
-|乙|没关系。<br />méi guānxi 。<br />That doesn't matter.|
-|丙|那不是违禁品吗？<br />nà bù shì wéijīnpǐn ma ？<br />Isn't that banned?|
-|乙|没关系。要减肥，就用金猴子嗓宝！订购热线：<br />méi guānxi 。 yào jiǎnféi ， jiù yòng jīnhóuzi sǎngbǎo ！ dìnggòu rèxiàn ：<br />That doesn't matter. If you want to lose weight, use Golden Monkey Throat Lozenges! The ordering hotline:|
-|丁|800-820-8820<br />bālínglíng bāèrlíng bābāèrlíng<br />800-820-8820|
+|甲|哇！你瘦了好多啊！是怎么做到的？<blockquote>wa ！ nǐ shòu le hǎo duō ā ！ shì zěnme zuò dào de ？<br />Whoa! You've lost so much weight. How did you do it?</blockquote>|
+|乙|你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！<blockquote>nǐ xiǎng jiǎnféi ma ？ nǐ xiǎng biànchéng zhēnzhèng de yuēhàn kùsàkè ma ？ qǐng yòng shìjiè zhùmíng de jīnhóuzi sǎngbǎo ！<br />Want to lose weight? Want to become a real John Cusack? Please use the world-famous Golden Monkey Throat Lozenges.</blockquote>|
+|丙|啊?!那不是感冒药吗?<blockquote>ā ?! nà bù shì gǎnmàoyào ma ?<br />Huh? Isn't that cold medicine?</blockquote>|
+|乙|没关系。<blockquote>méiguānxi 。<br />That doesn't matter.</blockquote>|
+|丙|那不是有很严重的副作用吗？<blockquote>nà bù shì yǒu hěn yánzhòng de fùzuòyòng ma ？<br />Doesn't that have serious side effects?</blockquote>|
+|乙|没关系。<blockquote>méi guānxi 。<br />That doesn't matter.</blockquote>|
+|丙|那不是违禁品吗？<blockquote>nà bù shì wéijīnpǐn ma ？<br />Isn't that banned?</blockquote>|
+|乙|没关系。要减肥，就用金猴子嗓宝！订购热线：<blockquote>méi guānxi 。 yào jiǎnféi ， jiù yòng jīnhóuzi sǎngbǎo ！ dìnggòu rèxiàn ：<br />That doesn't matter. If you want to lose weight, use Golden Monkey Throat Lozenges! The ordering hotline:</blockquote>|
+|丁|800-820-8820<blockquote>bālínglíng bāèrlíng bābāèrlíng<br />800-820-8820</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

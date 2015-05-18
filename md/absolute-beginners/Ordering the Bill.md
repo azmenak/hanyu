@@ -1,6 +1,5 @@
 # Ordering the Bill
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：买单。
 甲：哎，买单！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|买单。<br />mǎidān 。<br />Bill please!|
-|甲|哎，买单！<br />ai ， mǎidān ！<br />Hey, can I get the bill!|
-|甲|服务员，买单！<br />fúwùyuán ， mǎidān ！<br />Waiter, the bill!|
-|乙|马上！<br />mǎshàng ！<br />Right away!|
+|甲|买单。<blockquote>mǎidān 。<br />Bill please!</blockquote>|
+|甲|哎，买单！<blockquote>ai ， mǎidān ！<br />Hey, can I get the bill!</blockquote>|
+|甲|服务员，买单！<blockquote>fúwùyuán ， mǎidān ！<br />Waiter, the bill!</blockquote>|
+|乙|马上！<blockquote>mǎshàng ！<br />Right away!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

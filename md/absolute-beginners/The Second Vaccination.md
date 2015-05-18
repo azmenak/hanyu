@@ -1,6 +1,5 @@
 # The Second Vaccination
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：猫又上你的椅子了。
 乙：Squeak，下来，我得工作。
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|猫又上你的椅子了。<br />māo yòu shàng nǐ de yǐzi le 。<br />The cat's in your chair again.|
-|乙|Squeak，下来，我得工作。<br />Squeak ， xiàlai ， wǒ děi gōngzuò 。<br />Get down Squeak. I need to work.|
-|甲|别动它，它很舒服。<br />bié dòng tā ， tā hěn shūfu 。<br />Don't move him. He's comfortable.|
+|甲|猫又上你的椅子了。<blockquote>māo yòu shàng nǐ de yǐzi le 。<br />The cat's in your chair again.</blockquote>|
+|乙|Squeak，下来，我得工作。<blockquote>Squeak ， xiàlai ， wǒ děi gōngzuò 。<br />Get down Squeak. I need to work.</blockquote>|
+|甲|别动它，它很舒服。<blockquote>bié dòng tā ， tā hěn shūfu 。<br />Don't move him. He's comfortable.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

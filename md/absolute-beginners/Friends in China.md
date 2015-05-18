@@ -1,6 +1,5 @@
 # Friends in China
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：有蚊子！
 乙：嗯？嗷！
@@ -15,15 +14,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|有蚊子！<br />yǒu wénzi ！<br />There's a mosquito!|
-|乙|嗯？嗷！<br />en ？ ao ！<br />Oh? Oww!|
-|甲|死了。<br />sǐ le 。<br />It's dead.|
-|乙|你打我？<br />nǐ dǎ wǒ ？<br />You hit me?|
-|甲|哎，等一下，没死呢。<br />ai ， děng yīxià ， méi sǐ ne 。<br />Hey, wait a sec, it isn't dead.|
-|乙|你脸上也有蚊子。<br />nǐ liǎn shàng yě yǒu wénzi 。<br />There's also one on your face.|
-|甲|喔！<br />o ！<br />Oh!|
-|乙|嗷！<br />ao ！<br />Oww!|
-|乙|是没死呢。<br />shì méi sǐ ne 。<br />It's not dead, right?|
+|甲|有蚊子！<blockquote>yǒu wénzi ！<br />There's a mosquito!</blockquote>|
+|乙|嗯？嗷！<blockquote>en ？ ao ！<br />Oh? Oww!</blockquote>|
+|甲|死了。<blockquote>sǐ le 。<br />It's dead.</blockquote>|
+|乙|你打我？<blockquote>nǐ dǎ wǒ ？<br />You hit me?</blockquote>|
+|甲|哎，等一下，没死呢。<blockquote>ai ， děng yīxià ， méi sǐ ne 。<br />Hey, wait a sec, it isn't dead.</blockquote>|
+|乙|你脸上也有蚊子。<blockquote>nǐ liǎn shàng yě yǒu wénzi 。<br />There's also one on your face.</blockquote>|
+|甲|喔！<blockquote>o ！<br />Oh!</blockquote>|
+|乙|嗷！<blockquote>ao ！<br />Oww!</blockquote>|
+|乙|是没死呢。<blockquote>shì méi sǐ ne 。<br />It's not dead, right?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

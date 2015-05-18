@@ -1,6 +1,5 @@
 # Are You Sick?
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你生病了吗？
 乙：是的。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你生病了吗？<br />nǐ shēngbìng le ma ？<br />Are you sick?|
-|乙|是的。<br />shìde 。<br />Yes.|
-|甲|传染吗？<br />chuánrǎn ma ？<br />Is it contagious?|
-|乙|非常。<br />fēicháng 。<br />Extremely.|
+|甲|你生病了吗？<blockquote>nǐ shēngbìng le ma ？<br />Are you sick?</blockquote>|
+|乙|是的。<blockquote>shìde 。<br />Yes.</blockquote>|
+|甲|传染吗？<blockquote>chuánrǎn ma ？<br />Is it contagious?</blockquote>|
+|乙|非常。<blockquote>fēicháng 。<br />Extremely.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

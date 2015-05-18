@@ -1,6 +1,5 @@
 # Our Nearsighted Colleague
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女：哎，看！
 男：天哪，超人！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|哎，看！<br />āi ， kàn ！<br />Hey, look!|
-|男|天哪，超人！<br />tiāna ， chāorén ！<br />Heavens, it's Superman!|
-|女|不不不，那是一只鸟。<br />bù bù bù ， nà shì yī zhī niǎo 。<br />No... that's a bird.|
-|男|天哪，是一只鸟！<br />tiāna ， shì yī zhī niǎo !<br />Sweet Lord, it's a bird!|
+|女|哎，看！<blockquote>āi ， kàn ！<br />Hey, look!</blockquote>|
+|男|天哪，超人！<blockquote>tiāna ， chāorén ！<br />Heavens, it's Superman!</blockquote>|
+|女|不不不，那是一只鸟。<blockquote>bù bù bù ， nà shì yī zhī niǎo 。<br />No... that's a bird.</blockquote>|
+|男|天哪，是一只鸟！<blockquote>tiāna ， shì yī zhī niǎo !<br />Sweet Lord, it's a bird!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

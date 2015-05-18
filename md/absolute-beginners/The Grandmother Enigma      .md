@@ -1,6 +1,5 @@
 # The Grandmother Enigma      
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你还有多少钱？
 乙：五十。
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你还有多少钱？<br />nǐ hái yǒu duōshǎo qián ？<br />How much money do you have?|
-|乙|五十。<br />wǔshí 。<br />Fifty bucks.|
-|甲|那是我的钱！给我。<br />nà shì wǒ de qián ！ gěi wǒ 。<br />That's my money! Give it to me.|
+|甲|你还有多少钱？<blockquote>nǐ hái yǒu duōshǎo qián ？<br />How much money do you have?</blockquote>|
+|乙|五十。<blockquote>wǔshí 。<br />Fifty bucks.</blockquote>|
+|甲|那是我的钱！给我。<blockquote>nà shì wǒ de qián ！ gěi wǒ 。<br />That's my money! Give it to me.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

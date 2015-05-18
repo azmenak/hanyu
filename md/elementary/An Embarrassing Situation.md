@@ -1,6 +1,5 @@
 # An Embarrassing Situation
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 男人：警察！警察！偷东西了！偷东西了！我家被盗了！
 警察：请你冷静点。请问您亲眼看到了吗？
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男人|警察！警察！偷东西了！偷东西了！我家被盗了！<br />jǐngchá ！ jǐngchá ！ tōu dōngxī le ！ tōu dōngxī le ！ wǒ jiā bèi dào le ！<br />Police! Police! A robbery! A robbery! My home has been burgled.|
-|警察|请你冷静点。请问您亲眼看到了吗？<br />qǐng nǐ lěngjìng diǎn 。 qǐngwèn nín qīnyǎn kàn dào le ma ？<br />Please calm down. Did you see it yourself?|
-|男人|没有，我刚到家。他们肯定是在我上班的时候进来的。<br />méiyǒu ， wǒ gāng dào jiā 。 tāmen kěndìng shì zài wǒ shàngbān de shíhou jìnlai de 。<br />No, I just got home. They must have come in while I was at work.|
-|警察|那......丢的是什么东西？<br />nà ...... diū de shì shénme dōngxi ？<br />Then... what was lost?|
-|男人|手纸。<br />shǒuzhǐ 。<br />Toilet paper.|
-|警察|扑哧......（笑）<br />pūchī ...... （ xiào ）<br />*laughs*|
-|男人|哎你笑什么呀？我说的是真的！我现在就在厕所里......<br />āi nǐ xiào shénme yā ？ wǒ shuō de shì zhēnde ！ wǒ xiànzài jiù zài cèsuǒ lǐ ......<br />Hey, what are you laughing at. I'm telling the truth. I'm in the washroom right now....|
+|男人|警察！警察！偷东西了！偷东西了！我家被盗了！<blockquote>jǐngchá ！ jǐngchá ！ tōu dōngxī le ！ tōu dōngxī le ！ wǒ jiā bèi dào le ！<br />Police! Police! A robbery! A robbery! My home has been burgled.</blockquote>|
+|警察|请你冷静点。请问您亲眼看到了吗？<blockquote>qǐng nǐ lěngjìng diǎn 。 qǐngwèn nín qīnyǎn kàn dào le ma ？<br />Please calm down. Did you see it yourself?</blockquote>|
+|男人|没有，我刚到家。他们肯定是在我上班的时候进来的。<blockquote>méiyǒu ， wǒ gāng dào jiā 。 tāmen kěndìng shì zài wǒ shàngbān de shíhou jìnlai de 。<br />No, I just got home. They must have come in while I was at work.</blockquote>|
+|警察|那......丢的是什么东西？<blockquote>nà ...... diū de shì shénme dōngxi ？<br />Then... what was lost?</blockquote>|
+|男人|手纸。<blockquote>shǒuzhǐ 。<br />Toilet paper.</blockquote>|
+|警察|扑哧......（笑）<blockquote>pūchī ...... （ xiào ）<br />*laughs*</blockquote>|
+|男人|哎你笑什么呀？我说的是真的！我现在就在厕所里......<blockquote>āi nǐ xiào shénme yā ？ wǒ shuō de shì zhēnde ！ wǒ xiànzài jiù zài cèsuǒ lǐ ......<br />Hey, what are you laughing at. I'm telling the truth. I'm in the washroom right now....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

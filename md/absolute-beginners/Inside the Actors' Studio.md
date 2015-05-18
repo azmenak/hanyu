@@ -1,6 +1,5 @@
 # Inside the Actors' Studio
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女：哦，Bradley Cooper!
 男：他是谁？
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|哦，Bradley Cooper!<br />ò ， Bradley Cooper!<br />Oh, Bradley Cooper!|
-|男|他是谁？<br />tā shì shéi ？<br />Who is he?|
-|女|Bradley，我在这儿！<br />Bradley ， wǒ zài zhèr ！<br />Bradley, I'm here!|
-|男|Bradley Cooper是谁？<br />Bradley Cooper shì shéi ？<br />Who is Bradley Cooper?|
-|女|我的天啊，Bradley!<br />wǒde tiānā ， Bradley!<br />My heavens, Bradley!|
-|女|Bradley，我爱你！<br />Bradley ， wǒ ài nǐ ！<br />Bradley, I love you!|
-|男|他是谁？<br />tā shì shéi ？<br />Who is he?|
+|女|哦，Bradley Cooper!<blockquote>ò ， Bradley Cooper!<br />Oh, Bradley Cooper!</blockquote>|
+|男|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
+|女|Bradley，我在这儿！<blockquote>Bradley ， wǒ zài zhèr ！<br />Bradley, I'm here!</blockquote>|
+|男|Bradley Cooper是谁？<blockquote>Bradley Cooper shì shéi ？<br />Who is Bradley Cooper?</blockquote>|
+|女|我的天啊，Bradley!<blockquote>wǒde tiānā ， Bradley!<br />My heavens, Bradley!</blockquote>|
+|女|Bradley，我爱你！<blockquote>Bradley ， wǒ ài nǐ ！<br />Bradley, I love you!</blockquote>|
+|男|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

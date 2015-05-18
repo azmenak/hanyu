@@ -1,6 +1,5 @@
 # Encounter with an Old Flame
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 一：哦，那是什么？
 二：我的小明？
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|一|哦，那是什么？<br />ò ， nà shì shénme ？<br />Oh, what is that?|
-|二|我的小明？<br />wǒ de Xiǎo Míng ？<br />My Little Ming?|
-|一|我的天啊，它还活着！<br />wǒ de tiānā ， tā hái huózhe ！<br />My heavens, it's alive!|
+|一|哦，那是什么？<blockquote>ò ， nà shì shénme ？<br />Oh, what is that?</blockquote>|
+|二|我的小明？<blockquote>wǒ de Xiǎo Míng ？<br />My Little Ming?</blockquote>|
+|一|我的天啊，它还活着！<blockquote>wǒ de tiānā ， tā hái huózhe ！<br />My heavens, it's alive!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

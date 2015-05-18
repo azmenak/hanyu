@@ -1,6 +1,5 @@
 # 10 signs you may have an asshole for a husband
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女的：那是什么？
 男的：那是安全警报。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|那是什么？<br />nà shì shénme ？<br />What is that?|
-|男的|那是安全警报。<br />nà shì ānquán jǐngbào 。<br />That's the security alarm.|
-|女的|这里不安全吗？<br />zhèli bù ānquán ma ？<br />It isn't safe here?|
-|男的|不不不，意思是现在非常安全。<br />bù bù bù ， yìsi shì xiànzài fēicháng ānquán 。<br />Not at all, it means it's extremely safe now.|
+|女的|那是什么？<blockquote>nà shì shénme ？<br />What is that?</blockquote>|
+|男的|那是安全警报。<blockquote>nà shì ānquán jǐngbào 。<br />That's the security alarm.</blockquote>|
+|女的|这里不安全吗？<blockquote>zhèli bù ānquán ma ？<br />It isn't safe here?</blockquote>|
+|男的|不不不，意思是现在非常安全。<blockquote>bù bù bù ， yìsi shì xiànzài fēicháng ānquán 。<br />Not at all, it means it's extremely safe now.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

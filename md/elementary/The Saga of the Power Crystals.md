@@ -1,6 +1,5 @@
 # The Saga of the Power Crystals
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：她在说什么？
 乙：我听不懂，不过她的声调挺好听的，是英语吗？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|她在说什么？<br />tā zài shuō shénme ？<br />What is she saying?|
-|乙|我听不懂，不过她的声调挺好听的，是英语吗？<br />wǒ tīngbudǒng ， bùguò tā de shēngdiào tǐng hǎotīng de ， shì yīngyǔ ma ？<br />I don't understand, but her tone of voice is very pleasant. Is it English?|
-|甲|我觉得是中文。<br />wǒ juéde shì Zhōngwén 。<br />I think it's Chinese.|
-|乙|噢。<br />o 。<br />Oh.|
+|甲|她在说什么？<blockquote>tā zài shuō shénme ？<br />What is she saying?</blockquote>|
+|乙|我听不懂，不过她的声调挺好听的，是英语吗？<blockquote>wǒ tīngbudǒng ， bùguò tā de shēngdiào tǐng hǎotīng de ， shì yīngyǔ ma ？<br />I don't understand, but her tone of voice is very pleasant. Is it English?</blockquote>|
+|甲|我觉得是中文。<blockquote>wǒ juéde shì Zhōngwén 。<br />I think it's Chinese.</blockquote>|
+|乙|噢。<blockquote>o 。<br />Oh.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

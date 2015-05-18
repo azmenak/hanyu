@@ -1,6 +1,5 @@
 # Happy Father's Day....
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 朋友：你给你爸爸买礼物了吗？
 Bunny：为什么？
@@ -11,11 +10,11 @@ Bunny：我买了一堆玫瑰花。
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|朋友|你给你爸爸买礼物了吗？<br />nǐ gěi nǐ bàba mǎi lǐwù le ma ？<br />Have you bought your father a present?|
-|Bunny|为什么？<br />wèishénme ？<br />Why?|
-|朋友|因为父亲节！<br />yīnwèi Fùqinjié ！<br />Because of Father's Day!|
-|Bunny|我买了一堆玫瑰花。<br />wǒ mǎi le yī duī méiguīhuār 。<br />I bought a pile of roses.|
-|朋友|玫瑰花...?<br />méiguīhuār ...?<br />Roses...?|
+|朋友|你给你爸爸买礼物了吗？<blockquote>nǐ gěi nǐ bàba mǎi lǐwù le ma ？<br />Have you bought your father a present?</blockquote>|
+|Bunny|为什么？<blockquote>wèishénme ？<br />Why?</blockquote>|
+|朋友|因为父亲节！<blockquote>yīnwèi Fùqinjié ！<br />Because of Father's Day!</blockquote>|
+|Bunny|我买了一堆玫瑰花。<blockquote>wǒ mǎi le yī duī méiguīhuār 。<br />I bought a pile of roses.</blockquote>|
+|朋友|玫瑰花...?<blockquote>méiguīhuār ...?<br />Roses...?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

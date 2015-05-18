@@ -1,6 +1,5 @@
 # Pinyin Practice: ri
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 我第一次写汉字。
 我自己去。
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||我第一次写汉字。<br />wǒ dì yī cì xiě hànzì 。<br />My first time writing Chinese characters.|
-||我自己去。<br />wǒ zìjǐ qù 。<br />I'll go myself.|
-||你的工资是多少？<br />nǐ de gōngzī shì duōshǎo ？<br />How much is your salary?|
+||我第一次写汉字。<blockquote>wǒ dì yī cì xiě hànzì 。<br />My first time writing Chinese characters.</blockquote>|
+||我自己去。<blockquote>wǒ zìjǐ qù 。<br />I'll go myself.</blockquote>|
+||你的工资是多少？<blockquote>nǐ de gōngzī shì duōshǎo ？<br />How much is your salary?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

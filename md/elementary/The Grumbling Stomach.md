@@ -1,6 +1,5 @@
 # The Grumbling Stomach
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 男：请问你们这儿有WiFi吗？
 女：什么？
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|请问你们这儿有WiFi吗？<br />qǐng wèn nǐmen zhèr yǒu WiFi ma ？<br />Excuse me, do you have WiFi?|
-|女|什么？<br />shénme ？<br />Huh?|
-|男|有没有无线网络?<br />yǒu méiyǒu wúxiàn wǎngluò ?<br />Do you have wireless Internet?|
-|女|哦，有。你有笔记本儿？<br />ō ， yǒu 。 nǐ yǒu bǐjìběnr ？<br />Oh, yeah. You have a laptop?|
-|男|我有。我想上网。<br />wǒ yǒu 。 wǒ xiǎng shàngwǎng 。<br />I do. I want to get online.|
-|女|好的。<br />hǎo de 。<br />OK.|
+|男|请问你们这儿有WiFi吗？<blockquote>qǐng wèn nǐmen zhèr yǒu WiFi ma ？<br />Excuse me, do you have WiFi?</blockquote>|
+|女|什么？<blockquote>shénme ？<br />Huh?</blockquote>|
+|男|有没有无线网络?<blockquote>yǒu méiyǒu wúxiàn wǎngluò ?<br />Do you have wireless Internet?</blockquote>|
+|女|哦，有。你有笔记本儿？<blockquote>ō ， yǒu 。 nǐ yǒu bǐjìběnr ？<br />Oh, yeah. You have a laptop?</blockquote>|
+|男|我有。我想上网。<blockquote>wǒ yǒu 。 wǒ xiǎng shàngwǎng 。<br />I do. I want to get online.</blockquote>|
+|女|好的。<blockquote>hǎo de 。<br />OK.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

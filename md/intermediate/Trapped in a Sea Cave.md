@@ -1,6 +1,5 @@
 # Trapped in a Sea Cave
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 僵尸：脑子！脑子！脑子！
 父亲：你们这儿为什么会有这么多的僵尸？
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|僵尸|脑子！脑子！脑子！<br />nǎozi ！ nǎozi ！ nǎozi ！<br />Brains! Brains! Brains!|
-|父亲|你们这儿为什么会有这么多的僵尸？<br />nǐmen zhèr wèishénme huì yǒu zhème duō de jiāngshī ？<br />Why do you have so many zombies here?|
-|校长|他们都是一流的，都是符合国际标准的。<br />tāmen dōu shì yīliú de ， dōu shì fúhé guójì biāozhǔn de 。<br />They're all first grade, right up to international standards.|
-|母亲|这样安全吗？<br />zhèyàng ānquán ma ？<br />Is this safe?|
-|校长|孩子们和僵尸成为朋友之后，会对他们的性格培养起到很大的帮助。让他们变得更加的成熟和稳重。<br />háizimen hé jiāngshī chéngwéi péngyou zhīhòu ， huì duì tāmen de xìnggé péiyǎng qǐ dào hěn dà de bāngzhù 。 ràng tāmen biàn de gèngjiā de chéngshú hé wěnzhòng 。<br />Making friends with zombies is a great help to children in developing their personalities. It helps them develop maturity and composure....|
-|父亲|嗯，有点意思。就这么定了，从下个学期开始。<br />en ， yǒudiǎnr yìsi 。 jiù zhème dìng le ， cóng xià ge xuéqī kāishǐ 。<br />Sounds interesting. So it's a deal then. We'll start next semester.|
+|僵尸|脑子！脑子！脑子！<blockquote>nǎozi ！ nǎozi ！ nǎozi ！<br />Brains! Brains! Brains!</blockquote>|
+|父亲|你们这儿为什么会有这么多的僵尸？<blockquote>nǐmen zhèr wèishénme huì yǒu zhème duō de jiāngshī ？<br />Why do you have so many zombies here?</blockquote>|
+|校长|他们都是一流的，都是符合国际标准的。<blockquote>tāmen dōu shì yīliú de ， dōu shì fúhé guójì biāozhǔn de 。<br />They're all first grade, right up to international standards.</blockquote>|
+|母亲|这样安全吗？<blockquote>zhèyàng ānquán ma ？<br />Is this safe?</blockquote>|
+|校长|孩子们和僵尸成为朋友之后，会对他们的性格培养起到很大的帮助。让他们变得更加的成熟和稳重。<blockquote>háizimen hé jiāngshī chéngwéi péngyou zhīhòu ， huì duì tāmen de xìnggé péiyǎng qǐ dào hěn dà de bāngzhù 。 ràng tāmen biàn de gèngjiā de chéngshú hé wěnzhòng 。<br />Making friends with zombies is a great help to children in developing their personalities. It helps them develop maturity and composure....</blockquote>|
+|父亲|嗯，有点意思。就这么定了，从下个学期开始。<blockquote>en ， yǒudiǎnr yìsi 。 jiù zhème dìng le ， cóng xià ge xuéqī kāishǐ 。<br />Sounds interesting. So it's a deal then. We'll start next semester.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

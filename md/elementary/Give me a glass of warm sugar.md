@@ -1,6 +1,5 @@
 # Give me a glass of warm sugar
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：今天晚上有事吗?
 乙：没事。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|今天晚上有事吗?<br />jīntiān wǎnshang yǒushì ma ?<br />Got anything tonight?|
-|乙|没事。<br />méishì 。<br />Nope.|
-|甲|那我们一起去看电影吧?<br />nà wǒmen yīqǐ qù kān diànyǐng ba ?<br />Let's go watch a movie then, ok?|
-|乙|好呀。<br />hǎo ya 。<br />Ok.|
+|甲|今天晚上有事吗?<blockquote>jīntiān wǎnshang yǒushì ma ?<br />Got anything tonight?</blockquote>|
+|乙|没事。<blockquote>méishì 。<br />Nope.</blockquote>|
+|甲|那我们一起去看电影吧?<blockquote>nà wǒmen yīqǐ qù kān diànyǐng ba ?<br />Let's go watch a movie then, ok?</blockquote>|
+|乙|好呀。<blockquote>hǎo ya 。<br />Ok.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Ambulance Days
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 [第一部]
 甲：哎，你有微信吗？
@@ -22,22 +21,22 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||[第一部]<br />[ dì  yī bù ]<br />[Part One]|
-|甲|哎，你有微信吗？<br />āi ， nǐ yǒu wēixìn ma ？<br />Hey, do you have Wechat?|
-|乙|当然有啊。<br />dāngrán yǒu ā 。<br />Of course I do.|
-|甲|你妹妹呢？<br />nǐ mèimei ne ？<br />What about your younger sister?|
-|乙|什么？<br />shénme ？<br />What?|
-|甲|你妹妹的微信号是多少？让她加我。<br />nǐ mèimei de wēixìn hào shì duōshǎo ？ ràng tā jiā wǒ 。<br />What's your sister's Wechat number? Make her add me.|
-||[第二部］<br />[ dì  èr bù ］<br />[Part Two]|
-|甲|哎，你有微信吗？<br />āi ， nǐ yǒu wēixìn ma ？<br />Hey, do you have Wechat?|
-|乙|有啊。<br />yǒu ā 。<br />Yeah, I do.|
-|甲|那你妹妹呢？<br />nà nǐ mèimei ne ？<br />What about your younger sister?|
-|乙|什么？我妹妹？<br />shénme ？ wǒ mèimei ？<br />What? My younger sister?|
-|甲|你妹妹有微信吗？<br />nǐ mèimei yǒu wēixìn ma ？<br />Does your sister have Wechat?|
-|乙|她应该也有。<br />tā yīnggāi yě yǒu 。<br />She should have it.|
-|甲|那你爸爸妈妈用微信吗？<br />nà nǐ bàba māma yòng wēixìn ma ？<br />So, do your father and mother use Wechat?|
-|乙|他们也用。<br />tāmen yě yòng 。<br />They also use it.|
-|甲|好。一家四口。真好。<br />hǎo 。 yījiā sì kǒu 。 zhēn hǎo 。<br />That's great. A family of four people. Really good.|
+||[第一部]<blockquote>[ dì  yī bù ]<br />[Part One]</blockquote>|
+|甲|哎，你有微信吗？<blockquote>āi ， nǐ yǒu wēixìn ma ？<br />Hey, do you have Wechat?</blockquote>|
+|乙|当然有啊。<blockquote>dāngrán yǒu ā 。<br />Of course I do.</blockquote>|
+|甲|你妹妹呢？<blockquote>nǐ mèimei ne ？<br />What about your younger sister?</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|甲|你妹妹的微信号是多少？让她加我。<blockquote>nǐ mèimei de wēixìn hào shì duōshǎo ？ ràng tā jiā wǒ 。<br />What's your sister's Wechat number? Make her add me.</blockquote>|
+||[第二部］<blockquote>[ dì  èr bù ］<br />[Part Two]</blockquote>|
+|甲|哎，你有微信吗？<blockquote>āi ， nǐ yǒu wēixìn ma ？<br />Hey, do you have Wechat?</blockquote>|
+|乙|有啊。<blockquote>yǒu ā 。<br />Yeah, I do.</blockquote>|
+|甲|那你妹妹呢？<blockquote>nà nǐ mèimei ne ？<br />What about your younger sister?</blockquote>|
+|乙|什么？我妹妹？<blockquote>shénme ？ wǒ mèimei ？<br />What? My younger sister?</blockquote>|
+|甲|你妹妹有微信吗？<blockquote>nǐ mèimei yǒu wēixìn ma ？<br />Does your sister have Wechat?</blockquote>|
+|乙|她应该也有。<blockquote>tā yīnggāi yě yǒu 。<br />She should have it.</blockquote>|
+|甲|那你爸爸妈妈用微信吗？<blockquote>nà nǐ bàba māma yòng wēixìn ma ？<br />So, do your father and mother use Wechat?</blockquote>|
+|乙|他们也用。<blockquote>tāmen yě yòng 。<br />They also use it.</blockquote>|
+|甲|好。一家四口。真好。<blockquote>hǎo 。 yījiā sì kǒu 。 zhēn hǎo 。<br />That's great. A family of four people. Really good.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

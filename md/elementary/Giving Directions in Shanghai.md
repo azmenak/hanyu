@@ -1,6 +1,5 @@
 # Giving Directions in Shanghai
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：师傅，我想去复兴中路。
 乙：你想去复兴中路？
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|师傅，我想去复兴中路。<br />shīfu ， wǒ xiǎng qù Fùxīng Zhōnglù 。<br />Driver, I want to go to Fuxing Central Road.|
-|乙|你想去复兴中路？<br />nǐ xiǎng qù Fùxīng Zhōnglù ？<br />You want to go to Fuxing Central Road?|
-|甲|对，复兴中路，靠近音乐学院那边的。<br />duì ， Fùxīng Zhōnglù ， kàojìn yīnyuè  xuéyuàn nàbiān de 。<br />Yes, Fuxing Central Road. It's the one near the music conservatory.|
-|乙|在淮海路南边那个？<br />zài Huáihǎi Lù nánbiān nàge ？<br />The one south of Huaihai Road?|
-|甲|对呀，只有一条复兴中路。<br />duì ya ， zhǐyǒu yī tiáo Fùxīng Zhōnglù 。<br />Right. There's only one Fuxing Central Road.|
-|乙|哦，靠近音乐学院那个？<br />o ， kàojìn yīnyuè  xuéyuàn nàge ？<br />Oh, the one near the music conservatory?|
-|甲|对，复兴中路。<br />duì ， Fùxīng Zhōnglù 。<br />Yes, Fuxingzhong Road.|
-|乙|嗯，不清楚。<br />en ， bù qīngchu 。<br />Oh. I don't understand.|
+|甲|师傅，我想去复兴中路。<blockquote>shīfu ， wǒ xiǎng qù Fùxīng Zhōnglù 。<br />Driver, I want to go to Fuxing Central Road.</blockquote>|
+|乙|你想去复兴中路？<blockquote>nǐ xiǎng qù Fùxīng Zhōnglù ？<br />You want to go to Fuxing Central Road?</blockquote>|
+|甲|对，复兴中路，靠近音乐学院那边的。<blockquote>duì ， Fùxīng Zhōnglù ， kàojìn yīnyuè  xuéyuàn nàbiān de 。<br />Yes, Fuxing Central Road. It's the one near the music conservatory.</blockquote>|
+|乙|在淮海路南边那个？<blockquote>zài Huáihǎi Lù nánbiān nàge ？<br />The one south of Huaihai Road?</blockquote>|
+|甲|对呀，只有一条复兴中路。<blockquote>duì ya ， zhǐyǒu yī tiáo Fùxīng Zhōnglù 。<br />Right. There's only one Fuxing Central Road.</blockquote>|
+|乙|哦，靠近音乐学院那个？<blockquote>o ， kàojìn yīnyuè  xuéyuàn nàge ？<br />Oh, the one near the music conservatory?</blockquote>|
+|甲|对，复兴中路。<blockquote>duì ， Fùxīng Zhōnglù 。<br />Yes, Fuxingzhong Road.</blockquote>|
+|乙|嗯，不清楚。<blockquote>en ， bù qīngchu 。<br />Oh. I don't understand.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

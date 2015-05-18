@@ -1,6 +1,5 @@
 # Life in Hebei
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：可以用你的卫生间吗？
 乙：没问题。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|可以用你的卫生间吗？<br />kěyǐ yòng nǐ de wèishēngjiān ma ？<br />Can I use your bathroom?|
-|乙|没问题。<br />méiwèntí 。<br />No problem.|
-|甲|手纸呢？<br />shǒuzhǐ ne ？<br />What about toilet paper?|
-|乙|用完了。<br />yòng wán le 。<br />It's used up.|
-|甲|哦。<br />o 。<br />Oh.|
+|甲|可以用你的卫生间吗？<blockquote>kěyǐ yòng nǐ de wèishēngjiān ma ？<br />Can I use your bathroom?</blockquote>|
+|乙|没问题。<blockquote>méiwèntí 。<br />No problem.</blockquote>|
+|甲|手纸呢？<blockquote>shǒuzhǐ ne ？<br />What about toilet paper?</blockquote>|
+|乙|用完了。<blockquote>yòng wán le 。<br />It's used up.</blockquote>|
+|甲|哦。<blockquote>o 。<br />Oh.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Fun with Tones
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 A：我爱你.
 B：你爱我,可是我爱他.
@@ -10,10 +9,10 @@ B：他爱你!
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|A|我爱你.<br />wǒ ài nǐ .<br />I love you.|
-|B|你爱我,可是我爱他.<br />nǐ ài wǒ , kěshì wǒ ài tā .<br />You love me, but I love him.|
-|A|他爱你吗?<br />tā ài nǐ ma ?<br />Does he love you?|
-|B|他爱你!<br />tā ài nǐ !<br />He loves you|
+|A|我爱你.<blockquote>wǒ ài nǐ .<br />I love you.</blockquote>|
+|B|你爱我,可是我爱他.<blockquote>nǐ ài wǒ , kěshì wǒ ài tā .<br />You love me, but I love him.</blockquote>|
+|A|他爱你吗?<blockquote>tā ài nǐ ma ?<br />Does he love you?</blockquote>|
+|B|他爱你!<blockquote>tā ài nǐ !<br />He loves you</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

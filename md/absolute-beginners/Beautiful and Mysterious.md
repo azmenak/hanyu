@@ -1,6 +1,5 @@
 # Beautiful and Mysterious
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你什么时候去中国？
 乙：我的票是... 昨天的？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你什么时候去中国？<br />nǐ shénme shíhòu qù Zhōngguó ？<br />When are you going to China?|
-|乙|我的票是... 昨天的？<br />wǒ de piào shì . . .  zuótiān de ？<br />My tickets are... yesterday?|
-|甲|啊？<br />a ？<br />Huh?|
-|乙|奶奶的... 我错过飞机了。<br />nǎinai de . . .  wǒ cuòguò fēijī le 。<br />Great grandmother... I missed my flight.|
+|甲|你什么时候去中国？<blockquote>nǐ shénme shíhòu qù Zhōngguó ？<br />When are you going to China?</blockquote>|
+|乙|我的票是... 昨天的？<blockquote>wǒ de piào shì . . .  zuótiān de ？<br />My tickets are... yesterday?</blockquote>|
+|甲|啊？<blockquote>a ？<br />Huh?</blockquote>|
+|乙|奶奶的... 我错过飞机了。<blockquote>nǎinai de . . .  wǒ cuòguò fēijī le 。<br />Great grandmother... I missed my flight.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

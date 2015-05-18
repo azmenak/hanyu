@@ -1,6 +1,5 @@
 # Parking the Car
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：先生，请系好安全套。
 乙：啊？你说什么？
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|先生，请系好安全套。<br />xiānsheng ， qǐng jìhǎo ānquántào 。<br />Mister. Please put on your condom.|
-|乙|啊？你说什么？<br />a ？ nǐ shuō shénme ？<br />What? What did you say?|
-|甲|安全带，安全带。<br />ānquándài ， ānquándài 。<br />Seatbelt, seatbelt....|
+|甲|先生，请系好安全套。<blockquote>xiānsheng ， qǐng jìhǎo ānquántào 。<br />Mister. Please put on your condom.</blockquote>|
+|乙|啊？你说什么？<blockquote>a ？ nǐ shuō shénme ？<br />What? What did you say?</blockquote>|
+|甲|安全带，安全带。<blockquote>ānquándài ， ānquándài 。<br />Seatbelt, seatbelt....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

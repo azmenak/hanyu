@@ -1,6 +1,5 @@
 # Just this one....
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 男：你想要哪个？
 女：这个。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|你想要哪个？<br />nǐ xiǎng yào nǎ ge ？<br />Which one do you want?|
-|女|这个。<br />zhège 。<br />This one.|
-|男|那个怎么样？<br />nà ge zěnmeyàng ？<br />How about that one?|
-|女|不，就这个。<br />bù ， jiù zhège 。<br />No, exactly this one.|
+|男|你想要哪个？<blockquote>nǐ xiǎng yào nǎ ge ？<br />Which one do you want?</blockquote>|
+|女|这个。<blockquote>zhège 。<br />This one.</blockquote>|
+|男|那个怎么样？<blockquote>nà ge zěnmeyàng ？<br />How about that one?</blockquote>|
+|女|不，就这个。<blockquote>bù ， jiù zhège 。<br />No, exactly this one.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Technical Assistance
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：你的电脑又坏了。
 乙：你又做了什么？
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你的电脑又坏了。<br />nǐ de diànnǎo yòu huài le 。<br />Your computer's broke again.|
-|乙|你又做了什么？<br />nǐ yòu zuò le shénme ？<br />What did you do this time?|
-|甲|我安装了一些软件。<br />wǒ ānzhuāng le yīxiē ruǎnjiàn 。<br />I installed some software.|
-|乙|哦，我的天哪！<br />o ， wǒ de tiān na ！<br />Oh, my heavens!|
-|甲|别担心，全是免费的。<br />bié dānxīn ， quán shì miǎnfèi de 。<br />Don't worry, it was all free.|
-|乙|你又弄坏了我的电脑！<br />nǐ yòu nòng huài le wǒ de diànnǎo ！<br />You broke my computer again!|
+|甲|你的电脑又坏了。<blockquote>nǐ de diànnǎo yòu huài le 。<br />Your computer's broke again.</blockquote>|
+|乙|你又做了什么？<blockquote>nǐ yòu zuò le shénme ？<br />What did you do this time?</blockquote>|
+|甲|我安装了一些软件。<blockquote>wǒ ānzhuāng le yīxiē ruǎnjiàn 。<br />I installed some software.</blockquote>|
+|乙|哦，我的天哪！<blockquote>o ， wǒ de tiān na ！<br />Oh, my heavens!</blockquote>|
+|甲|别担心，全是免费的。<blockquote>bié dānxīn ， quán shì miǎnfèi de 。<br />Don't worry, it was all free.</blockquote>|
+|乙|你又弄坏了我的电脑！<blockquote>nǐ yòu nòng huài le wǒ de diànnǎo ！<br />You broke my computer again!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

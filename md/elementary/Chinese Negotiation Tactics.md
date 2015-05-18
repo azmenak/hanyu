@@ -1,6 +1,5 @@
 # Chinese Negotiation Tactics
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：在我们谈话之前，我能用一下洗手间吗？
 乙：当然可以，洗手间在门外，在你的左手边。
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|在我们谈话之前，我能用一下洗手间吗？<br />zài wǒmen tánhuà zhīqián ， wǒ néng yòngyīxià xǐshǒujiān ma ？<br />Before we talk, can I use the washroom?|
-|乙|当然可以，洗手间在门外，在你的左手边。<br />dāngrán kěyǐ ， xǐshǒujiān zài  ménwài ， zài nǐ de zuǒshǒubiān 。<br />Of course you can. The washroom is just outside, on your left hand side.|
-|甲|谢谢。<br />xièxie 。<br />Thanks.|
-|乙|也可能不是，可能洗手间在你的右手边。<br />yě kěnéng bù shì ， kěnéng xǐshǒujiān zài nǐ de yòushǒubiān 。<br />Or maybe it isn't. Maybe the washroom is on your right.|
-|甲|我觉得我能找到。<br />wǒ juéde wǒ néng zhǎodào 。<br />I think I can find it.|
-|乙|也可能根本就没有洗手间。<br />yě kěnéng gēnběn jiù méiyǒu xǐshǒujiān 。<br />Or maybe there isn't any washroom at all.|
-|甲|我....<br />wǒ . . . .<br />I....|
-|乙|你要再喝一杯冰水吗？<br />nǐ yào zài hē yī bēi bīngshuǐ ma ？<br />Would you like another glass of ice water?|
+|甲|在我们谈话之前，我能用一下洗手间吗？<blockquote>zài wǒmen tánhuà zhīqián ， wǒ néng yòngyīxià xǐshǒujiān ma ？<br />Before we talk, can I use the washroom?</blockquote>|
+|乙|当然可以，洗手间在门外，在你的左手边。<blockquote>dāngrán kěyǐ ， xǐshǒujiān zài  ménwài ， zài nǐ de zuǒshǒubiān 。<br />Of course you can. The washroom is just outside, on your left hand side.</blockquote>|
+|甲|谢谢。<blockquote>xièxie 。<br />Thanks.</blockquote>|
+|乙|也可能不是，可能洗手间在你的右手边。<blockquote>yě kěnéng bù shì ， kěnéng xǐshǒujiān zài nǐ de yòushǒubiān 。<br />Or maybe it isn't. Maybe the washroom is on your right.</blockquote>|
+|甲|我觉得我能找到。<blockquote>wǒ juéde wǒ néng zhǎodào 。<br />I think I can find it.</blockquote>|
+|乙|也可能根本就没有洗手间。<blockquote>yě kěnéng gēnběn jiù méiyǒu xǐshǒujiān 。<br />Or maybe there isn't any washroom at all.</blockquote>|
+|甲|我....<blockquote>wǒ . . . .<br />I....</blockquote>|
+|乙|你要再喝一杯冰水吗？<blockquote>nǐ yào zài hē yī bēi bīngshuǐ ma ？<br />Would you like another glass of ice water?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

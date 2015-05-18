@@ -1,6 +1,5 @@
 # A Glass of Ice Water
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：这是第一次吗？
 乙：不，第二次。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|这是第一次吗？<br />zhè shì dì yī cì ma ？<br />This is your first time?|
-|乙|不，第二次。<br />bù ， dì èr cì 。<br />No. The second time.|
-|甲|这个疫苗需要打三次。<br />zhège yìmiáo xūyào dǎ sān cì 。<br />This vaccine needs three injections.|
-|乙|我需要回来吗？<br />wǒ xūyào huílai ma ？<br />I need to come back?|
-|甲|六个月以后，再来一次。<br />liù  ge yuè yǐhòu ， zài lái yī cì 。<br />Come back once more after six months.|
+|甲|这是第一次吗？<blockquote>zhè shì dì yī cì ma ？<br />This is your first time?</blockquote>|
+|乙|不，第二次。<blockquote>bù ， dì èr cì 。<br />No. The second time.</blockquote>|
+|甲|这个疫苗需要打三次。<blockquote>zhège yìmiáo xūyào dǎ sān cì 。<br />This vaccine needs three injections.</blockquote>|
+|乙|我需要回来吗？<blockquote>wǒ xūyào huílai ma ？<br />I need to come back?</blockquote>|
+|甲|六个月以后，再来一次。<blockquote>liù  ge yuè yǐhòu ， zài lái yī cì 。<br />Come back once more after six months.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

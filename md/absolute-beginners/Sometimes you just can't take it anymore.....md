@@ -1,6 +1,5 @@
 # Sometimes you just can't take it anymore....
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：停下。
 甲：够了，够了。
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|停下。<br />tíngxià 。<br />Stop.|
-|甲|够了，够了。<br />gòule ， gòule 。<br />Enough, enough.|
-|甲|住手！<br />zhù shǒu ！<br />Stop it!|
+|甲|停下。<blockquote>tíngxià 。<br />Stop.</blockquote>|
+|甲|够了，够了。<blockquote>gòule ， gòule 。<br />Enough, enough.</blockquote>|
+|甲|住手！<blockquote>zhù shǒu ！<br />Stop it!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # What Time Is It?
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 男：你真漂亮。
 女：你真帅。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|你真漂亮。<br />nǐ zhēn piàoliang 。<br />You're really pretty.|
-|女|你真帅。<br />nǐ zhēn shuài 。<br />You're really handsome.|
-|男|你真聪明。<br />nǐ zhēn cōngming 。<br />You're really smart.|
-|女|你真... 帅。<br />nǐ zhēn ... shuài 。<br />You're really... handsome.|
+|男|你真漂亮。<blockquote>nǐ zhēn piàoliang 。<br />You're really pretty.</blockquote>|
+|女|你真帅。<blockquote>nǐ zhēn shuài 。<br />You're really handsome.</blockquote>|
+|男|你真聪明。<blockquote>nǐ zhēn cōngming 。<br />You're really smart.</blockquote>|
+|女|你真... 帅。<blockquote>nǐ zhēn ... shuài 。<br />You're really... handsome.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

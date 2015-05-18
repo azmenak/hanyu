@@ -1,6 +1,5 @@
 # Get in Line
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：哎，借过一下。
 乙：不借！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，借过一下。<br />ai ， jièguò yīxià 。<br />Hey, let me through.|
-|乙|不借！<br />bù jiè ！<br />No way!|
-|甲|嗯？<br />en ？<br />Huh?|
-|乙|排队去！<br />páiduì qù ！<br />Go get in line!|
+|甲|哎，借过一下。<blockquote>ai ， jièguò yīxià 。<br />Hey, let me through.</blockquote>|
+|乙|不借！<blockquote>bù jiè ！<br />No way!</blockquote>|
+|甲|嗯？<blockquote>en ？<br />Huh?</blockquote>|
+|乙|排队去！<blockquote>páiduì qù ！<br />Go get in line!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

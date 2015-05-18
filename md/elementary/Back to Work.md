@@ -1,6 +1,5 @@
 # Back to Work
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：这个怎么说？
 甲：笑什么你？
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|这个怎么说？<br />zhège zěnme shuō ？<br />How do you say this?|
-|甲|笑什么你？<br />xiào shénme nǐ ？<br />What are you laughing at?|
-|乙|你刚跑出东北味来了。<br />nǐ gāng pǎochū dōngběiwèi lái le 。<br />You just let slip a Northeastern accent.|
+|甲|这个怎么说？<blockquote>zhège zěnme shuō ？<br />How do you say this?</blockquote>|
+|甲|笑什么你？<blockquote>xiào shénme nǐ ？<br />What are you laughing at?</blockquote>|
+|乙|你刚跑出东北味来了。<blockquote>nǐ gāng pǎochū dōngběiwèi lái le 。<br />You just let slip a Northeastern accent.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

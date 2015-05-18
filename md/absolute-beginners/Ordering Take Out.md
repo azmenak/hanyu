@@ -1,6 +1,5 @@
 # Ordering Take Out
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 男的：美女，你好。
 女的：什么?
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男的|美女，你好。<br />měinǚ ， nǐhǎo 。<br />Hello beautiful.|
-|女的|什么?<br />shénme ?<br />What?|
-|男的|美女，你好!<br />měinǚ ， nǐhǎo !<br />Hey beautiful!|
-|女的|听不见。<br />tīngbùjiàn 。<br />I can't hear you.|
-|男的|留个电话吧。<br />liú ge diànhuà ba 。<br />Give me your number.|
+|男的|美女，你好。<blockquote>měinǚ ， nǐhǎo 。<br />Hello beautiful.</blockquote>|
+|女的|什么?<blockquote>shénme ?<br />What?</blockquote>|
+|男的|美女，你好!<blockquote>měinǚ ， nǐhǎo !<br />Hey beautiful!</blockquote>|
+|女的|听不见。<blockquote>tīngbùjiàn 。<br />I can't hear you.</blockquote>|
+|男的|留个电话吧。<blockquote>liú ge diànhuà ba 。<br />Give me your number.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

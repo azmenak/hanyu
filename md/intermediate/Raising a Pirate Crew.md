@@ -1,6 +1,5 @@
 # Raising a Pirate Crew
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 儿子：妈妈，给你介绍我的朋友小罗。
 妈妈：你好，小罗。我还不知道我儿子有这么健壮的朋友。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|儿子|妈妈，给你介绍我的朋友小罗。<br />māma ， gěi nǐ jièshào wǒ de péngyou Xiǎo Luó 。<br />Mother, I'd like to introduce my friend Xiao Luo.|
-|妈妈|你好，小罗。我还不知道我儿子有这么健壮的朋友。<br />nǐhǎo ， Xiǎo Luó 。 wǒ hái bù zhīdào wǒ érzi yǒu zhème jiànzhuàng de péngyou 。<br />Hello, Xiao Luo. I didn't know my son had such a well-built friend.|
-|小罗|您真美。<br />nín zhēn měi 。<br />You're beautiful.|
-|妈妈|啊，你可真会说话！<br />ā ， nǐ kě zhēn huì shuōhuà ！<br />Oh, and what a way you have with words!|
-|儿子|妈妈，爸爸呢？<br />māma ， bàba ne ？<br />Is Dad around, Mom?|
-|妈妈|他死了。哦... 儿子，你怎么不去厨房里找点儿什么事儿做。让我带我们的小英俊到楼上参观一下。<br />tā sǐ le 。 ò ... érzi ， nǐ zěnme bù qù chúfáng lǐ zhǎo diǎnr shénme shìr zuò 。 ràng wǒ dài wǒmen de xiǎo yīngjùn dào lóushàng cānguān yīxià 。<br />He's dead.... Son, why don't you go to the kitchen and find something to do. I'll take our young guest upstairs and show him around the house.|
+|儿子|妈妈，给你介绍我的朋友小罗。<blockquote>māma ， gěi nǐ jièshào wǒ de péngyou Xiǎo Luó 。<br />Mother, I'd like to introduce my friend Xiao Luo.</blockquote>|
+|妈妈|你好，小罗。我还不知道我儿子有这么健壮的朋友。<blockquote>nǐhǎo ， Xiǎo Luó 。 wǒ hái bù zhīdào wǒ érzi yǒu zhème jiànzhuàng de péngyou 。<br />Hello, Xiao Luo. I didn't know my son had such a well-built friend.</blockquote>|
+|小罗|您真美。<blockquote>nín zhēn měi 。<br />You're beautiful.</blockquote>|
+|妈妈|啊，你可真会说话！<blockquote>ā ， nǐ kě zhēn huì shuōhuà ！<br />Oh, and what a way you have with words!</blockquote>|
+|儿子|妈妈，爸爸呢？<blockquote>māma ， bàba ne ？<br />Is Dad around, Mom?</blockquote>|
+|妈妈|他死了。哦... 儿子，你怎么不去厨房里找点儿什么事儿做。让我带我们的小英俊到楼上参观一下。<blockquote>tā sǐ le 。 ò ... érzi ， nǐ zěnme bù qù chúfáng lǐ zhǎo diǎnr shénme shìr zuò 。 ràng wǒ dài wǒmen de xiǎo yīngjùn dào lóushàng cānguān yīxià 。<br />He's dead.... Son, why don't you go to the kitchen and find something to do. I'll take our young guest upstairs and show him around the house.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

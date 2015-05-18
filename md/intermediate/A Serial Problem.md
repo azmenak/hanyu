@@ -1,6 +1,5 @@
 # A Serial Problem
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：所以你说你被王子骚扰啦？
 乙：是。
@@ -15,15 +14,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|所以你说你被王子骚扰啦？<br />suǒyǐ nǐ shuō nǐ bèi wángzǐ sāorǎo la ？<br />So you say you were harassed by the prince.|
-|乙|是。<br />shì 。<br />Yes.|
-|甲|在森林里？<br />zài sēnlín lǐ ？<br />In the forest?|
-|乙|在森林的城堡里。<br />zài sēnlín de chéngbǎo lǐ 。<br />In the castle in the forest.|
-|甲|这王子不是本地人吧？<br />zhè wángzǐ bù shì běndìrén ba ？<br />This prince isn't a local resident, is he?|
-|乙|好像不是吧。<br />hǎoxiàng bù shì ba 。<br />I don't think so.|
-|甲|那这不是我的管辖范围，你需要到当地派出所报案。<br />nà zhè bù shì wǒ de guǎnxiá fànwéi ， nǐ xūyào dào dāngdì pàichūsuǒ bàoàn 。<br />Then it doesn't fall into my area of jurisdiction. You need to report this to the station there.|
-|乙|可是，可是我一醒来他就在亲我！<br />kěshì ， kěshì wǒ yī xǐnglái tā jiù zài qīn wǒ ！<br />But, but... he kissed me as I woke up!|
-|甲|好了，好了，停停停，你可以走了，我们要关门了。<br />hǎo le ， hǎo le ， tíng tíng tíng ， nǐ kěyǐ zǒu le ， wǒmen yào guānmén le 。<br />That's enough. Stop it. You can go. We're closing.|
+|甲|所以你说你被王子骚扰啦？<blockquote>suǒyǐ nǐ shuō nǐ bèi wángzǐ sāorǎo la ？<br />So you say you were harassed by the prince.</blockquote>|
+|乙|是。<blockquote>shì 。<br />Yes.</blockquote>|
+|甲|在森林里？<blockquote>zài sēnlín lǐ ？<br />In the forest?</blockquote>|
+|乙|在森林的城堡里。<blockquote>zài sēnlín de chéngbǎo lǐ 。<br />In the castle in the forest.</blockquote>|
+|甲|这王子不是本地人吧？<blockquote>zhè wángzǐ bù shì běndìrén ba ？<br />This prince isn't a local resident, is he?</blockquote>|
+|乙|好像不是吧。<blockquote>hǎoxiàng bù shì ba 。<br />I don't think so.</blockquote>|
+|甲|那这不是我的管辖范围，你需要到当地派出所报案。<blockquote>nà zhè bù shì wǒ de guǎnxiá fànwéi ， nǐ xūyào dào dāngdì pàichūsuǒ bàoàn 。<br />Then it doesn't fall into my area of jurisdiction. You need to report this to the station there.</blockquote>|
+|乙|可是，可是我一醒来他就在亲我！<blockquote>kěshì ， kěshì wǒ yī xǐnglái tā jiù zài qīn wǒ ！<br />But, but... he kissed me as I woke up!</blockquote>|
+|甲|好了，好了，停停停，你可以走了，我们要关门了。<blockquote>hǎo le ， hǎo le ， tíng tíng tíng ， nǐ kěyǐ zǒu le ， wǒmen yào guānmén le 。<br />That's enough. Stop it. You can go. We're closing.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

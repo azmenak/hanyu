@@ -1,6 +1,5 @@
 # A Case for Spare Batteries
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：呃，你的衣服。
 乙：怎么了？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|呃，你的衣服。<br />e ， nǐ de yīfu 。<br />Uh, your clothing....|
-|乙|怎么了？<br />zěnme le ？<br />What's wrong?|
-|甲|你的衣服哪儿去了？<br />nǐ de yīfu nǎr qù le ？<br />Where did your clothes go?|
-|乙|哦，真丢人。<br />ò ， zhēn diūrén 。<br />Oh, how embarrassing.|
+|甲|呃，你的衣服。<blockquote>e ， nǐ de yīfu 。<br />Uh, your clothing....</blockquote>|
+|乙|怎么了？<blockquote>zěnme le ？<br />What's wrong?</blockquote>|
+|甲|你的衣服哪儿去了？<blockquote>nǐ de yīfu nǎr qù le ？<br />Where did your clothes go?</blockquote>|
+|乙|哦，真丢人。<blockquote>ò ， zhēn diūrén 。<br />Oh, how embarrassing.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

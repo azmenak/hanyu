@@ -1,6 +1,5 @@
 # The Secret Nazi Threat       
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：怎么样了，Joe？
 乙：太倒霉了，我今儿击落了45架敌机。
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|怎么样了，Joe？<br />zěnmeyàng le ， Joe ？<br />What is it, Joe?|
-|乙|太倒霉了，我今儿击落了45架敌机。<br />tài dǎoméi le ， wǒ jīnr jīluò le sìshíwǔ jià díjī 。<br />It's awful. I've shot down 45 enemy planes today.|
-|甲|太棒了，照这个速度我们很快就会把Cobra消灭了。<br />tài bàng le ， zhào zhège sùdù wǒmen hěn kuài jiù huì bǎ Cobra xiāomiè le 。<br />That's great. At this rate we'll exterminate Cobra in no time.|
-|乙|别提啦，都跳伞啦！<br />bié tí la ， dōu tiàosǎn la ！<br />Don't mention it, they all parachuted out.|
-|甲|什么？所有人一个都没死？<br />shénme ？ suǒyǒurén yī ge dōu méi sǐ ？<br />What? All of them? Not a single one died?|
-|乙|对！也许我们得发射点儿毒气弹。<br />duì ！ yěxǔ wǒmen děi fāshè diǎnr dúqìdàn 。<br />Yes! Perhaps we need to launch some poison gas bombs.|
-|甲|嗯，再来几枚火箭弹。决不能手下留情！<br />en ， zài lái jǐ méi huǒjiàndàn 。 juébù néng shǒuxiàliúqíng ！<br />Hmm, and then some rocket-propelled mortars. We absolutely cannot show any mercy.|
+|甲|怎么样了，Joe？<blockquote>zěnmeyàng le ， Joe ？<br />What is it, Joe?</blockquote>|
+|乙|太倒霉了，我今儿击落了45架敌机。<blockquote>tài dǎoméi le ， wǒ jīnr jīluò le sìshíwǔ jià díjī 。<br />It's awful. I've shot down 45 enemy planes today.</blockquote>|
+|甲|太棒了，照这个速度我们很快就会把Cobra消灭了。<blockquote>tài bàng le ， zhào zhège sùdù wǒmen hěn kuài jiù huì bǎ Cobra xiāomiè le 。<br />That's great. At this rate we'll exterminate Cobra in no time.</blockquote>|
+|乙|别提啦，都跳伞啦！<blockquote>bié tí la ， dōu tiàosǎn la ！<br />Don't mention it, they all parachuted out.</blockquote>|
+|甲|什么？所有人一个都没死？<blockquote>shénme ？ suǒyǒurén yī ge dōu méi sǐ ？<br />What? All of them? Not a single one died?</blockquote>|
+|乙|对！也许我们得发射点儿毒气弹。<blockquote>duì ！ yěxǔ wǒmen děi fāshè diǎnr dúqìdàn 。<br />Yes! Perhaps we need to launch some poison gas bombs.</blockquote>|
+|甲|嗯，再来几枚火箭弹。决不能手下留情！<blockquote>en ， zài lái jǐ méi huǒjiàndàn 。 juébù néng shǒuxiàliúqíng ！<br />Hmm, and then some rocket-propelled mortars. We absolutely cannot show any mercy.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # We Love You, Fridtjof and Ragnvald
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 老师：跟我读：透司特。
 学生：透司特。
@@ -15,15 +14,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|老师|跟我读：透司特。<br />gēn wǒ dú ： tòusītè 。<br />Read with me: toast.|
-|学生|透司特。<br />tòusītè 。<br />Toast.|
-|老师|透司特是面包的意思。例如，一杯橙汁，两片儿透司特。<br />tòusītè shì miànbāo de yìsi 。 lìrú ， yī bēi chéngzhī ， liǎng piānr tòusītè 。<br />Toast means bread. For example, a cup of orange juice and two pieces of toast.|
-|学生|一杯橙汁，两片儿透司特。<br />yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.|
-|老师|好。<br />hǎo 。<br />Good.|
-|学生|一杯橙汁，两片儿透司特。<br />yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.|
-|老师|透司特。<br />tòusītè 。<br />Toast.|
-|学生|这不是轻声吗？<br />zhè bù shì qīngshēng ma ？<br />Isn't this a neutral tone?|
-|老师|你是老师吗？跟我读：透司特。还有罢特日。<br />nǐ shì lǎoshī ma ？ gēn wǒ dú ： tòusītè 。 hái yǒu bàtèrì 。<br />Are you the teacher? Read with me: toast and butter.|
+|老师|跟我读：透司特。<blockquote>gēn wǒ dú ： tòusītè 。<br />Read with me: toast.</blockquote>|
+|学生|透司特。<blockquote>tòusītè 。<br />Toast.</blockquote>|
+|老师|透司特是面包的意思。例如，一杯橙汁，两片儿透司特。<blockquote>tòusītè shì miànbāo de yìsi 。 lìrú ， yī bēi chéngzhī ， liǎng piānr tòusītè 。<br />Toast means bread. For example, a cup of orange juice and two pieces of toast.</blockquote>|
+|学生|一杯橙汁，两片儿透司特。<blockquote>yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.</blockquote>|
+|老师|好。<blockquote>hǎo 。<br />Good.</blockquote>|
+|学生|一杯橙汁，两片儿透司特。<blockquote>yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.</blockquote>|
+|老师|透司特。<blockquote>tòusītè 。<br />Toast.</blockquote>|
+|学生|这不是轻声吗？<blockquote>zhè bù shì qīngshēng ma ？<br />Isn't this a neutral tone?</blockquote>|
+|老师|你是老师吗？跟我读：透司特。还有罢特日。<blockquote>nǐ shì lǎoshī ma ？ gēn wǒ dú ： tòusītè 。 hái yǒu bàtèrì 。<br />Are you the teacher? Read with me: toast and butter.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

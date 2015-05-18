@@ -1,6 +1,5 @@
 # Memories of Changsha
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 妈妈：小宝，你的中文课怎么样？
 小宝：我学的不是中文！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|妈妈|小宝，你的中文课怎么样？<br />Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？<br />Darling, how is your Chinese class?|
-|小宝|我学的不是中文！<br />wǒ xué de bù shì Zhōngwén ！<br />What I study isn't Chinese!|
-|妈妈|啊，是吗？<br />a ， shì ma ？<br />Oh, is that so?|
-|小宝|妈妈！<br />māma ！<br />Mother!|
+|妈妈|小宝，你的中文课怎么样？<blockquote>Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？<br />Darling, how is your Chinese class?</blockquote>|
+|小宝|我学的不是中文！<blockquote>wǒ xué de bù shì Zhōngwén ！<br />What I study isn't Chinese!</blockquote>|
+|妈妈|啊，是吗？<blockquote>a ， shì ma ？<br />Oh, is that so?</blockquote>|
+|小宝|妈妈！<blockquote>māma ！<br />Mother!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

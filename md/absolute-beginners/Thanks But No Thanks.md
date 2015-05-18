@@ -1,6 +1,5 @@
 # Thanks But No Thanks
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：累吗？
 乙：嗯，我很累。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|累吗？<br />lèi ma ？<br />Are you tired?|
-|乙|嗯，我很累。<br />ng ， wǒ hěn lèi 。<br />Yes, I'm very tired.|
-|甲|你该睡觉。<br />nǐ gāi shuìjiào 。<br />You should go to sleep.|
-|乙|我还有工作。<br />wǒ hái yǒu gōngzuò 。<br />I still have work to do.|
+|甲|累吗？<blockquote>lèi ma ？<br />Are you tired?</blockquote>|
+|乙|嗯，我很累。<blockquote>ng ， wǒ hěn lèi 。<br />Yes, I'm very tired.</blockquote>|
+|甲|你该睡觉。<blockquote>nǐ gāi shuìjiào 。<br />You should go to sleep.</blockquote>|
+|乙|我还有工作。<blockquote>wǒ hái yǒu gōngzuò 。<br />I still have work to do.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

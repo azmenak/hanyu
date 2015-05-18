@@ -1,6 +1,5 @@
 # The Chef Sends His Regards
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 男的：手机没电了，怎么办？
 女的：买新的！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男的|手机没电了，怎么办？<br />shǒujī méi diàn le ， zěnme bàn ？<br />The phone is out of power, what can we do?|
-|女的|买新的！<br />mǎi xīn de ！<br />Buy a new one!|
-|男的|买新的手机？你疯了吗？<br />mǎi xīn de shǒujī ？ nǐ fēng le ma ？<br />Buy a new cellphone? Are you crazy?|
-|女的|电池！电池！<br />diànchí ！ diànchí ！<br />Battery, battery!|
+|男的|手机没电了，怎么办？<blockquote>shǒujī méi diàn le ， zěnme bàn ？<br />The phone is out of power, what can we do?</blockquote>|
+|女的|买新的！<blockquote>mǎi xīn de ！<br />Buy a new one!</blockquote>|
+|男的|买新的手机？你疯了吗？<blockquote>mǎi xīn de shǒujī ？ nǐ fēng le ma ？<br />Buy a new cellphone? Are you crazy?</blockquote>|
+|女的|电池！电池！<blockquote>diànchí ！ diànchí ！<br />Battery, battery!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

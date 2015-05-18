@@ -1,6 +1,5 @@
 # The Lost Generation
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 一：他是谁？
 二：我不认识。
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|一|他是谁？<br />tā shì shéi ？<br />Who is he?|
-|二|我不认识。<br />wǒ bù rènshi 。<br />I don't know him.|
-|三|哎，哎，宝贝！<br />āi ， āi ， bǎobèi ！<br />Hey, hey, baby!|
-|一|宝贝？<br />bǎobèi ？<br />Baby?|
-|二|我不认识！<br />wǒ bù rènshi ！<br />I don't know him!|
-|三|小王，我爱你！<br />Xiǎo Wáng ， wǒ ài nǐ ！<br />Miss Wang, I love you!|
-|二|哦....<br />ò ....<br />Oh....|
+|一|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
+|二|我不认识。<blockquote>wǒ bù rènshi 。<br />I don't know him.</blockquote>|
+|三|哎，哎，宝贝！<blockquote>āi ， āi ， bǎobèi ！<br />Hey, hey, baby!</blockquote>|
+|一|宝贝？<blockquote>bǎobèi ？<br />Baby?</blockquote>|
+|二|我不认识！<blockquote>wǒ bù rènshi ！<br />I don't know him!</blockquote>|
+|三|小王，我爱你！<blockquote>Xiǎo Wáng ， wǒ ài nǐ ！<br />Miss Wang, I love you!</blockquote>|
+|二|哦....<blockquote>ò ....<br />Oh....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

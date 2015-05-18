@@ -1,6 +1,5 @@
 # Memories of Echo's Childhood
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：老师。
 乙：什么事？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|老师。<br />lǎoshī 。<br />Teacher.|
-|乙|什么事？<br />shénme shì ？<br />What's the problem?|
-|甲|我想上厕所。<br />wǒ xiǎng shàng cèsuǒ 。<br />I want to go to the washroom.|
-|乙|没有厕所。<br />méiyǒu cèsuǒ 。<br />There isn't any washroom.|
+|甲|老师。<blockquote>lǎoshī 。<br />Teacher.</blockquote>|
+|乙|什么事？<blockquote>shénme shì ？<br />What's the problem?</blockquote>|
+|甲|我想上厕所。<blockquote>wǒ xiǎng shàng cèsuǒ 。<br />I want to go to the washroom.</blockquote>|
+|乙|没有厕所。<blockquote>méiyǒu cèsuǒ 。<br />There isn't any washroom.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

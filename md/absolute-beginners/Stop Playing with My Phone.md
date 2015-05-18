@@ -1,6 +1,5 @@
 # Stop Playing with My Phone
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 一：给我那个。
 二：什么？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|一|给我那个。<br />gěi wǒ nà ge 。<br />Give me that.|
-|二|什么？<br />shénme ？<br />What?|
-|一|那个，我的手机。<br />nà ge ， wǒ de shǒujī 。<br />That... my phone.|
-|二|哦，给你。<br />ò ， gěi nǐ 。<br />Oh, here you are.|
+|一|给我那个。<blockquote>gěi wǒ nà ge 。<br />Give me that.</blockquote>|
+|二|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|一|那个，我的手机。<blockquote>nà ge ， wǒ de shǒujī 。<br />That... my phone.</blockquote>|
+|二|哦，给你。<blockquote>ò ， gěi nǐ 。<br />Oh, here you are.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

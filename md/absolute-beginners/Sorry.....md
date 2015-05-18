@@ -1,6 +1,5 @@
 # Sorry....
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 A：对不起！
 B：没关系。
@@ -10,10 +9,10 @@ B：真的没关系！
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|A|对不起！<br />duìbuqǐ ！<br />Sorry!|
-|B|没关系。<br />méiguānxi 。<br />Don't worry about it.|
-|A|真对不起！<br />zhēn duìbuqǐ ！<br />I'm really sorry!|
-|B|真的没关系！<br />zhēnde méiguānxi ！<br />Don't worry about it, really!|
+|A|对不起！<blockquote>duìbuqǐ ！<br />Sorry!</blockquote>|
+|B|没关系。<blockquote>méiguānxi 。<br />Don't worry about it.</blockquote>|
+|A|真对不起！<blockquote>zhēn duìbuqǐ ！<br />I'm really sorry!</blockquote>|
+|B|真的没关系！<blockquote>zhēnde méiguānxi ！<br />Don't worry about it, really!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

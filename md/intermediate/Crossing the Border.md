@@ -1,6 +1,5 @@
 # Crossing the Border
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 司机：从下边儿就蹿上来了。
 乘客：师傅，咱飞慢点儿吧。
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|司机|从下边儿就蹿上来了。<br />cóng xiàbiānr jiù cuānshànglái le 。<br />You cut me off, charging up like this.|
-|乘客|师傅，咱飞慢点儿吧。<br />shīfu ， zán fēi màn diǎnr ba 。<br />Driver, fly a little bit slower please.|
-|司机|你他妈，我，谁他妈教你飞的车啊？<br />nǐ tāma ， wǒ ， shéi tāma jiāo nǐ fēi de chē a ？<br />Damn you, who the hell taught you to fly a car?|
-|乘客|师傅，飞低点儿行吗？<br />shīfu ， fēi dī diǎnr xíng ma ？<br />Driver, can we fly a little lower?|
-|司机|找死呢？天是你们家开的？我....<br />zhǎo sǐ ne ？ tiān shì nǐmen jiā kāi de ？ wǒ ....<br />Got a death wish? You think the whole sky is yours? I....|
-|乘客|师傅，师傅，我要下车。<br />shīfu ， shīfu ， wǒ yào xiàchē 。<br />Driver, driver, I want to get out of the car.|
-|司机|什么？咱还没到呢。<br />shénme ？ zán hái méi dào ne 。<br />What? We haven't arrived yet.|
+|司机|从下边儿就蹿上来了。<blockquote>cóng xiàbiānr jiù cuānshànglái le 。<br />You cut me off, charging up like this.</blockquote>|
+|乘客|师傅，咱飞慢点儿吧。<blockquote>shīfu ， zán fēi màn diǎnr ba 。<br />Driver, fly a little bit slower please.</blockquote>|
+|司机|你他妈，我，谁他妈教你飞的车啊？<blockquote>nǐ tāma ， wǒ ， shéi tāma jiāo nǐ fēi de chē a ？<br />Damn you, who the hell taught you to fly a car?</blockquote>|
+|乘客|师傅，飞低点儿行吗？<blockquote>shīfu ， fēi dī diǎnr xíng ma ？<br />Driver, can we fly a little lower?</blockquote>|
+|司机|找死呢？天是你们家开的？我....<blockquote>zhǎo sǐ ne ？ tiān shì nǐmen jiā kāi de ？ wǒ ....<br />Got a death wish? You think the whole sky is yours? I....</blockquote>|
+|乘客|师傅，师傅，我要下车。<blockquote>shīfu ， shīfu ， wǒ yào xiàchē 。<br />Driver, driver, I want to get out of the car.</blockquote>|
+|司机|什么？咱还没到呢。<blockquote>shénme ？ zán hái méi dào ne 。<br />What? We haven't arrived yet.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

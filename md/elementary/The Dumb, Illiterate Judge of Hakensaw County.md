@@ -1,6 +1,5 @@
 # The Dumb, Illiterate Judge of Hakensaw County
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：哎，你喂猫了吗？
 乙：没有，你喂猫了吗？
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，你喂猫了吗？<br />ai ， nǐ wèi māo le ma ？<br />Hey, you feed the cat?|
-|乙|没有，你喂猫了吗？<br />méiyǒu ， nǐ wèi māo le ma ？<br />No, you feed the cat?|
-|甲|没有。你昨天喂了吗？<br />méiyǒu 。 nǐ zuótiān wèi le ma ？<br />No. Did you feed it yesterday?|
-|乙|没有，你呢？<br />méiyǒu ， nǐ ne ？<br />No, you?|
-|甲|我也没喂。<br />wǒ yě méi wèi 。<br />I didn't either.|
-|乙|怪不得他今天这么老实。<br />guàibudé tā jīntiān zhème lǎoshi 。<br />No wonder he's being so good today.|
+|甲|哎，你喂猫了吗？<blockquote>ai ， nǐ wèi māo le ma ？<br />Hey, you feed the cat?</blockquote>|
+|乙|没有，你喂猫了吗？<blockquote>méiyǒu ， nǐ wèi māo le ma ？<br />No, you feed the cat?</blockquote>|
+|甲|没有。你昨天喂了吗？<blockquote>méiyǒu 。 nǐ zuótiān wèi le ma ？<br />No. Did you feed it yesterday?</blockquote>|
+|乙|没有，你呢？<blockquote>méiyǒu ， nǐ ne ？<br />No, you?</blockquote>|
+|甲|我也没喂。<blockquote>wǒ yě méi wèi 。<br />I didn't either.</blockquote>|
+|乙|怪不得他今天这么老实。<blockquote>guàibudé tā jīntiān zhème lǎoshi 。<br />No wonder he's being so good today.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

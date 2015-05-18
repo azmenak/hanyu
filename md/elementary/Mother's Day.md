@@ -1,6 +1,5 @@
 # Mother's Day
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：哎，哥们儿，把空调打开。快！我朋友快热死了。
 乙：已经打开了。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，哥们儿，把空调打开。快！我朋友快热死了。<br />āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。<br />Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.|
-|乙|已经打开了。<br />yǐjīng dǎkāi le 。<br />It's already on.|
-|甲|那把温度再调低点儿。<br />nà bǎ wēndù zài tiáo dī diǎnr 。<br />Then turn the temperature down a bit more.|
-|乙|已经是最低了。<br />yǐjīng shì zuì dī le 。<br />It's already as low as it goes.|
-|甲|哎，已经热死了。<br />āi ， yǐjīng rè sǐ le 。<br />Oh, he's already died.|
-|乙|啊？<br />á ？<br />Huh?|
+|甲|哎，哥们儿，把空调打开。快！我朋友快热死了。<blockquote>āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。<br />Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.</blockquote>|
+|乙|已经打开了。<blockquote>yǐjīng dǎkāi le 。<br />It's already on.</blockquote>|
+|甲|那把温度再调低点儿。<blockquote>nà bǎ wēndù zài tiáo dī diǎnr 。<br />Then turn the temperature down a bit more.</blockquote>|
+|乙|已经是最低了。<blockquote>yǐjīng shì zuì dī le 。<br />It's already as low as it goes.</blockquote>|
+|甲|哎，已经热死了。<blockquote>āi ， yǐjīng rè sǐ le 。<br />Oh, he's already died.</blockquote>|
+|乙|啊？<blockquote>á ？<br />Huh?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

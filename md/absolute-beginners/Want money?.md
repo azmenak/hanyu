@@ -1,6 +1,5 @@
 # Want money?
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：几点了？
 乙：两点。
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|几点了？<br />jǐ diǎn le ？<br />What time is it?|
-|乙|两点。<br />liǎng diǎn 。<br />Two o'clock.|
-|甲|天哪！晚了，晚了！<br />tiānna ！ wǎn le ， wǎn le ！<br />Good heavens! It's late!|
+|甲|几点了？<blockquote>jǐ diǎn le ？<br />What time is it?</blockquote>|
+|乙|两点。<blockquote>liǎng diǎn 。<br />Two o'clock.</blockquote>|
+|甲|天哪！晚了，晚了！<blockquote>tiānna ！ wǎn le ， wǎn le ！<br />Good heavens! It's late!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

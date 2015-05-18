@@ -1,6 +1,5 @@
 # How about Korean Food
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 我也有缺点。
 你觉得不好？
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||我也有缺点。<br />wǒ yě yǒu quēdiǎn 。<br />I also have faults.|
-||你觉得不好？<br />nǐ juéde bù hǎo ？<br />You don't feel this is fine?|
-||我们学习中文。<br />wǒmen xuéxí Zhōngwén 。<br />We are studying Chinese.|
-||他虐待你了？<br />tā nǜedài nǐ le ？<br />Does he abuse you?|
-||这里省略“一”。<br />zhèlǐ shěnglǜe “ yī ” 。<br />There is a "one" missing here.|
-||他四月来。<br />tā sìyuè lái 。<br />He will come in April.|
+||我也有缺点。<blockquote>wǒ yě yǒu quēdiǎn 。<br />I also have faults.</blockquote>|
+||你觉得不好？<blockquote>nǐ juéde bù hǎo ？<br />You don't feel this is fine?</blockquote>|
+||我们学习中文。<blockquote>wǒmen xuéxí Zhōngwén 。<br />We are studying Chinese.</blockquote>|
+||他虐待你了？<blockquote>tā nǜedài nǐ le ？<br />Does he abuse you?</blockquote>|
+||这里省略“一”。<blockquote>zhèlǐ shěnglǜe “ yī ” 。<br />There is a "one" missing here.</blockquote>|
+||他四月来。<blockquote>tā sìyuè lái 。<br />He will come in April.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

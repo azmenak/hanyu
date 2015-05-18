@@ -1,6 +1,5 @@
 # Merry Christmas
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：哎，你看过午夜凶铃吗?
 乙：没看过。
@@ -18,18 +17,18 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，你看过午夜凶铃吗?<br />ai ， nǐ kàn guo wǔyèxiōnglíng ma ?<br />Hey, have you seen The Ring?|
-|乙|没看过。<br />méi kàn guo 。<br />Haven't seen it.|
-|甲|呦，特别好看。我昨儿刚买的碟。拿去吧，送你了。<br />you ， tèbié hǎokàn 。 wǒ zuór gāng mǎi de dié 。 náqù ba ， sòng nǐ le 。<br />Oh, it's great. I just bought it yesterday. Here, why don't you take my copy?|
-|乙|送我?<br />sòng wǒ ?<br />You'll give it to me?|
-|甲|当然了，赶紧去看，不看后悔。<br />dāngrán le ， gǎnjǐn qùkān ， bù kàn hòuhuǐ 。<br />Of course, watch it, you'll regret it if you don't.|
-|乙|好看吗?<br />hǎokàn ma ?<br />Is it good?|
-|甲|呦，特别精彩，我跟你说。<br />you ， tèbié jīngcǎi ， wǒ gēn nǐ shuō 。<br />I'm telling you, it's fantastic.|
-|乙|嗯，那我尽快。<br />en ， nà wǒ jǐnkuài 。<br />Then I'll check it out soon.|
-|甲|别尽快了，就今天晚上吧。<br />bié jǐnkuài le ， jiù jīntiān wǎnshang ba 。<br />Not soon, watch it tonight!|
-|乙|行，今晚。<br />xíng ， jīnwǎn 。<br />Ok, tonight.|
-|甲|好样的，明儿咱俩交流!<br />hǎoyàngde ， míngr zán liǎ jiāoliú !<br />That's right, we'll talk about it tomorrow.|
-|乙|谢谢啊!<br />xièxie a !<br />Thanks!|
+|甲|哎，你看过午夜凶铃吗?<blockquote>ai ， nǐ kàn guo wǔyèxiōnglíng ma ?<br />Hey, have you seen The Ring?</blockquote>|
+|乙|没看过。<blockquote>méi kàn guo 。<br />Haven't seen it.</blockquote>|
+|甲|呦，特别好看。我昨儿刚买的碟。拿去吧，送你了。<blockquote>you ， tèbié hǎokàn 。 wǒ zuór gāng mǎi de dié 。 náqù ba ， sòng nǐ le 。<br />Oh, it's great. I just bought it yesterday. Here, why don't you take my copy?</blockquote>|
+|乙|送我?<blockquote>sòng wǒ ?<br />You'll give it to me?</blockquote>|
+|甲|当然了，赶紧去看，不看后悔。<blockquote>dāngrán le ， gǎnjǐn qùkān ， bù kàn hòuhuǐ 。<br />Of course, watch it, you'll regret it if you don't.</blockquote>|
+|乙|好看吗?<blockquote>hǎokàn ma ?<br />Is it good?</blockquote>|
+|甲|呦，特别精彩，我跟你说。<blockquote>you ， tèbié jīngcǎi ， wǒ gēn nǐ shuō 。<br />I'm telling you, it's fantastic.</blockquote>|
+|乙|嗯，那我尽快。<blockquote>en ， nà wǒ jǐnkuài 。<br />Then I'll check it out soon.</blockquote>|
+|甲|别尽快了，就今天晚上吧。<blockquote>bié jǐnkuài le ， jiù jīntiān wǎnshang ba 。<br />Not soon, watch it tonight!</blockquote>|
+|乙|行，今晚。<blockquote>xíng ， jīnwǎn 。<br />Ok, tonight.</blockquote>|
+|甲|好样的，明儿咱俩交流!<blockquote>hǎoyàngde ， míngr zán liǎ jiāoliú !<br />That's right, we'll talk about it tomorrow.</blockquote>|
+|乙|谢谢啊!<blockquote>xièxie a !<br />Thanks!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

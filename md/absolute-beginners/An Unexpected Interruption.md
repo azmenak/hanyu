@@ -1,6 +1,5 @@
 # An Unexpected Interruption
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你好。
 乙：你好。
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你好。<br />nǐhǎo 。<br />Hello.|
-|乙|你好。<br />nǐhǎo 。<br />Hello.|
-|丙|你好。<br />nǐhǎo 。<br />Hello.|
-|甲|田森，9527，我还不知道你们俩在一起。<br />Tiánsēn ， jiǔwǔèrqī ， wǒ hái bù zhīdào nǐmen liǎ zài yīqǐ 。<br />Tiansen and 9527, I didn't know you two were together.|
-|乙、丙|呃....<br />e ....<br />Uhhh....|
-|甲|不是那个在一起，是在这儿。<br />bù shì nàge zài yīqǐ ， shì zài zhèr 。<br />Oh, not together like that. I mean here.|
-|丙|啊，不久，不久。<br />a ， bùjiǔ ， bùjiǔ 。<br />Oh, we haven't been here long.|
-|乙|对，不久，不久。<br />duì ， bùjiǔ ， bùjiǔ 。<br />Yeah, we haven't been dating very long.|
+|甲|你好。<blockquote>nǐhǎo 。<br />Hello.</blockquote>|
+|乙|你好。<blockquote>nǐhǎo 。<br />Hello.</blockquote>|
+|丙|你好。<blockquote>nǐhǎo 。<br />Hello.</blockquote>|
+|甲|田森，9527，我还不知道你们俩在一起。<blockquote>Tiánsēn ， jiǔwǔèrqī ， wǒ hái bù zhīdào nǐmen liǎ zài yīqǐ 。<br />Tiansen and 9527, I didn't know you two were together.</blockquote>|
+|乙、丙|呃....<blockquote>e ....<br />Uhhh....</blockquote>|
+|甲|不是那个在一起，是在这儿。<blockquote>bù shì nàge zài yīqǐ ， shì zài zhèr 。<br />Oh, not together like that. I mean here.</blockquote>|
+|丙|啊，不久，不久。<blockquote>a ， bùjiǔ ， bùjiǔ 。<br />Oh, we haven't been here long.</blockquote>|
+|乙|对，不久，不久。<blockquote>duì ， bùjiǔ ， bùjiǔ 。<br />Yeah, we haven't been dating very long.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

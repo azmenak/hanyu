@@ -1,6 +1,5 @@
 # On Avoiding the Plague
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：要去吗？
 乙：无所谓。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|要去吗？<br />yào qù ma ？<br />Want to go?|
-|乙|无所谓。<br />wúsuǒwèi 。<br />It doesn't matter.|
-|甲|不要去吗？<br />bù yào qù ma ？<br />Don't want to go?|
-|乙|我说了，无所谓。<br />wǒ shuō le ， wúsuǒwèi 。<br />I said, I don't care.|
+|甲|要去吗？<blockquote>yào qù ma ？<br />Want to go?</blockquote>|
+|乙|无所谓。<blockquote>wúsuǒwèi 。<br />It doesn't matter.</blockquote>|
+|甲|不要去吗？<blockquote>bù yào qù ma ？<br />Don't want to go?</blockquote>|
+|乙|我说了，无所谓。<blockquote>wǒ shuō le ， wúsuǒwèi 。<br />I said, I don't care.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

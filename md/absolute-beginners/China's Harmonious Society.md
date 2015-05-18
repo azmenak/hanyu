@@ -1,6 +1,5 @@
 # China's Harmonious Society
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你的手表在哪儿买的？
 乙：在网上。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你的手表在哪儿买的？<br />nǐ de shǒubiǎo zài nǎr mǎi de ？<br />Where did you buy your watch?|
-|乙|在网上。<br />zài wǎngshàng 。<br />On the Internet.|
-|甲|什么网？<br />shénme wǎng ？<br />Which website?|
-|乙|因特网。<br />yīntèwǎng 。<br />The Internet.|
-|甲|哦，没听说过。<br />ò ， méi tīngshuō guo 。<br />Oh, never heard of it.|
+|甲|你的手表在哪儿买的？<blockquote>nǐ de shǒubiǎo zài nǎr mǎi de ？<br />Where did you buy your watch?</blockquote>|
+|乙|在网上。<blockquote>zài wǎngshàng 。<br />On the Internet.</blockquote>|
+|甲|什么网？<blockquote>shénme wǎng ？<br />Which website?</blockquote>|
+|乙|因特网。<blockquote>yīntèwǎng 。<br />The Internet.</blockquote>|
+|甲|哦，没听说过。<blockquote>ò ， méi tīngshuō guo 。<br />Oh, never heard of it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

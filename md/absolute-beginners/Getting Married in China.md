@@ -1,6 +1,5 @@
 # Getting Married in China
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你是哪国人？
 乙：我是德国人。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你是哪国人？<br />nǐ shì něi guó rén ？<br />Where are you from?|
-|乙|我是德国人。<br />wǒ shì Déguó rén 。<br />I'm German.|
-|甲|你做什么工作？<br />nǐ zuò shénme gōngzuò ？<br />What job do you do?|
-|乙|我是工程师。<br />wǒ shì gōngchéngshī 。<br />I'm an engineer.|
+|甲|你是哪国人？<blockquote>nǐ shì něi guó rén ？<br />Where are you from?</blockquote>|
+|乙|我是德国人。<blockquote>wǒ shì Déguó rén 。<br />I'm German.</blockquote>|
+|甲|你做什么工作？<blockquote>nǐ zuò shénme gōngzuò ？<br />What job do you do?</blockquote>|
+|乙|我是工程师。<blockquote>wǒ shì gōngchéngshī 。<br />I'm an engineer.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # The Beijing Accent and Standard Mandarin
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：八，九，十....
 乙：好，加油！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|八，九，十....<br />bā ， jiǔ ， shí . . . .<br />Eight, nine, ten....|
-|乙|好，加油！<br />hǎo ， jiāyóu ！<br />Great, way to go!|
-|甲|看，肌肉。<br />kàn ， jīròu 。<br />Look, muscles.|
-|乙|嗯，好看，我来。<br />en ， hǎokàn ， wǒ lái 。<br />Hey, looking good. My turn.|
+|甲|八，九，十....<blockquote>bā ， jiǔ ， shí . . . .<br />Eight, nine, ten....</blockquote>|
+|乙|好，加油！<blockquote>hǎo ， jiāyóu ！<br />Great, way to go!</blockquote>|
+|甲|看，肌肉。<blockquote>kàn ， jīròu 。<br />Look, muscles.</blockquote>|
+|乙|嗯，好看，我来。<blockquote>en ， hǎokàn ， wǒ lái 。<br />Hey, looking good. My turn.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

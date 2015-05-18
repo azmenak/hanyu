@@ -1,6 +1,5 @@
 # A Simple Transaction
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：警察！
 乙：警察！
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|警察！<br />jǐngchá ！<br />Police!|
-|乙|警察！<br />jǐngchá ！<br />Police!|
-|甲|开门！<br />kāimén ！<br />Open the door!|
-|丙|我不在。<br />wǒ bù zài 。<br />I'm not here.|
-|甲|登记！登记！<br />dēngjì ！ dēngjì ！<br />Register! Register!|
-|丙|出国了。<br />chūguó le 。<br />I've left the country.|
-|乙|她出国了。<br />tā chūguó le 。<br />She's left the country.|
+|甲|警察！<blockquote>jǐngchá ！<br />Police!</blockquote>|
+|乙|警察！<blockquote>jǐngchá ！<br />Police!</blockquote>|
+|甲|开门！<blockquote>kāimén ！<br />Open the door!</blockquote>|
+|丙|我不在。<blockquote>wǒ bù zài 。<br />I'm not here.</blockquote>|
+|甲|登记！登记！<blockquote>dēngjì ！ dēngjì ！<br />Register! Register!</blockquote>|
+|丙|出国了。<blockquote>chūguó le 。<br />I've left the country.</blockquote>|
+|乙|她出国了。<blockquote>tā chūguó le 。<br />She's left the country.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

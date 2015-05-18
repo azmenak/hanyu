@@ -1,6 +1,5 @@
 # Shanghai 2010: The Crime Wave
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：服务员，这个筷子有点脏。
 乙：哦，没事儿，我帮您换一双。
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|服务员，这个筷子有点脏。<br />fúwùyuán ， zhège kuàizi yǒudiǎn zāng 。<br />Waiter, this pair of chopsticks is a little dirty.|
-|乙|哦，没事儿，我帮您换一双。<br />ò ， méi shìr ， wǒ bāng nín huàn yī shuāng 。<br />Oh, no problem. I will help you get a new pair.|
-|甲|谢谢你啊。<br />xièxie nǐ ā 。<br />Thanks a bunch.|
-|乙|不用谢。只不过就是厨师感冒了而已。<br />bù yòng xiè 。 zhǐ bùguò jiùshì chúshī gǎnmào le éryǐ 。<br />Don't mention it. It's just that the chef has caught a cold, that's all.|
-|甲|感冒？<br />gǎnmào ？<br />Cold?|
-|乙|对呀，他不是打喷嚏就是流鼻涕的，脏死了。<br />duì ya ， tā bù shì dǎ pēnti jiùshì liú bíti de ， zāng sǐ le 。<br />That's right, he's not sneezing, just a runny nose, filthy.|
-|甲|这是鼻涕？<br />zhè shì bíti ？<br />Is this snot?|
-|乙|祝您用餐愉快！<br />zhù nín yòng cān yúkuài ！<br />Wish you happy eating!|
+|甲|服务员，这个筷子有点脏。<blockquote>fúwùyuán ， zhège kuàizi yǒudiǎn zāng 。<br />Waiter, this pair of chopsticks is a little dirty.</blockquote>|
+|乙|哦，没事儿，我帮您换一双。<blockquote>ò ， méi shìr ， wǒ bāng nín huàn yī shuāng 。<br />Oh, no problem. I will help you get a new pair.</blockquote>|
+|甲|谢谢你啊。<blockquote>xièxie nǐ ā 。<br />Thanks a bunch.</blockquote>|
+|乙|不用谢。只不过就是厨师感冒了而已。<blockquote>bù yòng xiè 。 zhǐ bùguò jiùshì chúshī gǎnmào le éryǐ 。<br />Don't mention it. It's just that the chef has caught a cold, that's all.</blockquote>|
+|甲|感冒？<blockquote>gǎnmào ？<br />Cold?</blockquote>|
+|乙|对呀，他不是打喷嚏就是流鼻涕的，脏死了。<blockquote>duì ya ， tā bù shì dǎ pēnti jiùshì liú bíti de ， zāng sǐ le 。<br />That's right, he's not sneezing, just a runny nose, filthy.</blockquote>|
+|甲|这是鼻涕？<blockquote>zhè shì bíti ？<br />Is this snot?</blockquote>|
+|乙|祝您用餐愉快！<blockquote>zhù nín yòng cān yúkuài ！<br />Wish you happy eating!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

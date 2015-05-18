@@ -1,6 +1,5 @@
 # Internet Addiction
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：我恨泡泡中文！
 乙：啊！为什么呀？
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我恨泡泡中文！<br />wǒ hèn Pàopào Zhōngwén ！<br />I hate Popup Chinese.|
-|乙|啊！为什么呀？<br />ā ！ wèishénme yā ？<br />Huh! Why?|
-|甲|我已经学会中文了，但还是不得不听。<br />wǒ yǐjīng xuéhuì Zhōngwén le ， dàn háishì bùdébù tīng 。<br />I already know how to speak Chinese, but can't stop listening.|
-|乙|它就是这么吸引人。像...像毒品一样。<br />tā jiùshì zhème xīyǐnrén 。 xiàng ... xiàng dúpǐn yīyàng 。<br />It's just sucks you in, just like... just like drugs.|
-|甲|哎，对，毒品。<br />āi ， duì ， dúpǐn 。<br />Hey, right. Drugs.|
-|乙|让人上瘾。<br />ràng rén shàngyǐn 。<br />It gets you addicted.|
-|甲|它就是所有学中文的人的毒品。<br />tā jiùshì suǒyǒu xué Zhōngwén de rén de dúpǐn 。<br />It's a drug for anyone studying Chinese.|
-|乙|呃...再放一个。<br />e ... zài fàng yī ge 。<br />Uhh... put on another one.|
+|甲|我恨泡泡中文！<blockquote>wǒ hèn Pàopào Zhōngwén ！<br />I hate Popup Chinese.</blockquote>|
+|乙|啊！为什么呀？<blockquote>ā ！ wèishénme yā ？<br />Huh! Why?</blockquote>|
+|甲|我已经学会中文了，但还是不得不听。<blockquote>wǒ yǐjīng xuéhuì Zhōngwén le ， dàn háishì bùdébù tīng 。<br />I already know how to speak Chinese, but can't stop listening.</blockquote>|
+|乙|它就是这么吸引人。像...像毒品一样。<blockquote>tā jiùshì zhème xīyǐnrén 。 xiàng ... xiàng dúpǐn yīyàng 。<br />It's just sucks you in, just like... just like drugs.</blockquote>|
+|甲|哎，对，毒品。<blockquote>āi ， duì ， dúpǐn 。<br />Hey, right. Drugs.</blockquote>|
+|乙|让人上瘾。<blockquote>ràng rén shàngyǐn 。<br />It gets you addicted.</blockquote>|
+|甲|它就是所有学中文的人的毒品。<blockquote>tā jiùshì suǒyǒu xué Zhōngwén de rén de dúpǐn 。<br />It's a drug for anyone studying Chinese.</blockquote>|
+|乙|呃...再放一个。<blockquote>e ... zài fàng yī ge 。<br />Uhh... put on another one.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

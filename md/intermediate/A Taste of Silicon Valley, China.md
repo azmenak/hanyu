@@ -1,6 +1,5 @@
 # A Taste of Silicon Valley, China
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：机长，我没法降落这架飞机。
 乙：怎么了？这就是一个常规的夜间降落。
@@ -17,17 +16,17 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|机长，我没法降落这架飞机。<br />jīzhǎng ， wǒ méifǎ jiàngluò zhè jià fēijī 。<br />Captain, I don't have any way to land this plane.|
-|乙|怎么了？这就是一个常规的夜间降落。<br />zěnme le ？ zhè jiùshì yī ge chángguī de yèjiān jiàngluò 。<br />What? This is a routine nighttime landing.|
-|甲|我们在飞行学院没学过这个。<br />wǒmen zài fēixíng xuéyuàn méi xuéguò zhège 。<br />We never studied this in flight school.|
-|乙|你们没学过夜间降落？你只需要跟着仪表盘上的电脑操作。<br />nǐmen méi xuéguò yèjiān jiàngluò ？ nǐ zhǐ xūyào gēnzhe yíbiǎopán shàng de diànnǎo cāozuò 。<br />You didn't study nighttime landings? You only need to follow the computer on the instrument panel.|
-|丙|机长，乘客已经开始恐慌啦！<br />jīzhǎng ， chéngkè yǐjīng kāishǐ kǒnghuāng la ！<br />Captain, the passengers have already started to panic!|
-|乙|什么？<br />shénme ？<br />What?|
-|丙|我告诉他们保持飞机坠毁的姿势，但是他们....<br />wǒ gàosu tāmen bǎochí fēijī zhuìhuǐ de zīshì ， dànshì tāmen . . . .<br />I told them to maintain crash position, but they....|
-|乙|嘿嘿嘿，谁说我们要坠毁了？<br />hei hei hei ， shéi shuō wǒmen yào zhuìhuǐ le ？<br />Hey, who said we are going to crash?|
-|甲|让我手动把轮子放下去，至少我们不会一着陆就爆炸。<br />ràng wǒ shǒudòng bǎ lúnzi fàngxiàqù ， zhìshǎo wǒmen bùhuì yī zhuólù jiù bàozhà 。<br />Let me lower the wheels manually. At least this way we won't explode on touchdown.|
-|乙|这些事情电脑早就做好啦。<br />zhè xiē shìqing diànnǎo zǎo jiù zuò hǎo la 。<br />The computer took care of that ages ago.|
-|丙|天哪，是电脑在开飞机！<br />tiānna ， shì diànnǎo zài kāi fēijī ！<br />My God, the computer is flying the plane!|
+|甲|机长，我没法降落这架飞机。<blockquote>jīzhǎng ， wǒ méifǎ jiàngluò zhè jià fēijī 。<br />Captain, I don't have any way to land this plane.</blockquote>|
+|乙|怎么了？这就是一个常规的夜间降落。<blockquote>zěnme le ？ zhè jiùshì yī ge chángguī de yèjiān jiàngluò 。<br />What? This is a routine nighttime landing.</blockquote>|
+|甲|我们在飞行学院没学过这个。<blockquote>wǒmen zài fēixíng xuéyuàn méi xuéguò zhège 。<br />We never studied this in flight school.</blockquote>|
+|乙|你们没学过夜间降落？你只需要跟着仪表盘上的电脑操作。<blockquote>nǐmen méi xuéguò yèjiān jiàngluò ？ nǐ zhǐ xūyào gēnzhe yíbiǎopán shàng de diànnǎo cāozuò 。<br />You didn't study nighttime landings? You only need to follow the computer on the instrument panel.</blockquote>|
+|丙|机长，乘客已经开始恐慌啦！<blockquote>jīzhǎng ， chéngkè yǐjīng kāishǐ kǒnghuāng la ！<br />Captain, the passengers have already started to panic!</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|丙|我告诉他们保持飞机坠毁的姿势，但是他们....<blockquote>wǒ gàosu tāmen bǎochí fēijī zhuìhuǐ de zīshì ， dànshì tāmen . . . .<br />I told them to maintain crash position, but they....</blockquote>|
+|乙|嘿嘿嘿，谁说我们要坠毁了？<blockquote>hei hei hei ， shéi shuō wǒmen yào zhuìhuǐ le ？<br />Hey, who said we are going to crash?</blockquote>|
+|甲|让我手动把轮子放下去，至少我们不会一着陆就爆炸。<blockquote>ràng wǒ shǒudòng bǎ lúnzi fàngxiàqù ， zhìshǎo wǒmen bùhuì yī zhuólù jiù bàozhà 。<br />Let me lower the wheels manually. At least this way we won't explode on touchdown.</blockquote>|
+|乙|这些事情电脑早就做好啦。<blockquote>zhè xiē shìqing diànnǎo zǎo jiù zuò hǎo la 。<br />The computer took care of that ages ago.</blockquote>|
+|丙|天哪，是电脑在开飞机！<blockquote>tiānna ， shì diànnǎo zài kāi fēijī ！<br />My God, the computer is flying the plane!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # The Electrical Outlet
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：插座儿在哪儿？
 乙：你说什么？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|插座儿在哪儿？<br />chāzuòr zài nǎr ？<br />Where is the power outlet?|
-|乙|你说什么？<br />nǐ shuō shénme ？<br />What do you mean?|
-|甲|我想用笔记本儿。<br />wǒ xiǎng yòng bǐjìběnr 。<br />I want to use a laptop.|
-|乙|哦，在这儿。<br />ò ， zài zhèr 。<br />Oh, it's here.|
+|甲|插座儿在哪儿？<blockquote>chāzuòr zài nǎr ？<br />Where is the power outlet?</blockquote>|
+|乙|你说什么？<blockquote>nǐ shuō shénme ？<br />What do you mean?</blockquote>|
+|甲|我想用笔记本儿。<blockquote>wǒ xiǎng yòng bǐjìběnr 。<br />I want to use a laptop.</blockquote>|
+|乙|哦，在这儿。<blockquote>ò ， zài zhèr 。<br />Oh, it's here.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

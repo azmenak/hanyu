@@ -1,6 +1,5 @@
 # Playing with Fire
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 小白：服务员！
 周：你好！
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|小白|服务员！<br />fúwùyuán ！<br />Server!|
-|周|你好！<br />nǐhǎo ！<br />Hello!|
-|小白|有火儿吗？<br />yǒu huǒr ma ？<br />Got a light?|
-|周|这里不能吸烟。<br />zhèlǐ bùnéng xīyān 。<br />There's no smoking here.|
-|小白|我不吸烟，我玩儿火！<br />wǒ bù xīyān ， wǒ wánr huǒ ！<br />I'm not smoking. I want to play with fire.|
+|小白|服务员！<blockquote>fúwùyuán ！<br />Server!</blockquote>|
+|周|你好！<blockquote>nǐhǎo ！<br />Hello!</blockquote>|
+|小白|有火儿吗？<blockquote>yǒu huǒr ma ？<br />Got a light?</blockquote>|
+|周|这里不能吸烟。<blockquote>zhèlǐ bùnéng xīyān 。<br />There's no smoking here.</blockquote>|
+|小白|我不吸烟，我玩儿火！<blockquote>wǒ bù xīyān ， wǒ wánr huǒ ！<br />I'm not smoking. I want to play with fire.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # The Deaf Pickpocket Gang
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：放下武器！
 乙：听不见。
@@ -15,15 +14,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|放下武器！<br />fàngxià wǔqì ！<br />Put down your weapons!|
-|乙|听不见。<br />tīngbujiàn 。<br />We can't hear you.|
-|甲|放下武器，出来投降！<br />fàngxià wǔqì ， chūlái tóuxiáng ！<br />Put down your weapons and come out and surrender.|
-|乙|还是听不见。<br />hái shì tīngbujiàn 。<br />We still can't hear you.|
-|甲|我说，放下武器！<br />wǒ shuō ， fàngxià wǔqì ！<br />I said, put down the weapons!|
-|乙|啊，什吗？放下夫妻？<br />a ， shénma ？ fàngxià fūqī ？<br />Huh, what? Release the husband and wife?|
-|甲|武器！打开助听器啊！<br />wǔqì ！ dǎkāi zhùtīngqì a ！<br />The weapons! Turn on your hearing aids!|
-|乙|什吗？<br />shénma ？<br />What?|
-|甲|打开助听器，出来投降！<br />dǎkāi zhùtīngqì ， chūlái tóuxiáng ！<br />Turn on your hearing aids and come out with yours hands up!|
+|甲|放下武器！<blockquote>fàngxià wǔqì ！<br />Put down your weapons!</blockquote>|
+|乙|听不见。<blockquote>tīngbujiàn 。<br />We can't hear you.</blockquote>|
+|甲|放下武器，出来投降！<blockquote>fàngxià wǔqì ， chūlái tóuxiáng ！<br />Put down your weapons and come out and surrender.</blockquote>|
+|乙|还是听不见。<blockquote>hái shì tīngbujiàn 。<br />We still can't hear you.</blockquote>|
+|甲|我说，放下武器！<blockquote>wǒ shuō ， fàngxià wǔqì ！<br />I said, put down the weapons!</blockquote>|
+|乙|啊，什吗？放下夫妻？<blockquote>a ， shénma ？ fàngxià fūqī ？<br />Huh, what? Release the husband and wife?</blockquote>|
+|甲|武器！打开助听器啊！<blockquote>wǔqì ！ dǎkāi zhùtīngqì a ！<br />The weapons! Turn on your hearing aids!</blockquote>|
+|乙|什吗？<blockquote>shénma ？<br />What?</blockquote>|
+|甲|打开助听器，出来投降！<blockquote>dǎkāi zhùtīngqì ， chūlái tóuxiáng ！<br />Turn on your hearing aids and come out with yours hands up!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

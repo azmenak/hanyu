@@ -1,6 +1,5 @@
 # Handling the Cops
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女：把枪放下。
 男：把钱放下。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|把枪放下。<br />bǎ qiāng fàngxià .<br />Put down the gun.|
-|男|把钱放下。<br />bǎ qián fàngxià 。<br />Put down the money.|
-|女|不，把枪放下。<br />bù ， bǎ qiāng fàngxià 。<br />No, put the gun down.|
-|男|我有枪，把钱放下。<br />wǒ yǒu qiāng ， bǎ qián fàngxià 。<br />I have a gun. Put down the money.|
-|女|好吧。<br />hǎo ba 。<br />Ok.|
+|女|把枪放下。<blockquote>bǎ qiāng fàngxià .<br />Put down the gun.</blockquote>|
+|男|把钱放下。<blockquote>bǎ qián fàngxià 。<br />Put down the money.</blockquote>|
+|女|不，把枪放下。<blockquote>bù ， bǎ qiāng fàngxià 。<br />No, put the gun down.</blockquote>|
+|男|我有枪，把钱放下。<blockquote>wǒ yǒu qiāng ， bǎ qián fàngxià 。<br />I have a gun. Put down the money.</blockquote>|
+|女|好吧。<blockquote>hǎo ba 。<br />Ok.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

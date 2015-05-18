@@ -1,6 +1,5 @@
 # The Marriage of True Minds
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：听说李健要结婚了。
 乙：结婚？和谁呀？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|听说李健要结婚了。<br />tīngshuō Lǐ Jiàn yào jiéhūn le 。<br />I've heard Li Jian is getting married.|
-|乙|结婚？和谁呀？<br />jiéhūn ？ hé shéi ya ？<br />Married? With whom?|
-|甲|和他前妻。<br />hé tā qiánqī 。<br />With his ex-wife.|
-|乙|他已经结过一次啦？我怎么什么都不知道啊。<br />tā yǐjīng jiéguò yī cì la ？ wǒ zěnme shénme dōu bù zhīdào a 。<br />He's already been married before? How do I not know anything about this?|
+|甲|听说李健要结婚了。<blockquote>tīngshuō Lǐ Jiàn yào jiéhūn le 。<br />I've heard Li Jian is getting married.</blockquote>|
+|乙|结婚？和谁呀？<blockquote>jiéhūn ？ hé shéi ya ？<br />Married? With whom?</blockquote>|
+|甲|和他前妻。<blockquote>hé tā qiánqī 。<br />With his ex-wife.</blockquote>|
+|乙|他已经结过一次啦？我怎么什么都不知道啊。<blockquote>tā yǐjīng jiéguò yī cì la ？ wǒ zěnme shénme dōu bù zhīdào a 。<br />He's already been married before? How do I not know anything about this?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

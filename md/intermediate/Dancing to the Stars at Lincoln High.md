@@ -1,6 +1,5 @@
 # Dancing to the Stars at Lincoln High
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：张警官，还记得今天早上抓的那个要饭的吗？
 乙：上次让你查的那个？
@@ -16,16 +15,16 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|张警官，还记得今天早上抓的那个要饭的吗？<br />Zhāng Jǐngguān ， hái jìde jīntiān zǎoshang zhuā de nà ge yàofàn de ma ？<br />Officer Zhang, do you remember that beggar we caught this morning?|
-|乙|上次让你查的那个？<br />shàng cì ràng nǐ chá de nà ge ？<br />The one I asked you to investigate?|
-|甲|对，但不可思议的是，档案局里没有他的任何档案。<br />duì ， dàn bù kě sīyì de shì ， dàngànjú lǐ méiyǒu tā de rènhé dàngàn 。<br />Yes, but what's unbelievable is that there are no files on him at the Agency.|
-|乙|每个人都有。<br />měi ge rén dōu yǒu 。<br />There are files on everyone.|
-|甲|我知道，可是他确实没有。<br />wǒ zhīdào ， kěshì tā quèshí méiyǒu 。<br />I know, but he doesn't have any.|
-|乙|你查了基因库吗？<br />nǐ chá le jīyīnkù ma ？<br />Did you check in the genetic database?|
-|甲|我全都查过了。数据库、指纹、瞳孔扫描，没有任何结果。连档案局局长都找不到任何线索。<br />wǒ quán dōu cháguò le 。 shùjùkù 、 zhǐwén 、 tóngkǒng sǎomiáo ， méiyǒu rènhé jiéguǒ 。 lián dàngànjú júzhǎng dōu zhǎo bù dào rènhé xiànsuǒ 。<br />I checked all of them, including the database, fingerprint, and eye scans. But to no effect. Even the archive director couldn't find any traces of him.|
-|乙|也就是说，这个人不存在了？<br />yě jiù shì shuō ， zhè ge rén bù cúnzài le ？<br />So what you're saying is, that this person doesn't exist?|
-|甲|那我们现在该怎么处置他？<br />nà wǒmen xiànzài gāi zěnme chǔzhì tā ？<br />Yeah, so now how should we deal with him?|
-|乙|逮捕他。<br />dàibǔ tā 。<br />Arrest him.|
+|甲|张警官，还记得今天早上抓的那个要饭的吗？<blockquote>Zhāng Jǐngguān ， hái jìde jīntiān zǎoshang zhuā de nà ge yàofàn de ma ？<br />Officer Zhang, do you remember that beggar we caught this morning?</blockquote>|
+|乙|上次让你查的那个？<blockquote>shàng cì ràng nǐ chá de nà ge ？<br />The one I asked you to investigate?</blockquote>|
+|甲|对，但不可思议的是，档案局里没有他的任何档案。<blockquote>duì ， dàn bù kě sīyì de shì ， dàngànjú lǐ méiyǒu tā de rènhé dàngàn 。<br />Yes, but what's unbelievable is that there are no files on him at the Agency.</blockquote>|
+|乙|每个人都有。<blockquote>měi ge rén dōu yǒu 。<br />There are files on everyone.</blockquote>|
+|甲|我知道，可是他确实没有。<blockquote>wǒ zhīdào ， kěshì tā quèshí méiyǒu 。<br />I know, but he doesn't have any.</blockquote>|
+|乙|你查了基因库吗？<blockquote>nǐ chá le jīyīnkù ma ？<br />Did you check in the genetic database?</blockquote>|
+|甲|我全都查过了。数据库、指纹、瞳孔扫描，没有任何结果。连档案局局长都找不到任何线索。<blockquote>wǒ quán dōu cháguò le 。 shùjùkù 、 zhǐwén 、 tóngkǒng sǎomiáo ， méiyǒu rènhé jiéguǒ 。 lián dàngànjú júzhǎng dōu zhǎo bù dào rènhé xiànsuǒ 。<br />I checked all of them, including the database, fingerprint, and eye scans. But to no effect. Even the archive director couldn't find any traces of him.</blockquote>|
+|乙|也就是说，这个人不存在了？<blockquote>yě jiù shì shuō ， zhè ge rén bù cúnzài le ？<br />So what you're saying is, that this person doesn't exist?</blockquote>|
+|甲|那我们现在该怎么处置他？<blockquote>nà wǒmen xiànzài gāi zěnme chǔzhì tā ？<br />Yeah, so now how should we deal with him?</blockquote>|
+|乙|逮捕他。<blockquote>dàibǔ tā 。<br />Arrest him.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Ordering Under Pressure
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：谢谢您，谢谢，谢谢......
 乙：不客气。
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|谢谢您，谢谢，谢谢......<br />xièxie nín ， xièxie ， xièxie ......<br />Thank you, thanks, thanks....|
-|乙|不客气。<br />bù kèqi 。<br />No thanks needed.|
-|甲|谢谢，谢谢，谢谢您......<br />xièxie ， xièxie ， xièxie nín ......<br />Thank you, thank you, thank you....|
-|乙|别客气。<br />bié kèqi 。<br />Don't be so polite.|
-|甲|谢谢您，谢谢您，谢谢......<br />xièxie nín ， xièxie nín ， xièxie ......<br />Thank you, thank you, thank you....|
-|乙|不用客气。<br />bù yòng kèqi 。<br />Cut it out.|
-|甲|谢谢，谢谢......<br />xièxie ， xièxie ......<br />Thank you, thank you....|
-|乙|放手！放手！<br />fàngshǒu ！ fàngshǒu ！<br />Let go! Let go!|
+|甲|谢谢您，谢谢，谢谢......<blockquote>xièxie nín ， xièxie ， xièxie ......<br />Thank you, thanks, thanks....</blockquote>|
+|乙|不客气。<blockquote>bù kèqi 。<br />No thanks needed.</blockquote>|
+|甲|谢谢，谢谢，谢谢您......<blockquote>xièxie ， xièxie ， xièxie nín ......<br />Thank you, thank you, thank you....</blockquote>|
+|乙|别客气。<blockquote>bié kèqi 。<br />Don't be so polite.</blockquote>|
+|甲|谢谢您，谢谢您，谢谢......<blockquote>xièxie nín ， xièxie nín ， xièxie ......<br />Thank you, thank you, thank you....</blockquote>|
+|乙|不用客气。<blockquote>bù yòng kèqi 。<br />Cut it out.</blockquote>|
+|甲|谢谢，谢谢......<blockquote>xièxie ， xièxie ......<br />Thank you, thank you....</blockquote>|
+|乙|放手！放手！<blockquote>fàngshǒu ！ fàngshǒu ！<br />Let go! Let go!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

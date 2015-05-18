@@ -1,6 +1,5 @@
 # Going to a Movie
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 女的：给我一听王老吉。
 男的：冰的还是常温的?
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|给我一听王老吉。<br />gěi wǒ yī tīng Wánglǎojí 。<br />Give me a can of Wanglaoji.|
-|男的|冰的还是常温的?<br />bīng de hái shì chángwēn de ?<br />You want that cold or warm?|
-|女的|冰的。<br />bīng de 。<br />Cold.|
-|男的|稍等。<br />shāoděng 。<br />Just a moment.|
+|女的|给我一听王老吉。<blockquote>gěi wǒ yī tīng Wánglǎojí 。<br />Give me a can of Wanglaoji.</blockquote>|
+|男的|冰的还是常温的?<blockquote>bīng de hái shì chángwēn de ?<br />You want that cold or warm?</blockquote>|
+|女的|冰的。<blockquote>bīng de 。<br />Cold.</blockquote>|
+|男的|稍等。<blockquote>shāoděng 。<br />Just a moment.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

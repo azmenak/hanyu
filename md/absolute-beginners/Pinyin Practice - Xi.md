@@ -1,6 +1,5 @@
 # Pinyin Practice - Xi
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 我喜欢学习中文。
 我不喜欢玩游戏。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||我喜欢学习中文。<br />wǒ xǐhuān xuéxí zhōngwén 。<br />I like studying Chinese.|
-||我不喜欢玩游戏。<br />wǒ bù xǐhuān wán yóuxì 。<br />I don't like playing games.|
-||她是西方人。<br />tā shì xīfāng rén 。<br />She is a westerner.|
-||我需要休息。<br />wǒ xūyào xiūxi 。<br />I need to rest.|
-||多学习，行不行？<br />duō xuéxí ， xíngbuxíng ？<br />Study more. OK?|
-||星期天我休息。<br />xīngqītiān wǒ xiūxi 。<br />On Sundays I rest.|
+||我喜欢学习中文。<blockquote>wǒ xǐhuān xuéxí zhōngwén 。<br />I like studying Chinese.</blockquote>|
+||我不喜欢玩游戏。<blockquote>wǒ bù xǐhuān wán yóuxì 。<br />I don't like playing games.</blockquote>|
+||她是西方人。<blockquote>tā shì xīfāng rén 。<br />She is a westerner.</blockquote>|
+||我需要休息。<blockquote>wǒ xūyào xiūxi 。<br />I need to rest.</blockquote>|
+||多学习，行不行？<blockquote>duō xuéxí ， xíngbuxíng ？<br />Study more. OK?</blockquote>|
+||星期天我休息。<blockquote>xīngqītiān wǒ xiūxi 。<br />On Sundays I rest.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

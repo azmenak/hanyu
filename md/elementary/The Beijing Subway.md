@@ -1,6 +1,5 @@
 # The Beijing Subway
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：你得起床了。
 乙：我不想起。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你得起床了。<br />nǐ děi qǐchuáng le 。<br />You've got to get out of bed.|
-|乙|我不想起。<br />wǒ bù xiǎng qǐ 。<br />I don't want to get up.|
-|甲|你必须起了。<br />nǐ bìxū qǐ le 。<br />You must get up.|
-|乙|我不想起。<br />wǒ bù xiǎng qǐ 。<br />I don't want to get up.|
-|甲|八点了。<br />bā diǎn le 。<br />It's eight o'clock.|
-|乙|哦，天哪。<br />o ， tiānna 。<br />Oh, goodness gracious.|
+|甲|你得起床了。<blockquote>nǐ děi qǐchuáng le 。<br />You've got to get out of bed.</blockquote>|
+|乙|我不想起。<blockquote>wǒ bù xiǎng qǐ 。<br />I don't want to get up.</blockquote>|
+|甲|你必须起了。<blockquote>nǐ bìxū qǐ le 。<br />You must get up.</blockquote>|
+|乙|我不想起。<blockquote>wǒ bù xiǎng qǐ 。<br />I don't want to get up.</blockquote>|
+|甲|八点了。<blockquote>bā diǎn le 。<br />It's eight o'clock.</blockquote>|
+|乙|哦，天哪。<blockquote>o ， tiānna 。<br />Oh, goodness gracious.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

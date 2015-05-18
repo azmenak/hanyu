@@ -1,6 +1,5 @@
 # Encino Man meets American Pie
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 女：嘿，我刚做了些苹果派在厨房里。
 男：太棒了，我最爱吃苹果派了。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|嘿，我刚做了些苹果派在厨房里。<br />hei ， wǒ gāng zuò le xiē píngguǒ pài zài chúfáng lǐ 。<br />Hey，I just made some apple pie in the kitchen.|
-|男|太棒了，我最爱吃苹果派了。<br />tài bàng le ， wǒ zuì ài chī píngguǒpài le 。<br />Fantastic, apple pie is my favorite.|
-|女|好，那让我们去吃吧。<br />hǎo ， nà ràng wǒmen qù chī ba 。<br />Great，let's go and eat.|
-|男|走吧。<br />zǒu ba 。<br />Let's go.|
-|女|天哪！原始人在吃我的派。<br />tiānna ！ yuánshǐrén zài chī wǒde pài 。<br />Heavens! The caveman is eating my pie.|
-|动物|派....<br />pài ....<br />Pie....|
+|女|嘿，我刚做了些苹果派在厨房里。<blockquote>hei ， wǒ gāng zuò le xiē píngguǒ pài zài chúfáng lǐ 。<br />Hey，I just made some apple pie in the kitchen.</blockquote>|
+|男|太棒了，我最爱吃苹果派了。<blockquote>tài bàng le ， wǒ zuì ài chī píngguǒpài le 。<br />Fantastic, apple pie is my favorite.</blockquote>|
+|女|好，那让我们去吃吧。<blockquote>hǎo ， nà ràng wǒmen qù chī ba 。<br />Great，let's go and eat.</blockquote>|
+|男|走吧。<blockquote>zǒu ba 。<br />Let's go.</blockquote>|
+|女|天哪！原始人在吃我的派。<blockquote>tiānna ！ yuánshǐrén zài chī wǒde pài 。<br />Heavens! The caveman is eating my pie.</blockquote>|
+|动物|派....<blockquote>pài ....<br />Pie....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

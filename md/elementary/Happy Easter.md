@@ -1,6 +1,5 @@
 # Happy Easter
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：我给你买了一条围巾。
 乙：真好看。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我给你买了一条围巾。<br />wǒ gěi nǐ mǎi le yī tiáo wéijīn 。<br />I bought you a scarf.|
-|乙|真好看。<br />zhēn hǎokàn 。<br />It's really beautiful.|
-|甲|是猫毛做的。你不是很喜欢猫吗？<br />shì māomáo zuò de 。 nǐ bù shì hěn xǐhuān māo ma ？<br />It's made of cat hair. Don't you just love cats?|
-|乙|我对猫过敏....<br />wǒ duì māo guòmǐn . . . .<br />I'm allergic to cats....|
+|甲|我给你买了一条围巾。<blockquote>wǒ gěi nǐ mǎi le yī tiáo wéijīn 。<br />I bought you a scarf.</blockquote>|
+|乙|真好看。<blockquote>zhēn hǎokàn 。<br />It's really beautiful.</blockquote>|
+|甲|是猫毛做的。你不是很喜欢猫吗？<blockquote>shì māomáo zuò de 。 nǐ bù shì hěn xǐhuān māo ma ？<br />It's made of cat hair. Don't you just love cats?</blockquote>|
+|乙|我对猫过敏....<blockquote>wǒ duì māo guòmǐn . . . .<br />I'm allergic to cats....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Andy Lau
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 女的：啊，那个是刘德华吗?
 男的：谁呀?
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|啊，那个是刘德华吗?<br />a ， nàge shì Liú Déhuá ma ?<br />Hey, is that Andy Lau?|
-|男的|谁呀?<br />shéi yā ?<br />Who?|
-|女的|就是那个香港的，刘德华。<br />jiùshì nàge Xiānggǎng de ， Liú Déhuá 。<br />It's Andy Lau from Hong Kong.|
-|男的|刘什么?<br />Liú shénme ?<br />Andy who?|
-|女的|就是那个著名的，香港的，演员，歌手，刘德华。<br />jiùshì nàge zhùmíng de ， Xiānggǎng de ， yǎnyuán ， gēshǒu ， Liú Déhuá 。<br />It's the famous, Hong Kong actor and singer Andy Lau.|
-|男的|从来没听说过。<br />cónglái méi tīngshuō guo 。<br />Never heard of him.|
-|女的|刘德华呀!<br />liúdéhuá yā !<br />Andy Lau!|
-|男的|哦，就是那个女的。<br />ō ， jiùshì nàge nǚ de 。<br />Oh, it's that girl.|
+|女的|啊，那个是刘德华吗?<blockquote>a ， nàge shì Liú Déhuá ma ?<br />Hey, is that Andy Lau?</blockquote>|
+|男的|谁呀?<blockquote>shéi yā ?<br />Who?</blockquote>|
+|女的|就是那个香港的，刘德华。<blockquote>jiùshì nàge Xiānggǎng de ， Liú Déhuá 。<br />It's Andy Lau from Hong Kong.</blockquote>|
+|男的|刘什么?<blockquote>Liú shénme ?<br />Andy who?</blockquote>|
+|女的|就是那个著名的，香港的，演员，歌手，刘德华。<blockquote>jiùshì nàge zhùmíng de ， Xiānggǎng de ， yǎnyuán ， gēshǒu ， Liú Déhuá 。<br />It's the famous, Hong Kong actor and singer Andy Lau.</blockquote>|
+|男的|从来没听说过。<blockquote>cónglái méi tīngshuō guo 。<br />Never heard of him.</blockquote>|
+|女的|刘德华呀!<blockquote>liúdéhuá yā !<br />Andy Lau!</blockquote>|
+|男的|哦，就是那个女的。<blockquote>ō ， jiùshì nàge nǚ de 。<br />Oh, it's that girl.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

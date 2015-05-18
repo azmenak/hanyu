@@ -1,6 +1,5 @@
 # The Numbers
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 男的：你需要点儿什么？
 女的：啤酒。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男的|你需要点儿什么？<br />nǐ xūyào diǎnr shénme ？<br />What would you like?|
-|女的|啤酒。<br />píjiǔ 。<br />Beer.|
-|男的|一扎还是一瓶儿?<br />yī zhā hái shì yī píngr ?<br />A draft or a bottle?|
-|女的|一瓶儿。<br />yī píngr 。<br />A bottle.|
+|男的|你需要点儿什么？<blockquote>nǐ xūyào diǎnr shénme ？<br />What would you like?</blockquote>|
+|女的|啤酒。<blockquote>píjiǔ 。<br />Beer.</blockquote>|
+|男的|一扎还是一瓶儿?<blockquote>yī zhā hái shì yī píngr ?<br />A draft or a bottle?</blockquote>|
+|女的|一瓶儿。<blockquote>yī píngr 。<br />A bottle.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Beer and Measure Words
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女的：洗手间在哪儿？
 男的：这儿没有。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|洗手间在哪儿？<br />xǐshǒujiān zài nǎr ？<br />Where is the washroom?|
-|男的|这儿没有。<br />zhèr méiyǒu 。<br />There isn't any washroom here.|
-|女的|那哪儿有？<br />nà nǎr yǒu ？<br />So where is one?|
-|男的|这附近都没有洗手间呀。<br />zhè fùjìn dōu méiyǒu xǐshǒujiān ya 。<br />There aren't any washrooms anywhere around here.|
+|女的|洗手间在哪儿？<blockquote>xǐshǒujiān zài nǎr ？<br />Where is the washroom?</blockquote>|
+|男的|这儿没有。<blockquote>zhèr méiyǒu 。<br />There isn't any washroom here.</blockquote>|
+|女的|那哪儿有？<blockquote>nà nǎr yǒu ？<br />So where is one?</blockquote>|
+|男的|这附近都没有洗手间呀。<blockquote>zhè fùjìn dōu méiyǒu xǐshǒujiān ya 。<br />There aren't any washrooms anywhere around here.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

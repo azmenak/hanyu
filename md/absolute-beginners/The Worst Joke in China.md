@@ -1,6 +1,5 @@
 # The Worst Joke in China
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：哦，我好饿。
 乙：那吃吧。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哦，我好饿。<br />ò ， wǒ hǎo è 。<br />I'm really hungry.|
-|乙|那吃吧。<br />nà chī ba 。<br />Eat then.|
-|甲|吃什么？<br />chī shénme ？<br />Eat what?|
-|乙|笨蛋！吃饭！<br />bèndàn ！ chīfàn ！<br />Idiot! Eat food!|
+|甲|哦，我好饿。<blockquote>ò ， wǒ hǎo è 。<br />I'm really hungry.</blockquote>|
+|乙|那吃吧。<blockquote>nà chī ba 。<br />Eat then.</blockquote>|
+|甲|吃什么？<blockquote>chī shénme ？<br />Eat what?</blockquote>|
+|乙|笨蛋！吃饭！<blockquote>bèndàn ！ chīfàn ！<br />Idiot! Eat food!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # The Chinese Alphabet Song
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：姚葳，姚葳，你在吗？问你个问题！
 乙：她今天很忙。
@@ -8,8 +7,8 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|姚葳，姚葳，你在吗？问你个问题！<br />Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！<br />Echo, Echo, are you there? I've got a question to ask!|
-|乙|她今天很忙。<br />tā jīntiān hěn máng 。<br />She's very busy today.|
+|甲|姚葳，姚葳，你在吗？问你个问题！<blockquote>Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！<br />Echo, Echo, are you there? I've got a question to ask!</blockquote>|
+|乙|她今天很忙。<blockquote>tā jīntiān hěn máng 。<br />She's very busy today.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Casual Greetings in Chinese
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：喂，喂，喂，喂，喂....
 乙：一，二，三....
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|喂，喂，喂，喂，喂....<br />wéi ， wéi ， wéi ， wéi ， wéi . . . .<br />Hey, hey, testing, testing, testing....|
-|乙|一，二，三....<br />yī ， èr ， sān . . . .<br />One, two, three...|
-|甲|Echo, Echo....<br />Echo ,  Echo . . . .<br />Echo, Echo....|
-|乙|这开了没啊？<br />zhè kāi le méi a ？<br />Is this working or not?|
-|丙|啊，行，好！<br />a ， xíng ， hǎo ！<br />Oh, ok... it's good!|
-|乙|妈的，我讨厌这份工作。<br />māde ， wǒ tǎoyàn zhè fèn gōngzuò 。<br />Dammit, I hate this job.|
+|甲|喂，喂，喂，喂，喂....<blockquote>wéi ， wéi ， wéi ， wéi ， wéi . . . .<br />Hey, hey, testing, testing, testing....</blockquote>|
+|乙|一，二，三....<blockquote>yī ， èr ， sān . . . .<br />One, two, three...</blockquote>|
+|甲|Echo, Echo....<blockquote>Echo ,  Echo . . . .<br />Echo, Echo....</blockquote>|
+|乙|这开了没啊？<blockquote>zhè kāi le méi a ？<br />Is this working or not?</blockquote>|
+|丙|啊，行，好！<blockquote>a ， xíng ， hǎo ！<br />Oh, ok... it's good!</blockquote>|
+|乙|妈的，我讨厌这份工作。<blockquote>māde ， wǒ tǎoyàn zhè fèn gōngzuò 。<br />Dammit, I hate this job.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

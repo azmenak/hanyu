@@ -1,6 +1,5 @@
 # Take off your Pants
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 女：啊，你会弹吉他。你学了多长时间了?
 男：我没学多长时间。。。 三个月吧。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|啊，你会弹吉他。你学了多长时间了?<br />a ， nǐ huì tán jíta 。 nǐ xué le duōcháng shíjiān le ?<br />Hey, you can play the guitar. How long have you been learning?|
-|男|我没学多长时间。。。 三个月吧。<br />wǒ méi xué duōcháng shíjiān 。 。 。  sān ge yuè ba 。<br />I haven't studied long at all... about three months.|
-|女|啊，弹得真不错。<br />a ， tán de zhēn bùcuò 。<br />Ah, you play pretty well.|
-|男|谢谢。<br />xièxie 。<br />Thanks.|
+|女|啊，你会弹吉他。你学了多长时间了?<blockquote>a ， nǐ huì tán jíta 。 nǐ xué le duōcháng shíjiān le ?<br />Hey, you can play the guitar. How long have you been learning?</blockquote>|
+|男|我没学多长时间。。。 三个月吧。<blockquote>wǒ méi xué duōcháng shíjiān 。 。 。  sān ge yuè ba 。<br />I haven't studied long at all... about three months.</blockquote>|
+|女|啊，弹得真不错。<blockquote>a ， tán de zhēn bùcuò 。<br />Ah, you play pretty well.</blockquote>|
+|男|谢谢。<blockquote>xièxie 。<br />Thanks.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

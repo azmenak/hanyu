@@ -1,6 +1,5 @@
 # Looking for Apple
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女的：喂?
 男的：喂? Apple 在吗?
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|喂?<br />wéi ?<br />Hello?|
-|男的|喂? Apple 在吗?<br />wéi ? Apple zài ma ?<br />Hello? Is Apple there?|
-|女的|听不见，喂?<br />tīngbujiàn ， wéi ?<br />I can't hear you properly, hello?|
-|男的|喂? 请问，Apple 在吗?<br />wéi ? qǐngwèn ， Apple zài ma ?<br />Hello? Is Apple there please?|
-|女的|我听不见。<br />wǒ tīngbujiàn 。<br />I can't hear you.|
-|男的|喂? 喂? 是Apple吗?<br />wéi ? wéi ? shì Apple ma ?<br />Hello? Hello? Are you Apple?|
-|女的|对不起，听不见!<br />duìbuqǐ ， tīngbujiàn !<br />I'm sorry, I can't hear you!|
-|男的|喂? Apple? Apple? Apple... 哎，算了。<br />wéi ? Apple? Apple? Apple... ai ， suànle 。<br />Hello? Apple? Apple? Apple... oh, forget it.|
+|女的|喂?<blockquote>wéi ?<br />Hello?</blockquote>|
+|男的|喂? Apple 在吗?<blockquote>wéi ? Apple zài ma ?<br />Hello? Is Apple there?</blockquote>|
+|女的|听不见，喂?<blockquote>tīngbujiàn ， wéi ?<br />I can't hear you properly, hello?</blockquote>|
+|男的|喂? 请问，Apple 在吗?<blockquote>wéi ? qǐngwèn ， Apple zài ma ?<br />Hello? Is Apple there please?</blockquote>|
+|女的|我听不见。<blockquote>wǒ tīngbujiàn 。<br />I can't hear you.</blockquote>|
+|男的|喂? 喂? 是Apple吗?<blockquote>wéi ? wéi ? shì Apple ma ?<br />Hello? Hello? Are you Apple?</blockquote>|
+|女的|对不起，听不见!<blockquote>duìbuqǐ ， tīngbujiàn !<br />I'm sorry, I can't hear you!</blockquote>|
+|男的|喂? Apple? Apple? Apple... 哎，算了。<blockquote>wéi ? Apple? Apple? Apple... ai ， suànle 。<br />Hello? Apple? Apple? Apple... oh, forget it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Consoling a Friend
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：哎，你看见张华了吗？
 乙：没有啊，他不是跟你在一起吗？
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，你看见张华了吗？<br />ai ， nǐ kànjian Zhāng Huá le ma ？<br />Hey, have you seen Zhang Hua?|
-|乙|没有啊，他不是跟你在一起吗？<br />méiyǒu a ， tā bù shì gēn nǐ zài yīqǐ ma ？<br />No, wasn't he together with you?|
-|甲|没有啊。<br />méiyǒu a 。<br />Nope.|
-|乙|那我们应该去找他吗？<br />nà wǒmen yīnggāi qù zhǎo tā ma ？<br />Then should we go look for him?|
-|甲|不用了吧。<br />bù yòng le ba 。<br />No need.|
-|乙|行，那我们继续玩吧。<br />xíng ， nà wǒmen jìxù wán ba 。<br />Ok. Then let's keep playing.|
-|甲|好啊。<br />hǎo a 。<br />Sure.|
+|甲|哎，你看见张华了吗？<blockquote>ai ， nǐ kànjian Zhāng Huá le ma ？<br />Hey, have you seen Zhang Hua?</blockquote>|
+|乙|没有啊，他不是跟你在一起吗？<blockquote>méiyǒu a ， tā bù shì gēn nǐ zài yīqǐ ma ？<br />No, wasn't he together with you?</blockquote>|
+|甲|没有啊。<blockquote>méiyǒu a 。<br />Nope.</blockquote>|
+|乙|那我们应该去找他吗？<blockquote>nà wǒmen yīnggāi qù zhǎo tā ma ？<br />Then should we go look for him?</blockquote>|
+|甲|不用了吧。<blockquote>bù yòng le ba 。<br />No need.</blockquote>|
+|乙|行，那我们继续玩吧。<blockquote>xíng ， nà wǒmen jìxù wán ba 。<br />Ok. Then let's keep playing.</blockquote>|
+|甲|好啊。<blockquote>hǎo a 。<br />Sure.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

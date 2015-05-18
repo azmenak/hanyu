@@ -1,6 +1,5 @@
 # Questions about Sex
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 女的：你的狗真可爱。
 男的：谢谢。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|你的狗真可爱。<br />nǐ de gǒu zhēn kěài 。<br />Your dog is really cute.|
-|男的|谢谢。<br />xièxie 。<br />Thanks.|
-|女的|公的母的?<br />gōngde mǔde ?<br />Is it male or female?|
-|男的|我怎么知道?<br />wǒ zěnme zhīdào ?<br />How should I know?|
-|女的|你怎么不知道?<br />nǐ zěnme bù zhīdào ?<br />How can you not know?|
-|男的|看不出来。<br />kàn bù chūlái 。<br />Can't tell the difference.|
+|女的|你的狗真可爱。<blockquote>nǐ de gǒu zhēn kěài 。<br />Your dog is really cute.</blockquote>|
+|男的|谢谢。<blockquote>xièxie 。<br />Thanks.</blockquote>|
+|女的|公的母的?<blockquote>gōngde mǔde ?<br />Is it male or female?</blockquote>|
+|男的|我怎么知道?<blockquote>wǒ zěnme zhīdào ?<br />How should I know?</blockquote>|
+|女的|你怎么不知道?<blockquote>nǐ zěnme bù zhīdào ?<br />How can you not know?</blockquote>|
+|男的|看不出来。<blockquote>kàn bù chūlái 。<br />Can't tell the difference.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

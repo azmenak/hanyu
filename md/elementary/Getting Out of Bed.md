@@ -1,6 +1,5 @@
 # Getting Out of Bed
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：我想我妈妈。
 乙：我也是。
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我想我妈妈。<br />wǒ xiǎng wǒ māma 。<br />I miss my mother.|
-|乙|我也是。<br />wǒ yě shì 。<br />Me too.|
-|甲|你不是住在家里吗？<br />nǐ bù shì zhù zài jiā lǐ ma ？<br />Don't you live at home?|
+|甲|我想我妈妈。<blockquote>wǒ xiǎng wǒ māma 。<br />I miss my mother.</blockquote>|
+|乙|我也是。<blockquote>wǒ yě shì 。<br />Me too.</blockquote>|
+|甲|你不是住在家里吗？<blockquote>nǐ bù shì zhù zài jiā lǐ ma ？<br />Don't you live at home?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,13 +1,12 @@
 # It Happened Over Lunch
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 一，二，三，四，五，六，七，八，九，十...
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||一，二，三，四，五，六，七，八，九，十...<br />yī ， èr ， sān ， sì ， wǔ ， liù ， qī ， bā ， jiǔ ， shí ...<br />|
+||一，二，三，四，五，六，七，八，九，十...<blockquote>yī ， èr ， sān ， sì ， wǔ ， liù ， qī ， bā ， jiǔ ， shí ...<br /></blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

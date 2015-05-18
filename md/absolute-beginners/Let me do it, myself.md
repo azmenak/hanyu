@@ -1,6 +1,5 @@
 # Let me do it, myself
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：哎，你腿怎么青了？
 乙：在哪儿？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，你腿怎么青了？<br />āi ， nǐ tuǐ zěnme qīng le ？<br />Hey, why is your leg bruised?|
-|乙|在哪儿？<br />zài nǎr ？<br />Where?|
-|甲|膝盖上。<br />xīgài shàng 。<br />On the knee.|
-|乙|哦，昨天摔的。<br />ò ， zuótiān shuāi de 。<br />Oh，I fell yesterday.|
+|甲|哎，你腿怎么青了？<blockquote>āi ， nǐ tuǐ zěnme qīng le ？<br />Hey, why is your leg bruised?</blockquote>|
+|乙|在哪儿？<blockquote>zài nǎr ？<br />Where?</blockquote>|
+|甲|膝盖上。<blockquote>xīgài shàng 。<br />On the knee.</blockquote>|
+|乙|哦，昨天摔的。<blockquote>ò ， zuótiān shuāi de 。<br />Oh，I fell yesterday.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

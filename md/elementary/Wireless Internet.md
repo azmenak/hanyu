@@ -1,6 +1,5 @@
 # Wireless Internet
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 男：哎，你肚子又叫了哎。
 女：不可能，我今儿吃饭了。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|哎，你肚子又叫了哎。<br />ai ， nǐ dùzi yòu jiào le ai 。<br />Hey, your stomach is growling again.|
-|女|不可能，我今儿吃饭了。<br />bù kěnéng ， wǒ jinr1 chīfàn le 。<br />That's not possible, I've already eaten today.|
-|男|那还能是我的，很显然从你那儿来的声音。<br />nà hái néng shì wǒde ， hěn xiǎnrán cóng nǐ nàr lái de shēngyīn 。<br />No way it's mine, the sound clearly came from over by you.|
-|女|这今天呀，绝对不是我的。肯定是你。<br />zhè jīntiān ya ， juéduì bùshì wǒde 。 kěndìng shì nǐ 。<br />Today, it's absolutely not mine. It's definitely yours.|
-|男|不可能，不可能，不可能。我肚子从来没叫过。<br />bù kěnéng ， bù kěnéng ， bù kěnéng 。 wǒ dúzi cónglái méi jiàoguò 。<br />No way, no way, no way. My stomach never growls.|
-|女|你听，是你吧。<br />nǐ tīng ， shì nǐ ba 。<br />Hey listen, it is you!|
+|男|哎，你肚子又叫了哎。<blockquote>ai ， nǐ dùzi yòu jiào le ai 。<br />Hey, your stomach is growling again.</blockquote>|
+|女|不可能，我今儿吃饭了。<blockquote>bù kěnéng ， wǒ jinr1 chīfàn le 。<br />That's not possible, I've already eaten today.</blockquote>|
+|男|那还能是我的，很显然从你那儿来的声音。<blockquote>nà hái néng shì wǒde ， hěn xiǎnrán cóng nǐ nàr lái de shēngyīn 。<br />No way it's mine, the sound clearly came from over by you.</blockquote>|
+|女|这今天呀，绝对不是我的。肯定是你。<blockquote>zhè jīntiān ya ， juéduì bùshì wǒde 。 kěndìng shì nǐ 。<br />Today, it's absolutely not mine. It's definitely yours.</blockquote>|
+|男|不可能，不可能，不可能。我肚子从来没叫过。<blockquote>bù kěnéng ， bù kěnéng ， bù kěnéng 。 wǒ dúzi cónglái méi jiàoguò 。<br />No way, no way, no way. My stomach never growls.</blockquote>|
+|女|你听，是你吧。<blockquote>nǐ tīng ， shì nǐ ba 。<br />Hey listen, it is you!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

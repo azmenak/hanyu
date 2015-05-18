@@ -1,6 +1,5 @@
 # The Threat of Nuclear Proliferation
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 女的：你电话打不通。
 男的：是吗？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|你电话打不通。<br />nǐ diànhuà dǎ bu tōng 。<br />Your phone won't connect.|
-|男的|是吗？<br />shìma ？<br />Is that so?|
-|女的|该付费了。<br />gāi fù fèi le 。<br />You should pay the bill.|
-|男的|电话费是什么？<br />diànhuà fèi shì shénme ？<br />What's a telephone bill?|
+|女的|你电话打不通。<blockquote>nǐ diànhuà dǎ bu tōng 。<br />Your phone won't connect.</blockquote>|
+|男的|是吗？<blockquote>shìma ？<br />Is that so?</blockquote>|
+|女的|该付费了。<blockquote>gāi fù fèi le 。<br />You should pay the bill.</blockquote>|
+|男的|电话费是什么？<blockquote>diànhuà fèi shì shénme ？<br />What's a telephone bill?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

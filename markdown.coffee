@@ -11,17 +11,24 @@ for level, lessons of groupedByLevel
   for lesson in lessons
     md = """
       # #{lesson.title}
-      ## *#{lesson.level}* level
+      **#{_.startCase(lesson.level)}** level
 
-      ### Chinese Text
-      #{lesson.pasteboard}
-
-      ### Pinyin and Translation
-      |说人|句子|
-      |----|----|
     """
-    for sentence in lesson.transcript
-      md += "\n|#{sentence.speaker}|#{sentence.chinese}<br />#{sentence.pinyin}<br />#{sentence.translation}|"
+    if lesson.transcript.length >= 1
+      md += """
+        ### Chinese Text
+        #{lesson.pasteboard}
+
+        ### Pinyin and Translation
+        |说人|句子|
+        |----|----|
+      """
+      for sentence in lesson.transcript
+        md += "\n|#{sentence.speaker}|#{sentence.chinese}\
+          <blockquote>#{sentence.pinyin}<br />\
+          #{sentence.translation}</blockquote>|"
+    else
+      md += 'No Transcript Available'
 
     md += """
 

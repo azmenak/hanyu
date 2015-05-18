@@ -1,6 +1,5 @@
 # Buying a Train Ticket
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：去天津的车票还有吗？
 乙：最后两张。
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|去天津的车票还有吗？<br />qù Tiānjīn de chēpiào hái yǒu ma ？<br />Are there any tickets to Tianjin left?|
-|乙|最后两张。<br />zuìhòu liǎng zhāng 。<br />The last two.|
-|甲|软座还是硬座？<br />ruǎnzuò hái shì yìngzuò ？<br />Soft or hard seater?|
-|乙|没坐儿。站票要不要?<br />méi zuòr 。 zhànpiào yào bu yào ?<br />No seats left. Standing tickets only. Want them?|
-|甲|啊。<br />a 。<br />Ah....|
-|乙|不要后面的。<br />bù yào hòumian de 。<br />If you don't want them... next!|
-|甲|要，要，要！<br />yào ， yào ， yào ！<br />Yes, I want them.|
+|甲|去天津的车票还有吗？<blockquote>qù Tiānjīn de chēpiào hái yǒu ma ？<br />Are there any tickets to Tianjin left?</blockquote>|
+|乙|最后两张。<blockquote>zuìhòu liǎng zhāng 。<br />The last two.</blockquote>|
+|甲|软座还是硬座？<blockquote>ruǎnzuò hái shì yìngzuò ？<br />Soft or hard seater?</blockquote>|
+|乙|没坐儿。站票要不要?<blockquote>méi zuòr 。 zhànpiào yào bu yào ?<br />No seats left. Standing tickets only. Want them?</blockquote>|
+|甲|啊。<blockquote>a 。<br />Ah....</blockquote>|
+|乙|不要后面的。<blockquote>bù yào hòumian de 。<br />If you don't want them... next!</blockquote>|
+|甲|要，要，要！<blockquote>yào ， yào ， yào ！<br />Yes, I want them.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

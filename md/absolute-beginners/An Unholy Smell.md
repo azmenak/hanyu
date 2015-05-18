@@ -1,6 +1,5 @@
 # An Unholy Smell
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女人：这个十块。
 男人：五块。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女人|这个十块。<br />zhège shí kuài 。<br />This is ten dollars.|
-|男人|五块。<br />wǔ kuài 。<br />Five dollars.|
-|女人|十块。<br />shí kuài 。<br />Ten dollars.|
-|男人|七块。<br />qī kuài 。<br />Seven dollars.|
-|女人|十块。<br />shí kuài 。<br />Ten dollars.|
-|男人|好。十块。<br />hǎo 。 shí kuài 。<br />Ok. Ten dollars.|
+|女人|这个十块。<blockquote>zhège shí kuài 。<br />This is ten dollars.</blockquote>|
+|男人|五块。<blockquote>wǔ kuài 。<br />Five dollars.</blockquote>|
+|女人|十块。<blockquote>shí kuài 。<br />Ten dollars.</blockquote>|
+|男人|七块。<blockquote>qī kuài 。<br />Seven dollars.</blockquote>|
+|女人|十块。<blockquote>shí kuài 。<br />Ten dollars.</blockquote>|
+|男人|好。十块。<blockquote>hǎo 。 shí kuài 。<br />Ok. Ten dollars.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

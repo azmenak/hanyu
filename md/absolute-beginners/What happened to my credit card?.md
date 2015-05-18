@@ -1,6 +1,5 @@
 # What happened to my credit card?
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：机器坏了。
 乙：你的卡呢？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|机器坏了。<br />jīqì huài le 。<br />The machine's broken.|
-|乙|你的卡呢？<br />nǐ de kǎ ne ？<br />What about your card?|
-|甲|不行，卡住了。<br />bù xíng ， kǎzhù le 。<br />No go, it's stuck.|
-|乙|去叫服务员。<br />qù jiào fúwùyuán 。<br />Go call a staff member.|
+|甲|机器坏了。<blockquote>jīqì huài le 。<br />The machine's broken.</blockquote>|
+|乙|你的卡呢？<blockquote>nǐ de kǎ ne ？<br />What about your card?</blockquote>|
+|甲|不行，卡住了。<blockquote>bù xíng ， kǎzhù le 。<br />No go, it's stuck.</blockquote>|
+|乙|去叫服务员。<blockquote>qù jiào fúwùyuán 。<br />Go call a staff member.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

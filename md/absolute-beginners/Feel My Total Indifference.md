@@ -1,6 +1,5 @@
 # Feel My Total Indifference
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 刘：我不舒服。
 秦：怎么了？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|刘|我不舒服。<br />wǒ bù shūfu 。<br />I'm not comfortable.|
-|秦|怎么了？<br />zěnme le ？<br />What's wrong?|
-|刘|我有点儿拉肚子。<br />wǒ yǒu diǎnr lādùzi 。<br />I've got a bit of diarrhea.|
-|秦|你快回家吧。<br />nǐ kuài huíjiā ba 。<br />Go home, quickly.|
+|刘|我不舒服。<blockquote>wǒ bù shūfu 。<br />I'm not comfortable.</blockquote>|
+|秦|怎么了？<blockquote>zěnme le ？<br />What's wrong?</blockquote>|
+|刘|我有点儿拉肚子。<blockquote>wǒ yǒu diǎnr lādùzi 。<br />I've got a bit of diarrhea.</blockquote>|
+|秦|你快回家吧。<blockquote>nǐ kuài huíjiā ba 。<br />Go home, quickly.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

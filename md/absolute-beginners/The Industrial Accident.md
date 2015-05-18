@@ -1,6 +1,5 @@
 # The Industrial Accident
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 一：哦，我的胳膊。
 二：你的胳膊怎么了？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|一|哦，我的胳膊。<br />ò ， wǒ de gēbo 。<br />Oh, my arm.|
-|二|你的胳膊怎么了？<br />nǐ de gēbo zěnme le ？<br />What's wrong with your arm?|
-|一|折了。<br />shé le 。<br />It's broken.|
-|二|我们去医院吧。<br />wǒmen qù yīyuàn ba 。<br />Lets go to the hospital.|
+|一|哦，我的胳膊。<blockquote>ò ， wǒ de gēbo 。<br />Oh, my arm.</blockquote>|
+|二|你的胳膊怎么了？<blockquote>nǐ de gēbo zěnme le ？<br />What's wrong with your arm?</blockquote>|
+|一|折了。<blockquote>shé le 。<br />It's broken.</blockquote>|
+|二|我们去医院吧。<blockquote>wǒmen qù yīyuàn ba 。<br />Lets go to the hospital.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

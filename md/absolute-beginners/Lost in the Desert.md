@@ -1,6 +1,5 @@
 # Lost in the Desert
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：我觉得你很特别，非常特别。
 乙：你不觉得我的笑声很烦人吗？
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我觉得你很特别，非常特别。<br />wǒ juéde nǐ hěn tèbié ， fēicháng tèbié 。<br />I think that you're very special... extremely special.|
-|乙|你不觉得我的笑声很烦人吗？<br />nǐ bù juéde wǒ de xiàoshēng hěn fánrén ma ？<br />You don't find the sound of my laughter aggravating?|
-|甲|不不不，很好听。<br />bù bù bù ， hěn hǎotīng 。<br />Not at all! It's very pleasant.|
-|乙|可是别人都说很刺耳。<br />kěshì biérén dōu shuō hěn cì_APOS_ěr 。<br />But other people say it's irritating.|
-|甲|不不不不，那是他们没有幽默感，无聊，很无聊。<br />bù bù bù bù ， nà shì tāmen méiyǒu yōumògǎn ， wúliáo ， hěn wúliáo 。<br />Oh no. The don't have a sense of humor, that's all. They're just boring, very boring.|
+|甲|我觉得你很特别，非常特别。<blockquote>wǒ juéde nǐ hěn tèbié ， fēicháng tèbié 。<br />I think that you're very special... extremely special.</blockquote>|
+|乙|你不觉得我的笑声很烦人吗？<blockquote>nǐ bù juéde wǒ de xiàoshēng hěn fánrén ma ？<br />You don't find the sound of my laughter aggravating?</blockquote>|
+|甲|不不不，很好听。<blockquote>bù bù bù ， hěn hǎotīng 。<br />Not at all! It's very pleasant.</blockquote>|
+|乙|可是别人都说很刺耳。<blockquote>kěshì biérén dōu shuō hěn cì_APOS_ěr 。<br />But other people say it's irritating.</blockquote>|
+|甲|不不不不，那是他们没有幽默感，无聊，很无聊。<blockquote>bù bù bù bù ， nà shì tāmen méiyǒu yōumògǎn ， wúliáo ， hěn wúliáo 。<br />Oh no. The don't have a sense of humor, that's all. They're just boring, very boring.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

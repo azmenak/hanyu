@@ -1,6 +1,5 @@
 # The Art of the Paraphrase
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：哎，那个报告你写得怎么样了？
 乙：早写完了。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，那个报告你写得怎么样了？<br />ai ， nàge bàogào nǐ xiě de zěnmeyàng le ？<br />Hey, how is that report you're writing?|
-|乙|早写完了。<br />zǎo xiěwán le 。<br />Finished ages ago.|
-|甲|这么快！怎么写的呀？<br />zhème kuài ！ zěnme xiě de ya ？<br />This fast! How did you write it?|
-|乙|维基百科上抄的。<br />wéijī bǎikē shàng chāo de 。<br />Copied it from Wikipedia.|
+|甲|哎，那个报告你写得怎么样了？<blockquote>ai ， nàge bàogào nǐ xiě de zěnmeyàng le ？<br />Hey, how is that report you're writing?</blockquote>|
+|乙|早写完了。<blockquote>zǎo xiěwán le 。<br />Finished ages ago.</blockquote>|
+|甲|这么快！怎么写的呀？<blockquote>zhème kuài ！ zěnme xiě de ya ？<br />This fast! How did you write it?</blockquote>|
+|乙|维基百科上抄的。<blockquote>wéijī bǎikē shàng chāo de 。<br />Copied it from Wikipedia.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # An Inclination to Casual Looting
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：她没有邮箱？
 乙：没有。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|她没有邮箱？<br />tā méiyǒu yóuxiāng ？<br />She doesn't have email?|
-|乙|没有。<br />méiyǒu 。<br />No.|
-|甲|也没有电话？<br />yě méiyǒu diànhuà ？<br />She doesn't have a telephone either?|
-|乙|没有。<br />méiyǒu 。<br />No.|
-|甲|她是80后？<br />tā shì bā líng hòu ？<br />She was born in the 1980s?|
-|乙|1880后。<br />yī bā bā líng hòu 。<br />The 1880s.|
+|甲|她没有邮箱？<blockquote>tā méiyǒu yóuxiāng ？<br />She doesn't have email?</blockquote>|
+|乙|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
+|甲|也没有电话？<blockquote>yě méiyǒu diànhuà ？<br />She doesn't have a telephone either?</blockquote>|
+|乙|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
+|甲|她是80后？<blockquote>tā shì bā líng hòu ？<br />She was born in the 1980s?</blockquote>|
+|乙|1880后。<blockquote>yī bā bā líng hòu 。<br />The 1880s.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

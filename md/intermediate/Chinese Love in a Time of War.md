@@ -1,6 +1,5 @@
 # Chinese Love in a Time of War
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：你太天真了。战争里的爱情一文不值。
 乙：你真的没有爱过我吗？
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你太天真了。战争里的爱情一文不值。<br />nǐ tài tiānzhēn le 。 zhànzhēng lǐ de àiqíng yīwénbùzhí 。<br />You're too naive. Love in a time of war means nothing!|
-|乙|你真的没有爱过我吗？<br />nǐ zhēn de méiyǒu ài guò wǒ ma ？<br />So you really never loved me?|
-|甲|我从来就没有爱过你。<br />wǒ cónglái jiù méiyǒu ài guò nǐ 。<br />I never ever loved you.|
-|乙|你怎么能如此无情？<br />nǐ zěnme néng rúcǐ wúqíng ？<br />How can you be so heartless?|
-|甲|我要的只是那份名单。<br />wǒ yào de zhǐshì nà fèn míngdān 。<br />All I wanted was the list of names.|
-|乙|你怎么能背叛我？<br />nǐ zěnme néng bèipàn wǒ ？<br />How could you betray me?|
-|甲|为了钱，我可什么都能做。<br />wèile qián ， wǒ kě shénme dōu néng zuò 。<br />For money, I'll do anything.|
+|甲|你太天真了。战争里的爱情一文不值。<blockquote>nǐ tài tiānzhēn le 。 zhànzhēng lǐ de àiqíng yīwénbùzhí 。<br />You're too naive. Love in a time of war means nothing!</blockquote>|
+|乙|你真的没有爱过我吗？<blockquote>nǐ zhēn de méiyǒu ài guò wǒ ma ？<br />So you really never loved me?</blockquote>|
+|甲|我从来就没有爱过你。<blockquote>wǒ cónglái jiù méiyǒu ài guò nǐ 。<br />I never ever loved you.</blockquote>|
+|乙|你怎么能如此无情？<blockquote>nǐ zěnme néng rúcǐ wúqíng ？<br />How can you be so heartless?</blockquote>|
+|甲|我要的只是那份名单。<blockquote>wǒ yào de zhǐshì nà fèn míngdān 。<br />All I wanted was the list of names.</blockquote>|
+|乙|你怎么能背叛我？<blockquote>nǐ zěnme néng bèipàn wǒ ？<br />How could you betray me?</blockquote>|
+|甲|为了钱，我可什么都能做。<blockquote>wèile qián ， wǒ kě shénme dōu néng zuò 。<br />For money, I'll do anything.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

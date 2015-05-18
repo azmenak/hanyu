@@ -1,6 +1,5 @@
 # Book Smarts
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你在看什么？
 乙：在看一本书。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你在看什么？<br />nǐ zài kàn shénme ？<br />What are you reading?|
-|乙|在看一本书。<br />zài kàn yī běn shū 。<br />Reading a book.|
-|甲|我知道。<br />wǒ zhīdào 。<br />I know.|
-|乙|那你还问？<br />nà nǐ hái wèn ？<br />So why did you ask?|
-|甲|看什么书？<br />kàn shénme shū ？<br />What book are you reading?|
+|甲|你在看什么？<blockquote>nǐ zài kàn shénme ？<br />What are you reading?</blockquote>|
+|乙|在看一本书。<blockquote>zài kàn yī běn shū 。<br />Reading a book.</blockquote>|
+|甲|我知道。<blockquote>wǒ zhīdào 。<br />I know.</blockquote>|
+|乙|那你还问？<blockquote>nà nǐ hái wèn ？<br />So why did you ask?</blockquote>|
+|甲|看什么书？<blockquote>kàn shénme shū ？<br />What book are you reading?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

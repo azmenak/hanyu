@@ -1,6 +1,5 @@
 # Who Stole My Subtitles
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 女：你听得懂吗？
 男：听不懂。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|你听得懂吗？<br />nǐ tīngdedǒng ma ？<br />Do you understand?|
-|男|听不懂。<br />tīngbùdǒng 。<br />I don't understand.|
-|女|它们有没有中文字幕？<br />tāmen yǒu méiyǒu zhōngwén zìmù ？<br />Do they have Chinese subtitles?|
-|男|没有。<br />méiyǒu 。<br />No.|
-|女|妈的。<br />māde 。<br />Damn.|
+|女|你听得懂吗？<blockquote>nǐ tīngdedǒng ma ？<br />Do you understand?</blockquote>|
+|男|听不懂。<blockquote>tīngbùdǒng 。<br />I don't understand.</blockquote>|
+|女|它们有没有中文字幕？<blockquote>tāmen yǒu méiyǒu zhōngwén zìmù ？<br />Do they have Chinese subtitles?</blockquote>|
+|男|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
+|女|妈的。<blockquote>māde 。<br />Damn.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

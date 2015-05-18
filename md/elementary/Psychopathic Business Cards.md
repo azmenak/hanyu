@@ -1,6 +1,5 @@
 # Psychopathic Business Cards
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：这是我的名片。
 乙：这是我的名片。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|这是我的名片。<br />zhè shì wǒ de míngpiàn 。<br />This is my business card.|
-|乙|这是我的名片。<br />zhè shì wǒ de míngpiàn 。<br />This is my business card.|
-|甲|怎么是空白的？<br />zěnme shì kòngbái de ？<br />How is it empty?|
-|乙|我刚失业。<br />wǒ gāng shīyè 。<br />I just lost my job.|
-|甲|真遗憾。<br />zhēn yíhàn 。<br />I'm so sorry.|
+|甲|这是我的名片。<blockquote>zhè shì wǒ de míngpiàn 。<br />This is my business card.</blockquote>|
+|乙|这是我的名片。<blockquote>zhè shì wǒ de míngpiàn 。<br />This is my business card.</blockquote>|
+|甲|怎么是空白的？<blockquote>zěnme shì kòngbái de ？<br />How is it empty?</blockquote>|
+|乙|我刚失业。<blockquote>wǒ gāng shīyè 。<br />I just lost my job.</blockquote>|
+|甲|真遗憾。<blockquote>zhēn yíhàn 。<br />I'm so sorry.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

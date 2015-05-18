@@ -1,6 +1,5 @@
 # Advice for Dealing with New Parents
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你的孩子还好吗？
 乙：她会好的。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你的孩子还好吗？<br />nǐ de háizi hái hǎo ma ？<br />Is your child still ok?|
-|乙|她会好的。<br />tā huì hǎo de 。<br />She'll be fine.|
-|甲|但是... 她已经用了十分钟了。<br />dànshì . . .  tā yǐjīng yòng le shí fēnzhōng le 。<br />But... she's already been using it for ten minutes now.|
-|乙|她就是有点儿慢。<br />tā jiùshì yǒudiǎnr màn 。<br />She's just a little slow.|
+|甲|你的孩子还好吗？<blockquote>nǐ de háizi hái hǎo ma ？<br />Is your child still ok?</blockquote>|
+|乙|她会好的。<blockquote>tā huì hǎo de 。<br />She'll be fine.</blockquote>|
+|甲|但是... 她已经用了十分钟了。<blockquote>dànshì . . .  tā yǐjīng yòng le shí fēnzhōng le 。<br />But... she's already been using it for ten minutes now.</blockquote>|
+|乙|她就是有点儿慢。<blockquote>tā jiùshì yǒudiǎnr màn 。<br />She's just a little slow.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

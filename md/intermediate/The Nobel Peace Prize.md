@@ -1,6 +1,5 @@
 # The Nobel Peace Prize
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：嗨，哥们儿，你背的这什么呀？
 乙：我的新MP3。
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|嗨，哥们儿，你背的这什么呀？<br />hāi ， gēmenr ， nǐ bēi de zhè shénme ya ？<br />Hey, dude. What that you've got on your back?|
-|乙|我的新MP3。<br />wǒ de xīn mp sān 。<br />It's my new MP3 player.|
-|甲|这么大？<br />zhème dà ？<br />It's that big?|
-|乙|没那么大吧？<br />méi nàme dà ba ？<br />It's not that big.|
-|甲|你看，这还不大？哎哟，还这么沉。<br />nǐ kàn ， zhè hái bù dà ？ āiyo ， hái zhème chén 。<br />Look, this isn't big? And, wow, it's also really heavy.|
-|乙|哦，抽奖抽的。<br />ò ， chōujiǎng chōu de 。<br />Oh. I won it in a draw.|
-|甲|这东西，白给我我都不要。<br />zhè dōngxi ， bái gěi wǒ wǒ dōu bù yào 。<br />This thing? I wouldn't take it if it was given to me for free.|
+|甲|嗨，哥们儿，你背的这什么呀？<blockquote>hāi ， gēmenr ， nǐ bēi de zhè shénme ya ？<br />Hey, dude. What that you've got on your back?</blockquote>|
+|乙|我的新MP3。<blockquote>wǒ de xīn mp sān 。<br />It's my new MP3 player.</blockquote>|
+|甲|这么大？<blockquote>zhème dà ？<br />It's that big?</blockquote>|
+|乙|没那么大吧？<blockquote>méi nàme dà ba ？<br />It's not that big.</blockquote>|
+|甲|你看，这还不大？哎哟，还这么沉。<blockquote>nǐ kàn ， zhè hái bù dà ？ āiyo ， hái zhème chén 。<br />Look, this isn't big? And, wow, it's also really heavy.</blockquote>|
+|乙|哦，抽奖抽的。<blockquote>ò ， chōujiǎng chōu de 。<br />Oh. I won it in a draw.</blockquote>|
+|甲|这东西，白给我我都不要。<blockquote>zhè dōngxi ， bái gěi wǒ wǒ dōu bù yào 。<br />This thing? I wouldn't take it if it was given to me for free.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

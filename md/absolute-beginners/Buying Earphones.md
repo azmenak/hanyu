@@ -1,6 +1,5 @@
 # Buying Earphones
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 狗：汪... 汪....
 男人：怎么了，莱西？ 提米怎么了？
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|狗|汪... 汪....<br />wàng ... wàng ....<br />Woof... woof....|
-|男人|怎么了，莱西？ 提米怎么了？<br />zěnme le ， Láixī ？  Tímǐ zěnme le ？<br />What's wrong Lassie? What happened to Timmy?|
-|狗|汪汪汪....<br />wàng wàng wàng . . . .<br />Bark, bark, bark....|
-|男人|我的天哪，他掉到井里了？<br />wǒ de tiān na ， tā diàodào jǐng lǐ le ？<br />My heavens, he fell into a well?|
-|狗|汪汪汪汪汪汪汪....<br />wàng wàng wàng wàng wàng wàng wàng . . . .<br />Bark bark bark bark bark bark....|
-|男人|马上要爆炸了？<br />mǎshàng yào bàozhà le ？<br />And it's going to blow up right away?|
-|狗|汪。<br />wàng 。<br />That's right.|
-|男人|快上车，我们赶快走。<br />kuài shàngchē ， wǒmen gǎnkuài zǒu 。<br />Get in the car, we're going at once.|
+|狗|汪... 汪....<blockquote>wàng ... wàng ....<br />Woof... woof....</blockquote>|
+|男人|怎么了，莱西？ 提米怎么了？<blockquote>zěnme le ， Láixī ？  Tímǐ zěnme le ？<br />What's wrong Lassie? What happened to Timmy?</blockquote>|
+|狗|汪汪汪....<blockquote>wàng wàng wàng . . . .<br />Bark, bark, bark....</blockquote>|
+|男人|我的天哪，他掉到井里了？<blockquote>wǒ de tiān na ， tā diàodào jǐng lǐ le ？<br />My heavens, he fell into a well?</blockquote>|
+|狗|汪汪汪汪汪汪汪....<blockquote>wàng wàng wàng wàng wàng wàng wàng . . . .<br />Bark bark bark bark bark bark....</blockquote>|
+|男人|马上要爆炸了？<blockquote>mǎshàng yào bàozhà le ？<br />And it's going to blow up right away?</blockquote>|
+|狗|汪。<blockquote>wàng 。<br />That's right.</blockquote>|
+|男人|快上车，我们赶快走。<blockquote>kuài shàngchē ， wǒmen gǎnkuài zǒu 。<br />Get in the car, we're going at once.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

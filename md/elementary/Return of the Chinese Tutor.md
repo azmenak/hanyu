@@ -1,6 +1,5 @@
 # Return of the Chinese Tutor
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：哎，车钥匙呢？
 乙：不是在你兜里吗？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，车钥匙呢？<br />āi ， chē yàoshi ne ？<br />Hey, where are the car keys?|
-|乙|不是在你兜里吗？<br />bù shì zài nǐ dōu lǐ ma ？<br />Aren't they in your pocket?|
-|甲|没有。我给你了。是你开车来的。<br />méiyǒu 。 wǒ gěi nǐ le 。 shì nǐ kāichē lái de 。<br />No. I gave them to you. It was you who drove here.|
-|乙|妈的。<br />māde 。<br />Dammit.|
+|甲|哎，车钥匙呢？<blockquote>āi ， chē yàoshi ne ？<br />Hey, where are the car keys?</blockquote>|
+|乙|不是在你兜里吗？<blockquote>bù shì zài nǐ dōu lǐ ma ？<br />Aren't they in your pocket?</blockquote>|
+|甲|没有。我给你了。是你开车来的。<blockquote>méiyǒu 。 wǒ gěi nǐ le 。 shì nǐ kāichē lái de 。<br />No. I gave them to you. It was you who drove here.</blockquote>|
+|乙|妈的。<blockquote>māde 。<br />Dammit.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Hurting the Feelings of the Chinese People
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：嘿，下班之后去喝一杯吗？
 乙：没什么兴趣。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|嘿，下班之后去喝一杯吗？<br />hei ， xiàbān zhīhòu qù hē yī bēi ma ？<br />Hey, do you want to get a drink after work?|
-|乙|没什么兴趣。<br />méi shénme xìngqu 。<br />I'm not interested.|
-|甲|来吧，整个办公室的人都会去的。今天是新年嘛。<br />láiba ， zhěnggè bàngōngshì de rén dōu huì qù de 。 jīntiān shì Xīnnián ma 。<br />Come on, everyone else in the office is going. It's New Years today.|
-|乙|罗浩会去吗？<br />Luó Hào huì qù ma ？<br />Is Luo Hao going?|
-|甲|他带百合去。<br />tā dài bǎihé qù 。<br />He's taking Lily.|
-|乙|那我不去了。<br />nà wǒ bù qù le 。<br />Then I'm not going.|
+|甲|嘿，下班之后去喝一杯吗？<blockquote>hei ， xiàbān zhīhòu qù hē yī bēi ma ？<br />Hey, do you want to get a drink after work?</blockquote>|
+|乙|没什么兴趣。<blockquote>méi shénme xìngqu 。<br />I'm not interested.</blockquote>|
+|甲|来吧，整个办公室的人都会去的。今天是新年嘛。<blockquote>láiba ， zhěnggè bàngōngshì de rén dōu huì qù de 。 jīntiān shì Xīnnián ma 。<br />Come on, everyone else in the office is going. It's New Years today.</blockquote>|
+|乙|罗浩会去吗？<blockquote>Luó Hào huì qù ma ？<br />Is Luo Hao going?</blockquote>|
+|甲|他带百合去。<blockquote>tā dài bǎihé qù 。<br />He's taking Lily.</blockquote>|
+|乙|那我不去了。<blockquote>nà wǒ bù qù le 。<br />Then I'm not going.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

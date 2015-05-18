@@ -1,6 +1,5 @@
 # Brownie Cake
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 男：现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。
 女：但是亲爱的，我们真的要蹚过这条河吗？
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。<br />xiànzài huíxiǎng qǐlái ， dāngchū zài sānyuè chūfā díquè shì yī ge cuòwu 。 dànshì dāngshí wǒmen dōu pòbùjídài de xiǎng qù Jiāzhōu 。 bùguǎn  zěnmeyàng ， zuì zhòngyào de shì wǒmen xiànzài hái yǒu liǎng tóu niú áoguò le dōngtiān 。<br />Thinking back on it now, it seems clear that starting our in March was a mistake. But at the time we were all eager to go to California. And regardless of this all, the most important thing is that we still have two oxen that survived the winter.|
-|女|但是亲爱的，我们真的要蹚过这条河吗？<br />dànshì qīn_APOS_àide ， wǒmen zhēnde yào tāngguò zhè tiáo hé ma ？<br />But darling, do we really need to ford this river?|
-|男|如果我是个银行家，当然我们就有钱坐摆渡过河了。但是嫁鸡随鸡嫁狗随狗，你嫁的是个农民。你爸爸说过四百美金不够坚持到加州。现在看来他可能确实有点儿对了。<br />rúguǒ wǒ shì ge yínhángjiā ， dāngrán wǒmen jiù yǒu qián zuò bǎidù guòhé le 。 dànshì jiàjīsuíjī jiàgǒusuígǒu ， nǐ jià de shì ge nóngmín 。 nǐ bàba shuō guò sìbǎi měijīn bù gòu jiānchí dào Jiāzhōu 。 xiànzài kànlái tā kěnéng quèshí yǒudiǎnr duì le 。<br />If I were a banker, then of course we'd have the money to take a ferry. But you get what you married and you married a farmer, honey. Your father said that four hundred dollars wasn't enough to last us to California. And right now it looks like he might just be right.|
-|孩子|妈妈，我难受。<br />māma ， wǒ nánshòu 。<br />Mother, I'm feeling ill.|
-|女|哦，我的上帝啊。蒂米拉痢疾了。<br />ò ， wǒ de shàngdì a 。 Dìmǐ lā lìji le 。<br />Oh, my God. Timmy has dysentery.|
-|男|谁没拉痢疾？<br />shéi méi lā lìji ？<br />Who doesn't?|
+|男|现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。<blockquote>xiànzài huíxiǎng qǐlái ， dāngchū zài sānyuè chūfā díquè shì yī ge cuòwu 。 dànshì dāngshí wǒmen dōu pòbùjídài de xiǎng qù Jiāzhōu 。 bùguǎn  zěnmeyàng ， zuì zhòngyào de shì wǒmen xiànzài hái yǒu liǎng tóu niú áoguò le dōngtiān 。<br />Thinking back on it now, it seems clear that starting our in March was a mistake. But at the time we were all eager to go to California. And regardless of this all, the most important thing is that we still have two oxen that survived the winter.</blockquote>|
+|女|但是亲爱的，我们真的要蹚过这条河吗？<blockquote>dànshì qīn_APOS_àide ， wǒmen zhēnde yào tāngguò zhè tiáo hé ma ？<br />But darling, do we really need to ford this river?</blockquote>|
+|男|如果我是个银行家，当然我们就有钱坐摆渡过河了。但是嫁鸡随鸡嫁狗随狗，你嫁的是个农民。你爸爸说过四百美金不够坚持到加州。现在看来他可能确实有点儿对了。<blockquote>rúguǒ wǒ shì ge yínhángjiā ， dāngrán wǒmen jiù yǒu qián zuò bǎidù guòhé le 。 dànshì jiàjīsuíjī jiàgǒusuígǒu ， nǐ jià de shì ge nóngmín 。 nǐ bàba shuō guò sìbǎi měijīn bù gòu jiānchí dào Jiāzhōu 。 xiànzài kànlái tā kěnéng quèshí yǒudiǎnr duì le 。<br />If I were a banker, then of course we'd have the money to take a ferry. But you get what you married and you married a farmer, honey. Your father said that four hundred dollars wasn't enough to last us to California. And right now it looks like he might just be right.</blockquote>|
+|孩子|妈妈，我难受。<blockquote>māma ， wǒ nánshòu 。<br />Mother, I'm feeling ill.</blockquote>|
+|女|哦，我的上帝啊。蒂米拉痢疾了。<blockquote>ò ， wǒ de shàngdì a 。 Dìmǐ lā lìji le 。<br />Oh, my God. Timmy has dysentery.</blockquote>|
+|男|谁没拉痢疾？<blockquote>shéi méi lā lìji ？<br />Who doesn't?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

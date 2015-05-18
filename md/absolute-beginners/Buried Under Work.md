@@ -1,6 +1,5 @@
 # Buried Under Work
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：给您菜单。
 乙：啊，谢谢。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|给您菜单。<br />gěi nín càidān 。<br />Here is a menu.|
-|乙|啊，谢谢。<br />a ， xièxie 。<br />Ah, thank you.|
-|甲|您要什么？<br />nín yào shénme ？<br />What do you want?|
-|乙|呃，等一下儿，我先看看吧。<br />e ， děng yīxiàr ， wǒ xiān kànkan ba 。<br />Wait a moment, I want to take a look.|
-|甲|嗯，好的。<br />ng ， hǎo de 。<br />Oh, OK.|
+|甲|给您菜单。<blockquote>gěi nín càidān 。<br />Here is a menu.</blockquote>|
+|乙|啊，谢谢。<blockquote>a ， xièxie 。<br />Ah, thank you.</blockquote>|
+|甲|您要什么？<blockquote>nín yào shénme ？<br />What do you want?</blockquote>|
+|乙|呃，等一下儿，我先看看吧。<blockquote>e ， děng yīxiàr ， wǒ xiān kànkan ba 。<br />Wait a moment, I want to take a look.</blockquote>|
+|甲|嗯，好的。<blockquote>ng ， hǎo de 。<br />Oh, OK.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

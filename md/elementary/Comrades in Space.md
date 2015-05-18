@@ -1,6 +1,5 @@
 # Comrades in Space
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：谁敢打扰我睡觉？
 乙：早上好，您的早餐。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|谁敢打扰我睡觉？<br />shéi gǎn dǎrǎo wǒ shuìjiào ？<br />Who dares disturb my slumber?|
-|乙|早上好，您的早餐。<br />zǎoshang hǎo ， nín de zǎocān 。<br />Good morning, your breakfast.|
-|甲|谁让你进来的？<br />shéi ràng nǐ jìnlai de ？<br />Who let you in?|
-|乙|哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。<br />āiyo ， zhèr zěnme zhème hēi ya ， kuài qǐchuáng ba 。 wǒ bāng nín bǎ chuāngliánr lākāi a 。<br />Goodness gracious is it dark in here. Get up quickly now. I'll just open the curtains for you.|
-|甲|你最好马上走！<br />nǐ zuìhǎo mǎshàng zǒu ！<br />It would be best for you to leave now!|
+|甲|谁敢打扰我睡觉？<blockquote>shéi gǎn dǎrǎo wǒ shuìjiào ？<br />Who dares disturb my slumber?</blockquote>|
+|乙|早上好，您的早餐。<blockquote>zǎoshang hǎo ， nín de zǎocān 。<br />Good morning, your breakfast.</blockquote>|
+|甲|谁让你进来的？<blockquote>shéi ràng nǐ jìnlai de ？<br />Who let you in?</blockquote>|
+|乙|哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。<blockquote>āiyo ， zhèr zěnme zhème hēi ya ， kuài qǐchuáng ba 。 wǒ bāng nín bǎ chuāngliánr lākāi a 。<br />Goodness gracious is it dark in here. Get up quickly now. I'll just open the curtains for you.</blockquote>|
+|甲|你最好马上走！<blockquote>nǐ zuìhǎo mǎshàng zǒu ！<br />It would be best for you to leave now!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

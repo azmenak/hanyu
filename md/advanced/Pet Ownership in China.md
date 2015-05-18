@@ -1,13 +1,12 @@
 # Pet Ownership in China
-## *advanced* level
-
+**Advanced** level
 ### Chinese Text
 Please share your thoughts with us... in Chinese.
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||Please share your thoughts with us... in Chinese.<br /><br />|
+||Please share your thoughts with us... in Chinese.<blockquote><br /></blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

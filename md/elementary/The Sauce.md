@@ -1,6 +1,5 @@
 # The Sauce
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：给你五块钱，把这个给吃了。
 乙：这什么呀？
@@ -15,15 +14,15 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|给你五块钱，把这个给吃了。<br />gěi nǐ wǔ kuài qián ， bǎ zhège gěi chī le 。<br />I'll give you five bucks if you eat this.|
-|乙|这什么呀？<br />zhè shénme ya ？<br />What is this?|
-|甲|不知道，刚才吃饭人家送的一个酱。<br />bù zhīdào ， gāngcái chīfàn rénjiā sòng de yī ge jiàng 。<br />I don't know. It's a sauce I was given at lunch just now.|
-|乙|我才不要呢。<br />wǒ cái bù yào ne 。<br />I don't want it.|
-|甲|十块钱？<br />shí kuài qián ？<br />Ten bucks?|
-|乙|拿远点儿。<br />ná yuǎn diǎnr 。<br />Get it away from me.|
-|甲|二十，你吃不吃吧？<br />èrshí ， nǐ chī bù chī ba ？<br />Twenty bucks? You going to eat it or not?|
-|乙|不要！<br />bù yào ！<br />No!|
-|甲|三十了，过了这村儿可就没这店儿了啊。<br />sānshí le ， guò le zhè cūnr kě jiù méi zhè diànr le a 。<br />Thirty dollars, but this is your last chance.|
+|甲|给你五块钱，把这个给吃了。<blockquote>gěi nǐ wǔ kuài qián ， bǎ zhège gěi chī le 。<br />I'll give you five bucks if you eat this.</blockquote>|
+|乙|这什么呀？<blockquote>zhè shénme ya ？<br />What is this?</blockquote>|
+|甲|不知道，刚才吃饭人家送的一个酱。<blockquote>bù zhīdào ， gāngcái chīfàn rénjiā sòng de yī ge jiàng 。<br />I don't know. It's a sauce I was given at lunch just now.</blockquote>|
+|乙|我才不要呢。<blockquote>wǒ cái bù yào ne 。<br />I don't want it.</blockquote>|
+|甲|十块钱？<blockquote>shí kuài qián ？<br />Ten bucks?</blockquote>|
+|乙|拿远点儿。<blockquote>ná yuǎn diǎnr 。<br />Get it away from me.</blockquote>|
+|甲|二十，你吃不吃吧？<blockquote>èrshí ， nǐ chī bù chī ba ？<br />Twenty bucks? You going to eat it or not?</blockquote>|
+|乙|不要！<blockquote>bù yào ！<br />No!</blockquote>|
+|甲|三十了，过了这村儿可就没这店儿了啊。<blockquote>sānshí le ， guò le zhè cūnr kě jiù méi zhè diànr le a 。<br />Thirty dollars, but this is your last chance.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

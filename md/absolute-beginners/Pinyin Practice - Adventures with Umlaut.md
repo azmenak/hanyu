@@ -1,6 +1,5 @@
 # Pinyin Practice - Adventures with Umlaut
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：你是学生吗？
 乙：是，你呢？
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你是学生吗？<br />nǐ shì xuéshēng ma ？<br />Are you a student?|
-|乙|是，你呢？<br />shì ， nǐ ne ？<br />Yes, I am. And you?|
-|甲|我是老师。<br />wǒ shì lǎoshī 。<br />I am a teacher.|
-|乙|你可以教我中文吗？<br />nǐ kěyǐ jiāo wǒ Zhōngwén ma ？<br />Can you teach me Chinese?|
-|甲|可以。<br />kěyǐ 。<br />Yes, I can.|
+|甲|你是学生吗？<blockquote>nǐ shì xuéshēng ma ？<br />Are you a student?</blockquote>|
+|乙|是，你呢？<blockquote>shì ， nǐ ne ？<br />Yes, I am. And you?</blockquote>|
+|甲|我是老师。<blockquote>wǒ shì lǎoshī 。<br />I am a teacher.</blockquote>|
+|乙|你可以教我中文吗？<blockquote>nǐ kěyǐ jiāo wǒ Zhōngwén ma ？<br />Can you teach me Chinese?</blockquote>|
+|甲|可以。<blockquote>kěyǐ 。<br />Yes, I can.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

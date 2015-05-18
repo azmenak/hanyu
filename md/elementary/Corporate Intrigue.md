@@ -1,6 +1,5 @@
 # Corporate Intrigue
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：哎？你的脸怎么了？
 乙：唉，别提了。我撞树上了。
@@ -13,13 +12,13 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎？你的脸怎么了？<br />ai ？ nǐ de liǎn zěnme le ？<br />Hey, what's wrong with your face?|
-|乙|唉，别提了。我撞树上了。<br />āi ， bié tí le 。 wǒ zhuàng shù shàng le 。<br />Oh, don't get me started. I ran into a tree.|
-|甲|我都不认识你了。<br />wǒ dōu bù rènshi nǐ le 。<br />I almost didn't recognize you.|
-|乙|有那么严重吗？<br />yǒu nàme yánzhòng ma ？<br />Is it that bad?|
-|甲|你这样儿还嫁得出去吗？<br />nǐ zhèyàngr hái jià de chūqù ma ？<br />Are you still going to get married, looking like this?|
-|乙|我们能不能别提这事了。<br />wǒmen néngbùnéng bié tí zhè shì le 。<br />Can we not talk about this?|
-|甲|唉，真难看。<br />āi ， zhēn nánkàn 。<br />Wow that's ugly.|
+|甲|哎？你的脸怎么了？<blockquote>ai ？ nǐ de liǎn zěnme le ？<br />Hey, what's wrong with your face?</blockquote>|
+|乙|唉，别提了。我撞树上了。<blockquote>āi ， bié tí le 。 wǒ zhuàng shù shàng le 。<br />Oh, don't get me started. I ran into a tree.</blockquote>|
+|甲|我都不认识你了。<blockquote>wǒ dōu bù rènshi nǐ le 。<br />I almost didn't recognize you.</blockquote>|
+|乙|有那么严重吗？<blockquote>yǒu nàme yánzhòng ma ？<br />Is it that bad?</blockquote>|
+|甲|你这样儿还嫁得出去吗？<blockquote>nǐ zhèyàngr hái jià de chūqù ma ？<br />Are you still going to get married, looking like this?</blockquote>|
+|乙|我们能不能别提这事了。<blockquote>wǒmen néngbùnéng bié tí zhè shì le 。<br />Can we not talk about this?</blockquote>|
+|甲|唉，真难看。<blockquote>āi ， zhēn nánkàn 。<br />Wow that's ugly.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

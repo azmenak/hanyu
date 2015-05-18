@@ -1,6 +1,5 @@
 # The Internet, never heard of it....
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 一：你舒服吗？
 二：我很舒服，为什么？啊！
@@ -9,9 +8,9 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|一|你舒服吗？<br />nǐ shūfu ma ？<br />Are you comfortable?|
-|二|我很舒服，为什么？啊！<br />wǒ hěn shūfu ， wèishénme ？ a ！<br />I'm very comfortable, why? Arg!|
-|一|开玩笑。<br />kāi wánxiào 。<br />Just kidding.|
+|一|你舒服吗？<blockquote>nǐ shūfu ma ？<br />Are you comfortable?</blockquote>|
+|二|我很舒服，为什么？啊！<blockquote>wǒ hěn shūfu ， wèishénme ？ a ！<br />I'm very comfortable, why? Arg!</blockquote>|
+|一|开玩笑。<blockquote>kāi wánxiào 。<br />Just kidding.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,6 +1,5 @@
 # Shopping with Naomi Klein
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：服务员，我要点一个水煮牛肉。
 乙：啊？
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|服务员，我要点一个水煮牛肉。<br />fúwùyuán ， wǒ yào diǎn yī ge shuǐzhǔniúròu 。<br />Waiter, I'd like a beef in chili broth.|
-|乙|啊？<br />a ？<br />Huh?|
-|甲|水煮牛肉，那个辣的，有牛肉的那个。<br />shuǐzhǔniúròu ， nàge là de ， yǒu niúròu de nàge 。<br />Beef in chili broth. It's the hot one, the one with beef.|
-|乙|鱼香肉丝？<br />yúxiāngròusī ？<br />Fish-flavoured pork slices?|
-|甲|不不不不不，水煮牛肉片，菜单上28号。<br />bù bù bù bù bù ， shuǐzhǔniúròupiàn ， càidān shàng èrshíbā hào 。<br />No! The beef in chili broth. Number 28 on the menu.|
-|乙|哎，28号不是鱼香肉丝，那是水煮牛肉。<br />ai ， èrshíbā hào bù shì yúxiāngròusī ， nà shì shuǐzhǔniúròu 。<br />Hey. Number 28 isn't fish-flavored pork slices. It's beef in chili broth.|
-|甲|是，我要的就是这个。<br />shì ， wǒ yào de jiùshì zhège 。<br />Yes. This is exactly the one I want.|
-|乙|我不清楚。<br />wǒ bù  qīngchu 。<br />I don't get it.|
+|甲|服务员，我要点一个水煮牛肉。<blockquote>fúwùyuán ， wǒ yào diǎn yī ge shuǐzhǔniúròu 。<br />Waiter, I'd like a beef in chili broth.</blockquote>|
+|乙|啊？<blockquote>a ？<br />Huh?</blockquote>|
+|甲|水煮牛肉，那个辣的，有牛肉的那个。<blockquote>shuǐzhǔniúròu ， nàge là de ， yǒu niúròu de nàge 。<br />Beef in chili broth. It's the hot one, the one with beef.</blockquote>|
+|乙|鱼香肉丝？<blockquote>yúxiāngròusī ？<br />Fish-flavoured pork slices?</blockquote>|
+|甲|不不不不不，水煮牛肉片，菜单上28号。<blockquote>bù bù bù bù bù ， shuǐzhǔniúròupiàn ， càidān shàng èrshíbā hào 。<br />No! The beef in chili broth. Number 28 on the menu.</blockquote>|
+|乙|哎，28号不是鱼香肉丝，那是水煮牛肉。<blockquote>ai ， èrshíbā hào bù shì yúxiāngròusī ， nà shì shuǐzhǔniúròu 。<br />Hey. Number 28 isn't fish-flavored pork slices. It's beef in chili broth.</blockquote>|
+|甲|是，我要的就是这个。<blockquote>shì ， wǒ yào de jiùshì zhège 。<br />Yes. This is exactly the one I want.</blockquote>|
+|乙|我不清楚。<blockquote>wǒ bù  qīngchu 。<br />I don't get it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

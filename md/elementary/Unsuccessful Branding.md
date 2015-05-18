@@ -1,6 +1,5 @@
 # Unsuccessful Branding
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：Bunny, 你给你妈买礼物了吗？
 乙：为什么？
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|Bunny, 你给你妈买礼物了吗？<br />Bunny, nǐ gěi nǐ mā mǎi lǐwù le ma ？<br />Bunny, did you buy a present for your mom?|
-|乙|为什么？<br />wèishénme ？<br />Why?|
-|甲|因为母亲节！<br />yīnwèi mǔqīnjié ！<br />Because of Mother's Day!|
-|乙|哦，我忘了！<br />o ， wǒ wàng le ！<br />Oh, I forgot!|
+|甲|Bunny, 你给你妈买礼物了吗？<blockquote>Bunny, nǐ gěi nǐ mā mǎi lǐwù le ma ？<br />Bunny, did you buy a present for your mom?</blockquote>|
+|乙|为什么？<blockquote>wèishénme ？<br />Why?</blockquote>|
+|甲|因为母亲节！<blockquote>yīnwèi mǔqīnjié ！<br />Because of Mother's Day!</blockquote>|
+|乙|哦，我忘了！<blockquote>o ， wǒ wàng le ！<br />Oh, I forgot!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

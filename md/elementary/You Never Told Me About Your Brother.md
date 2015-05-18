@@ -1,6 +1,5 @@
 # You Never Told Me About Your Brother
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 妈妈：喂？
 小秦：妈妈，生日快乐，我爱你！
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|妈妈|喂？<br />wéi ？<br />Hello?|
-|小秦|妈妈，生日快乐，我爱你！<br />māma ， shēngrì kuàilè ， wǒ ài nǐ ！<br />Happy birthday mom, I love you!|
-|妈妈|哎？小秦，我也爱你。<br />ài ？ Xiǎo Qín ， wǒ yě ài nǐ 。<br />Hey? Little Qin, I love you too.|
-|小秦|妈妈，现在我必须通知你，我可能会为我们的电话录音。这是法律的要求。<br />māma ， xiànzài wǒ bìxū tōngzhī nǐ ， wǒ kěnéng huì wèi wǒmen de diànhuà lùyīn 。 zhè shì fǎlǜ de yāoqiú 。<br />Mother, I have to inform you that I might be recording this telephone call. This is a legal requirement.|
-|妈妈|啊？<br />a ？<br />Huh?|
-|小秦|该死，他妈的机器。哎，妈妈。你等一下。我五分钟以后打过来。<br />gāisǐ ， tāmāde jīqì 。 āi ， māma 。 nǐ děng yīxià 。 wǒ wǔ fēnzhōng yǐhòu dǎ guòlai 。<br />Damn frigging machine. Hey Mom, wait a second. I'll call back in five minutes.|
+|妈妈|喂？<blockquote>wéi ？<br />Hello?</blockquote>|
+|小秦|妈妈，生日快乐，我爱你！<blockquote>māma ， shēngrì kuàilè ， wǒ ài nǐ ！<br />Happy birthday mom, I love you!</blockquote>|
+|妈妈|哎？小秦，我也爱你。<blockquote>ài ？ Xiǎo Qín ， wǒ yě ài nǐ 。<br />Hey? Little Qin, I love you too.</blockquote>|
+|小秦|妈妈，现在我必须通知你，我可能会为我们的电话录音。这是法律的要求。<blockquote>māma ， xiànzài wǒ bìxū tōngzhī nǐ ， wǒ kěnéng huì wèi wǒmen de diànhuà lùyīn 。 zhè shì fǎlǜ de yāoqiú 。<br />Mother, I have to inform you that I might be recording this telephone call. This is a legal requirement.</blockquote>|
+|妈妈|啊？<blockquote>a ？<br />Huh?</blockquote>|
+|小秦|该死，他妈的机器。哎，妈妈。你等一下。我五分钟以后打过来。<blockquote>gāisǐ ， tāmāde jīqì 。 āi ， māma 。 nǐ děng yīxià 。 wǒ wǔ fēnzhōng yǐhòu dǎ guòlai 。<br />Damn frigging machine. Hey Mom, wait a second. I'll call back in five minutes.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

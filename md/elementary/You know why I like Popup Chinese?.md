@@ -1,6 +1,5 @@
 # You know why I like Popup Chinese?
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 老公：亲爱的，你看，我给我们的儿子买了台游戏机！
 老婆：游戏机？他才两岁！
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|老公|亲爱的，你看，我给我们的儿子买了台游戏机！<br />qīnàide ， nǐ kàn ， wǒ gěi wǒmen de érzi mǎi le tái yóuxìjī ！<br />Darling, look. I bought a video game console for our son!|
-|老婆|游戏机？他才两岁！<br />yóuxìjī ？ tā cái liǎng suì ！<br />A video game console? He's only two years old!|
-|老公|这个可以学嘛。<br />zhège kěyǐ xué ma 。<br />He can learn to use it.|
-|老婆|可以学？你就是买给自己的！<br />kěyǐ xué ？ nǐ jiù shì mǎi gěi zìjǐ de ！<br />Study to use it? You just bought it for yourself!|
+|老公|亲爱的，你看，我给我们的儿子买了台游戏机！<blockquote>qīnàide ， nǐ kàn ， wǒ gěi wǒmen de érzi mǎi le tái yóuxìjī ！<br />Darling, look. I bought a video game console for our son!</blockquote>|
+|老婆|游戏机？他才两岁！<blockquote>yóuxìjī ？ tā cái liǎng suì ！<br />A video game console? He's only two years old!</blockquote>|
+|老公|这个可以学嘛。<blockquote>zhège kěyǐ xué ma 。<br />He can learn to use it.</blockquote>|
+|老婆|可以学？你就是买给自己的！<blockquote>kěyǐ xué ？ nǐ jiù shì mǎi gěi zìjǐ de ！<br />Study to use it? You just bought it for yourself!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

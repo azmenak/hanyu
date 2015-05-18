@@ -1,6 +1,5 @@
 # Baby Names and Severed Ears
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 甲：你女儿真漂亮。
 乙：哦，谢谢。
@@ -14,14 +13,14 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你女儿真漂亮。<br />nǐ nǚr zhēn piàoliang 。<br />Your daughter is very pretty.|
-|乙|哦，谢谢。<br />ò ， xièxie 。<br />Oh, thanks.|
-|甲|她叫什么名字？<br />tā jiào shénme míngzi ？<br />What's her name?|
-|乙|没想好。<br />méixiǎnghǎo 。<br />Haven't thought of one yet.|
-|甲|那，她多大了？<br />nà ， tā duō dà le ？<br />So, how old is she?|
-|乙|两三岁左右。<br />liǎng sān suì zuǒyòu 。<br />Around two or three.|
-|甲|两三岁了还没有取名字？<br />liǎng sān suì le hái méiyǒu qǔ míngzi ？<br />She's two or three years old and you still haven't picked a name for her?|
-|乙|我工作太忙了。<br />wǒ gōngzuò tài máng le 。<br />I've been really busy at work.|
+|甲|你女儿真漂亮。<blockquote>nǐ nǚr zhēn piàoliang 。<br />Your daughter is very pretty.</blockquote>|
+|乙|哦，谢谢。<blockquote>ò ， xièxie 。<br />Oh, thanks.</blockquote>|
+|甲|她叫什么名字？<blockquote>tā jiào shénme míngzi ？<br />What's her name?</blockquote>|
+|乙|没想好。<blockquote>méixiǎnghǎo 。<br />Haven't thought of one yet.</blockquote>|
+|甲|那，她多大了？<blockquote>nà ， tā duō dà le ？<br />So, how old is she?</blockquote>|
+|乙|两三岁左右。<blockquote>liǎng sān suì zuǒyòu 。<br />Around two or three.</blockquote>|
+|甲|两三岁了还没有取名字？<blockquote>liǎng sān suì le hái méiyǒu qǔ míngzi ？<br />She's two or three years old and you still haven't picked a name for her?</blockquote>|
+|乙|我工作太忙了。<blockquote>wǒ gōngzuò tài máng le 。<br />I've been really busy at work.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

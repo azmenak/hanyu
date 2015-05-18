@@ -1,6 +1,5 @@
 # Digital Volleyball
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 秦：你的笔记本真小啊！
 刘：这是上网本，不算笔记本。
@@ -11,11 +10,11 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|秦|你的笔记本真小啊！<br />nǐ de bǐjìběn zhēn xiǎo a ！<br />Your notebook is really small!|
-|刘|这是上网本，不算笔记本。<br />zhè shì shàngwǎngběn ， bù suàn bǐjìběn 。<br />This is a netbook. It's not really a notebook.|
-|秦|还很轻，你看，就像...... 不过，质量不大好。<br />hái hěn qīng ， nǐ kàn ， jiùxiàng ...... bùguò ， zhìliàng bù dà hǎo 。<br />It's really light, just like... then again, the quality isn't very good.|
-|刘|你弄坏了我的笔记本！<br />nǐ nòng huài le wǒ de bǐjìběn ！<br />You broke my notebook!|
-|秦|拜托，上网本。<br />bàituō ， shàngwǎngběn 。<br />Please, it's a netbook.|
+|秦|你的笔记本真小啊！<blockquote>nǐ de bǐjìběn zhēn xiǎo a ！<br />Your notebook is really small!</blockquote>|
+|刘|这是上网本，不算笔记本。<blockquote>zhè shì shàngwǎngběn ， bù suàn bǐjìběn 。<br />This is a netbook. It's not really a notebook.</blockquote>|
+|秦|还很轻，你看，就像...... 不过，质量不大好。<blockquote>hái hěn qīng ， nǐ kàn ， jiùxiàng ...... bùguò ， zhìliàng bù dà hǎo 。<br />It's really light, just like... then again, the quality isn't very good.</blockquote>|
+|刘|你弄坏了我的笔记本！<blockquote>nǐ nòng huài le wǒ de bǐjìběn ！<br />You broke my notebook!</blockquote>|
+|秦|拜托，上网本。<blockquote>bàituō ， shàngwǎngběn 。<br />Please, it's a netbook.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

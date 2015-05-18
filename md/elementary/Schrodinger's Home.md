@@ -1,6 +1,5 @@
 # Schrodinger's Home
-## *elementary* level
-
+**Elementary** level
 ### Chinese Text
 男：想看什么电影？
 女：不知道。现在有什么？
@@ -17,17 +16,17 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|想看什么电影？<br />xiǎng kàn shénme diànyǐng ？<br />What movie do you want to watch?|
-|女|不知道。现在有什么？<br />bù zhīdào 。 xiànzài yǒu shénme ？<br />I don't know. What's out?|
-|男|华尔街II，还有山楂树之恋。<br />huáěrjiē II ， hái yǒu shānzhāshù zhī liàn 。<br />Wall Street II and Hawthorn Tree Forever.|
-|女|嗯......<br />en ......<br />Hmm......|
-|男|华尔街II？<br />huáěrjiē II ？<br />Wall Street II?|
-|女|不想看。<br />bù xiǎng kàn 。<br />I don't want to see it.|
-|男|山楂树之恋？<br />shānzhāshùzhīliàn ？<br />Hawthorn Tree Forever?|
-|女|不想看。<br />bù xiǎng kàn 。<br />No.|
-|男|那我们可以再看一遍盗梦空间。<br />nà wǒmen kěyǐ zài kàn yī biàn dàomèngkōngjiān 。<br />Then we can see Inception one more time.|
-|女|什么？第十五遍？<br />shénme ？ dì shíwǔ biàn ？<br />What? For the 15th time?|
-|男|那你还有更好的建议吗？<br />nà nǐ hái yǒu gèng hǎo de jiànyì ma ？<br />Then do you have better suggestions?|
+|男|想看什么电影？<blockquote>xiǎng kàn shénme diànyǐng ？<br />What movie do you want to watch?</blockquote>|
+|女|不知道。现在有什么？<blockquote>bù zhīdào 。 xiànzài yǒu shénme ？<br />I don't know. What's out?</blockquote>|
+|男|华尔街II，还有山楂树之恋。<blockquote>huáěrjiē II ， hái yǒu shānzhāshù zhī liàn 。<br />Wall Street II and Hawthorn Tree Forever.</blockquote>|
+|女|嗯......<blockquote>en ......<br />Hmm......</blockquote>|
+|男|华尔街II？<blockquote>huáěrjiē II ？<br />Wall Street II?</blockquote>|
+|女|不想看。<blockquote>bù xiǎng kàn 。<br />I don't want to see it.</blockquote>|
+|男|山楂树之恋？<blockquote>shānzhāshùzhīliàn ？<br />Hawthorn Tree Forever?</blockquote>|
+|女|不想看。<blockquote>bù xiǎng kàn 。<br />No.</blockquote>|
+|男|那我们可以再看一遍盗梦空间。<blockquote>nà wǒmen kěyǐ zài kàn yī biàn dàomèngkōngjiān 。<br />Then we can see Inception one more time.</blockquote>|
+|女|什么？第十五遍？<blockquote>shénme ？ dì shíwǔ biàn ？<br />What? For the 15th time?</blockquote>|
+|男|那你还有更好的建议吗？<blockquote>nà nǐ hái yǒu gèng hǎo de jiànyì ma ？<br />Then do you have better suggestions?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

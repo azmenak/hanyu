@@ -1,6 +1,5 @@
 # A Lifetime of Remorse
-## *intermediate* level
-
+**Intermediate** level
 ### Chinese Text
 甲：希特勒，你的死期到了。把枪放下，战争结束了。
 乙：哈哈哈，傻美国佬儿。你们太天真了。
@@ -12,12 +11,12 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|希特勒，你的死期到了。把枪放下，战争结束了。<br />xītèlè ， nǐ de sǐqī dào le 。 bǎ qiāng fàngxià ， zhànzhēng jiéshù le 。<br />Hitler, your time is up. Put the gun down, the war is over.|
-|乙|哈哈哈，傻美国佬儿。你们太天真了。<br />hāhāhā ， shǎ Měiguó lǎor 。 nǐmen tài tiānzhēn le 。<br />Ha ha ha, foolish American. You're too naive.|
-|甲|我们中埋伏了，是德国的太监军团！<br />wǒmen zhòng máifu le ， shì Déguó de tàijian jūntuán ！<br />We've fallen into a trap, it's the German Eunuch Army!|
-|乙|没错儿！<br />méicuòr ！<br />That's right!|
-|甲|我以为你们只是一个传说。<br />wǒ yǐwéi nǐmen zhǐshì yī ge chuánshuō 。<br />I thought you were just a legend.|
-|乙|我的太监军团会让你们粉身碎骨。<br />wǒ de tàijian jūntuán huì ràng nǐmen fěnshēnsuìgǔ 。<br />My Eunuch Army will tear you to pieces.|
+|甲|希特勒，你的死期到了。把枪放下，战争结束了。<blockquote>xītèlè ， nǐ de sǐqī dào le 。 bǎ qiāng fàngxià ， zhànzhēng jiéshù le 。<br />Hitler, your time is up. Put the gun down, the war is over.</blockquote>|
+|乙|哈哈哈，傻美国佬儿。你们太天真了。<blockquote>hāhāhā ， shǎ Měiguó lǎor 。 nǐmen tài tiānzhēn le 。<br />Ha ha ha, foolish American. You're too naive.</blockquote>|
+|甲|我们中埋伏了，是德国的太监军团！<blockquote>wǒmen zhòng máifu le ， shì Déguó de tàijian jūntuán ！<br />We've fallen into a trap, it's the German Eunuch Army!</blockquote>|
+|乙|没错儿！<blockquote>méicuòr ！<br />That's right!</blockquote>|
+|甲|我以为你们只是一个传说。<blockquote>wǒ yǐwéi nǐmen zhǐshì yī ge chuánshuō 。<br />I thought you were just a legend.</blockquote>|
+|乙|我的太监军团会让你们粉身碎骨。<blockquote>wǒ de tàijian jūntuán huì ràng nǐmen fěnshēnsuìgǔ 。<br />My Eunuch Army will tear you to pieces.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

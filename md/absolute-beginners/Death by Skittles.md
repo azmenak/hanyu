@@ -1,6 +1,5 @@
 # Death by Skittles
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：哦，彩虹糖！
 甲：我吃一个。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哦，彩虹糖！<br />ò ， cǎihóngtáng ！<br />Oh, Skittles!|
-|甲|我吃一个。<br />wǒ chī yī ge 。<br />I'll have one.|
-|甲|真好吃。<br />zhēn hǎochī 。<br />Really delicious.|
-|甲|谢谢啊！<br />xièxiè ā ！<br />Thanks!|
+|甲|哦，彩虹糖！<blockquote>ò ， cǎihóngtáng ！<br />Oh, Skittles!</blockquote>|
+|甲|我吃一个。<blockquote>wǒ chī yī ge 。<br />I'll have one.</blockquote>|
+|甲|真好吃。<blockquote>zhēn hǎochī 。<br />Really delicious.</blockquote>|
+|甲|谢谢啊！<blockquote>xièxiè ā ！<br />Thanks!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

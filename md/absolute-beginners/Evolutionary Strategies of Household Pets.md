@@ -1,6 +1,5 @@
 # Evolutionary Strategies of Household Pets
-## *absolute-beginners* level
-
+**Absolute Beginners** level
 ### Chinese Text
 甲：那是你女朋友？
 乙：不，是我的猫。
@@ -10,10 +9,10 @@
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|那是你女朋友？<br />nà shì nǐ nǚpéngyou ？<br />Is that your girlfriend?|
-|乙|不，是我的猫。<br />bù ， shì wǒde māo 。<br />No, it's my cat.|
-|甲|它会打电话？<br />tā huì dǎ diànhuà ？<br />It can dial a phone?|
-|乙|嗯，对，它饿了。<br />en ， duì ， tā è le 。<br />Uh, yeah, it's hungry.|
+|甲|那是你女朋友？<blockquote>nà shì nǐ nǚpéngyou ？<br />Is that your girlfriend?</blockquote>|
+|乙|不，是我的猫。<blockquote>bù ， shì wǒde māo 。<br />No, it's my cat.</blockquote>|
+|甲|它会打电话？<blockquote>tā huì dǎ diànhuà ？<br />It can dial a phone?</blockquote>|
+|乙|嗯，对，它饿了。<blockquote>en ， duì ， tā è le 。<br />Uh, yeah, it's hungry.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
