@@ -1,8 +1,7 @@
 # How to Defuse a Bomb
 **Intermediate** level
 ### Chinese Text
-甲：炸弹爆破系统即将启动，现在开始倒计时：十，九，八，七，六......
-乙：没问题，我有把握，我在警察局已经学了很久了，我们只需要剪断那根红线。
+甲：炸弹爆破系统即将启动，现在开始倒计时：十，九，八，七，六......<br />乙：没问题，我有把握，我在警察局已经学了很久了，我们只需要剪断那根红线。
 甲：五，四，三，二......
 丙：啊？怎么？
 乙：难道是这根绿线吗？
@@ -22,12 +21,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|宝贝儿|bǎobèir|baby|noun|
-|直升机|zhíshēngjī|helicopter|noun|
-|遗产|yíchǎn|inheritance|noun|
-|公寓|gōngyù|apartment|noun|
-|首付|shǒufù|first payment|noun|
-|着什么急|zháo shénme jí|what are you getting agitated about|phrase|
-|什么租的|shénme zū de|what do you mean, rent|phrase|
-|而且|érqiě|and moreover|conjunction|
-|泡沫|pàomò|bubbles|noun|
+|炸弹|zhàdàn|bomb|noun|
+|爆破|bàopò|to detonate|verb|
+|系统|xìtǒng|system|noun|
+|即将|jí jiāng|will shortly|adverb|
+|启动|qǐdòng|to start|verb|
+|倒计时|dàojìshí|to count down|verb|
+|把握|bǎwò|to master|noun|
+|剪断|jiǎnduàn|to cut off|verb|
+|难道|nándào|can it be that|adverb|
+|根|gēn|(measure word for sections of wire)|measure word|

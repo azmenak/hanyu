@@ -1,8 +1,7 @@
 # Living Together
 **Elementary** level
 ### Chinese Text
-安迪：二七，你什么时候结的婚啊？
-二七：没有啊，我没有结婚啊。
+安迪：二七，你什么时候结的婚啊？<br />二七：没有啊，我没有结婚啊。
 安迪：啊？那你怎么跟你男朋友住在一起了?
 二七：哦，他刚搬过来。
 安迪：啊！非法同居！
@@ -22,13 +21,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|哎呀|āiya|good gracious|phrase|
-|再不|zài bù|if not|phrase|
-|闭嘴|bìzuǐ|to shut up|verb|
-|就|jiù|then|adverb|
-|掐死|qiāsǐ|to strangle to death|verb|
-|开车|kāichē|to drive a car|verb|
-|吓唬|xiàhu|to threaten|verb|
-|乖|guāi|obedient|adjective|
-|吵|chǎo|to disturb|verb|
-|沟|gōu|ditch|noun|
+|刚|gāng|recently|adverb|
+|结婚|jiéhūn|to marry|verb|
+|搬|bān|to move|verb|
+|非法|fēifǎ|illegal|adjective|
+|同居|tóngjū|to cohabitate|verb|
+|算|suàn|to count as|verb|
+|警察|jǐngchá|police|noun|
+|算账|suànzhàng|to settle the bill|verb|
+|计算机|jìsuànjī|computer|noun|
+|计算器|jìsuànqì|calculator|noun|
+|告诉|gàosu|to tell|verb|

@@ -1,8 +1,7 @@
 # Workplace Pickup Techniques
 **Elementary** level
 ### Chinese Text
-女：是你。
-男：是你啊.
+女：是你。<br />男：是你啊.
 男：我不知道你从这儿下来。
 女：就一个楼梯啊。
 男：你抽烟吗？
@@ -22,14 +21,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|回来|huílai|to come back|verb|
-|拜拜|báibái|bye-bye|phrase|
-|收拾|shōushi|to clean up|verb|
-|内裤|nèikù|underwear|noun|
-|趟|tàng|round trip|measure word|
-|秒|miǎo|second|noun|
-|分钟|fēnzhōng|minute|noun|
-|小时|xiǎoshí|hour|noun|
-|星期|xīngqī|week|noun|
-|干什么|gàn shénme|to do what|phrase|
-|十来天|shíláitiān|around ten days|phrase|
+|从|cóng|from|preposition|
+|到|dào|to|preposition|
+|远|yuǎn|far|adjective|
+|下来|xiàlai|to come down|verb|
+|知道|zhīdào|to know|verb|
+|楼梯|lóutī|stair|noun|
+|过道|guòdào|passage|noun|
+|抽烟|chōuyān|to smoke|verb|
+|电话|diànhuà|telephone|noun|
+|号码|hàomǎ|number|noun|
+|同事|tóngshì|coworker|noun|

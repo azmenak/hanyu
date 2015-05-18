@@ -1,8 +1,7 @@
 # This and That
 **Absolute Beginners** level
 ### Chinese Text
-A：这是什么？
-B：这个？
+A：这是什么？<br />B：这个？
 A：不是，那个！
 B：不知道。
 

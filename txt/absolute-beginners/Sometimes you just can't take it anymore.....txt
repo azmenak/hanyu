@@ -20,16 +20,13 @@
     zhù shǒu ！
     Stop it!
 ### Vocab
--我 (wǒ) [pronoun] me
--你 (nǐ) [pronoun] you
--什么时候 (shénme shíhòu) [phrase] when
--什么 (shénme) [question] what
--时候 (shíhòu) [noun] time
--去 (qù) [verb] to go
--来 (lái) [verb] to come
--吃饭 (chīfàn) [verb] to eat
--中国 (Zhōngguó) [country] China
--昨天 (zuótiān) [noun] yesterday
--飞机 (fēijī) [noun] airplane
--奶奶 (nǎinai) [noun] grandmother
--奶奶的 (nǎinai de) [phrase] goodness gracious
+-请 (qǐng) [other] please
+-停 (tíng) [verb] to stop
+-停下 (tíngxià) [verb] to stop
+-停车 (tíngchē) [phrase] stop the car
+-不要 (bù yào) [verb] not to want
+-松手 (sōngshǒu) [verb] to let go
+-不用了 (bù yòng le) [phrase] there's no need
+-够了 (gòu le) [phrase] enough
+-住手 (zhùshǒu) [verb] stop!
+-手 (shǒu) [noun] hand

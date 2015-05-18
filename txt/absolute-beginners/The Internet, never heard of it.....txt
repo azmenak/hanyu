@@ -2,23 +2,33 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-一：你舒服吗？
-二：我很舒服，为什么？啊！
-一：开玩笑。
+甲：你的手表在哪儿买的？
+乙：在网上。
+甲：什么网？
+乙：因特网。
+甲：哦，没听说过。
 
 ### Pinyin and Translation
 
-一: 你舒服吗？
-    nǐ shūfu ma ？
-    Are you comfortable?
+甲: 你的手表在哪儿买的？
+    nǐ de shǒubiǎo zài nǎr mǎi de ？
+    Where did you buy your watch?
 
-二: 我很舒服，为什么？啊！
-    wǒ hěn shūfu ， wèishénme ？ a ！
-    I'm very comfortable, why? Arg!
+乙: 在网上。
+    zài wǎngshàng 。
+    On the Internet.
 
-一: 开玩笑。
-    kāi wánxiào 。
-    Just kidding.
+甲: 什么网？
+    shénme wǎng ？
+    Which website?
+
+乙: 因特网。
+    yīntèwǎng 。
+    The Internet.
+
+甲: 哦，没听说过。
+    ò ， méi tīngshuō guo 。
+    Oh, never heard of it.
 ### Vocab
 -你 (nǐ) [pronoun] you
 -在 (zài) [preposition] at

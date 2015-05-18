@@ -1,8 +1,7 @@
 # Death by Skittles
 **Absolute Beginners** level
 ### Chinese Text
-甲：哦，彩虹糖！
-甲：我吃一个。
+甲：哦，彩虹糖！<br />甲：我吃一个。
 甲：真好吃。
 甲：谢谢啊！
 
@@ -16,14 +15,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|我|wǒ|I|pronoun|
-|我爱你|wǒ ài nǐ|I love you|phrase|
-|你|nǐ|you|pronoun|
-|他|tā|he|pronoun|
-|是|shì|to be|verb|
-|谁|shéi|who|question|
-|宝贝|bǎobèi|baby|noun|
-|不|bù|not|adverb|
-|认识|rènshi|to recognize|verb|
-|知道|zhīdào|to know|verb|
-|爱|ài|to love|verb|
+|糖|táng|sugar, candy|noun|
+|彩虹糖|cǎihóngtáng|Skittles|noun|
+|巧克力|qiǎokelì|chocolate|noun|
+|冰淇凌|bīngqilíng|ice cream|noun|
+|蛋糕|dàngāo|cake|noun|
+|圆筒|yuántǒng|cone|noun|
+|奶昔|nǎixī|milkshake|noun|
+|新地|xīndì|sundae|noun|

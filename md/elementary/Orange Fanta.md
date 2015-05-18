@@ -1,38 +1,39 @@
 # Orange Fanta
 **Elementary** level
 ### Chinese Text
-甲：先生，您的菜上齐了。要点什么饮料吗？
-乙：啊，给我来瓶芬达吧。
-甲：哦，不好意思，我们这里没有芬达，只有果粒橙。
-乙：果粒橙？
-甲：对，就是山寨版的芬达。其实也还行。
-乙：你确定你没有芬达？
-甲：真的没有。果粒橙一样。山寨版芬达。中国出品。
-乙：那，来一瓶儿吧。
-甲：好嘞，一瓶果粒橙。
+甲：给我来一个汉堡，加一听芬达。<br />乙：什么？你要芬达？
+甲：没错。
+乙：你多大岁数了？
+甲：啊？
+乙：你有二十五，三十了吧？这还喝芬达？
+甲：我喜欢。清爽！不行吗？
+乙：那个，一点橙子味儿都没有。还是给你来听可乐吧。
+甲：我就想喝芬达！
+乙：你他妈能成熟点儿吗？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|先生，您的菜上齐了。要点什么饮料吗？<blockquote>xiānsheng ， nín de cài shàngqí le 。 yào diǎn shénme yǐnliào ma ？<br />Mister, your food is all here. Did you want to order any drink?</blockquote>|
-|乙|啊，给我来瓶芬达吧。<blockquote>ā ， gěi wǒ lái píng fēndá ba 。<br />Ah, give me a bottle of Fanta.</blockquote>|
-|甲|哦，不好意思，我们这里没有芬达，只有果粒橙。<blockquote>ò ， bùhǎoyìsi ， wǒmen zhèli méiyǒu fēndá ， zhǐ yǒu guǒlìchéng 。<br />Oh, sorry, we don't have Fanta here, just Guolicheng.</blockquote>|
-|乙|果粒橙？<blockquote>guǒlìchén ？<br />Guolicheng?</blockquote>|
-|甲|对，就是山寨版的芬达。其实也还行。<blockquote>duì ， jiùshì shānzhàibǎn de fēndá 。 qíshí yě hái xíng 。<br />Right, it's the shanzhai version of Fanta. It's actually ok.</blockquote>|
-|乙|你确定你没有芬达？<blockquote>nǐ quèdìng nǐ méiyǒu fēndá ？<br />Are you sure you don't have Fanta?</blockquote>|
-|甲|真的没有。果粒橙一样。山寨版芬达。中国出品。<blockquote>zhēnde méiyǒu 。 guǒlìchén yīyàng 。 shānzhàibǎn fēndá 。 Zhōngguó chūpǐn 。<br />We really don't. Guolicheng is the same. It's the shanzhai version. Made in China.</blockquote>|
-|乙|那，来一瓶儿吧。<blockquote>nà ， lái yī píngér ba 。<br />Ok, give me a bottle.</blockquote>|
-|甲|好嘞，一瓶果粒橙。<blockquote>hǎolei ， yī píng guǒlìchén 。<br />Great, one bottle of Guolicheng.</blockquote>|
+|甲|给我来一个汉堡，加一听芬达。<blockquote>gěi wǒ lái yī ge hànbǎo ， jiā yī tīng Fēndá 。<br />Give me a hamburger and a Fanta.</blockquote>|
+|乙|什么？你要芬达？<blockquote>shénme ？ nǐ yào fēndá ？<br />What? You want Fanta?</blockquote>|
+|甲|没错。<blockquote>méicuò 。<br />That's right.</blockquote>|
+|乙|你多大岁数了？<blockquote>nǐ duō dà suìshu le ？<br />How old are you anyway?</blockquote>|
+|甲|啊？<blockquote>ā ？<br />Huh?</blockquote>|
+|乙|你有二十五，三十了吧？这还喝芬达？<blockquote>nǐ yǒu èrshíwǔ ， sānshí le ba ？ zhè hái hē fēndá ？<br />You're what? Twenty-five? Thirty? And you're still drinking Fanta?</blockquote>|
+|甲|我喜欢。清爽！不行吗？<blockquote>wǒ xǐhuān 。 qīngshuǎng ！ bù xíng ma ？<br />I like it. It's refreshing. Is there anything wrong with that?</blockquote>|
+|乙|那个，一点橙子味儿都没有。还是给你来听可乐吧。<blockquote>nà ge ， yīdiǎn chéngzi wèir dōu méiyǒu 。 hái shì gěi nǐ lái tīng kělè ba 。<br />That doesn't taste the slightest bit like oranges. I'll bring you a Coke instead.</blockquote>|
+|甲|我就想喝芬达！<blockquote>wǒ jiù xiǎng hē fēndá ！<br />I want a Fanta!</blockquote>|
+|乙|你他妈能成熟点儿吗？<blockquote>nǐ tāmā néng chéngshú diǎnr ma ？<br />Can you frigging grow up?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|从来|cónglái|ever before|adverb|
-|从没|cóngméi|never before|adverb|
-|帅|shuài|handsome|adjective|
-|告诉|gàosu|to tell|verb|
-|长得|zhǎng de|to look like|verb|
-|等|děng|to wait|verb|
-|像|xiàng|to resemble|verb|
-|来着|láizhe|just now|other|
-|哥哥|gēge|older brother|noun|
-|布拉德皮特|Bùlādé Pítè|Brad Pitt|person|
+|汉堡|hànbǎo|hamburger|noun|
+|芬达|Fēndá|Fanta|noun|
+|岁数|suìshu|age in years|noun|
+|橙子|chéngzi|orange|noun|
+|味儿|wèir|taste|noun|
+|清爽|qīngshuǎng|fresh and cool|adjective|
+|成熟|chéngshú|mature|adjective|
+|听|tīng|tin|measure word|
+|瓶|píng|bottle|measure word|
+|罐|guàn|can|measure word|

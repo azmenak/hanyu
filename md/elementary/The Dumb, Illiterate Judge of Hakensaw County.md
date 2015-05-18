@@ -1,35 +1,34 @@
 # The Dumb, Illiterate Judge of Hakensaw County
 **Elementary** level
 ### Chinese Text
-甲：哎，你喂猫了吗？
-乙：没有，你喂猫了吗？
-甲：没有。你昨天喂了吗？
-乙：没有，你呢？
-甲：我也没喂。
-乙：怪不得他今天这么老实。
+甲：被告，请问你什么时候第一次听说王大明杀了他舅舅？<br />乙：法官大人，我反对。这是传闻。
+乙：反对无效？
+甲：谢谢您法官大人。
+乙：但这只是一个传闻。法庭不能把传闻作为证据！
+乙：是法官大人。我向法庭道歉。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，你喂猫了吗？<blockquote>ai ， nǐ wèi māo le ma ？<br />Hey, you feed the cat?</blockquote>|
-|乙|没有，你喂猫了吗？<blockquote>méiyǒu ， nǐ wèi māo le ma ？<br />No, you feed the cat?</blockquote>|
-|甲|没有。你昨天喂了吗？<blockquote>méiyǒu 。 nǐ zuótiān wèi le ma ？<br />No. Did you feed it yesterday?</blockquote>|
-|乙|没有，你呢？<blockquote>méiyǒu ， nǐ ne ？<br />No, you?</blockquote>|
-|甲|我也没喂。<blockquote>wǒ yě méi wèi 。<br />I didn't either.</blockquote>|
-|乙|怪不得他今天这么老实。<blockquote>guàibudé tā jīntiān zhème lǎoshi 。<br />No wonder he's being so good today.</blockquote>|
+|甲|被告，请问你什么时候第一次听说王大明杀了他舅舅？<blockquote>bèigào ， qǐngwèn nǐ shénme shíhòu dì yī cì tīngshuō Wáng Dàmíng shā le tā jiùjiu ？<br />Defendent, when was the first time you heard that Wang Daming killed his uncle?</blockquote>|
+|乙|法官大人，我反对。这是传闻。<blockquote>fǎguān dàren ， wǒ fǎnduì 。 zhè shì chuánwén 。<br />I object Your Honor. This is hearsay.</blockquote>|
+|乙|反对无效？<blockquote>fǎnduì wúxiào ？<br />Objection overruled?</blockquote>|
+|甲|谢谢您法官大人。<blockquote>xièxiè nín fǎguān dàren 。<br />Thank you, Your Honor.</blockquote>|
+|乙|但这只是一个传闻。法庭不能把传闻作为证据！<blockquote>dàn zhè zhǐ shì yī ge chuánwén 。 fǎtíng bù néng bǎ chuánwén zuòwéi zhèngju ！<br />But this is only hearsay. The court can't take hearsay as evidence!</blockquote>|
+|乙|是法官大人。我向法庭道歉。<blockquote>shì fǎguān dàren 。 wǒ xiàng fǎtíng dàoqiàn 。<br />Yes, Your Honor. I apologize to the court.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|芬达|fēndá|Fanta|noun|
-|刚|gāng|just recently|adverb|
-|瓶|píng|bottle|measure word|
-|吧|ba|(suggestion)|particle|
-|正好|zhènghǎo|as it happens|adverb|
-|就着|jiùzhe|together with|verb|
-|就|jiù|along with|verb|
-|披萨|pīsà|pizza|noun|
-|一起|yīqǐ|together|adverb|
-|原始人|yuánshǐrén|caveman|noun|
-|厨房|chúfáng|kitchen|noun|
-|可|kě|(adds emphasis)|particle|
-|可是|kěshì|but|conjunction|
+|被告|bèigào|defendant|noun|
+|听说|tīngshuō|to hear it said|verb|
+|舅舅|jiùjiu|uncle|non|
+|法官大人|fǎguān dàren|Your Honor|phrase|
+|反对|fǎnduì|to oppose|verb|
+|传闻|chuánwén|rumor; hearsay|noun|
+|无效|wúxiào|to be ineffective|adjective|
+|法庭|fǎtíng|court of law|noun|
+|证据|zhèngju|evidence|noun|
+|道歉|dàoqiàn|to apologize|verb|
+|无聊|wúliáo|boring|adjective|
+|无语|wúyǔ|speechless|adjective|
+|无罪|wúzuì|innocent|adjective|

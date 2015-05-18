@@ -1,42 +1,29 @@
 # In Cold Blood
 **Intermediate** level
 ### Chinese Text
-Rose：Jack, 快醒醒!泰坦尼克号出事了!
-Jack：哦 Rose, 怎么了?
-Rose：咱们的地板已经开始渗水了。
-Jack：那好像是我的洗澡水吧。
-Rose：哦，不，那一定是海水。我刚才看见窗外有冰川。
-Jack：冰川那得多少座啊！好像是冰山啊！
-Rose：太可怕了。怎么办？
-Jack：咱们想想怎么能逃生吧。
-Rose：头等舱的人。每个房间都有一个救生艇。咱们应该也有啊。
-Jack：找找。
-Rose：咱们的在哪儿呢？
-Jack：好像没有。
-Rose：哦，都怪你。一定是你买了次等舱的船票，所以咱们才没有的。
-Jack：咱们这点儿钱只够买三等舱的呀。
-Rose：那现在怎么办？
-Jack：咱们去抢一条吧。
+律师：2008年11月28号晚上八点左右，你在哪儿？<br />女人：我已经说了，跟我朋友在一块儿。您还想知道什么？
+律师：那你怎么解释我们在犯罪现场发现的窗台上有你的脚印儿?
+女人：门被反锁了我当然只有从窗台进了。
+律师：可是除了你进屋的痕迹以外我们没有发现别人的。
+女人：能说明什么?
+律师：在伤害你丈夫的凶器上只有你的指纹。
+女人：我家的东西有我的指纹，这一点都不奇怪。
+律师：指纹是你的，脚印是你的，而且在你的丈夫去世前的一周 ，你恰好把他的保险单受益人的名字也改成你的。你觉得这仅仅是巧合吗？
+女人：我丈夫他是该死，可是我并没有杀他。假使真的是我杀了他，你们也没有足够的证据来起诉我。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|Rose|Jack, 快醒醒!泰坦尼克号出事了!<blockquote>Jack, kuài xǐngxǐng ! Tàitǎnníkè hào chūshì le !<br />Wake up Jack, Titanic has had an accident!</blockquote>|
-|Jack|哦 Rose, 怎么了?<blockquote>o  Rose, zěnmele ?<br />Oh Rose, whatever shall we do?</blockquote>|
-|Rose|咱们的地板已经开始渗水了。<blockquote>zánmen de dìbǎn yǐjīng kāishǐ shènshuǐ le 。<br />Our floor is already covered with water.</blockquote>|
-|Jack|那好像是我的洗澡水吧。<blockquote>nà hǎoxiàng shì wǒ de xǐzǎoshuǐ ba 。<br />Oh, that's just the water from my shower.</blockquote>|
-|Rose|哦，不，那一定是海水。我刚才看见窗外有冰川。<blockquote>o ， bù ， nà yīdìng shì hǎishuǐ 。 wǒ gāngcái kànjiàn chuāngwài yǒu bīngchuān 。<br />Oh no, that's seawater. I just saw an iceberg out the window.</blockquote>|
-|Jack|冰川那得多少座啊！好像是冰山啊！<blockquote>bīngchuān nà děi duōshao zuò a ！ hǎoxiàng shì bīngshān a ！<br />Glacier? How many icebergs do you think it has? I think it's an iceberg!</blockquote>|
-|Rose|太可怕了。怎么办？<blockquote>tài kěpà le 。 zěnmebàn ？<br />It's awful. What will we do.</blockquote>|
-|Jack|咱们想想怎么能逃生吧。<blockquote>zánmen xiǎngxiang zěnme néng táoshēng ba 。<br />We've got to think of how to escape with our lives.</blockquote>|
-|Rose|头等舱的人。每个房间都有一个救生艇。咱们应该也有啊。<blockquote>tóuděngcāng de rén 。 měi ge fángjiān dōu yǒu yī ge jiùshēngtǐng 。 zánmen yīnggāi yě yǒu a 。<br />Everyone in first class has their own lifeboat. We should have one here too.</blockquote>|
-|Jack|找找。<blockquote>zhǎozhao 。<br />Look.</blockquote>|
-|Rose|咱们的在哪儿呢？<blockquote>zánmen de zài nǎr ne ？<br />Where is ours!</blockquote>|
-|Jack|好像没有。<blockquote>hǎoxiàng méiyǒu 。<br />Doesn't seem to be one.</blockquote>|
-|Rose|哦，都怪你。一定是你买了次等舱的船票，所以咱们才没有的。<blockquote>o ， dōu guài nǐ 。 yīdìng shì nǐ mǎi le cì děng cāng de chuánpiào ， suǒyǐ zánmen cái méiyǒu de 。<br />Oh, this is all your fault. We'd have a lifeboat if you hadn't bought such bad tickets.</blockquote>|
-|Jack|咱们这点儿钱只够买三等舱的呀。<blockquote>zánmen zhèdiǎnér qián zhǐ gòu mǎi sānděngcāng de ya 。<br />We only had enough money for a third-class cabin.</blockquote>|
-|Rose|那现在怎么办？<blockquote>nà xiànzài zěnmebàn ？<br />So what do we do now?</blockquote>|
-|Jack|咱们去抢一条吧。<blockquote>zánmen qù qiǎng yī tiáo ba 。<br />Let's go steal one.</blockquote>|
+|律师|2008年11月28号晚上八点左右，你在哪儿？<blockquote>èrlínglíngbā nián shíyī yuè èrshíbā hào wǎnshang bā diǎn zuǒyòu ， nǐ zài nar3 ？<br />Where were you around o'clock on the evening of November 28, 2008?</blockquote>|
+|女人|我已经说了，跟我朋友在一块儿。您还想知道什么？<blockquote>wǒ yǐjīng shuō le ， gēn wǒ péngyou zài yī kuàir 。 nín hái xiǎng zhīdào shénme ？<br />I've already told you. I was together with friends.What else do you want to know?</blockquote>|
+|律师|那你怎么解释我们在犯罪现场发现的窗台上有你的脚印儿?<blockquote>nà nǐ zěnme jiěshì wǒmen zài fànzuì xiànchǎng fāxiàn de chuāngtái shàng yǒu nǐ de jiǎoyìnr ?<br />So how can you explain the footprint of yours we found on the windowsill of the crime scene?</blockquote>|
+|女人|门被反锁了我当然只有从窗台进了。<blockquote>mén bèi fǎnsuǒ le wǒ dāngrán zhǐyǒu cóng chuāngtái jìn le 。<br />Of course I went in through the window. The door had been locked from the inside.</blockquote>|
+|律师|可是除了你进屋的痕迹以外我们没有发现别人的。<blockquote>kěshì chúle nǐ jìn wū de hénjì yǐwài wǒmen méiyǒu fāxiàn biérén de 。<br />But except for the evidence of your entering the house, we didn't find evidence anyone else had.</blockquote>|
+|女人|能说明什么?<blockquote>néng shuōmíng shénme ?<br />What does that prove?</blockquote>|
+|律师|在伤害你丈夫的凶器上只有你的指纹。<blockquote>zài shānghài nǐ zhàngfu de xiōngqì shàng zhǐyǒu nǐ de zhǐwén 。<br />Yours were the only fingerprints on the weapon that killed your husband.</blockquote>|
+|女人|我家的东西有我的指纹，这一点都不奇怪。<blockquote>wǒ jiā de dōngxi yǒu wǒ de zhǐwén ， zhè yīdiǎn dōu bù qíguài 。<br />My fingerprints are on the things in my house, that's not the least out of the ordinary.</blockquote>|
+|律师|指纹是你的，脚印是你的，而且在你的丈夫去世前的一周 ，你恰好把他的保险单受益人的名字也改成你的。你觉得这仅仅是巧合吗？<blockquote>zhǐwén shì nǐ de ， jiǎoyìn shì nǐ de ， érqiě zài nǐ de zhàngfu qùshì qián de yī zhōu  ， nǐ qiàhǎo bǎ tā de bǎoxiǎndān shòuyìrén de míngzi yě gǎi chéng nǐ de 。 nǐ juéde zhè jǐnjǐn shì qiǎohé ma ？<br />The fingerprints are yours. The footprints are yours. And as it happened the very week before your husband's death you made yourself the beneficiary on his insurance papers. Don't you feel that's a bit too coincidental?</blockquote>|
+|女人|我丈夫他是该死，可是我并没有杀他。假使真的是我杀了他，你们也没有足够的证据来起诉我。<blockquote>wǒ zhàngfu tā shì gāisǐ ， kěshì wǒ bìng méiyǒu shā tā 。 jiǎshǐ zhēnde shì wǒ shā le tā ， nǐmen yě méiyǒu zúgòu de zhèngju lái qǐsù wǒ 。<br />My husband deserved to die, but I didn't kill him. And even if I did, you don't have enough evidence to take me to court.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

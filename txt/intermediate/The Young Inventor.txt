@@ -40,14 +40,14 @@
       o ， Xiǎo Liáng ， nǐ yòu táoqì le ！
       Oh, Little Liang, you're acting up again!
 ### Vocab
--伏 (fú) [unit] volt
--瓦 (wǎ) [unit] watt
--千瓦 (qiānwǎ) [unit] kilowatt
--千瓦时 (qiānwǎshí) [unit] kilowatt hour
--度 (dù) [noun] point
--升 (shēng) [unit] liter
--毫升 (háoshēng) [unit] milliliter
--厘米 (lǐmǐ) [unit] centimeter
--毫米 (háomǐ) [unit] millimeter
--华氏 (huáshì) [unit] fahrenheit
--摄氏 (shèshì) [unit] celcius
+-按 (àn) [verb] to press
+-按钮 (ànniǔ) [noun] button
+-发明 (fāmíng) [verb] to invent
+-激光 (jīguāng) [noun] laser
+-发射器 (fāshèqì) [noun] launching device
+-淘气 (táoqì) [verb] to act up
+-电死 (diànsǐ) [verb] to electrocute
+-熏死 (xūnsǐ) [verb] to asphyxiate
+-扎死 (zhāsǐ) [verb] to impale
+-掐死 (qiāsǐ) [verb] to throttle
+-淹死 (yānsǐ) [verb] to drown

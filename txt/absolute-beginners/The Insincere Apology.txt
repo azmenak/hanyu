@@ -25,15 +25,12 @@
     āi ， bùhǎoyìsi ！
     Hey, sorry about that!
 ### Vocab
--我 (wǒ) [pronoun] I, me
+-怎么 (zěnme) [unknown] how
+-下雨 (xiàyǔ) [unknown] to rain
+-没 (méi) [adverb] not to have
+-我 (wǒ) [unknown] I
 -你 (nǐ) [pronoun] you
--钥匙 (yàoshi) [noun] key
--手机 (shǒujī) [noun] cellphone
--钱包 (qiánbāo) [noun] wallet
--昨天 (zuótiān) [noun] yesterday
--在 (zài) [verb] to be at
--知道 (zhīdào) [verb] to know
--看 (kàn) [verb] to look
--见 (jiàn) [verb] to see
--哪儿 (nǎr) [question] where
--怎么 (zěnme) [question] how
+-不 (bù) [adverb] not
+-好 (hǎo) [adjective] good
+-意思 (yìsi) [noun] idea
+-不好意思 (bùhǎoyìsi) [phrase] sorry about that

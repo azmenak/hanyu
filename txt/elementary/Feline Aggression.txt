@@ -35,15 +35,11 @@ Scratched me!
 huàidàn ！
 Bad cat!
 ### Vocab
--警官 (jǐngguān) [noun] police chief
--警卫 (jǐngwèi) [noun] police officers
--歹徒 (dǎitú) [noun] robbers
--劫持 (jiéchí) [verb] to seize
--人质 (rénzhì) [noun] hostages
--露台 (lùtái) [noun] rooftop
--封锁 (fēngsuǒ) [verb] to seal off
--把守 (bǎshǒu) [verb] to guard
--提出 (tíchū) [verb] to raise
--赎金 (shújīn) [noun] ransom
--斥巨资 (chì jùzī) [verb] to invest a large sum
--释放 (shìfàng) [verb] to release
+-猫 (māo) [noun] cat
+-小猫 (xiǎomāo) [noun] kitten
+-咪咪 (mīmī) [name] kitty
+-坏蛋 (huàidàn) [noun] bad person
+-过来 (guòlai) [verb] to come over
+-过不过来 (guò bu guòlai) [verb phrase] to come over or not
+-啊 (à) [expression] ouch!
+-抓 (zhuā) [verb] to scratch

@@ -35,14 +35,12 @@
       zhēnde yǒu nàme chàjìn ma ？
       Is it really that bad?
 ### Vocab
--不好 (bù hǎo) [adjective] not good
--不舒服 (bù shūfu) [adjective] uncomfortable
--头晕 (tóuyūn) [adjective] dizzy
--恶心 (ěxīn) [adjective] nauseous
--疼 (téng) [adjective] painful
--累 (lèi) [adjective] tired
--困 (kùn) [adjective] sleepy
--感觉 (gǎnjué) [verb] to feel
--习惯 (xíguàn) [verb] to be accustomed
--让 (ràng) [verb] to make
--粥 (zhōu) [noun] rice gruel
+-几 (jǐ) [question] how many
+-看不出来 (kàn bù chūlái) [verb] to be unable to tell
+-怎么 (zěnme) [question] how
+-这么 (zhème) [adverb] so very
+-糟糕 (zāogāo) [adjective] awful
+-自己 (zìji) [noun] oneself
+-觉得 (juéde) [verb] to feel
+-好好 (hǎohāo) [adverb] very well
+-差劲 (chàjìn) [adjective] poor; lacking

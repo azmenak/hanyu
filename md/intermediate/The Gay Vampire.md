@@ -1,24 +1,27 @@
 # The Gay Vampire
 **Intermediate** level
 ### Chinese Text
-甲：哟，今天心情不错呀！
-乙：你不知道，昨儿晚上我跟一个身材非常火辣的内衣模特过了一夜。
-甲：去哪儿逍遥了？
-乙：在他家。我们首先跳了一支舞，然后我把他放在床上，在他的脖子上开了一个小口，再把吸管插进去，那个味道真是----滴滴香浓，百分之百男人味儿。
-甲：行了！别说了！
-乙：你接受不了了，你鄙视我是不是？因为你知道我是一个同志。
-甲：没有，没有没有，是因为吸血鬼的事儿。
+甲：还记得我怕阳光的事情吗？还有，我很喜欢喝蕃茄汁儿。<br />乙：知道。
+甲：不过那些都不是蕃茄汁儿。
+乙：什么？
+甲：我要告诉你的是：我是吸血鬼。
+乙：你不会吸我的血吧？
+甲：应该不会吧。
+乙：哦，那没关系，现在都二十一世纪了。
+甲：不过还有一件事儿。我也是个同性恋。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哟，今天心情不错呀！<blockquote>yo ， jīntiān xīnqíng bùcuò ya ！<br />Hey, you're in a good mood today!</blockquote>|
-|乙|你不知道，昨儿晚上我跟一个身材非常火辣的内衣模特过了一夜。<blockquote>nǐ bù zhīdào ， zuór wǎnshang wǒ gēn yī ge shēncái fēicháng huǒlà de nèiyī mótè guò le yī yè 。<br />You don't know. Yesterday I spent the night with an absolutely smoking underwear model.</blockquote>|
-|甲|去哪儿逍遥了？<blockquote>qù nǎr xiāoyáo le ？<br />Where did you go?</blockquote>|
-|乙|在他家。我们首先跳了一支舞，然后我把他放在床上，在他的脖子上开了一个小口，再把吸管插进去，那个味道真是----滴滴香浓，百分之百男人味儿。<blockquote>zài tā jiā 。 wǒmen shǒuxiān tiào le yī zhī wǔ ， ránhòu wǒ bǎ tā fàng zài chuáng shàng ， zài tā de bózi shàng kāi le yī ge xiǎokǒu ， zài bǎ xīguǎn chā jìnqù ， nàge wèidao zhēnshì ---- dīdī xiāng nóng ， bǎifēnzhībǎi nánrén wèir 。<br />His place. First we danced, and then I put him on the bed, opened a small hole in his neck and stuck in my straw. Every drop tasted really fragrant. 100% man-flavor.</blockquote>|
-|甲|行了！别说了！<blockquote>xíng le ！ bié shuō le ！<br />That's enough! Stop talking about it!</blockquote>|
-|乙|你接受不了了，你鄙视我是不是？因为你知道我是一个同志。<blockquote>nǐ jiēshòu bu liǎo le ， nǐ bǐshì wǒ shìbùshì ？ yīnwèi nǐ zhīdào wǒ shì yī ge tóngzhì 。<br />You can't take it? You look down on me? It's because I'm gay, no?</blockquote>|
-|甲|没有，没有没有，是因为吸血鬼的事儿。<blockquote>méiyǒu ， méiyǒu méiyǒu ， shì yīnwèi xīxuèguǐ de shìr 。<br />No, no, no. It's the vampire bit.</blockquote>|
+|甲|还记得我怕阳光的事情吗？还有，我很喜欢喝蕃茄汁儿。<blockquote>hái jìde wǒ pà yángguāng de shìqing ma ？ háiyǒu ， wǒ hěn xǐhuan hē fānqiézhīr 。<br />Remember that thing about my fear of sunlight? And about how much I like tomato juice?</blockquote>|
+|乙|知道。<blockquote>zhīdào 。<br />Yeah.</blockquote>|
+|甲|不过那些都不是蕃茄汁儿。<blockquote>bùguò nà xiē dōu bù shì fānqiézhīr 。<br />Well, it wasn't tomato juice.</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|甲|我要告诉你的是：我是吸血鬼。<blockquote>wǒ yào gàosu nǐ de shì ： wǒ shì xīxuèguǐ 。<br />What I want to tell you is, I'm a vampire.</blockquote>|
+|乙|你不会吸我的血吧？<blockquote>nǐ bù huì xī wǒ de xiě ba ？<br />You won't suck my blood, will you?</blockquote>|
+|甲|应该不会吧。<blockquote>yīnggāi bù huì ba 。<br />Probably not.</blockquote>|
+|乙|哦，那没关系，现在都二十一世纪了。<blockquote>ò ， nà méi guānxi ， xiànzài dōu èrshí yī shìjì le 。<br />Oh, then no worries. It's the 21st century now.</blockquote>|
+|甲|不过还有一件事儿。我也是个同性恋。<blockquote>búguò hái yǒu yī jiàn shìr 。 wǒ yě shì ge tóngxìngliàn 。<br />But there's one more thing. I'm also a homosexual.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

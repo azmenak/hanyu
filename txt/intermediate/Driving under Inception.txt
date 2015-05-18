@@ -2,50 +2,74 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：我们...分手吧。
-乙：别把自己当回事，像你这种人，满大街都是。
-甲：呃...
-乙：哈，没了我的钱，你连一天都活不了。
-甲：我...我能靠自己！
-乙：好，你去靠，后面排着呢。
+甲：哎，高，你看了《盗梦空间》了吗？
+乙：看了，我特喜欢他们那几个人开着车往河里冲那镜头。
+甲：哎，我也是。
+乙：是吗？
+甲：我跟你讲，刚才我跟西西说了，让他租了一辆吉普，然后买了好多安眠药。
+丙：哎，安眠药准备好了。
+甲：哎，马上马上。
+乙：什么准备好了？
+甲：哎，走吧，咱们俩一块儿。快点儿。
+丙：我都快困死了。
+乙：我可不想吃什么安眠药。
+甲：那你就开车呗。
 
 ### Pinyin and Translation
 
-甲: 我们...分手吧。
-    wǒmen ... fēnshǒu ba 。
-    Let's break up.
+甲: 哎，高，你看了《盗梦空间》了吗？
+    āi ， gāo ， nǐ kàn le 《 dàomèng kōngjiān 》 le ma ？
+    Hey Gao, have you seen Inception?
 
-乙: 别把自己当回事，像你这种人，满大街都是。
-    bié bǎ zìjǐ dāng huíshì ， xiàng nǐ zhè 种 rén ， mǎn dàjiē dōu shì 。
-    Don't think you're anything special. The streets are full of people like you.
+乙: 看了，我特喜欢他们那几个人开着车往河里冲那镜头。
+    kàn le ， wǒ tè xǐhuān tāmen nà jǐ gè rén kāizhe chē wǎng hé lǐ chōng nà jìngtóu 。
+    Yeah. I especially liked the scene where they drove that van into the river.
 
-甲: 呃...
-    e ...
-    Uh....
+甲: 哎，我也是。
+    āi ， wǒ yě shì 。
+    Oh, me too.
 
-乙: 哈，没了我的钱，你连一天都活不了。
-    hā ， méi le wǒ de qián ， nǐ lián yī tiān dōu huóbù liǎo 。
-    Ha! You wouldn't last a single day without my money.
+乙: 是吗？
+    shìma ？
+    Really?
 
-甲: 我...我能靠自己！
-    wǒ ... wǒ néng kào zìjǐ ！
-    I... I can support myself!
+甲: 我跟你讲，刚才我跟西西说了，让他租了一辆吉普，然后买了好多安眠药。
+    wǒ gēn nǐ jiǎng ， gāngcái wǒ gēn xīxī shuō le ， ràng tā zū le yī liàng jípǔ ， ránhòu mǎi le hǎo duō ānmiányào 。
+    Let me tell you. I just spoke with Xixi and got him to rent a jeep and buy a bunch of sedatives.
 
-乙: 好，你去靠，后面排着呢。
-    hǎo ， nǐ qù kào ， hòumian páizhe ne 。
-    Ok, go. There's a line forming behind you.
+丙: 哎，安眠药准备好了。
+    āi ， ānmiányào zhǔnbèi hǎo le 。
+    Hey, the sedatives are ready.
+
+甲: 哎，马上马上。
+    āi ， mǎshàng mǎshàng 。
+    Sure, just a minute.
+
+乙: 什么准备好了？
+    shénme zhǔnbèi hǎo le ？
+    What's all ready?
+
+甲: 哎，走吧，咱们俩一块儿。快点儿。
+    āi ， zǒu ba ， zánmen liǎ yīkuàir 。 kuài diǎnr 。
+    Hey, let's go. You and me together. Hurry up.
+
+丙: 我都快困死了。
+    wǒ dōu kuài kūnsǐ le 。
+    I'm already really sleepy.
+
+乙: 我可不想吃什么安眠药。
+    wǒ kě bù xiǎng chī shénme ānmiányào 。
+    I don't want to take any sedatives.
+
+甲: 那你就开车呗。
+    nà nǐ jiù kāichē bei 。
+    Then you can drive.
 ### Vocab
--唐纳德 (tángnàdé) [person] Donald
--解雇 (jiěgù) [verb] to fire
--学徒 (xuétú) [noun] apprentice
--真人秀 (zhēn rén xiù) [noun] reality show
--集 (jí) [noun] episode
--尤其 (yóuqí) [adverb] especially
--格外 (géwài) [adverb] particularly
--吞 (tūn) [verb] to swallow
--恶心 (ěxīn) [adjective] disgusting
--现场 (xiànchǎng) [location] at the scene
--直播 (zhíbō) [verb] to broadcast directly
--房地产 (fángdìchǎn) [noun] real estate
--大鳄 (dàè) [noun] magnate
--太君 (tàijūn) [noun] tycoon
+-盗梦空间 (dàomèng kōngjiān) [noun] Inception
+-穿越 (chuānyuè) [noun] the kick
+-面包车 (miànbāochē) [noun] van
+-吉普 (jípǔ) [noun] jeep
+-安眠药 (ānmiányào) [noun] sedative
+-冲 (chōng) [verb] to dart across
+-镜头 (jìngtóu) [noun] shot; scene
+-模仿 (mófǎng) [verb] to imitate

@@ -2,28 +2,28 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：呃，你的衣服。
-乙：怎么了？
-甲：你的衣服哪儿去了？
-乙：哦，真丢人。
+男的：手机没电了，怎么办？
+女的：买新的！
+男的：买新的手机？你疯了吗？
+女的：电池！电池！
 
 ### Pinyin and Translation
 
-甲: 呃，你的衣服。
-    e ， nǐ de yīfu 。
-    Uh, your clothing....
+男的: 手机没电了，怎么办？
+      shǒujī méi diàn le ， zěnme bàn ？
+      The phone is out of power, what can we do?
 
-乙: 怎么了？
-    zěnme le ？
-    What's wrong?
+女的: 买新的！
+      mǎi xīn de ！
+      Buy a new one!
 
-甲: 你的衣服哪儿去了？
-    nǐ de yīfu nǎr qù le ？
-    Where did your clothes go?
+男的: 买新的手机？你疯了吗？
+      mǎi xīn de shǒujī ？ nǐ fēng le ma ？
+      Buy a new cellphone? Are you crazy?
 
-乙: 哦，真丢人。
-    ò ， zhēn diūrén 。
-    Oh, how embarrassing.
+女的: 电池！电池！
+      diànchí ！ diànchí ！
+      Battery, battery!
 ### Vocab
 -买 (mǎi) [verb] to buy
 -卖 (mài) [verb] to sell

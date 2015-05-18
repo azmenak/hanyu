@@ -1,8 +1,7 @@
 # Upholding Community Standards
 **Intermediate** level
 ### Chinese Text
-甲：这是什么味道啊？
-乙：小猫生病了。
+甲：这是什么味道啊？<br />乙：小猫生病了。
 甲：厨房怎么这么狼狈呀?
 乙：他最近好像得了便秘。我给他吃了点儿泻药。
 甲：那你也给他吃太多了吧。比人拉的还多。

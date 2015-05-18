@@ -2,30 +2,46 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：我想我妈妈。
-乙：我也是。
-甲：你不是住在家里吗？
+甲：你得起床了。
+乙：我不想起。
+甲：你必须起了。
+乙：我不想起。
+甲：八点了。
+乙：哦，天哪。
 
 ### Pinyin and Translation
 
-甲: 我想我妈妈。
-    wǒ xiǎng wǒ māma 。
-    I miss my mother.
+甲: 你得起床了。
+    nǐ děi qǐchuáng le 。
+    You've got to get out of bed.
 
-乙: 我也是。
-    wǒ yě shì 。
-    Me too.
+乙: 我不想起。
+    wǒ bù xiǎng qǐ 。
+    I don't want to get up.
 
-甲: 你不是住在家里吗？
-    nǐ bù shì zhù zài jiā lǐ ma ？
-    Don't you live at home?
+甲: 你必须起了。
+    nǐ bìxū qǐ le 。
+    You must get up.
+
+乙: 我不想起。
+    wǒ bù xiǎng qǐ 。
+    I don't want to get up.
+
+甲: 八点了。
+    bā diǎn le 。
+    It's eight o'clock.
+
+乙: 哦，天哪。
+    o ， tiānna 。
+    Oh, goodness gracious.
 ### Vocab
--想 (xiǎng) [verb] to miss
--在 (zài) [preposition] at
--里 (lǐ) [complement] inside
--书包 (shūbāo) [noun] book bag
--商场 (shāngchǎng) [noun] shopping center
--盒子 (hézi) [noun] box
--北京 (Běijīng) [noun] Beijing
--加拿大 (Jiānádà) [noun] Canada
--住在家里 (zhù zài jiā lǐ) [phrase] to live at home
+-得 (děi) [auxiliary verb] must
+-必须 (bìxū) [auxiliary verb] must
+-应该 (yīnggāi) [auxiliary verb] should
+-需要 (xūyāo) [auxiliary verb] should
+-起床 (qǐchuáng) [verb] to get up
+-天哪 (tiānna) [phrase] dear God
+-起 (qǐ) [verb] to rise
+-想 (xiǎng) [verb] to wish
+-点 (diǎn) [noun] hour
+-了 (le) [particle] (change of state)

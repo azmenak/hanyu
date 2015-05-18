@@ -1,8 +1,7 @@
 # The Iron Chicken
 **Intermediate** level
 ### Chinese Text
-秦溯：免费的播客你听得很享受是吧？啊？Echo，把我的电锯拿过来。
-Echo：又一个蹭播客的是吧。
+秦溯：免费的播客你听得很享受是吧？啊？Echo，把我的电锯拿过来。<br />Echo：又一个蹭播客的是吧。
 用户：不是可以免费吗？
 Echo：你没收到我们的邮件啊？
 秦溯：你有email吗？
@@ -30,17 +29,17 @@ Echo：不见棺材不落泪。我就实话告诉你，我们这儿就一样儿�
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|脑子|nǎozi|brain|noun|
-|移除|yíchú|to remove|verb|
-|记忆|jìyì|memory|noun|
-|剥夺|bōduó|to cut away|verb|
-|辨认|biànrèn|to identify|verb|
-|性别|xìngbié|gender|noun|
-|为|wèi|for|preposition|
-|给|gěi|for|preposition|
-|奋斗|fèndòu|to struggle|verb|
-|错乱|cuòluàn|to be in disarray|verb|
-|为 ... 而|wèi ... ér|for|preposition|
-|遗憾地|yíhànde|regretfully|adverb|
-|精神错乱|jīngshén cuòluàn|mental disorder|noun|
-|大脑错乱|dànǎo cuòluàn|brain disorder|noun|
+|蹭|cèng|to take advantage of|verb|
+|播客|bōkè|podcast|noun|
+|享受|xiǎngshòu|to enjoy|verb|
+|电锯|diànjù|chainsaw|noun|
+|借口|jièkǒu|to make an excuse|noun|
+|按钮|ànniǔ|button|noun|
+|眼瞎|yǎnxiā|blind|adjective|
+|卖萌|màiméng|to play cute|verb|
+|实话|shíhuà|the truth|noun|
+|小命|xiǎo mìng|worthless life|noun|
+|铁公鸡|tiěgōngjī|a real tight wad|noun|
+|一样儿|yīyàngr|one kind of|other|
+|不见棺材不落泪|bùjiànguāncai bùluòlèi|not to shed tears until one sees the coffin|phrase|
+|天下没有免费的午餐|tiānxià méiyǒu miǎnfèi de wǔcān|there ain't no such thing as a free lunch|phrase|

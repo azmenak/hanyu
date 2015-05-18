@@ -1,28 +1,31 @@
 # The Law of the Sea
 **Intermediate** level
 ### Chinese Text
-秦：天气真热啊！
-田：是啊，我还得穿着这个破浣熊的衣服在这儿发传单！
-秦：行啦，比昨天那身公鸡制服好看多了。
-田：这是什么破工作呀！
-秦：有比咱们还惨的呢！
-田：谁能比咱们还惨呢？
-秦：有的人上了大学还得来做这份工作呀。
-田：这，我就上过大学！
-秦：啊......那，至少你还上过大学啊。
+甲：我们已经在海上漂了几个星期了......<br />乙：还没有看到陆地的影子......
+甲：我们会死吗？
+乙：根据“海上生存法则”，我们中间必须有一个人，为其他人牺牲！
+丙：终于啊......
+乙：什么？
+丙：我太饿了......我都快失去耐心了！
+甲：你疯了？！
+丙：不，我没有！我就是太饿了。你都不知道，我有几个星期都没有尝过肉的香味儿了。小胖子！
+甲：啊？！
+丙：今儿就你了！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|秦|天气真热啊！<blockquote>tiānqì zhēn rè a ！<br />The weather is really hot!</blockquote>|
-|田|是啊，我还得穿着这个破浣熊的衣服在这儿发传单！<blockquote>shì a ， wǒ hái děi chuānzhe zhège pò huànxióng de yīfu zài zhèr fā chuándān ！<br />Yeah, and I've got to wear this stupid raccoon costume and hand out these fliers.</blockquote>|
-|秦|行啦，比昨天那身公鸡制服好看多了。<blockquote>xíng la ， bǐ zuótiān nà shēn gōngjī zhìfú hǎo kàn duō le 。<br />It's ok. It's a lot better looking than that rooster outfit yesterday.</blockquote>|
-|田|这是什么破工作呀！<blockquote>zhè shì shénme pò gōngzuò ya ！<br />What kind of stupid job is this!</blockquote>|
-|秦|有比咱们还惨的呢！<blockquote>yǒu bǐ zánmen hái cǎn de ne ！<br />There are people worse off than us!</blockquote>|
-|田|谁能比咱们还惨呢？<blockquote>shéi néng bǐ zánmen hái cǎn ne ？<br />Who on earth can be worse off than us?</blockquote>|
-|秦|有的人上了大学还得来做这份工作呀。<blockquote>yǒu de rén shàng le dàxué hái děi lái zuò zhè fèn gōngzuò ya 。<br />Some people went to university and still do this kind of work.</blockquote>|
-|田|这，我就上过大学！<blockquote>zhè ， wǒ jiù shàng guo dàxué ！<br />Hey, I went to university!</blockquote>|
-|秦|啊......那，至少你还上过大学啊。<blockquote>a ...... nà ， zhìshǎo nǐ hái shàng guo dàxué a 。<br />Well... at least you got to go to university.</blockquote>|
+|甲|我们已经在海上漂了几个星期了......<blockquote>wǒmen yǐjīng zài hǎi shàng piāo le jǐ ge xīngqī le ......<br />We've been drifting at sea for several weeks....</blockquote>|
+|乙|还没有看到陆地的影子......<blockquote>hái méiyǒu kàn dào lùdì de yǐngzi ......<br />And there's still not a trace of land....</blockquote>|
+|甲|我们会死吗？<blockquote>wǒmen huì sǐ ma ？<br />Are we going to die?</blockquote>|
+|乙|根据“海上生存法则”，我们中间必须有一个人，为其他人牺牲！<blockquote>gēnjù “ hǎishàng shēngcún fǎzé ” ， wǒmen zhōngjiān bìxū yǒu yī ge rén ， wèi qítārén xīshēng ！<br />According to the Law of the Sea, one of us must sacrifice himself for the others.</blockquote>|
+|丙|终于啊......<blockquote>zhōngyú a ......<br />Finally....</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|丙|我太饿了......我都快失去耐心了！<blockquote>wǒ tài è le ...... wǒ dōu kuài shīqù nàixīn le ！<br />I'm really hungry. I'm almost out of patience!</blockquote>|
+|甲|你疯了？！<blockquote>nǐ fēng le ？ ！<br />Are you crazy?</blockquote>|
+|丙|不，我没有！我就是太饿了。你都不知道，我有几个星期都没有尝过肉的香味儿了。小胖子！<blockquote>bù ， wǒ méiyǒu ！ wǒ jiùshì tài è le 。 nǐ dōu bù zhīdào ， wǒ yǒu jǐ ge xīngqī dōu méiyǒu chángguò ròu de xiāngwèir le 。 xiǎo pàngzi ！<br />No, I'm not. I'm just too hungry. You don't know how many weeks I've gone without tasting meat. Fatty!</blockquote>|
+|甲|啊？！<blockquote>á ？ ！<br />Huh?</blockquote>|
+|丙|今儿就你了！<blockquote>jinr1 jiù nǐ le ！<br />Tonight you're up!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

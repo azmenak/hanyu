@@ -1,8 +1,7 @@
 # The Honest Cabbie
 **Elementary** level
 ### Chinese Text
-秦：哎，你来中国几年了？
-田森：七八年了吧。
+秦：哎，你来中国几年了？<br />田森：七八年了吧。
 秦：七八年了？哎哟，真看不出来，你的中文怎么还这么糟糕啊！
 田森：啊？
 秦：你自己听听，我觉得你还是得好好地去学习一下！
@@ -20,14 +19,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|不好|bù hǎo|not good|adjective|
-|不舒服|bù shūfu|uncomfortable|adjective|
-|头晕|tóuyūn|dizzy|adjective|
-|恶心|ěxīn|nauseous|adjective|
-|疼|téng|painful|adjective|
-|累|lèi|tired|adjective|
-|困|kùn|sleepy|adjective|
-|感觉|gǎnjué|to feel|verb|
-|习惯|xíguàn|to be accustomed|verb|
-|让|ràng|to make|verb|
-|粥|zhōu|rice gruel|noun|
+|几|jǐ|how many|question|
+|看不出来|kàn bù chūlái|to be unable to tell|verb|
+|怎么|zěnme|how|question|
+|这么|zhème|so very|adverb|
+|糟糕|zāogāo|awful|adjective|
+|自己|zìji|oneself|noun|
+|觉得|juéde|to feel|verb|
+|好好|hǎohāo|very well|adverb|
+|差劲|chàjìn|poor; lacking|adjective|

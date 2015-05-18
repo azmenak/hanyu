@@ -1,40 +1,65 @@
 # Dancing to the Stars at Lincoln High
 **Intermediate** level
 ### Chinese Text
-甲：张警官，还记得今天早上抓的那个要饭的吗？
-乙：上次让你查的那个？
-甲：对，但不可思议的是，档案局里没有他的任何档案。
-乙：每个人都有。
-甲：我知道，可是他确实没有。
-乙：你查了基因库吗？
-甲：我全都查过了。数据库、指纹、瞳孔扫描，没有任何结果。连档案局局长都找不到任何线索。
-乙：也就是说，这个人不存在了？
-甲：那我们现在该怎么处置他？
-乙：逮捕他。
+[第一部]<br />合：八二三四，五六七八。耶！
+甲：太棒了这一次，太完美了！
+乙：我们跳得怎么样？
+甲：特别好，我觉得。
+乙：那我们真的能进决赛吗？
+甲：有小明帮忙，我们肯定能。
+乙：真的？
+甲：说不定还就把学校给救了！
+合：好，加油！
+[第二部］
+甲：老大，大事不妙了！
+乙：什么事儿啊？
+甲：就是林肯高中的那帮学生。
+乙：那帮不会跳舞的傻蛋？
+甲：这次看来他们真有点本事啊。
+乙：嗯？什么情况？
+甲：有一个中国留学生加入了他们的舞蹈队。
+乙：妈的！
+甲：如果这次他们赢得奖金，他们就可以还清贷款买回学校。
+乙：那我们就建不了赌场了。
+甲：咱们怎么办啊？
+乙：我们得采取点措施。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|张警官，还记得今天早上抓的那个要饭的吗？<blockquote>Zhāng Jǐngguān ， hái jìde jīntiān zǎoshang zhuā de nà ge yàofàn de ma ？<br />Officer Zhang, do you remember that beggar we caught this morning?</blockquote>|
-|乙|上次让你查的那个？<blockquote>shàng cì ràng nǐ chá de nà ge ？<br />The one I asked you to investigate?</blockquote>|
-|甲|对，但不可思议的是，档案局里没有他的任何档案。<blockquote>duì ， dàn bù kě sīyì de shì ， dàngànjú lǐ méiyǒu tā de rènhé dàngàn 。<br />Yes, but what's unbelievable is that there are no files on him at the Agency.</blockquote>|
-|乙|每个人都有。<blockquote>měi ge rén dōu yǒu 。<br />There are files on everyone.</blockquote>|
-|甲|我知道，可是他确实没有。<blockquote>wǒ zhīdào ， kěshì tā quèshí méiyǒu 。<br />I know, but he doesn't have any.</blockquote>|
-|乙|你查了基因库吗？<blockquote>nǐ chá le jīyīnkù ma ？<br />Did you check in the genetic database?</blockquote>|
-|甲|我全都查过了。数据库、指纹、瞳孔扫描，没有任何结果。连档案局局长都找不到任何线索。<blockquote>wǒ quán dōu cháguò le 。 shùjùkù 、 zhǐwén 、 tóngkǒng sǎomiáo ， méiyǒu rènhé jiéguǒ 。 lián dàngànjú júzhǎng dōu zhǎo bù dào rènhé xiànsuǒ 。<br />I checked all of them, including the database, fingerprint, and eye scans. But to no effect. Even the archive director couldn't find any traces of him.</blockquote>|
-|乙|也就是说，这个人不存在了？<blockquote>yě jiù shì shuō ， zhè ge rén bù cúnzài le ？<br />So what you're saying is, that this person doesn't exist?</blockquote>|
-|甲|那我们现在该怎么处置他？<blockquote>nà wǒmen xiànzài gāi zěnme chǔzhì tā ？<br />Yeah, so now how should we deal with him?</blockquote>|
-|乙|逮捕他。<blockquote>dàibǔ tā 。<br />Arrest him.</blockquote>|
+||[第一部]<blockquote>[ dì  yī bù ]<br />[Part One]</blockquote>|
+|合|八二三四，五六七八。耶！<blockquote>bā èr sān sì ， wǔ liù qī bā 。 ye ！<br />Eight, two, three, four, five, six, seven, eight. Yeah!</blockquote>|
+|甲|太棒了这一次，太完美了！<blockquote>tài bàng le zhèyīcì ， tài wánměi le ！<br />Great work this time. Perfect!</blockquote>|
+|乙|我们跳得怎么样？<blockquote>wǒmen tiào de zěnmeyàng ？<br />How did we do?</blockquote>|
+|甲|特别好，我觉得。<blockquote>tèbié hǎo ， wǒ juéde 。<br />Very good, I think.</blockquote>|
+|乙|那我们真的能进决赛吗？<blockquote>nà wǒmen zhēnde néng jìn juésài ma ？<br />Can we really enter the tournament finals?</blockquote>|
+|甲|有小明帮忙，我们肯定能。<blockquote>yǒu Xiǎo Míng bāngmáng ， wǒmen kěndìng néng 。<br />With Xiao Ming's help, of course we can.</blockquote>|
+|乙|真的？<blockquote>zhēnde ？<br />Really?</blockquote>|
+|甲|说不定还就把学校给救了！<blockquote>shuōbudìng hái jiù bǎ xuéxiào gěi jiùle ！<br />Maybe we can even save our school!</blockquote>|
+|合|好，加油！<blockquote>hǎo ， jiāyóu ！<br />Go team!</blockquote>|
+||[第二部］<blockquote>[ dì  èr bù ］<br />[Part Two]</blockquote>|
+|甲|老大，大事不妙了！<blockquote>lǎodà ， dàshì bù miào le ！<br />Boss, something terrible has happened!</blockquote>|
+|乙|什么事儿啊？<blockquote>shénme shìr ā ？<br />What's wrong?</blockquote>|
+|甲|就是林肯高中的那帮学生。<blockquote>jiùshì Línkěn gāozhōng de nà bāng xuésheng 。<br />Those students from Lincoln High.</blockquote>|
+|乙|那帮不会跳舞的傻蛋？<blockquote>nà bāng bùhuì tiàowǔ de shǎdàn ？<br />Those idiots who can't dance?</blockquote>|
+|甲|这次看来他们真有点本事啊。<blockquote>zhècì kànlái tāmen zhēn yǒudiǎn běnshì ā 。<br />It seems they've got some talent this time.</blockquote>|
+|乙|嗯？什么情况？<blockquote>en ？ shénme qíngkuàng ？<br />Huh? What's going on?</blockquote>|
+|甲|有一个中国留学生加入了他们的舞蹈队。<blockquote>yǒu yī ge Zhōngguó liúxuéshēng jiārù le tāmende wǔdǎoduì 。<br />An exchange student from China joined their dance team.</blockquote>|
+|乙|妈的！<blockquote>māde ！<br />Dammit!</blockquote>|
+|甲|如果这次他们赢得奖金，他们就可以还清贷款买回学校。<blockquote>rúguǒ zhècì tāmen yíngdé jiǎngjīn ， tāmen jiù kěyǐ huánqīng dàikuǎn mǎihuí xuéxiào 。<br />If they win the prize, they'll be able to pay off the loan and buy back the school.</blockquote>|
+|乙|那我们就建不了赌场了。<blockquote>nà wǒmen jiù jiàn bù liǎo dǔchǎng le 。<br />Then we can't build the casino.</blockquote>|
+|甲|咱们怎么办啊？<blockquote>zánmen zěnme bàn ā ？<br />What should we do?</blockquote>|
+|乙|我们得采取点措施。<blockquote>wǒmen děi cǎiqǔ diǎn cuòshī 。<br />We've got to take some measures.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|头部|tóubù|head|noun|
-|同龄|tónglíng|of the same age|noun|
-|天生|tiānshēng|natural-born|adverb|
-|活泼|huópō|lively|adjective|
-|礼貌|lǐmào|polite|adjective|
-|粗鲁|cūlǔ|rude|adjective|
-|体贴|tǐtiē|considerate|adjective|
-|三星|Sānxīng|Samsung|noun|
-|遗传性|yíchuánxìng|inherited|noun|
-|比较级|bǐjiàojí|comparatives|noun|
+|决赛|juésài|tournament finals|noun|
+|本事|běnshì|ability|noun|
+|奖金|jiǎngjīn|prize|noun|
+|还清|huánqīng|to pay off|verb|
+|贷款|dàikuǎn|loan|noun|
+|赌场|dǔchǎng|casino|noun|
+|采取|cǎiqǔ|to take|verb|
+|措施|cuòshī|measure|noun|
+|铺垫|pūdiàn|groundwork|noun|
+|留学生|liúxuéshēng|exchange student|noun|

@@ -2,44 +2,46 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：给我来份汉堡！
-乙：我不喜欢汉堡。
-甲：这跟你有关系吗？
-乙：有关系啊，来份沙拉吧！
-甲：我要汉堡！
-乙：好的，来份沙拉！哎，你要酱吗？
+甲：我还准备了一首歌。
+乙：停停停停停停停。
+丙：别别别别别
+乙：行行，你唱得够好了，真的非常好。
+甲：特精心的准备，都一年了！
+丁：门在你右手边，谢谢。
 
 ### Pinyin and Translation
 
-甲: 给我来份汉堡！
-    gěi wǒ lái fèn hànbǎo ！
-    Bring me a hamburger.
+甲: 我还准备了一首歌。
+    wǒ hái zhǔnbèi le yī shǒu gē 。
+    I've prepared another song.
 
-乙: 我不喜欢汉堡。
-    wǒ bù xǐhuan hànbǎo 。
-    I don't like hamburgers.
+乙: 停停停停停停停。
+    tíng tíng tíng tíng tíng tíng tíng 。
+    Stop!
 
-甲: 这跟你有关系吗？
-    zhè gēn nǐ yǒu guānxi ma ？
-    What does this have to do with you?
+丙: 别别别别别
+    bié bié bié bié bié
+    Don't!
 
-乙: 有关系啊，来份沙拉吧！
-    yǒu guānxi a ， lái fèn shālà ba ！
-    Of course it matters, try the salad!
+乙: 行行，你唱得够好了，真的非常好。
+    xíng xíng ， nǐ chàng de gòu hǎo le ， zhēnde fēicháng hǎo 。
+    Enough! You've already sung quite well. Really, extraordinarily well.
 
-甲: 我要汉堡！
-    wǒ yào hànbǎo ！
-    I want the hamburger.
+甲: 特精心的准备，都一年了！
+    tè jīngxīn de zhǔnbèi ， dōu yī nián le ！
+    I prepared so hard, and it's already been a year!
 
-乙: 好的，来份沙拉！哎，你要酱吗？
-    hǎo de ， lái fèn shāla ！ ái ， nǐ yào jiàng ma ？
-    Fine... one salad please! Hey, do you want dressing?
+丁: 门在你右手边，谢谢。
+    mén zài nǐ yòushǒu biān ， xièxie 。
+    The door is to your right, thank you.
 ### Vocab
--刚才 (gāngcái) [adverb] just now
--踩到 (cǎi dào) [verb] to step on
--讨厌 (tǎoyàn) [adjective] hateful
--上车 (shàngchē) [verb] to board a train
--下车 (xiàchē) [verb] to get off a train
--讨厌鬼 (tǎoyànguǐ) [noun] hated person
--懒鬼 (lǎnguǐ) [noun] lazy person
--自私鬼 (zìsīguǐ) [noun] selfish person
+-准备 (zhǔnbèi) [verb] to prepare
+-停 (tíng) [verb] to stop
+-别 (bié) [adverb] do not
+-行 (xíng) [adjective] ok
+-够 (gòu) [adverb] enough
+-特 (tè) [adverb] especially
+-精心 (jīngxīn) [adjective] whole heartedly
+-都 (dōu) [adverb] all
+-右手边 (yòu shǒubiān) [phrase] righthand side
+-左手边 (zuǒ shǒubiān) [phrase] lefthand side

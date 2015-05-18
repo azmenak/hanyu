@@ -2,54 +2,42 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：三里屯怎么走？
-乙：去死。
-甲：怎么走？
-乙：一直走，然后死。
-甲：不是右转吗？
-乙：滚！
-甲：好，谢谢。
+甲：谁敢打扰我睡觉？
+乙：早上好，您的早餐。
+甲：谁让你进来的？
+乙：哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。
+甲：你最好马上走！
 
 ### Pinyin and Translation
 
-甲: 三里屯怎么走？
-    Sānlǐtún zěnme zǒu ？
-    How do I get to Sanlitun?
+甲: 谁敢打扰我睡觉？
+    shéi gǎn dǎrǎo wǒ shuìjiào ？
+    Who dares disturb my slumber?
 
-乙: 去死。
-    qùsǐ 。
-    Go to hell.
+乙: 早上好，您的早餐。
+    zǎoshang hǎo ， nín de zǎocān 。
+    Good morning, your breakfast.
 
-甲: 怎么走？
-    zěnme zǒu ？
-    Which way?
+甲: 谁让你进来的？
+    shéi ràng nǐ jìnlai de ？
+    Who let you in?
 
-乙: 一直走，然后死。
-    yīzhí zǒu ， ránhòu sǐ 。
-    Go straight and drop dead.
+乙: 哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。
+    āiyo ， zhèr zěnme zhème hēi ya ， kuài qǐchuáng ba 。 wǒ bāng nín bǎ chuāngliánr lākāi a 。
+    Goodness gracious is it dark in here. Get up quickly now. I'll just open the curtains for you.
 
-甲: 不是右转吗？
-    bù shì yòuzhuǎn ma ？
-    Isn't there a right turn somewhere?
-
-乙: 滚！
-    gǔn ！
-    Get lost!
-
-甲: 好，谢谢。
-    hǎo ， xièxie 。
-    OK, thanks.
+甲: 你最好马上走！
+    nǐ zuìhǎo mǎshàng zǒu ！
+    It would be best for you to leave now!
 ### Vocab
--派对 (pàiduì) [noun] party
--聚会 (jùhuì) [noun] gathering
--咱们 (zánmen) [pronoun] we
--俩 (liǎ) [other] two people
--事 (shì) [noun] matter
--这就 (zhèjiù) [adverb] right away
--宝贝儿 (bǎobèir) [noun] baby
--这样儿 (zhèyàngr) [phrase] this way
--决定 (juédìng) [verb] to decide
--挂 (guà) [verb] to hang
--说一声 (shuō yī shēng) [verb] to make a sound
--别挂 (bié guà) [phrase] don't hang up
--差不多 (chàbuduō) [phrase] more or less
+-敢 (gǎn) [verb] to dare
+-睡觉 (shuìjiào) [verb] to sleep
+-打扰 (dǎrǎo) [verb] to disturb
+-拉开 (lākāi) [verb] to open
+-帮 (bāng) [verb] to help
+-给 (gěi) [verb] to give
+-窗帘儿 (chuāngliánr) [noun] curtains
+-早餐 (zǎocān) [noun] breakfast
+-起床气 (qǐchuángqì) [noun] morning temper
+-最好 (zuìhǎo) [adverb] best
+-马上 (mǎshàng) [adverb] at once

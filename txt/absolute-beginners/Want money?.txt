@@ -2,23 +2,23 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：几点了？
-乙：两点。
-甲：天哪！晚了，晚了！
+甲：你要钱吗？
+甲：要啊！
+乙：不给。
 
 ### Pinyin and Translation
 
-甲: 几点了？
-    jǐ diǎn le ？
-    What time is it?
+甲: 你要钱吗？
+    nǐ yào qián ma ？
+    You want money?
 
-乙: 两点。
-    liǎng diǎn 。
-    Two o'clock.
+甲: 要啊！
+    yào ā ！
+    Yes!
 
-甲: 天哪！晚了，晚了！
-    tiānna ！ wǎn le ， wǎn le ！
-    Good heavens! It's late!
+乙: 不给。
+    bù gěi 。
+    I won't give you any.
 ### Vocab
 -你 (nǐ) [pronoun] you
 -我 (wǒ) [pronoun] I; me

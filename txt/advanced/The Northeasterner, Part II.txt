@@ -2,18 +2,56 @@
 ## *advanced* level
 
 ### Chinese Text
-
+孙：哎，媳妇儿，我告诉你外面贼冷，你出去时身上多捂着点儿。
+张：知道啦。
+孙：干啥呢？磨磨唧唧的，麻溜儿把衣服穿上，要不然不赶趟儿了。
+张：哎呀，好好好，我马上好！
+孙：人家楼下等你呢，冻得嘶哈的，煞楞儿的啊！
+张：哎呀，别烦我了，我走了。
+孙：哎，等会儿，把那门口儿那戈能给我倒了啊。
+张：行行行。
 
 ### Pinyin and Translation
+
+孙: 哎，媳妇儿，我告诉你外面贼冷，你出去时身上多捂着点儿。
+    āi ， xífùr ， wǒ gàosu nǐ wàimian zéi lěng ， nǐ chūqù shí shēnshàng duō wǔzhe diǎnr 。
+    Hey honey. It's really cold outside. Put up a bit more when you go outside.
+
+张: 知道啦。
+    zhīdào la 。
+    I know.
+
+孙: 干啥呢？磨磨唧唧的，麻溜儿把衣服穿上，要不然不赶趟儿了。
+    gànhá ne ？ mòmòjījī de ， máliūr bǎ yīfu chuān shàng ， yàoburán bù gǎntàngr le 。
+    What are you doing dawdling like this? Hurry and put on your clothes or you'll be late.
+
+张: 哎呀，好好好，我马上好！
+    āiya ， hǎo hǎo hǎo ， wǒ mǎshàng hǎo ！
+    Dear Scott. Fine, I'll be ready in a minute.
+
+孙: 人家楼下等你呢，冻得嘶哈的，煞楞儿的啊！
+    rénjiā lóuxià děng nǐ ne ， dòng de sīhā de ， shālèngr de ā ！
+    He's waiting for you downstairs. It's freezing out. Hurry up!
+
+张: 哎呀，别烦我了，我走了。
+    āiya ， bié fán wǒ le ， wǒ zǒu le 。
+    Goodness gracious. Don't bother me like this. I'm going.
+
+孙: 哎，等会儿，把那门口儿那戈能给我倒了啊。
+    āi ， děng huìr ， bǎ nà ménkǒuér nà gēneng gěi wǒ dào le ā 。
+    Hey, wait a sec. Take out that trash by the door.
+
+张: 行行行。
+    xíng xíng xíng 。
+    Ok!
 ### Vocab
--丫鬟 (yāhuan) [noun] serving girl
--风波 (fēngbō) [noun] scandal
--弱柳扶风 (ruòliǔfúfēng) [idiom] unable to walk steadily
--铜钱头 (tóngqiántóu) [noun] an ugly Chinese hairstyle
--伏笔 (fúbǐ) [noun] portent
--册子 (cèzi) [noun] bound volumes
--红楼梦 (hónglóumèng) [noun] Dream of the Red Chamber
--贾宝玉 (jiǎbǎoyù) [name] Jia Baoyu
--薛宝钗 (xuēbǎochāi) [name] Xue Baochai
--林黛玉 (líndàiyù) [name] Lin Daiyu
--史湘云 (shǐxiāngyún) [name] Shi Xiangyun
+-媳妇儿 (xífùr) [noun] wife
+-贼 (zéi) [adverb] very
+-捂 (wǔ) [verb] to cover
+-干啥 (gànhá) [phrase] what are you doing
+-磨磨唧唧 (mòmòjījī) [adjective] dawdling
+-赶趟儿 (gǎntàngr) [phrase] in time
+-麻溜儿 (máliūr) [adverb] hurry up
+-嘶哈 (sīhā) [sound] the sound you make when you are cold
+-煞楞儿 (shālèngr) [adverb] quick, hurry up
+-戈能 (gēneng) [noun] trash

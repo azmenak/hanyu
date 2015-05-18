@@ -2,28 +2,33 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：哎，你弟弟长得挺帅的，哈。
-乙：你什么意思啊？
-甲：没，我就是说他长得好看而已。
-乙：你注意点儿，他是我的。
+甲：今天下午你去打扫鲨鱼池。
+乙：鲨鱼不吃人？
+甲：对，所以我们把你打扮成一只海豹。
+乙：那鲨鱼不吃海豹？
+甲：你是海豹吗？
 
 ### Pinyin and Translation
 
-甲: 哎，你弟弟长得挺帅的，哈。
-    āi ， nǐ dìdi zhǎng de tǐng shuài de ， hā 。
-    Hey, your brother is pretty handsome, eh!
+甲: 今天下午你去打扫鲨鱼池。
+    jīntiān xiàwǔ nǐ qù dǎsǎo shāyú chí 。
+    This afternoon you're going to clean the shark tank.
 
-乙: 你什么意思啊？
-    nǐ shénme yìsi a ？
-    What do you mean?
+乙: 鲨鱼不吃人？
+    shāyú bù chī rén ？
+    Don't sharks eat people?
 
-甲: 没，我就是说他长得好看而已。
-    méi ， wǒ jiù shì shuō tā zhǎng de hǎokàn éryǐ 。
-    No, I'm just saying he's good looking, that's all.
+甲: 对，所以我们把你打扮成一只海豹。
+    duì ， suǒyǐ wǒmen bǎ nǐ dǎbàn chéng yī zhī hǎibào 。
+    Yes, which is why we'll be dressing you up as a seal.
 
-乙: 你注意点儿，他是我的。
-    nǐ zhùyì diǎnr ， tā shì wǒ de 。
-    You pay attention, he's mine.
+乙: 那鲨鱼不吃海豹？
+    nà shāyú bù chī hǎibào ？
+    But, don't sharks eat seals?
+
+甲: 你是海豹吗？
+    nǐ shì hǎibào ma ？
+    Are you a seal?
 ### Vocab
 -打扫 (dǎsǎo) [verb] to clean
 -池 (chí) [noun] pool

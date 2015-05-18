@@ -2,38 +2,48 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：不行啊。
-乙：它太重了。
-甲：那... 我们怎么办？
-乙：没办法，再来一次。
-甲：好，一，二，三。加油，加油，加油... 好，成功啦！
-乙：好，干得好。
+甲：我觉得....
+乙：我觉得....
+甲：不好意思，你先说。
+乙：好。
+甲：我认为....
+乙：我觉得这个....
+甲：还是您先说吧。
+乙：不不不，你先说。
 
 ### Pinyin and Translation
 
-甲: 不行啊。
-    bù xíng a 。
-    It doesn't work.
+甲: 我觉得....
+    wǒ juéde . . . .
+    I feel....
 
-乙: 它太重了。
-    tā tài zhòng le 。
-    It's too heavy.
+乙: 我觉得....
+    wǒ juéde . . . .
+    I think....
 
-甲: 那... 我们怎么办？
-    nà ... wǒmen zěnme bàn ？
-    Then... what should we do?
+甲: 不好意思，你先说。
+    bùhǎoyìsi ， nǐ xiān shuō 。
+    I'm sorry, you speak first.
 
-乙: 没办法，再来一次。
-    méi bànfǎ ， zài lái yī cì 。
-    No solution, let's try again.
+乙: 好。
+    hǎo 。
+    OK.
 
-甲: 好，一，二，三。加油，加油，加油... 好，成功啦！
-    hǎo ， yī ， èr ， sān 。 jiāyóu ， jiāyóu ， jiāyóu . . .  hǎo ， chénggōng la ！
-    Okay, one, two, three... Come on, come on, come on... Good, we succeed!
+甲: 我认为....
+    wǒ rènwéi . . . .
+    I think....
 
-乙: 好，干得好。
-    hǎo ， gàn de hǎo 。
-    Good, well done!
+乙: 我觉得这个....
+    wǒ juéde zhège . . . .
+    I feel this....
+
+甲: 还是您先说吧。
+    hái shì nín xiān shuō ba 。
+    Let's still have you speak first.
+
+乙: 不不不，你先说。
+    bù bù bù ， nǐ xiān shuō 。
+    No no no, you speak first.
 ### Vocab
 -我 (wǒ) [pronoun] I; me
 -您 (nín) [pronoun] you (formal)

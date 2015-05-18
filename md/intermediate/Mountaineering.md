@@ -1,8 +1,7 @@
 # Mountaineering
 **Intermediate** level
 ### Chinese Text
-甲：为了我们明天的登顶，不必要的东西我都扔了。
-乙：我的睡衣呢？
+甲：为了我们明天的登顶，不必要的东西我都扔了。<br />乙：我的睡衣呢？
 甲：太重了。
 丙：我的睡袋呢？
 甲：它已经超过了我的负荷，我已经抛弃了它。
@@ -34,11 +33,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|健壮|jiànzhuàng|buff|adjective|
-|结实|jiēshi|solid|adjective|
-|英俊|yīngjùn|aristocratic|adjective|
-|俊美|jùnměi|princely|adjective|
-|儒雅|rúyǎ|refined|adjective|
-|文气|wénqì|bookish|adjective|
-|潇洒|xiāosǎ|carefree|adjective|
-|可|kě|(adds emphasis)|adverb|
+|登顶|dēngdǐng|to scale the summit|verb|
+|抛弃|pāoqì|to toss out|verb|
+|挤一挤|jǐyījǐ|to squeeze in|verb|
+|着想|zháoxiǎng|to consider|verb|
+|生存|shēngcún|survival|noun|
+|力气|lìqi|strength|noun|
+|睡衣|shuìyī|pajamas|noun|
+|睡袋|shuìdài|sleeping bag|noun|
+|卡路里|kǎlùlǐ|calorie|noun|
+|热量|rèliàng|calorie (formal)|noun|
+|负荷|fùhè|weight load|noun|

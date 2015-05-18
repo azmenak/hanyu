@@ -1,8 +1,7 @@
 # A Parasitic Relationship
 **Intermediate** level
 ### Chinese Text
-甲：菲菲找着工作了吗？
-乙：找着了。一毕业就上班了。虽然钱不多吧，但还算过得去。
+甲：菲菲找着工作了吗？<br />乙：找着了。一毕业就上班了。虽然钱不多吧，但还算过得去。
 甲：你说这差距怎么这么大。丽丽到现在六个月了，连家门儿都不出。
 乙：怎么回事儿啊？
 甲：我一让她找工作，她不是嫌累，就是嫌待遇不好。反正满嘴都是借口。
@@ -20,14 +19,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|天真|tiānzhēn|naive|adjective|
-|战争|zhànzhēng|war|noun|
-|爱情|àiqíng|love|noun|
-|一文不值|yīwénbùzhí|to be totally worthless|proverb|
-|从来|cónglái|always|adverb|
-|如此|rúcǐ|in this way|adverb|
-|无情|wúqíng|heartless|adjective|
-|名单|míngdān|list of names|noun|
-|背叛|bèipàn|to betray|verb|
-|为了|wèile|for|preposition|
-|可|kě|(emphatic particle indicating a surprise)|adverb|
+|毕业|bìyè|to graduate|verb|
+|差距|chājù|disparity|noun|
+|连|lián|even|conjunction|
+|家门儿|jiāménr|the threshold of a house|noun|
+|嫌|xián|to dislike; to resent|verb|
+|待遇|dàiyù|treatment|noun|
+|满嘴|mǎnzuǐ|full of mouth|other|
+|借口|jièkǒu|excuses|noun|
+|大小姐|dàxiǎojiě|self-centered woman|noun|
+|脾气|píqì|temper|noun|

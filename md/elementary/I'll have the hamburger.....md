@@ -1,24 +1,21 @@
 # I'll have the hamburger....
 **Elementary** level
 ### Chinese Text
-甲：您是王先生吗？
-乙：我不是。
-甲：这里是七十五号楼，六零二室吗？
-乙：这里是五十七号楼。
-甲：啊？这不是你的快递吗？
-乙：不是。这不是我的。
-甲：哦，那好吧。帮我签个字吧。
+甲：给我来份汉堡！<br />乙：我不喜欢汉堡。
+甲：这跟你有关系吗？
+乙：有关系啊，来份沙拉吧！
+甲：我要汉堡！
+乙：好的，来份沙拉！哎，你要酱吗？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|您是王先生吗？<blockquote>nín shì Wáng Xiānsheng ma ？<br />Are you Mr. Wang?</blockquote>|
-|乙|我不是。<blockquote>wǒ bù shì 。<br />No, I'm not.</blockquote>|
-|甲|这里是七十五号楼，六零二室吗？<blockquote>zhèlǐ shì qīshí wǔ hào lóu ， liùlíngèr shì ma ？<br />This is building 75, room 602 right?</blockquote>|
-|乙|这里是五十七号楼。<blockquote>zhèlǐ shì wǔshíqī hào lóu 。<br />This is building 57.</blockquote>|
-|甲|啊？这不是你的快递吗？<blockquote>a ？ zhè bù shì nǐ de kuàidì ma ？<br />Huh? This isn't your package?</blockquote>|
-|乙|不是。这不是我的。<blockquote>bù shì 。 zhè bù shì wǒ de 。<br />No it isn't. This isn't mine.</blockquote>|
-|甲|哦，那好吧。帮我签个字吧。<blockquote>ò ， nà hǎo ba 。 bāng wǒ qiān ge zì ba 。<br />Oh, ok. Just sign for it, alright?</blockquote>|
+|甲|给我来份汉堡！<blockquote>gěi wǒ lái fèn hànbǎo ！<br />Bring me a hamburger.</blockquote>|
+|乙|我不喜欢汉堡。<blockquote>wǒ bù xǐhuan hànbǎo 。<br />I don't like hamburgers.</blockquote>|
+|甲|这跟你有关系吗？<blockquote>zhè gēn nǐ yǒu guānxi ma ？<br />What does this have to do with you?</blockquote>|
+|乙|有关系啊，来份沙拉吧！<blockquote>yǒu guānxi a ， lái fèn shālà ba ！<br />Of course it matters, try the salad!</blockquote>|
+|甲|我要汉堡！<blockquote>wǒ yào hànbǎo ！<br />I want the hamburger.</blockquote>|
+|乙|好的，来份沙拉！哎，你要酱吗？<blockquote>hǎo de ， lái fèn shāla ！ ái ， nǐ yào jiàng ma ？<br />Fine... one salad please! Hey, do you want dressing?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

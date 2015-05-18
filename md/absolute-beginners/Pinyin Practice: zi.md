@@ -1,26 +1,24 @@
 # Pinyin Practice: zi
 **Absolute Beginners** level
 ### Chinese Text
-她用日语写日记。
-星期日我去日本。
+我第一次写汉字。<br />我自己去。
+你的工资是多少？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||她用日语写日记。<blockquote>tā yòng rìyǔ xiě rìjì 。<br />She writes a diary in Japanese.</blockquote>|
-||星期日我去日本。<blockquote>xīngqīrì wǒ qù Rìběn 。<br />Sunday I am going to Japan.</blockquote>|
+||我第一次写汉字。<blockquote>wǒ dì yī cì xiě hànzì 。<br />My first time writing Chinese characters.</blockquote>|
+||我自己去。<blockquote>wǒ zìjǐ qù 。<br />I'll go myself.</blockquote>|
+||你的工资是多少？<blockquote>nǐ de gōngzī shì duōshǎo ？<br />How much is your salary?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|门|mén|door|noun|
-|锁|suǒ|to lock up|verb|
-|钥匙|yàoshi|key|noun|
-|有|yǒu|to have|verb|
-|天哪|tiān na|dear God|phrase|
-|新|xīn|new|adjective|
-|旧|jiù|old|adjective|
-|坏|huài|broken|adjective|
-|二手|èrshǒu|second-hand|adjective|
-|手机|shǒujī|cellphone|noun|
-|汽车|qìchē|car|noun|
-|自行车|zìxíngchē|bicycle|noun|
+|字|zì|character|noun|
+|汉字|hànzì|Chinese character|noun|
+|认字|rèn zì|to recognize characters|phrase|
+|写字|xiězì|to write|phrase|
+|自己|zìjǐ|oneself|pronoun|
+|工资|gōngzī|salary|noun|
+|资本|zīběn|capital|noun|
+|次|cì|time|measure word|
+|词|cí|word|noun|

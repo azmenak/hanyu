@@ -2,61 +2,63 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：没有证据表明这是连环杀手干的。
-乙：两周内五起谋杀案，这只是一个开始。
-甲：这个城市每年至少七百起恶性案件，贩毒仇杀，黑社会斗殴都有。
-乙：但有多少涉及到孩子？我们需要通知上级安全部门。
-甲：给FBI打电话之前我需要有力的证据。
-乙：有力的？
-甲：这些可能只是一个巧合。
-丙：队长，刚才在城西通运河里又发现了一具尸体，十五岁。
-乙：你看，我说过，这只是一个开头。
+甲：所以你说你被王子骚扰啦？
+乙：是。
+甲：在森林里？
+乙：在森林的城堡里。
+甲：这王子不是本地人吧？
+乙：好像不是吧。
+甲：那这不是我的管辖范围，你需要到当地派出所报案。
+乙：可是，可是我一醒来他就在亲我！
+甲：好了，好了，停停停，你可以走了，我们要关门了。
 
 ### Pinyin and Translation
 
-甲: 没有证据表明这是连环杀手干的。
-    méiyǒu zhèngju biǎomíng zhè shì liánhuánshāshǒu gàn de 。
-    There's no evidence to show this is the work of a serial killer.
+甲: 所以你说你被王子骚扰啦？
+    suǒyǐ nǐ shuō nǐ bèi wángzǐ sāorǎo la ？
+    So you say you were harassed by the prince.
 
-乙: 两周内五起谋杀案，这只是一个开始。
-    liǎng zhōu nèi wǔ qǐ móushāàn ， zhè zhǐ shì yī ge kāishǐ 。
-    Five killings in two weeks. This is just the beginning.
+乙: 是。
+    shì 。
+    Yes.
 
-甲: 这个城市每年至少七百起恶性案件，贩毒仇杀，黑社会斗殴都有。
-    zhège chéngshì měinián zhìshǎo qībǎi qǐ èxìng ànjiàn ， fàndú chóushā ， hēishèhuìdòuōu dōu yǒu 。
-    There are at least 700 cases of foul play a year in this city: between drug traffiking, vengeance killings and mob hits we see it all.
+甲: 在森林里？
+    zài sēnlín lǐ ？
+    In the forest?
 
-乙: 但有多少涉及到孩子？我们需要通知上级安全部门。
-    dàn yǒu duōshao shèjí dào háizi ？ wǒmen xūyào tōngzhī shàngjíānquánbùmén 。
-    But how many of these involve children? We need to inform our higher-ups in law enforcement.
+乙: 在森林的城堡里。
+    zài sēnlín de chéngbǎo lǐ 。
+    In the castle in the forest.
 
-甲: 给FBI打电话之前我需要有力的证据。
-    gěi FBI dǎ diànhuà zhīqián wǒ xūyào yǒu lì de zhèngju 。
-    I need compelling evidence before calling the FBI.
+甲: 这王子不是本地人吧？
+    zhè wángzǐ bù shì běndìrén ba ？
+    This prince isn't a local resident, is he?
 
-乙: 有力的？
-    yǒu lì de ？
-    Compelling?
+乙: 好像不是吧。
+    hǎoxiàng bù shì ba 。
+    I don't think so.
 
-甲: 这些可能只是一个巧合。
-    zhè xiē kěnéng zhǐ shì yī ge qiǎohé 。
-    These might just be a coincidence.
+甲: 那这不是我的管辖范围，你需要到当地派出所报案。
+    nà zhè bù shì wǒ de guǎnxiá fànwéi ， nǐ xūyào dào dāngdì pàichūsuǒ bàoàn 。
+    Then it doesn't fall into my area of jurisdiction. You need to report this to the station there.
 
-丙: 队长，刚才在城西通运河里又发现了一具尸体，十五岁。
-    duìzhǎng ， gāngcái zài chéngxī tōngyùnhé lǐ yòu fāxiàn le yījùshītǐ ， shíwǔ suì 。
-    Captain, we just discovered another body in the Tongyun river in the western quarters. A fifteen year old.
+乙: 可是，可是我一醒来他就在亲我！
+    kěshì ， kěshì wǒ yī xǐnglái tā jiù zài qīn wǒ ！
+    But, but... he kissed me as I woke up!
 
-乙: 你看，我说过，这只是一个开头。
-    nǐ kàn ， wǒ shuō guò ， zhè zhǐ shì yī ge kāitóu 。
-    Look. I told you, this is only the start.
+甲: 好了，好了，停停停，你可以走了，我们要关门了。
+    hǎo le ， hǎo le ， tíng tíng tíng ， nǐ kěyǐ zǒu le ， wǒmen yào guānmén le 。
+    That's enough. Stop it. You can go. We're closing.
 ### Vocab
--根儿 (gēnr) [measure word] piece
--块儿 (kuàir) [measure word] piece
--本儿 (běnr) [measure word] volume
--片儿 (piànr) [measure word] slice
--勺儿 (sháor) [measure word] spoon
--保证 (bǎozhèng) [verb] to guarantee
--说到做到 (shuōdào zuòdào) [phrase] to do what one says
--明儿 (míngr) [noun] tomorrow
--今儿 (jīnr) [noun] today
--昨儿 (zuór) [noun] yesterday
+-睡美人 (shuìméirén) [noun] Sleeping Beauty
+-小红帽 (xiǎohóngmào) [noun] Little Red Riding Hood
+-灰姑娘 (huīgūniang) [noun] Cinderella
+-长发姑娘 (chángfàgūniang) [noun] Rapunzel
+-牛郎织女 (niúláng zhīnǚ) [noun] the Cowherd and the Weaving Girl
+-花木兰 (huāmùlán) [noun] Mulan
+-骚扰 (sāorǎo) [verb] to harass
+-显灵 (xiǎnlíng) [verb] to manifest (of a ghost)
+-本地人 (běndìrén) [noun] local person
+-管辖范围 (guǎnxiáfànwéi) [noun] scope of jurisdiction
+-当地 (dāngdì) [adjective] local
+-报案 (bàoàn) [verb] to report a case to the authorities

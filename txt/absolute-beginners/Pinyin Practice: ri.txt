@@ -2,23 +2,18 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-我第一次写汉字。
-我自己去。
-你的工资是多少？
+她用日语写日记。
+星期日我去日本。
 
 ### Pinyin and Translation
 
-我第一次写汉字。
-wǒ dì yī cì xiě hànzì 。
-My first time writing Chinese characters.
+她用日语写日记。
+tā yòng rìyǔ xiě rìjì 。
+She writes a diary in Japanese.
 
-我自己去。
-wǒ zìjǐ qù 。
-I'll go myself.
-
-你的工资是多少？
-nǐ de gōngzī shì duōshǎo ？
-How much is your salary?
+星期日我去日本。
+xīngqīrì wǒ qù Rìběn 。
+Sunday I am going to Japan.
 ### Vocab
 -日 (rì) [noun] sun, day
 -日本 (Rìběn) [country] Japan

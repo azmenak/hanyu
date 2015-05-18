@@ -2,19 +2,40 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-
+男的：服务员!
+男的：我要一个这个，两个这个，一个那个。
+女的：您一个人吗?
+男的：我饿了。
 
 ### Pinyin and Translation
+
+男的: 服务员!
+      fúwùyuán !
+      Waiter!
+
+男的: 我要一个这个，两个这个，一个那个。
+      wǒ yào yī ge zhège ， liǎng ge zhège ， yī ge nàge 。
+      I want one of these, two of these, and one of those.
+
+女的: 您一个人吗?
+      nín yī ge rén ma ?
+      Are you eating alone?
+
+男的: 我饿了。
+      wǒ è le 。
+      I'm hungry.
 ### Vocab
--洗手间 (xǐshǒujiān) [noun] washroom
--你 (nǐ) [pronoun] you
+-服务员 (fúwùyuán) [noun] waiter
 -我 (wǒ) [pronoun] I
--在 (zài) [unknown] to be at
--哪儿 (nǎr) [question] where
--这儿 (zhèr) [noun] here
--那儿 (nàr) [noun] there
--有 (yǒu) [verb] to have
--没有 (méiyǒu) [verb] not to have
--手纸 (shǒuzhǐ) [noun] toilet paper
--你在哪儿 (nǐ zài nǎr) [phrase] where are you
--我在这儿 (wǒ zài zhèr) [phrase] I'm over here
+-您 (nín) [pronoun] you
+-要 (yào) [verb] to want
+-一 (yī) [number] one
+-两 (liǎng) [number] two
+-个 (ge) [measure word] (measure word)
+-人 (rén) [noun] person
+-吗 (ma) [question marker] (question marker)
+-饿 (è) [adjective] hungry
+-这 (zhè) [determiner] this
+-那 (nà) [determiner] that
+-这个 (zhège) [phrase] this one
+-那个 (nàge) [phrase] that one

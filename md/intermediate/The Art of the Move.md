@@ -1,34 +1,27 @@
 # The Art of the Move
 **Intermediate** level
 ### Chinese Text
-甲：哎，我有点儿饿了。
-乙：饿了? 那我给你找点儿吃的吧。
-甲：行。
-乙：这啤酒....
-甲：哎，啤酒行。哎，你那旁边的面条也行了。
-乙：那是吃剩的。
-甲：饺子! 还有那个牛肉丸。哎，你们家那个微波炉在哪儿?
-乙：哎，你别找了。这样吧，我给你做三明治吧。
-甲：哇，你没告诉我冰箱里有那个巧克力蛋糕啊! 哦哟，这个挺香的！这个挺甜的嘛！
-乙：哎，你别吃啊！这是我给我男朋友买的，你说你......
-甲：呃......对不起啊。
-甲：反正都吃了，那就我吃了吧。
+男：Apple，你能过来帮我搭把手吗?<br />女：哎，我忙着呢!
+男：可是我觉得你的桌子放在卧室会比较好，或许你能亲自来把它搬一下。
+女：不用，放客厅就行了。
+男：不是说... 怎么就我一个人? 你不是说有很多人来帮忙的吗?
+女：有。他们一会儿肯定会来。这样，我现在有事，我要出去了。你就把所有东西全搁客厅就行啊。
+男：哎，可是门外还有那么多东西需要搬进来呢！
+女：谢谢你了!
+男：唉，我的周末。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，我有点儿饿了。<blockquote>ai ， wǒ yǒu diǎnr è le 。<br />Hey, I'm a little bit hungry.</blockquote>|
-|乙|饿了? 那我给你找点儿吃的吧。<blockquote>è le ? nà wǒ gěi nǐ zhǎo diǎnr chī de ba 。<br />Hungry? Let me get you something to eat.</blockquote>|
-|甲|行。<blockquote>xíng 。<br />Ok.</blockquote>|
-|乙|这啤酒....<blockquote>zhè píjiǔ ....<br />We've got beer....</blockquote>|
-|甲|哎，啤酒行。哎，你那旁边的面条也行了。<blockquote>ai ， píjiǔ xíng 。 ai ， nǐ nà pángbiān de miàntiáo yě xíng le 。<br />Oh, beer is great. And those noodles over there would be good too.</blockquote>|
-|乙|那是吃剩的。<blockquote>nà shì chīshèng de 。<br />Those are leftovers.</blockquote>|
-|甲|饺子! 还有那个牛肉丸。哎，你们家那个微波炉在哪儿?<blockquote>jiǎozi ! hái yǒu nàge niúròuwán 。 ai ， nǐmen jiā nàge wēibōlú zài nǎr ?<br />Dumplings! And then those meatballs. Where's the microwave?</blockquote>|
-|乙|哎，你别找了。这样吧，我给你做三明治吧。<blockquote>ai ， nǐ bié zhǎo le 。 zhèyàng ba ， wǒ gěi nǐ zuò sānmíngzhì ba 。<br />Don't bother with that. Why don't I just make you a sandwich?</blockquote>|
-|甲|哇，你没告诉我冰箱里有那个巧克力蛋糕啊! 哦哟，这个挺香的！这个挺甜的嘛！<blockquote>wā ， nǐ méi gàosu wǒ bīngxiāng lǐ yǒu nàge qiǎokèlì dàngāo a ! oyo ， zhège tǐng xiāng de ！ zhège tǐng tián de ma ！<br />Woot! You didn't tell me there was a chocolate cake in the fridge. Smells delicious. This is really sweet!</blockquote>|
-|乙|哎，你别吃啊！这是我给我男朋友买的，你说你......<blockquote>ai ， nǐ bié chī a ！ zhè shì wǒ gěi wǒ nánpéngyou mǎi de ， nǐ shuō nǐ ......<br />No, don't eat it! I bought that for my boyfriend, look what you've done....</blockquote>|
-|甲|呃......对不起啊。<blockquote>e ...... duìbuqǐ a 。<br />Errr...I'm sorry.</blockquote>|
-|甲|反正都吃了，那就我吃了吧。<blockquote>fǎnzhèng dōu chī le ， nà jiù wǒ chī le ba 。<br />No harm in finishing it off now it's half eaten anyway.</blockquote>|
+|男|Apple，你能过来帮我搭把手吗?<blockquote>Apple ， nǐ néng guòlai bāng wǒ dābǎshǒu ma ?<br />Apple, can you give me a hand with this?</blockquote>|
+|女|哎，我忙着呢!<blockquote>ai ， wǒ mángzhe ne !<br />Oh, I'm busy.</blockquote>|
+|男|可是我觉得你的桌子放在卧室会比较好，或许你能亲自来把它搬一下。<blockquote>kěshì wǒ juéde nǐ de zhuōzi fàng zài wòshì huì bǐjiào hǎo ， huòxǔ nǐ néng qīnzì lái bǎ tā bān yixià 。<br />But I think the table would be better in the bedroom, and maybe you could come over and move it yourself.</blockquote>|
+|女|不用，放客厅就行了。<blockquote>bùyòng ， fàng kètīng jiù xíng le 。<br />No need. Just put it in the living room.</blockquote>|
+|男|不是说... 怎么就我一个人? 你不是说有很多人来帮忙的吗?<blockquote>bù shì shuō ... zěnme jiù wǒ yī gè rén ? nǐ bù shì shuō yǒu hěn duō rén lái bāngmáng de ma ?<br />I mean... why am I alone here? Didn't you say there were a lot of people coming to help you move?</blockquote>|
+|女|有。他们一会儿肯定会来。这样，我现在有事，我要出去了。你就把所有东西全搁客厅就行啊。<blockquote>yǒu 。 tāmen yīhuìr kěndìng huì lái 。 zhèyàng ， wǒ xiànzài yǒushì ， wǒ yào chūqù le 。 nǐ jiù bǎ suǒyǒu dōngxi quán gē kètīng jiù xíng a 。<br />They'll be over in a bit for sure. Hey, I've got something to do and need to go out. Just put everything in the living room and it will be fine.</blockquote>|
+|男|哎，可是门外还有那么多东西需要搬进来呢！<blockquote>ai ， kěshì ménwài hái yǒu nàme duō dōngxi xūyào bān jìnlái ne ！<br />Uh... but there's a lot of stuff outside that needs moving in.</blockquote>|
+|女|谢谢你了!<blockquote>xièxiè nǐ le !<br />Super thanks!</blockquote>|
+|男|唉，我的周末。<blockquote>ai ， wǒ de zhōumò 。<br />Oh, my weekend....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

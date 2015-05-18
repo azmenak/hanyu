@@ -1,37 +1,30 @@
 # Pirate Jack
 **Elementary** level
 ### Chinese Text
-甲：你从没告诉我你哥哥这么帅。
-乙：我哥哥？他不帅。
-甲：他长得像布拉德皮特。
-乙：他不像。
-甲：不，他像。
-乙：他不像！
-甲：他太帅了。他的电话是多少？
-乙：什么？
-甲：哦，等等。你的电话是多少来着？
+甲：你认识杰克吗？<br />乙：海盗杰克？
+甲：杰克斯维顿。
+乙：海洋杀手，海盗杰克斯维顿！
+甲：我以为他是个大夫。
+乙：海洋杀手，海盗神医，杰克斯维顿！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你从没告诉我你哥哥这么帅。<blockquote>nǐ cóngméi gàosu wǒ nǐ gēge zhème shuài 。<br />You never told me your brother was this handsome.</blockquote>|
-|乙|我哥哥？他不帅。<blockquote>wǒ gēge ？ tā bù shuài 。<br />My brother? He's not handsome.</blockquote>|
-|甲|他长得像布拉德皮特。<blockquote>tā zhǎng de xiàng Bùlādé Pítè 。<br />He looks like Brad Pitt.</blockquote>|
-|乙|他不像。<blockquote>tā bù xiàng 。<br />He's not at all like him.</blockquote>|
-|甲|不，他像。<blockquote>bù ， tā xiàng 。<br />No, he's like him.</blockquote>|
-|乙|他不像！<blockquote>tā bù xiàng ！<br />He's not like him!</blockquote>|
-|甲|他太帅了。他的电话是多少？<blockquote>tā tài shuài le 。 tā de diànhuà shì duōshǎo ？<br />He's gorgeous. What's his number?</blockquote>|
-|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
-|甲|哦，等等。你的电话是多少来着？<blockquote>ò ， děngděng 。 nǐ de diànhuà shì duōshao láizhe ？<br />Oh, wait. What's your number again?</blockquote>|
+|甲|你认识杰克吗？<blockquote>nǐ rènshi Jiékè ma ？<br />Do you know Jack?</blockquote>|
+|乙|海盗杰克？<blockquote>hǎidào Jiékè ？<br />Pirate Jack?</blockquote>|
+|甲|杰克斯维顿。<blockquote>Jiékè Sīwéidùn 。<br />Jack Sweeton.</blockquote>|
+|乙|海洋杀手，海盗杰克斯维顿！<blockquote>hǎiyáng shāshǒu ， hǎidào Jiékè Sīwéidùn ！<br />Pirate Jack Sweeton, the killer of the seas!</blockquote>|
+|甲|我以为他是个大夫。<blockquote>wǒ yǐwéi tā shì ge dàifu 。<br />I thought he was a doctor.</blockquote>|
+|乙|海洋杀手，海盗神医，杰克斯维顿！<blockquote>hǎiyáng shāshǒu ， hǎidào shén yī ， Jiékè Sīwéidùn ！<br />Jack Sweeton, pirate doctor and killer of the seas!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|哦|o|oh|onomatopoeia|
-|多|duō|many|adjective|
-|最近|zuìjìn|these days|adverb|
-|经常|jīngcháng|often|adverb|
-|洗澡|xǐzǎo|to take a shower|verb|
-|水费|shuǐfèi|water bill|noun|
-|电费|diànfèi|power bill|noun|
-|学费|xuéfèi|tuition|noun|
-|付费|fùfèi|to pay the bill|verb|
+|海洋|hǎiyáng|ocean|noun|
+|觉得|juéde|to feel|verb|
+|杀手|shāshǒu|killer|noun|
+|海盗|hǎidào|pirate|noun|
+|大夫|dàifu|doctor|noun|
+|神|shén|excellent|adjective|
+|以为|yǐwéi|to believe mistakenly|verb|
+|认识|rènshi|to recognize|verb|
+|认为|rènwéi|to believe|verb|

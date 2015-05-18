@@ -2,62 +2,46 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-中国行
-十一人
-中国人说中文
-英国人说英文
-多花钱
-他行
-他很忙
-中国人花钱
-别烦人
+甲：你别动!
+乙：没事!
+甲：别动!
+乙：没事!
+甲：别动!
+乙：没....
 
 ### Pinyin and Translation
 
-中国行
-Zhōngguó xíng
-China is ok.
+甲: 你别动!
+    nǐ bié dòng !
+    Don't move, you!
 
-十一人
-shíyī rén
-11 people
+乙: 没事!
+    méishì !
+    Don't worry about it!
 
-中国人说中文
-Zhōngguórén shuō zhōngwén
-Chinese people speak Chinese
+甲: 别动!
+    bié dòng !
+    Don't move!
 
-英国人说英文
-Yīngguórén shuō yīngwén
-People from England speak English
+乙: 没事!
+    méishì !
+    There's nothing wrong!
 
-多花钱
-duō huāqián
-Spend more money
+甲: 别动!
+    bié dòng !
+    Don't move!
 
-他行
-tā xíng
-He is ok
-
-他很忙
-tā hěn máng
-He is very busy
-
-中国人花钱
-Zhōngguórén huāqián
-Chinese people spend money
-
-别烦人
-bié fánrén
-Don't be such a nuisance
+乙: 没....
+    méi ....
+    There's no....
 ### Vocab
--妈 (mā) [noun] ma
--他 (tā) [pronoun] he
--她 (tā) [pronoun] her
--它 (tā) [pronoun] it
--一 (yī) [pronoun] 1
--吃 (chī) [verb] to eat
--喝 (hē) [verb] to drink
--说 (shuō) [verb] to say
--中文 (zhōngwén) [noun] Chinese
--打 (dǎ) [verb] to hit
--串 (chuàn) [noun] kebab
+-你 (nǐ) [pronoun] you
+-别 (bié) [other] don't
+-动 (dòng) [verb] to move
+-事 (shì) [noun] problem
+-没事 (méishì) [phrase] there's no problem
+-有事 (yǒushì) [phrase] there's a problem
+-别管我 (bié guǎn wǒ) [phrase] don't nag me
+-别说 (bié shuō) [phrase] don't talk
+-别笑 (bié xiào) [phrase] don't laugh
+-没 (méi) [adverb] not, there is not

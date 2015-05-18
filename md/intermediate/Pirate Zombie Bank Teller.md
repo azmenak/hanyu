@@ -1,8 +1,7 @@
 # Pirate Zombie Bank Teller
 **Intermediate** level
 ### Chinese Text
-甲：我要开个户。
-乙：你要开个户？
+甲：我要开个户。<br />乙：你要开个户？
 甲：船长？是你！
 乙：你想存多少钱呀？
 甲：不是十五年前你已经吊死了吗？
@@ -24,17 +23,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|博士|bóshì|doctorate|noun|
-|迷恋|míliàn|to be infatuated with|verb|
-|研究|yánjiū|research|verb|
-|发展|fāzhǎn|development|noun|
-|趋向|qūxiàng|tendency|noun|
-|回归分析|huíguīfēnxi|regression analysis|noun|
-|农业|nóngyè|agriculture|noun|
-|政治口号|zhèngzhi kǒuhào|political slogan|noun|
-|顺口|shùnkǒu|easy to say|adjective|
-|三农问题|sānnóngwèntí|the rural problems|noun|
-|一国两制|yīguóliǎngzhì|one country two systems|noun|
-|三个代表|sān ge dàibiǎo|the Three Represents|noun|
-|四个现代化|sì ge xiàndàihuà|the Four Modernizations|noun|
-|八荣八耻|bāróngbāchǐ|the Eight Honors and Shames|noun|
+|存|cún|to deposit|verb|
+|开户|kāihù|to open an account|verb|
+|户头|hùtóu|account|noun|
+|账户|zhànghù|account|noun|
+|吊死|diào|to hang to death|verb|
+|利息|lìxi|interest|noun|
+|丰厚|fēnghòu|rich; generous|adjective|
+|活过来|huóguòlai|to survive|verb|
+|船长|chuánzhǎng|captain|noun|
+|僵尸|jiāngshī|zambie|noun|
+|海盗|hǎidào|pirate|noun|

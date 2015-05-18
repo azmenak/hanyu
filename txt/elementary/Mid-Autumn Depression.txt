@@ -2,42 +2,58 @@
 ## *elementary* level
 
 ### Chinese Text
-僵尸：脑子... 脑子....
-甲：哦，你怎么还在这儿，僵尸已经来了，我们快走吧！
-乙：吃脑子....
-甲：都什么时候了，没时间给你做饭了，快走！
-甲：啊！
+甲：哎，你看到王子谦了吗？
+乙：嗯，应该在他房间里。
+甲：他昨天不就在房间里吗？
+乙：对呀，他一星期没出来了。
+甲：他心情不好啊？
+乙：谁心情好？你心情好？
+甲：嗯，也是啊。
+乙：得了，我睡觉去了。
 
 ### Pinyin and Translation
 
-僵尸: 脑子... 脑子....
-      nǎozi . . .  nǎozi . . . .
-      Brains... brains....
+甲: 哎，你看到王子谦了吗？
+    āi ， nǐ kàndào Wáng Zǐqiān le ma ？
+    Hey, have you seen Wang Ziqian?
 
-甲: 哦，你怎么还在这儿，僵尸已经来了，我们快走吧！
-    o ， nǐ zěnme hái zài zhèr ， jiāngshī yǐjīng lái le ， wǒmen kuài zǒu ba ！
-    Hey, what are you still doing here. The zombies have come and we've got to leave quickly!
+乙: 嗯，应该在他房间里。
+    en ， yīnggāi zài tā fángjiān lǐ 。
+    Oh, he should be in his room.
 
-乙: 吃脑子....
-    chī nǎozi . . . .
-    Eat brains....
+甲: 他昨天不就在房间里吗？
+    tā zuótiān bù jiù zài fángjiān lǐ ma ？
+    Wasn't he in his room yesterday?
 
-甲: 都什么时候了，没时间给你做饭了，快走！
-    dōu shénme shíhou le ， méi shíjiān gěi nǐ zuòfàn le ， kuài zǒu ！
-    It's too late for that, there's no time to make dinner. We have to go!
+乙: 对呀，他一星期没出来了。
+    duìya ， tā yī xīngqī méi chūlai le 。
+    Yeah, he hasn't come out for a week.
 
-甲: 啊！
-    a ！
-    Aargh!
+甲: 他心情不好啊？
+    tā xīnqíng bù hǎo a ？
+    Is he in a bad mood?
+
+乙: 谁心情好？你心情好？
+    shéi xīnqíng hǎo ？ nǐ xīnqíng hǎo ？
+    Is anyone in a good mood? You're in a good mood?
+
+甲: 嗯，也是啊。
+    en ， yě shì ā 。
+    Oh, right.
+
+乙: 得了，我睡觉去了。
+    dé le ， wǒ shuìjiàoqù le 。
+    That's it, I'm going to sleep.
 ### Vocab
--僵尸 (jiāngshī) [noun] zombie
--脑子 (nǎozi) [noun] brain
--帮忙 (bāngmáng) [verb] to help
--已经 (yǐjīng) [adverb] already
--做饭 (zuòfàn) [verb] to cook food
--看包 (kānbāo) [verb] to watch a bag
--打电话 (dǎ diànhuà) [verb] to dial the telephone
--发邮件 (fā yóujiàn) [verb] to send an email
--买东西 (mǎi dōngxi) [verb] to buy things
--给 (gěi) [preposition] for
--怎么 (zěnme) [question] how
+-年 (nián) [noun] year
+-月 (yuè) [noun] month
+-天 (tiān) [noun] day
+-星期 (xīngqī) [noun] week
+-应该 (yīnggāi) [auxiliary verb] should
+-房间 (fángjiān) [noun] room
+-心情 (xīnqíng) [noun] mood
+-也是 (yě shì) [phrase] that's right
+-得了 (dé le) [phrase] fine
+-休息 (xiūxi) [verb] to rest
+-开车 (kāichē) [verb] to drive a car
+-运动 (yùndong) [verb] to exercise

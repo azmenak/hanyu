@@ -1,8 +1,7 @@
 # We can remember it for you wholesale
 **Intermediate** level
 ### Chinese Text
-第一部
-甲：Copenhagen，放开那个女孩！
+第一部<br />甲：Copenhagen，放开那个女孩！
 乙：什么女孩？
 甲：她在那儿，不，这儿。
 乙：这儿没有女孩，这只是你的大脑错乱。
@@ -40,25 +39,17 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|熬|áo|to endure|verb|
-|蹚|tāng|to ford|verb|
-|回想|huíxiǎng|to think back|verb|
-|当初|dāngchū|at that time|noun|
-|出发|chūfā|to set out|verb|
-|的确|díquè|really|adverb|
-|摆渡|bǎidù|ferry|noun|
-|武侠|wǔxiá|martial arts chivalry|noun|
-|手柄|shǒubǐng|hand shank|noun|
-|拉痢疾|lā lìji|to have dysentery|verb|
-|泡泡龙|Pàopaolóng|Bubble Shooter|name|
-|神秘岛|Shénmìdǎo|Myst|name|
-|魂斗罗|Húndòuluó|Contra|name|
-|贪吃蛇|Tānchīshé|Snake|name|
-|迫不及待|pòbùjídài|to be impatient to do something|adverb|
-|超级玛丽|Chāojí Mǎlì|Super Mario|name|
-|坦克大战|Tǎnkè Dàzhàn|Battle City|name|
-|俄勒冈之旅|E2lègāng zhī lǚ|The Oregon Trail|other|
-|俄罗斯方块|E2luósī fāngkuài|Tetris|name|
-|仙剑奇侠传|Xiānjiàn qíxiá zhuàn|The Legend of Divine Sword and Wizardly Knight-errant|name|
-|别蹚这滩浑水|bié tāng zhè tān húnshuǐ|don't step into the muddy water|phrase|
-|嫁鸡随鸡嫁狗随狗|jiàjīsuíjī jiàgǒusuígǒu|you get what you married|phrase|
+|脑子|nǎozi|brain|noun|
+|移除|yíchú|to remove|verb|
+|记忆|jìyì|memory|noun|
+|剥夺|bōduó|to cut away|verb|
+|辨认|biànrèn|to identify|verb|
+|性别|xìngbié|gender|noun|
+|为|wèi|for|preposition|
+|给|gěi|for|preposition|
+|奋斗|fèndòu|to struggle|verb|
+|错乱|cuòluàn|to be in disarray|verb|
+|为 ... 而|wèi ... ér|for|preposition|
+|遗憾地|yíhànde|regretfully|adverb|
+|精神错乱|jīngshén cuòluàn|mental disorder|noun|
+|大脑错乱|dànǎo cuòluàn|brain disorder|noun|

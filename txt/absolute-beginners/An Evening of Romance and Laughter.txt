@@ -2,53 +2,42 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：还有一百米。
-乙：我不行了....
-甲：坚持，坚持，一定要....
-乙：我太累了。
-甲：想想孩子。
-乙：别管我。我，对不起....
+甲：我觉得你很特别，非常特别。
+乙：你不觉得我的笑声很烦人吗？
+甲：不不不，很好听。
+乙：可是别人都说很刺耳。
+甲：不不不不，那是他们没有幽默感，无聊，很无聊。
 
 ### Pinyin and Translation
 
-甲: 还有一百米。
-    hái yǒu yībǎi mǐ 。
-    There's still another hundred meters.
+甲: 我觉得你很特别，非常特别。
+    wǒ juéde nǐ hěn tèbié ， fēicháng tèbié 。
+    I think that you're very special... extremely special.
 
-乙: 我不行了....
-    wǒ bù xíng le . . . .
-    I can't do it....
+乙: 你不觉得我的笑声很烦人吗？
+    nǐ bù juéde wǒ de xiàoshēng hěn fánrén ma ？
+    You don't find the sound of my laughter aggravating?
 
-甲: 坚持，坚持，一定要....
-    jiānchí ， jiānchí ， yīdìng yào . . . .
-    Keep at it, you've got to....
+甲: 不不不，很好听。
+    bù bù bù ， hěn hǎotīng 。
+    Not at all! It's very pleasant.
 
-乙: 我太累了。
-    wǒ tài lèi le 。
-    I'm too tired.
+乙: 可是别人都说很刺耳。
+    kěshì biérén dōu shuō hěn cì_APOS_ěr 。
+    But other people say it's irritating.
 
-甲: 想想孩子。
-    xiǎngxiang háizi 。
-    Think of the children.
-
-乙: 别管我。我，对不起....
-    bié guǎn wǒ 。 wǒ ， duìbuqǐ . . . .
-    Leave me be. I'm... I'm sorry.
+甲: 不不不不，那是他们没有幽默感，无聊，很无聊。
+    bù bù bù bù ， nà shì tāmen méiyǒu yōumògǎn ， wúliáo ， hěn wúliáo 。
+    Oh no. The don't have a sense of humor, that's all. They're just boring, very boring.
 ### Vocab
--要 (yào) [verb] to want
--买 (mǎi) [verb] to buy
--钱 (qián) [noun] money
--给 (gěi) [verb] to give
--十 (shí) [number] ten
--百 (bǎi) [number] hundred
--耳机 (ěrjī) [noun] earpiece
--苹果 (Píngguǒ) [noun] Apple
--还是 (háishì) [conjunction] or
--普通 (pǔtōng) [adjective] regular
--多少 (duōshǎo) [other] how much
--红的 (hóngde) [noun] red ones
--黑的 (hēide) [noun] black ones
--贵的 (guìde) [noun] expensive ones
--冰的 (bīngde) [noun] iced ones
--常温的 (chángwēnde) [noun] room temperature ones
--便宜的 (piányide) [noun] cheap ones
+-觉得 (juéde) [verb] to feel
+-很 (hěn) [adverb] very
+-非常 (fēicháng) [adverb] unusually
+-笑声 (xiàoshēng) [noun] laughter
+-别人 (biérén) [noun] other people
+-特别 (tèbié) [adjective] special
+-烦人 (fánrén) [adjective] annoying
+-好听 (hǎotīng) [adjective] pleasant sounding
+-刺耳 (cì'ěr) [adjective] harsh sounding
+-幽默 (yōumò) [adjective] humorous
+-无聊 (wúliáo) [adjective] boring

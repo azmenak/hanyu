@@ -1,30 +1,21 @@
 # Sheep Disappointment
 **Intermediate** level
 ### Chinese Text
-甲：探子报，敌人把步兵从城里转移到了十里外的军火库。
-乙：不会是引我们进攻吧？
-甲：不可能。除非....
-乙：是个陷阱。
-甲：空城计。
-乙：探子到底看到多少兵撤离了？
-甲：谁知道？昨晚雾很大。
-乙：那他们是准备偷袭我们。
-甲：我们怎么办？
-乙：按原来的计划，我们还在黎明进攻。不过，不在他们预计的地方。
+甲：我觉得我吃不了僵尸的肉。<br />乙：那你原来喝羊杂汤怎么没事呢？
+丙：羊杂汤太恶心了。
+甲：他们原来可都是人呢...  这不是楼上的张大爷吗？
+乙：他原来是张大爷，现在是张僵尸。而且现在是世界末日，你觉得我们还有的选吗？
+丙：要是有的选我还选僵尸，反正我不会再喝羊杂汤了。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|探子报，敌人把步兵从城里转移到了十里外的军火库。<blockquote>tànzǐ bào ， dírén bǎ bùbīng cóng chénglǐ zhuǎnyí  dào le shí lǐ wài de jūnhuǒkù 。<br />Scouts report that the enemy has moved his infantry from inside the city to the military reserves ten miles outside it.</blockquote>|
-|乙|不会是引我们进攻吧？<blockquote>bùhuì shì yǐn wǒmen jìngōng ba ？<br />This can't be a lure to get us to attack?</blockquote>|
-|甲|不可能。除非....<blockquote>bù kěnéng 。 chúfēi ....<br />That's impossible. Unless....</blockquote>|
-|乙|是个陷阱。<blockquote>shì ge xiànjǐng 。<br />It's a trap.</blockquote>|
-|甲|空城计。<blockquote>kōngchéngjì 。<br />It's the empty city strategem.</blockquote>|
-|乙|探子到底看到多少兵撤离了？<blockquote>tànzǐ dàodǐ kàn dào duōshǎo bīng chèlí le ？<br />How many soldiers did the scouts see in retreat?</blockquote>|
-|甲|谁知道？昨晚雾很大。<blockquote>shéi zhīdào ？ zuówǎn wù hěn dà 。<br />Who knows? There was a lot of fog last night.</blockquote>|
-|乙|那他们是准备偷袭我们。<blockquote>nà tāmen shì zhǔnbèi tōuxí wǒmen 。<br />Then, they must be preparing to attack us in secret.</blockquote>|
-|甲|我们怎么办？<blockquote>wǒmen zěnme bàn ？<br />So what do we do?</blockquote>|
-|乙|按原来的计划，我们还在黎明进攻。不过，不在他们预计的地方。<blockquote>àn yuánlái  de jìhuà ， wǒmen hái zài límíng jìngōng 。 búguò ， bù zài tāmen yùjì de dìfang 。<br />We'll follow the original plan and attack at dawn. Just... not where they'll be expecting it.</blockquote>|
+|甲|我觉得我吃不了僵尸的肉。<blockquote>wǒ juéde wǒ chībùliǎo jiāngshī de ròu 。<br />I don't think I can eat zombie meat.</blockquote>|
+|乙|那你原来喝羊杂汤怎么没事呢？<blockquote>nà nǐ yuánlái hē yángzátāng zěnme méishì ne ？<br />So how come you didn't have a problem with sheep offal soup?</blockquote>|
+|丙|羊杂汤太恶心了。<blockquote>yángzátāng tài ěxīn le 。<br />Sheep offal soup is really gross.</blockquote>|
+|甲|他们原来可都是人呢...  这不是楼上的张大爷吗？<blockquote>tāmen yuánlái kě dōu shì rén ne ...  zhè bù shì lóushàng de Zhāng dàye ma ？<br />But they used to be people... I mean, isn't this Papa Zhang from upstairs?</blockquote>|
+|乙|他原来是张大爷，现在是张僵尸。而且现在是世界末日，你觉得我们还有的选吗？<blockquote>tā yuánlái shì Zhāng dàye ， xiànzài shì Zhāng jiāngshī 。 érqiě xiànzài shì shìjièmòrì ， nǐ juéde wǒmen hái yǒude xuǎn ma ？<br />It used to be Papa Zhang, but now it's Zombie Zhang. And it's the end of the world, what kind of choice do you think we have?</blockquote>|
+|丙|要是有的选我还选僵尸，反正我不会再喝羊杂汤了。<blockquote>yàoshi yǒude xuǎn wǒ hái xuǎn jiāngshī ， fǎnzhèng wǒ bùhuì zài hē yángzátāng le 。<br />If we had a choice I'd still go for the zombie. I won't be eating any more sheep offal soup, anyway.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

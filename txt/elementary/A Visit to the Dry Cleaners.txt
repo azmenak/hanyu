@@ -40,12 +40,17 @@ Then whose clothes are these?
 ā ， wǒ de yīfu 。 xièxie 。
 These are my clothes. Thank you.
 ### Vocab
--电脑 (diànnǎo) [noun] computer
--又 (yòu) [adverb] again
--安装 (ānzhuāng) [verb] to install
--软件 (ruǎnjiàn) [noun] software
--天哪 (tiān na) [phrase] goodness gracious
--担心 (dānxīn) [verb] to worry
--别 (bié) [adverb] don't
--免费 (miǎnfèi) [adjective] free
--弄坏 (nòng huài) [verb phrase] to break
+-干洗店 (gānxǐdiàn) [noun] dry-cleaning store
+-取 (qǔ) [verb] to take
+-衣服 (yīfu) [noun] clothing
+-票 (piào) [noun] ticket
+-不是吗 (bùshì ma) [phrase] aren't they
+-颜色 (yánsè) [noun] color
+-大小 (dàxiǎo) [noun] size
+-款式 (kuǎnshì) [noun] style
+-号 (hào) [noun] fit-size
+-裤子 (kùzi) [noun] pants
+-衬衫 (chènshān) [noun] shirt
+-裙子 (qúnzi) [noun] skirt
+-连衣裙 (liányīqún) [noun] dress
+-袜子 (wàzi) [noun] socks

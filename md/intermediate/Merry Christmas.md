@@ -1,8 +1,7 @@
 # Merry Christmas
 **Intermediate** level
 ### Chinese Text
-甲：哎，你看过午夜凶铃吗?
-乙：没看过。
+甲：哎，你看过午夜凶铃吗?<br />乙：没看过。
 甲：呦，特别好看。我昨儿刚买的碟。拿去吧，送你了。
 乙：送我?
 甲：当然了，赶紧去看，不看后悔。
@@ -32,20 +31,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|王翠花|Wáng Cuìhuā|Wang Cuihua|name|
-|地道|dìdào|authentic|adjt|
-|北京人|Běijīngrén|Beijing person|noun|
-|口音|kǒuyīn|accent|noun|
-|只不过|zhǐbùguò|it is only that|conjunction|
-|身边儿|shēnbiānr|side|noun|
-|带|dài|to carry|note that this verb is used with accents|
-|东北|Dōngběi|northeastern China|noun|
-|东北人|Dōngběirén|northeasterner|noun|
-|东北味儿|Dōngběi wèir|northeastern accent|noun|
-|味儿|wèir|accent, flavour|noun|
-|似乎|sìhū|to seem|verb|
-|合适|héshì|suitable|adjective|
-|土生土长|tǔshēngtǔzhǎng|local born and local bred|idiom|
-|景点|jǐngdiǎn|scenic spot|noun|
-|黄鹤楼|Huánghèlóu|Yellow Crane Tower|noun|
-|适合|shìhé|to fit, to be suited to|verb|
+|午夜凶铃|wǔyèxiōnglíng|The Ring|film|
+|特别|tèbié|especially|adverb|
+|昨儿|zuór|yesterday|noun|
+|明儿|míngr|tomorrow|noun|
+|今儿|jīnr|today|noun|
+|碟|dié|disc|noun, measure word|
+|赶紧|gǎnjǐn|in a hurry|adverb|
+|后悔|hòuhuǐ|to regret|verb|
+|精彩|jīngcǎi|wonderful|adjective|
+|尽快|jǐnkuài|as fast as possible|adverb|
+|好样的|hǎoyàngde|that's the way|phrase|
+|咱|zán|we|pronoun|
+|交流|jiāoliú|to hold an exchange|verb|

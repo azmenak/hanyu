@@ -1,8 +1,7 @@
 # Technical Assistance
 **Elementary** level
 ### Chinese Text
-甲：你的电脑又坏了。
-乙：你又做了什么？
+甲：你的电脑又坏了。<br />乙：你又做了什么？
 甲：我安装了一些软件。
 乙：哦，我的天哪！
 甲：别担心，全是免费的。
@@ -20,17 +19,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|干洗店|gānxǐdiàn|dry-cleaning store|noun|
-|取|qǔ|to take|verb|
-|衣服|yīfu|clothing|noun|
-|票|piào|ticket|noun|
-|不是吗|bùshì ma|aren't they|phrase|
-|颜色|yánsè|color|noun|
-|大小|dàxiǎo|size|noun|
-|款式|kuǎnshì|style|noun|
-|号|hào|fit-size|noun|
-|裤子|kùzi|pants|noun|
-|衬衫|chènshān|shirt|noun|
-|裙子|qúnzi|skirt|noun|
-|连衣裙|liányīqún|dress|noun|
-|袜子|wàzi|socks|noun|
+|电脑|diànnǎo|computer|noun|
+|又|yòu|again|adverb|
+|安装|ānzhuāng|to install|verb|
+|软件|ruǎnjiàn|software|noun|
+|天哪|tiān na|goodness gracious|phrase|
+|担心|dānxīn|to worry|verb|
+|别|bié|don't|adverb|
+|免费|miǎnfèi|free|adjective|
+|弄坏|nòng huài|to break|verb phrase|

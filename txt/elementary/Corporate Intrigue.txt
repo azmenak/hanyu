@@ -2,51 +2,47 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：哎？你的脸怎么了？
-乙：唉，别提了。我撞树上了。
-甲：我都不认识你了。
-乙：有那么严重吗？
-甲：你这样儿还嫁得出去吗？
-乙：我们能不能别提这事了。
-甲：唉，真难看。
+女：你被解雇了！
+男：开玩笑！我是老板的儿子！
+女：什么？我是老板的女儿！
+男：这么说......咱们俩是姐弟......
+女：天哪！这是什么公司！
 
 ### Pinyin and Translation
 
-甲: 哎？你的脸怎么了？
-    ai ？ nǐ de liǎn zěnme le ？
-    Hey, what's wrong with your face?
+女: 你被解雇了！
+    nǐ bèi jiěgù le ！
+    You're being let go.
 
-乙: 唉，别提了。我撞树上了。
-    āi ， bié tí le 。 wǒ zhuàng shù shàng le 。
-    Oh, don't get me started. I ran into a tree.
+男: 开玩笑！我是老板的儿子！
+    kāiwánxiào ！ wǒ shì lǎobǎn de érzi ！
+    You've got to be kidding. I'm the boss' son.
 
-甲: 我都不认识你了。
-    wǒ dōu bù rènshi nǐ le 。
-    I almost didn't recognize you.
+女: 什么？我是老板的女儿！
+    shénma ？ wǒ shì lǎobǎn de nǚér ！
+    What? I'm the boss' daughter!
 
-乙: 有那么严重吗？
-    yǒu nàme yánzhòng ma ？
-    Is it that bad?
+男: 这么说......咱们俩是姐弟......
+    zhème shuō ...... zánmen liǎ shì jiědì ......
+    That means we're brother and sister.
 
-甲: 你这样儿还嫁得出去吗？
-    nǐ zhèyàngr hái jià de chūqù ma ？
-    Are you still going to get married, looking like this?
-
-乙: 我们能不能别提这事了。
-    wǒmen néngbùnéng bié tí zhè shì le 。
-    Can we not talk about this?
-
-甲: 唉，真难看。
-    āi ， zhēn nánkàn 。
-    Wow that's ugly.
+女: 天哪！这是什么公司！
+    tiānna ！ zhè shì shénme gōngsī ！
+    Good gracious! What kind of company is this!
 ### Vocab
--会 (huì) [auxiliary verb] can
--当然 (dāngrán) [conjunction] of course
--中国人 (zhōngguórén) [noun] Chinese person
--噢 (o) [particle] Oh!
--原来 (yuánlái) [adverb] originally
--以为 (yǐwéi) [verb] to think mistakenly
--韩国人 (hánguórén) [noun] Korean person
--呢 (ne) [particle] (sound indicates slight surprise)
--会说话 (huì shuōhuà) [verb phrase] to be a smooth talker
--电脑 (diànnǎo) [noun] computer
+-被 (bèi) [preposition] by
+-解雇 (jiěgù) [verb] to be fired
+-开玩笑 (kāiwánxiào) [phrase] you're kidding
+-老板 (lǎobǎn) [noun] boss
+-儿子 (érzi) [noun] son
+-咱们 (zánmen) [pronoun] we
+-女儿 (nǚér) [noun] daughter
+-这么说 (zhème shuō) [unknown] this is to say
+-俩 (liǎ) [noun] two
+-姐弟 (jiědì) [noun phrase] older sister and younger brother
+-天哪 (tiānna) [phrase] good gracious
+-公司 (gōngsī) [noun] company
+-姐姐 (jiějie) [noun] older sister
+-妹妹 (mèimei) [noun] younger sister
+-哥哥 (gēge) [noun] older brother
+-弟弟 (dìdi) [noun] younger brother

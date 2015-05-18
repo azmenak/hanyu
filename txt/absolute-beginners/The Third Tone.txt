@@ -46,12 +46,12 @@ tā de zhōngwén zhēn hǎo
 His Chinese is really good
 ### Vocab
 -你 (nǐ) [pronoun] you
--别 (bié) [other] don't
--动 (dòng) [verb] to move
--事 (shì) [noun] problem
--没事 (méishì) [phrase] there's no problem
--有事 (yǒushì) [phrase] there's a problem
--别管我 (bié guǎn wǒ) [phrase] don't nag me
--别说 (bié shuō) [phrase] don't talk
--别笑 (bié xiào) [phrase] don't laugh
--没 (méi) [adverb] not, there is not
+-我 (wǒ) [pronoun] I
+-好 (hǎo) [adjective] good
+-少 (shǎo) [adjective] few
+-有 (yǒu) [verb] to have
+-水 (shuǐ) [noun] water
+-酒 (jiǔ) [noun] alcohol
+-很 (hěn) [adverb] very
+-美 (měi) [adjective] beautiful
+-可爱 (kěài) [adjective] cute

@@ -1,16 +1,15 @@
 # Want money?
 **Absolute Beginners** level
 ### Chinese Text
-甲：几点了？
-乙：两点。
-甲：天哪！晚了，晚了！
+甲：你要钱吗？<br />甲：要啊！
+乙：不给。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|几点了？<blockquote>jǐ diǎn le ？<br />What time is it?</blockquote>|
-|乙|两点。<blockquote>liǎng diǎn 。<br />Two o'clock.</blockquote>|
-|甲|天哪！晚了，晚了！<blockquote>tiānna ！ wǎn le ， wǎn le ！<br />Good heavens! It's late!</blockquote>|
+|甲|你要钱吗？<blockquote>nǐ yào qián ma ？<br />You want money?</blockquote>|
+|甲|要啊！<blockquote>yào ā ！<br />Yes!</blockquote>|
+|乙|不给。<blockquote>bù gěi 。<br />I won't give you any.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

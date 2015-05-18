@@ -2,75 +2,80 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：机长，我没法降落这架飞机。
-乙：怎么了？这就是一个常规的夜间降落。
-甲：我们在飞行学院没学过这个。
-乙：你们没学过夜间降落？你只需要跟着仪表盘上的电脑操作。
-丙：机长，乘客已经开始恐慌啦！
-乙：什么？
-丙：我告诉他们保持飞机坠毁的姿势，但是他们....
-乙：嘿嘿嘿，谁说我们要坠毁了？
-甲：让我手动把轮子放下去，至少我们不会一着陆就爆炸。
-乙：这些事情电脑早就做好啦。
-丙：天哪，是电脑在开飞机！
+[电话铃响]
+甲：呃，我说....
+乙：不好意思，我接个电话....
+乙：嘿，谢尔盖.... 嗯，今天晚上在我家吃烤肉啊.... 哦，还有拉里和埃里克。哎，我听说你最近那个引擎做得很给力啊。哈哈，不不不不，我可没用过。你知道，我们这边儿大家都习惯百度一下。哎，行行行，我这边儿还有点儿事，咱们晚上喝酒的时候好好儿聊啊。
+乙：不好意思，咱们刚才说到哪儿了？
+甲：那个谢尔盖....
+乙：啊，就是个什么在线搜索引擎什么玩意儿。哦，我跟你说啊，咱们那个事....
+[电话铃响]
+乙：不好意思。
+乙：比尔.... 我最后一次警告你.... 别给我找这些狗屁借口！你试试！老子棺材都给你买好了。哼！
+甲：呃，这个....
+乙：不好意思，不好意思。家庭问题，家庭问题。
 
 ### Pinyin and Translation
 
-甲: 机长，我没法降落这架飞机。
-    jīzhǎng ， wǒ méifǎ jiàngluò zhè jià fēijī 。
-    Captain, I don't have any way to land this plane.
+[电话铃响]
+[ diànhuàlíng xiǎng ]
+[The telephone rings]
 
-乙: 怎么了？这就是一个常规的夜间降落。
-    zěnme le ？ zhè jiùshì yī ge chángguī de yèjiān jiàngluò 。
-    What? This is a routine nighttime landing.
+甲: 呃，我说....
+    e ， wǒ shuō . . . .
+    Uh... I was saying....
 
-甲: 我们在飞行学院没学过这个。
-    wǒmen zài fēixíng xuéyuàn méi xuéguò zhège 。
-    We never studied this in flight school.
+乙: 不好意思，我接个电话....
+    bùhǎoyìsi ， wǒ jiē ge diànhuà . . . .
+    Sorry, I have to take this call....
 
-乙: 你们没学过夜间降落？你只需要跟着仪表盘上的电脑操作。
-    nǐmen méi xuéguò yèjiān jiàngluò ？ nǐ zhǐ xūyào gēnzhe yíbiǎopán shàng de diànnǎo cāozuò 。
-    You didn't study nighttime landings? You only need to follow the computer on the instrument panel.
+乙: 嘿，谢尔盖.... 嗯，今天晚上在我家吃烤肉啊.... 哦，还有拉里和埃里克。哎，我听说你最近那个引擎做得很给力啊。哈哈，不不不不，我可没用过。你知道，我们这边儿大家都习惯百度一下。哎，行行行，我这边儿还有点儿事，咱们晚上喝酒的时候好好儿聊啊。
+    hei ， Xièěrgài . . . .  en ， jīntiān wǎnshang zài wǒ jiā chī kǎoròu ā . . . .  ò ， hái yǒu Lālǐ hé Aīlǐkè 。 āi ， wǒ tīngshuō nǐ zuìjìn nàge yǐnqíng zuòde hěn gěilì ā 。 hāhā ， bù bù bù bù ， wǒ kě méi yòngguò 。 nǐ zhīdào ， wǒmen zhèbiānr dàjiā dōu xíguàn Bǎidù yīxià 。 āi ， xíng xíng xíng ， wǒ zhèbiānr hái yǒu diǎnr shì ， zánmen wǎnshang hējiǔ de shíhou hǎohāor liáo ā 。
+    Hey, Sergey.... It's a barbeque tonight at my place. Larry and Eric will be there too. Hey, I hear that search engine of yours is doing well lately. (laughs). No, I haven't used it.... You know we're all used to "Baiduing" over here. Yeah, that's fine. Oh, I've still got something over here. We can have a good chat about it tonight over drinks.
 
-丙: 机长，乘客已经开始恐慌啦！
-    jīzhǎng ， chéngkè yǐjīng kāishǐ kǒnghuāng la ！
-    Captain, the passengers have already started to panic!
+乙: 不好意思，咱们刚才说到哪儿了？
+    bùhǎoyìsi ， zánmen gāngcái shuōdào nǎr le ？
+    Sorry, where had we got to just now?
 
-乙: 什么？
-    shénme ？
-    What?
+甲: 那个谢尔盖....
+    nàge Xièěrgài . . . .
+    That Sergey....
 
-丙: 我告诉他们保持飞机坠毁的姿势，但是他们....
-    wǒ gàosu tāmen bǎochí fēijī zhuìhuǐ de zīshì ， dànshì tāmen . . . .
-    I told them to maintain crash position, but they....
+乙: 啊，就是个什么在线搜索引擎什么玩意儿。哦，我跟你说啊，咱们那个事....
+    ā ， jiùshì ge shénme zàixiàn sōusuǒyǐnqíng shénme wányìr 。 ò ， wǒ gēn nǐ shuō ā ， zánmen nà ge shì . . . .
+    Ah... just something to do with an online search engine. Hey, let me tell you, about that thing we're....
 
-乙: 嘿嘿嘿，谁说我们要坠毁了？
-    hei hei hei ， shéi shuō wǒmen yào zhuìhuǐ le ？
-    Hey, who said we are going to crash?
+[电话铃响]
+[ diànhuàlíng xiǎng ]
+[The telephone rings]
 
-甲: 让我手动把轮子放下去，至少我们不会一着陆就爆炸。
-    ràng wǒ shǒudòng bǎ lúnzi fàngxiàqù ， zhìshǎo wǒmen bùhuì yī zhuólù jiù bàozhà 。
-    Let me lower the wheels manually. At least this way we won't explode on touchdown.
+乙: 不好意思。
+    bùhǎoyìsi 。
+    Excuse me.
 
-乙: 这些事情电脑早就做好啦。
-    zhè xiē shìqing diànnǎo zǎo jiù zuò hǎo la 。
-    The computer took care of that ages ago.
+乙: 比尔.... 我最后一次警告你.... 别给我找这些狗屁借口！你试试！老子棺材都给你买好了。哼！
+    Bǐěr ....  wǒ zuìhòu yī cì jǐnggào nǐ ....  bié gěi wǒ zhǎo zhèxiē gǒupì jièkǒu ！ nǐ shìshi ！ lǎozi guāncai dōu gěi nǐ mǎi hǎo le 。 heng ！
+    Bill.... This is the last time I'll warn you.... Don't give me these damn excuses! Try it! I've already bought your coffin. Huh!
 
-丙: 天哪，是电脑在开飞机！
-    tiānna ， shì diànnǎo zài kāi fēijī ！
-    My God, the computer is flying the plane!
+甲: 呃，这个....
+    e ， zhège . . . .
+    Uh, this....
+
+乙: 不好意思，不好意思。家庭问题，家庭问题。
+    bùhǎoyìsi ， bùhǎoyìsi 。 jiātíng wèntí ， jiātíng wèntí 。
+    Sorry, sorry. Family problem, family problem.
 ### Vocab
--降落 (jiàngluò) [verb] to land
--常规 (chángguī) [adjective] routine
--夜间 (yèjiān) [other] nighttime
--白天 (báitiān) [other] daytime
--跟着 (gēnzhe) [verb] to follow
--操作 (cāozuò) [verb] to manipulate
--恐慌 (kǒnghuāng) [verb] to panic
--坠毁 (zhuìhuǐ) [verb] to crash
--姿势 (zīshì) [noun] position
--手动 (shǒudòng) [adverb] manually
--自动 (zìdòng) [adverb] automatically
--着陆 (zhuólù) [verb] to touchdown
--着地 (zháodì) [verb] to touchdown
--仪表盘 (yíbiǎopán) [noun] instrument panel
+-引擎 (yǐnqíng) [noun] engine
+-借口 (jièkǒu) [noun] excuse
+-玩意儿 (wányìr) [noun] plaything
+-百度 (Bǎidù) [noun] Baidu
+-棺材 (guāncai) [noun] coffin
+-老子 (lǎozi) [pronoun] I
+-在线 (zàixiàn) [adjective] online
+-给力 (gěilì) [slang] awesome
+-狗屁 (gǒupì) [slang] damn
+-警告 (jǐnggào) [verb] to warn
+-死死 (sǐsǐ) [adverb] firmly
+-微微 (wēiwēi) [adverb] slightly
+-乖乖 (guāiguāi) [adverb] obediently
+-单单 (dāndān) [adverb] solely

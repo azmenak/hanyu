@@ -1,26 +1,24 @@
 # Drive Safe
 **Absolute Beginners** level
 ### Chinese Text
-甲：你认识弗兰克吗？
-乙：弗兰克？哪个弗兰克？
-甲：就是那个弗兰克·弗拉德拉。
-乙：哦，他不是住在河北了吗？
+甲：先生，请系好安全套。<br />乙：啊？你说什么？
+甲：安全带，安全带。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你认识弗兰克吗？<blockquote>nǐ rènshi Fúlánkè ma ？<br />Do you know Frank?</blockquote>|
-|乙|弗兰克？哪个弗兰克？<blockquote>Fúlánkè ？ nǎge Fúlánkè ？<br />Frank, which Frank?</blockquote>|
-|甲|就是那个弗兰克·弗拉德拉。<blockquote>jiùshì nàge Fúlánkè · Fúlādélā 。<br />Specifically, Frank Fradella.</blockquote>|
-|乙|哦，他不是住在河北了吗？<blockquote>o ， tā bù shì zhù zài Héběi le ma ？<br />Oh, isn't he in living in Hebei?</blockquote>|
+|甲|先生，请系好安全套。<blockquote>xiānsheng ， qǐng jìhǎo ānquántào 。<br />Mister. Please put on your condom.</blockquote>|
+|乙|啊？你说什么？<blockquote>a ？ nǐ shuō shénme ？<br />What? What did you say?</blockquote>|
+|甲|安全带，安全带。<blockquote>ānquándài ， ānquándài 。<br />Seatbelt, seatbelt....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|认识|rènshi|to recognize|verb|
-|吗|ma|question marker|particle|
-|哪个|nǎ ge|which one|pronoun|
-|就是|jiùshì|to be exactly|verb|
-|那个|nà ge|that one|pronoun|
-|住在|zhù zài|to live in|verb|
-|河北|Héběi|Hebei|noun|
-|弗兰克|Fúlánkè|Frank|name|
+|先生|xiānsheng|Mister|noun|
+|请|qǐng|please|verb|
+|系好|jìhǎo|to fasten|verb|
+|安全|ānquán|safe|adjective|
+|安全套|ānquántào|condom|noun|
+|安全带|ānquándài|seat belt|noun|
+|你|nǐ|you|pronoun|
+|说|shuō|to say|verb|
+|什么|shénme|what|question|

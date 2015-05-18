@@ -40,12 +40,13 @@
     yī ......
     One....
 ### Vocab
--宝贝儿 (bǎobèir) [noun] baby
--直升机 (zhíshēngjī) [noun] helicopter
--遗产 (yíchǎn) [noun] inheritance
--公寓 (gōngyù) [noun] apartment
--首付 (shǒufù) [noun] first payment
--着什么急 (zháo shénme jí) [phrase] what are you getting agitated about
--什么租的 (shénme zū de) [phrase] what do you mean, rent
--而且 (érqiě) [conjunction] and moreover
--泡沫 (pàomò) [noun] bubbles
+-炸弹 (zhàdàn) [noun] bomb
+-爆破 (bàopò) [verb] to detonate
+-系统 (xìtǒng) [noun] system
+-即将 (jí jiāng) [adverb] will shortly
+-启动 (qǐdòng) [verb] to start
+-倒计时 (dàojìshí) [verb] to count down
+-把握 (bǎwò) [noun] to master
+-剪断 (jiǎnduàn) [verb] to cut off
+-难道 (nándào) [adverb] can it be that
+-根 (gēn) [measure word] (measure word for sections of wire)

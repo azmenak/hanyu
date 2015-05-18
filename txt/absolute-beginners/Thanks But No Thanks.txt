@@ -2,40 +2,54 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：累吗？
-乙：嗯，我很累。
-甲：你该睡觉。
-乙：我还有工作。
+甲：谢谢您，谢谢，谢谢......
+乙：不客气。
+甲：谢谢，谢谢，谢谢您......
+乙：别客气。
+甲：谢谢您，谢谢您，谢谢......
+乙：不用客气。
+甲：谢谢，谢谢......
+乙：放手！放手！
 
 ### Pinyin and Translation
 
-甲: 累吗？
-    lèi ma ？
-    Are you tired?
+甲: 谢谢您，谢谢，谢谢......
+    xièxie nín ， xièxie ， xièxie ......
+    Thank you, thanks, thanks....
 
-乙: 嗯，我很累。
-    ng ， wǒ hěn lèi 。
-    Yes, I'm very tired.
+乙: 不客气。
+    bù kèqi 。
+    No thanks needed.
 
-甲: 你该睡觉。
-    nǐ gāi shuìjiào 。
-    You should go to sleep.
+甲: 谢谢，谢谢，谢谢您......
+    xièxie ， xièxie ， xièxie nín ......
+    Thank you, thank you, thank you....
 
-乙: 我还有工作。
-    wǒ hái yǒu gōngzuò 。
-    I still have work to do.
+乙: 别客气。
+    bié kèqi 。
+    Don't be so polite.
+
+甲: 谢谢您，谢谢您，谢谢......
+    xièxie nín ， xièxie nín ， xièxie ......
+    Thank you, thank you, thank you....
+
+乙: 不用客气。
+    bù yòng kèqi 。
+    Cut it out.
+
+甲: 谢谢，谢谢......
+    xièxie ， xièxie ......
+    Thank you, thank you....
+
+乙: 放手！放手！
+    fàngshǒu ！ fàngshǒu ！
+    Let go! Let go!
 ### Vocab
--往 (wǎng) [preposition] towards
--左 (zuǒ) [noun] left
--右 (yòu) [noun] right
--左边 (zuǒbiān) [noun] left side
--右边 (yòubiān) [noun] right side
--对 (duì) [phrase] correct
--再 (zài) [adverb] again
--一点 (yīdiǎn) [phrase] a bit
--好的 (hǎo de) [phrase] OK
--别 (bié) [auxiliary verb] don't
--动 (dòng) [verb] to move
--一 (yī) [number] one
--二 (èr) [number] two
--三 (sān) [number] three
+-谢谢 (xièxie) [phrase] thanks
+-您 (nín) [pronoun] you
+-谢谢您 (xièxie nín) [phrase] thank you
+-不 (bù) [adverb] no, not
+-别 (bié) [adverb] do not
+-不用 (bù yòng) [co-verb] need not
+-客气 (kèqi) [adjective] polite
+-放手 (fàngshǒu) [verb] let go

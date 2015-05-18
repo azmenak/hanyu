@@ -1,8 +1,7 @@
 # On Avoiding Intestinal Problems
 **Elementary** level
 ### Chinese Text
-甲：亲爱的，我们今晚吃什么？
-乙：呃，什么都行，随便。
+甲：亲爱的，我们今晚吃什么？<br />乙：呃，什么都行，随便。
 甲：随便？那我们吃火锅？
 乙：火锅太上火了吧？换点儿别的。
 甲：上火？那我们吃水煮鱼吧。
@@ -24,14 +23,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|筷子|kuàizi|chopsticks|noun|
-|杀人|shārén|to kill a person|verb|
-|开锁|kāisuǒ|to open a lock|verb|
-|吃饭|chīfàn|to eat food|verb|
-|不过|búguò|but|conjunction|
-|可是|kěshì|but|conjunction|
-|但是|dànshì|but|conjunction|
-|意思|yìsi|idea|noun|
-|不好意思|bùhǎoyìsi|sorry|phrase|
-|会|huì|to be able|verb|
-|理解|lǐjiě|to understand|verb|
+|随便|suíbiàn|whatever|phrase|
+|火锅|huǒguō|hot pot|noun|
+|水煮鱼|shuǐzhǔyú|boiled fish|noun|
+|上火|shànghuǒ|to create internal heat|verb|
+|去火|qùhuǒ|to diminish internal heat|verb|
+|辣|là|spicy|adjective|
+|究竟|jiūjìng|(adds emphasis to questions)|adverb|
+|什么|shénme|anything|noun|
+|哪|nǎ|anywhere|noun|
+|谁|shéi|anyone|noun|

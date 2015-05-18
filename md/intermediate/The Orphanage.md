@@ -1,8 +1,7 @@
 # The Orphanage
 **Intermediate** level
 ### Chinese Text
-甲：我和你妈妈商量了三天，现在正式通知你，我们决定把你送回孤儿院。
-乙：为什么？
+甲：我和你妈妈商量了三天，现在正式通知你，我们决定把你送回孤儿院。<br />乙：为什么？
 甲：你已经八岁了，跟我们生活了十一年，你的工作效率还是太低。其他的孩子每天能做六件，你却只能做四件。
 乙：我已经很努力了！
 甲：你每天的食物摄入量是2400千克，你吃得太多了，胖子。
@@ -22,16 +21,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|动静|dòngjing|sound of movement|noun|
-|得|děi|must|unknown|
-|把|bǎ|to take|verb|
-|锁上|suǒ shàng|to lock up|verb|
-|目的|mùdì|goal|noun|
-|王八蛋|wángbādàn|prick|noun|
-|干吗|gànmá|why|phrase|
-|嫌|xián|to suspect; to complain about|verb|
-|榨取|zhàqǔ|to squeeze out|verb|
-|剩余价值|shèngyú jiàzhí|surplus value|noun|
-|倒|dào|it doesn't really matter that|adverb|
-|无所谓|wúsuǒwèi|not to matter|phrase|
-|关键|guānjiàn|critical|noun|
+|商量|shāngliang|to discuss|verb|
+|正式|zhèngshì|formally|adjective|
+|通知|tōngzhī|to inform|verb|
+|孤儿院|gūéryuàn|orphanage|noun|
+|效率|xiàolǜ|efficiency|noun|
+|工作效率|gōngzuò xiàolǜ|work efficiency|noun|
+|食物|shíwù|food|noun|
+|摄入量|shèrùliàng|intake amount|noun|
+|胖子|pàngzi|fat person|noun|
+|千克|qiānkè|kilogram|noun|
+|收拾|shōushi|to put in order|verb|
+|件|jiàn|article|measure word|

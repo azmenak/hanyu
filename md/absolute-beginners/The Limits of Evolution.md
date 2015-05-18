@@ -1,8 +1,7 @@
 # The Limits of Evolution
 **Absolute Beginners** level
 ### Chinese Text
-蛐蛐：蛐蛐。
-人：哎，一个蛐蛐。
+蛐蛐：蛐蛐。<br />人：哎，一个蛐蛐。
 蛐蛐：我是蛐蛐。
 人：我不知道蛐蛐还会说话。
 蛐蛐：蛐蛐，我是蛐蛐。
@@ -24,14 +23,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|已经|yǐjīng|already|adverb|
-|八点|bā diǎn|8 o'clock|noun|
-|她|tā|she|pronoun|
-|会...的|huì...de|will|other|
-|来|lái|to come|verb|
-|忘|wàng|to forget|verb|
-|说|shuō|to say|verb|
-|知道|zhīdao|to know|verb|
-|去|qù|to go|verb|
-|做|zuò|to do|verb|
-|喜欢|xǐhuān|to like|verb|
+|蛐蛐|qūqur|cricket|noun|
+|蝈蝈|guōguor|grasshopper|noun|
+|知道|zhīdào|to know|verb|
+|说话|shuōhuà|to speak|verb|
+|会|huì|can|verb|
+|还|hái|still|adverb|
+|不|bù|not|adverb|
+|没|méi|not|adverb|
+|真没辙|zhēn méizhé|there's nothing anyone can do about it|phrase|
+|没办法|méibànfǎ|there's no way|phrase|

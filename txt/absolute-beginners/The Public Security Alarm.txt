@@ -2,68 +2,40 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-［ 第一部 ］
-男人：二十一块钱。
-女人：我也需要一个袋儿。
-男人：好，没问题。
-女人：不用客气，我自己来。
-［ 第二部 ］
-女人：一共是二十一块钱。
-男人：可以给我拿个袋儿吗？
-女人：好。
-男人：不用不用，我自己装。
+女的：那是什么？
+男的：那是安全警报。
+女的：这里不安全吗？
+男的：不不不，意思是现在非常安全。
 
 ### Pinyin and Translation
 
-［ 第一部 ］
-［  dì  yī bù  ］
-[ first part ]
+女的: 那是什么？
+      nà shì shénme ？
+      What is that?
 
-男人: 二十一块钱。
-      èrshíyī kuài qián 。
-      21 RMB.
+男的: 那是安全警报。
+      nà shì ānquán jǐngbào 。
+      That's the security alarm.
 
-女人: 我也需要一个袋儿。
-      wǒ yě xūyào yī ge dàir 。
-      I also need a bag.
+女的: 这里不安全吗？
+      zhèli bù ānquán ma ？
+      It isn't safe here?
 
-男人: 好，没问题。
-      hǎo ， méiwèntí 。
-      OK, no problem.
-
-女人: 不用客气，我自己来。
-      bù yòng kèqi ， wǒ zìjǐ lái 。
-      Don't be polite, I'll do it myself.
-
-［ 第二部 ］
-［  dì  èr bù  ］
-[ second part ]
-
-女人: 一共是二十一块钱。
-      yīgòng shì èrshíyī kuài qián 。
-      That's 21 RMB in total.
-
-男人: 可以给我拿个袋儿吗？
-      kěyǐ gěi wǒ ná ge dàir ma ？
-      Can you give me a bag?
-
-女人: 好。
-      hǎo 。
-      Sure.
-
-男人: 不用不用，我自己装。
-      bù yòng bù yòng ， wǒ zìjǐ zhuāng 。
-      It's OK, I'll pack it myself.
+男的: 不不不，意思是现在非常安全。
+      bù bù bù ， yìsi shì xiànzài fēicháng ānquán 。
+      Not at all, it means it's extremely safe now.
 ### Vocab
--二十一 (èrshíyī) [unknown] 21
--块 (kuài) [measure word] piece
--钱 (qián) [noun] money
--我 (wǒ) [pronoun] I
--需要 (xūyào) [verb] to need
--袋儿 (dàir) [noun] bag
--没问题 (méiwèntí) [phrase] no problem
--不用客气 (bùyòng kèqi) [phrase] no need for politeness
--我自己来 (wǒ zìjǐ lái) [phrase] I'll do it myself
--一共 (yīgòng) [adverb] altogether
--给 (gěi) [verb] to give
--不用 (bù yòng) [phrase] there's no need
+-那 (nà) [pronoun] that
+-这 (zhè) [pronoun] this
+-是 (shì) [verb] to be
+-不 (shénme) [particle] not
+-吗 (ma) [question] yes/no
+-什么 (shénme) [question] what
+-这里 (zhèli) [pronoun] here
+-这儿 (zhèer) [pronoun] here
+-意思 (yìsi) [noun] meaning
+-现在 (xiànzài) [time] right now
+-非常 (fēicháng) [adverb] extremely
+-安全 (ānquán) [adjective] safe
+-警报 (jǐngbào) [noun] alarm
+-不好意思 (bùhǎoyìsi) [phrase] sorry

@@ -50,19 +50,23 @@
       hǎo ， liù bǎi ！
       Fine, six hundred!
 ### Vocab
--大夫 (dàifu) [noun] doctor
--救命 (jiùmìng) [verb] to save a life
--折 (shé) [verb] to be frayed or broken
--片子 (piānzi) [noun] sheet
--单子 (dānzi) [noun] prescription
--放射科 (fàngshèkē) [noun] radiology
--瞅 (chǒu) [verb] to see
--伤筋动骨一百天 (shāngjīndònggǔ yī bǎi tiān) [phrase] it takes a hundred days for the bone to knit and tendons to heal
--骨折 (gǔzhé) [noun] bone fracture
--骨裂 (gǔliè) [noun] hairline fracture
--离谱儿 (lípǔr) [adjective] out of bounds
--骨科 (gǔkē) [noun] orthopedics
--石膏 (shígāo) [noun] plaster cast
--绷带 (bēngdài) [noun] bandage
--混饭的 (hùnfàn de) [noun] scammer
--蒙古大夫 (měnggǔ dàifu) [noun] quack doctor
+-年终奖 (niánzhōngjiǎng) [noun] annual bonus
+-成绩 (chéngji) [noun] accomplishments
+-乐观 (lèguān) [adjective] optimistic
+-翻 (fān) [verb] to flip over
+-奖励 (jiǎnglì) [verb] to reward
+-营业额 (yíngyèé) [noun] amount of business
+-盈利 (yínglì) [noun] profit
+-扩大 (kuòdà) [verb] to expand
+-市场影响力 (shìchǎng yǐngxiǎnglì) [noun] market influence
+-点击率 (diǎnjī lǜ) [noun] clickthrough rate
+-公关 (gōngguān) [noun] public relations
+-危机 (wēijī) [noun] crisis
+-处理 (chǔlǐ) [verb] to handle
+-标准 (biāozhǔn) [noun] standard
+-严 (yán) [adverb] strictly
+-辞职 (cízhí) [verb] to resign
+-谷歌 (gǔgē) [company] Google
+-新浪 (xīnlàng) [company] Sina
+-搜狐 (sōuhú) [company] Sohu
+-百度 (bǎidù) [company] Baidu

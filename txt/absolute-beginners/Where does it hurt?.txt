@@ -2,36 +2,40 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：我们吃什么？
-乙：外卖吧。
-甲：外卖什么？
-乙：韩国菜吧。
+甲：嗯......
+乙：怎么了？
+甲：我不舒服。
+乙：哪儿不舒服？
+甲：我这儿疼。
 
 ### Pinyin and Translation
 
-甲: 我们吃什么？
-    wǒmen chī shénme ？
-    What should we eat?
+甲: 嗯......
+    en ......
+    Ouch....
 
-乙: 外卖吧。
-    wàimài ba 。
-    How about take-out?
+乙: 怎么了？
+    zěnmele ？
+    What's wrong?
 
-甲: 外卖什么？
-    wàimài shénme ？
-    What kind of take-out?
+甲: 我不舒服。
+    wǒ bù shūfu 。
+    I'm not comfortable.
 
-乙: 韩国菜吧。
-    Hánguó cài ba 。
-    How about Korean food?
+乙: 哪儿不舒服？
+    nǎr bù shūfu ？
+    Where does it hurt?
+
+甲: 我这儿疼。
+    wǒ zhèr téng 。
+    I hurt here.
 ### Vocab
--这 (zhè) [pronoun] this
--那 (nà) [pronoun] that
--是 (shì) [verb] to be
--什么 (shénme) [pronoun] what
--吃 (chī) [verb] to eat
--好 (hǎo) [adjective] good
--好吃 (hǎochī) [adjective] tasty
--天哪 (tiānna) [phrase] my heavens
--这是什么 (zhè shì shénme) [phrase] what is this
--那是什么 (nà shì shénme) [phrase] what is that
+-怎么了 (zěnmele) [phrase] what's wrong
+-我 (wǒ) [pronoun] I
+-不 (bù) [adverb] not
+-很 (hěn) [adverb] very
+-舒服 (shūfu) [adjective] comfortable
+-哪儿 (nǎr) [question] where
+-疼 (téng) [verb] to hurt
+-这儿 (zhèr) [determiner] here
+-那儿 (nàr) [determiner] there

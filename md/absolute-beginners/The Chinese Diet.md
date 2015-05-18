@@ -1,8 +1,7 @@
 # The Chinese Diet
 **Absolute Beginners** level
 ### Chinese Text
-甲：你真能吃，菜又没了。
-乙：开玩笑！我在减肥。
+甲：你真能吃，菜又没了。<br />乙：开玩笑！我在减肥。
 甲：减肥还吃那么多？
 乙：我没吃米饭。
 
@@ -16,12 +15,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|先生|xiānsheng|Mister|noun|
-|请|qǐng|please|verb|
-|系好|jìhǎo|to fasten|verb|
-|安全|ānquán|safe|adjective|
-|安全套|ānquántào|condom|noun|
-|安全带|ānquándài|seat belt|noun|
 |你|nǐ|you|pronoun|
-|说|shuō|to say|verb|
-|什么|shénme|what|question|
+|我|wǒ|I|pronoun|
+|真|zhēn|really|adverb|
+|能吃|néngchī|gluttonous|adjective|
+|又|yòu|once again|adverb|
+|开玩笑|kāiwánxiào|you're kidding|phrase|
+|在|zài|currently|preposition|
+|减肥|jiǎnféi|to diet|verb|
+|还|hái|still|adverb|
+|米饭|mǐfàn|cooked rice|noun|
+|没了|méi le|to be gone|verb phrase|

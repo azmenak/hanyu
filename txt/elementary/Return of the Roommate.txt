@@ -2,38 +2,57 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：那个文件还没传完呀？
-乙：是啊，还在上传呢。
-甲：那得多久才能传完？
-乙：快了，三十分钟到四十分钟吧，等着吧。
+甲：田森，我走了，出去一趟。
+乙：好的，什么时候回来？
+甲：三四个小时吧，拜拜。
+乙：再见。
+甲：嘿，我回来了。
+乙：这么早？
+甲：你在干什么？那是我的内裤吗？你怎么把它放脸上了....
+乙：收拾收拾，我收拾收拾。
 
 ### Pinyin and Translation
 
-甲: 那个文件还没传完呀？
-    nàge wénjiàn hái méi chuánwán ya ？
-    That file still hasn't finished transferring?
+甲: 田森，我走了，出去一趟。
+    Tián Sēn ， wǒ zǒu le ， chūqù yī tàng 。
+    Tian Sen, I'm going out for a while.
 
-乙: 是啊，还在上传呢。
-    shì a ， hái zài shàngchuán ne 。
-    Yeah, it's still uploading.
+乙: 好的，什么时候回来？
+    hǎode ， shénme shíhou huílai ？
+    Ok, when will you be back?
 
-甲: 那得多久才能传完？
-    nà děi duōjiǔ cái néng chuánwán ？
-    So how long is it going to take to finish?
+甲: 三四个小时吧，拜拜。
+    sān sì ge xiǎoshí ba ， báibái 。
+    About three or four hours, bye.
 
-乙: 快了，三十分钟到四十分钟吧，等着吧。
-    kuàile ， sānshí fēnzhōng dào sìshí fēnzhōng ba ， děngzhe ba 。
-    It's almost done. Another thirty to forty minutes or so. Just wait.
+乙: 再见。
+    zàijiàn 。
+    Bye.
+
+甲: 嘿，我回来了。
+    hei ， wǒ huílai le 。
+    Hey, I'm back.
+
+乙: 这么早？
+    zhème zǎo ？
+    So soon?
+
+甲: 你在干什么？那是我的内裤吗？你怎么把它放脸上了....
+    nǐ zài gàn shénme ？ nà shì wǒ de nèikù ma ？ nǐ zěnme bǎ tā fàng liǎnshàng le . . . .
+    What are you doing? Is that my underwear? What's it doing on your face?
+
+乙: 收拾收拾，我收拾收拾。
+    shōushi  shōushi ， wǒ shōushi  shōushi 。
+    I'm cleaning up... cleaning up.
 ### Vocab
--苏格兰 (Sūgelán) [noun] Scotland
--碰杯 (pèngbēi) [verb] to clink glasses
--俄罗斯 (E2luósī) [noun] Russia
--威士忌 (wēishiji) [noun] whiskey
--伏特加 (fútèjiā) [noun] vodka
--白酒 (báijiǔ) [noun] baijiu
--顺滑 (shùnhuá) [adjective] smooth
--香 (xiāng) [adjective] fragrant
--可口 (kěkǒu) [adjective] pleasant-tasting
--选择 (xuǎnzé) [verb] to choose
--倒 (dào) [verb] to pour
--委婉 (wěiwǎn) [adjective] to be circumspect
+-回来 (huílai) [verb] to come back
+-拜拜 (báibái) [phrase] bye-bye
+-收拾 (shōushi) [verb] to clean up
+-内裤 (nèikù) [noun] underwear
+-趟 (tàng) [measure word] round trip
+-秒 (miǎo) [noun] second
+-分钟 (fēnzhōng) [noun] minute
+-小时 (xiǎoshí) [noun] hour
+-星期 (xīngqī) [noun] week
+-干什么 (gàn shénme) [phrase] to do what
+-十来天 (shíláitiān) [phrase] around ten days

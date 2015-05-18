@@ -1,8 +1,7 @@
 # Drinks with the In-Laws
 **Intermediate** level
 ### Chinese Text
-甲：妹夫，现在你已经是我们家的一员了，有些个事啊，哥得跟你道个歉。
-乙：什么事啊？
+甲：妹夫，现在你已经是我们家的一员了，有些个事啊，哥得跟你道个歉。<br />乙：什么事啊？
 甲：你知道的，那些个被拘捕的事啊，还有包里被搜出有可卡因啊什么的....
 乙：原来是你？这些个倒霉事害我在监狱里蹲了六个月！
 甲：你别生气嘛，这也不全是我的错，谁让你那么像恐怖份子啊。
@@ -26,14 +25,17 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|侦探|zhēntàn|detective|noun|
-|破获|pòhuò|to crack; to break|verb|
-|连环|liánhuán|serial|adjective|
-|杀人案|shārén‘àn|murder case|noun|
-|流浪汉|liúlànghàn|vagabond|noun|
-|指纹|zhǐwén|fingerprints|noun|
-|双胞胎|shuāngbāotāi|twins|noun|
-|尸体|shītǐ|corpse|noun|
-|定罪|dìngzuì|to pin a crime|verb|
-|被捕|bèibǔ|to be arrested|verb|
-|究竟|jiūjìng|exactly|adverb|
+|妹夫|mèifu|younger sister's husband|noun|
+|有些个|yǒuxiēge|some|phrase|
+|这些个|zhèxiēge|these|phrase|
+|那些个|nàxiēge|those|phrase|
+|倒霉|dǎoméi|unlucky|adjective|
+|蹲监狱|dūn jiānyù|to sit in jail|phrase|
+|拘捕|jūbǔ|to detain|verb|
+|搜|sōu|to search|verb|
+|可卡因|kěkǎyīn|cocaine|noun|
+|恐怖份子|kǒngbùfènzi|terrorist|noun|
+|行为|xíngwéi|behavior|noun|
+|气质|qìzhi|temperament|noun|
+|股|gǔ|(measure word for smells)|measure word|
+|怪味|guàiwèi|strange smell|noun|

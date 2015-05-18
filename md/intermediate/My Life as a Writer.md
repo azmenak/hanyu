@@ -1,26 +1,25 @@
 # My Life as a Writer
 **Intermediate** level
 ### Chinese Text
-甲：哎，小建国怎么了?
-乙：怎么样? 我给他雇了一个催眠师。
-甲：什么? 催眠师?
-乙：现在乖多了。每天睡十八个小时呢。
-甲：你给儿子用催眠术，太离谱儿了。
-乙：没事，他再也不淘气了。
-甲：不对劲儿吧，他怎么坐在那儿，一动不动?
-乙：你看，一个响指就睡了。这是我花的最值的五十块钱了。
+甲：哎，Wendy，你的那本书写得怎么样了?<br />乙：嗯，不错。我刚写到那个男孩儿要到魔法学校学习。
+甲：啊，这个有点儿像哈利波特呀 。
+乙：不不不不不可能。在我的书里面说的不只是一个男孩儿。还有他的两个朋友。
+甲：这太像哈利波特了。
+乙：怎么可能! 在哈利波特里面有飞天扫帚吗? 有狼人吗?有三头狗保护地下室吗?
+甲：这就是哈利波特啊。
+乙：怎么可能! 我的书名都想好了。叫做 Halo Boluo.
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，小建国怎么了?<blockquote>ai ， Xiǎo Jiànguó zěnme le ?<br />Hey, what's wrong with Little Jianguo?</blockquote>|
-|乙|怎么样? 我给他雇了一个催眠师。<blockquote>zěnmeyàng ? wǒ gěi tā gù le yī ge cuīmiánshī 。<br />What do you think? I bought him a hypnotist.</blockquote>|
-|甲|什么? 催眠师?<blockquote>shénme ? cuīmiánshī ?<br />What? A hypnotist?</blockquote>|
-|乙|现在乖多了。每天睡十八个小时呢。<blockquote>xiànzài guāi duō le 。 měitiān shuì shíbā ge xiǎoshí ne 。<br />He's a lot more obedient now. And he sleeps 18 hours a day.</blockquote>|
-|甲|你给儿子用催眠术，太离谱儿了。<blockquote>nǐ gěi érzi yòng cuīmiánshù ， tài lípǔr le 。<br />You used hypnotism on your child, that's absurd.</blockquote>|
-|乙|没事，他再也不淘气了。<blockquote>méishì ， tā zàiyěbù táoqì le 。<br />No worries. He won't act up again.</blockquote>|
-|甲|不对劲儿吧，他怎么坐在那儿，一动不动?<blockquote>bù duìjìnr ba ， tā zěnme zuò zàinàr ， yīdòngbùdòng ?<br />There's something wrong. Why is he sitting over there not moving at all?</blockquote>|
-|乙|你看，一个响指就睡了。这是我花的最值的五十块钱了。<blockquote>nǐ kàn ， yī ge xiǎngzhǐ jiù shuì le 。 zhè shì wǒ huā de zuì zhí de wǔshí kuài qián le 。<br />Look. A single snap and he falls asleep. This is the best 50 kuai I ever spent.</blockquote>|
+|甲|哎，Wendy，你的那本书写得怎么样了?<blockquote>ai ， Wendy ， nǐ de nà běn shū xiě de zěnmeyàng le ?<br />Hey Wendy, how is your book coming along?</blockquote>|
+|乙|嗯，不错。我刚写到那个男孩儿要到魔法学校学习。<blockquote>en ， bùcuò 。 wǒ gāng xiě dào nà ge nánháir yào dào mófǎ xuéxiào xuéxí 。<br />Not bad. I've just got to the part where the kid arrives at the Academy of Magic.</blockquote>|
+|甲|啊，这个有点儿像哈利波特呀 。<blockquote>ā ， zhè ge yǒu diǎnr xiàng Hālì Bōtè yā  。<br />Oh, this sounds a bit like Harry Potter.</blockquote>|
+|乙|不不不不不可能。在我的书里面说的不只是一个男孩儿。还有他的两个朋友。<blockquote>bù bù bù bù bù kěnéng 。 zài wǒ de shū lǐmiàn shuō de bù zhǐ shì yī ge nánháir 。 háiyǒu tā de liǎng ge péngyou 。<br />Oh no. Not at all. My book isn't about just one kid. It's also about his two friends.</blockquote>|
+|甲|这太像哈利波特了。<blockquote>zhè tài xiàng hālì bōtè le 。<br />That's really like Harry Potter!</blockquote>|
+|乙|怎么可能! 在哈利波特里面有飞天扫帚吗? 有狼人吗?有三头狗保护地下室吗?<blockquote>zěnme kěnéng ! zài hālì bōtè lǐmiàn yǒu fēitiān sàozhou ma ? yǒu lángrén ma ? yǒu sāntóugǒu bǎohù dìxiàshì ma ?<br />Hogwash! Does Harry Potter have flying brooms? Wolfmen? A three-headed dog guarding an underground lair?</blockquote>|
+|甲|这就是哈利波特啊。<blockquote>zhè jiù shì hālì bōtè ā 。<br />That's Harry Potter exactly.</blockquote>|
+|乙|怎么可能! 我的书名都想好了。叫做 Halo Boluo.<blockquote>zěnme kěnéng ! wǒ de shūmíng dōu xiǎng hǎo le 。 jiàozuò  Halo Boluo.<br />Nonsense! I've already thought of the name of my book. It'll be called Halo Boluo.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

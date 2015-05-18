@@ -2,46 +2,58 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：你得起床了。
-乙：我不想起。
-甲：你必须起了。
-乙：我不想起。
-甲：八点了。
-乙：哦，天哪。
+甲：秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？
+乙：老板，我是坐地铁来的....
+甲：开什么玩笑？从你们家到公司只有两站地。
+乙：是，但是....
+甲：而且你那儿是起始站！
+乙：可是我只能在终点站才下得了车。
+甲：你傻吗？
+乙：我挤不下来啊。
 
 ### Pinyin and Translation
 
-甲: 你得起床了。
-    nǐ děi qǐchuáng le 。
-    You've got to get out of bed.
+甲: 秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？
+    Qín ， nǐ zěnme jīntiān shàngbānr yòu chídào le ？ bù shì gàosu guò nǐ zuò dìtiě le ma ？
+    Qin, why are you late for work again this morning? Didn't I tell you to take the subway?
 
-乙: 我不想起。
-    wǒ bù xiǎng qǐ 。
-    I don't want to get up.
+乙: 老板，我是坐地铁来的....
+    lǎobǎn ， wǒ shì zuò dìtiě lái de ....
+    Boss, I did take the subway....
 
-甲: 你必须起了。
-    nǐ bìxū qǐ le 。
-    You must get up.
+甲: 开什么玩笑？从你们家到公司只有两站地。
+    kāi shénme wánxiào ？ cóng nǐmen jiā dào gōngsī zhǐ yǒu liǎng zhàndì 。
+    What are you trying to pull? It's only two stops from your home to the office.
 
-乙: 我不想起。
-    wǒ bù xiǎng qǐ 。
-    I don't want to get up.
+乙: 是，但是....
+    shì ， dànshì ....
+    Yes, but....
 
-甲: 八点了。
-    bā diǎn le 。
-    It's eight o'clock.
+甲: 而且你那儿是起始站！
+    érqiě nǐ nàr shì qǐshǐzhàn ！
+    And you're at the first station!
 
-乙: 哦，天哪。
-    o ， tiānna 。
-    Oh, goodness gracious.
+乙: 可是我只能在终点站才下得了车。
+    kěshì wǒ zhǐ néng zài zhōngdiǎnzhàn cái xiàdeliǎo chē 。
+    But I was only able to get off at the last stop.
+
+甲: 你傻吗？
+    nǐ shǎ ma ？
+    Are you stupid?
+
+乙: 我挤不下来啊。
+    wǒ jǐ bu xiàlai ā 。
+    I couldn't squeeze my way off.
 ### Vocab
--得 (děi) [auxiliary verb] must
--必须 (bìxū) [auxiliary verb] must
--应该 (yīnggāi) [auxiliary verb] should
--需要 (xūyāo) [auxiliary verb] should
--起床 (qǐchuáng) [verb] to get up
--天哪 (tiānna) [phrase] dear God
--起 (qǐ) [verb] to rise
--想 (xiǎng) [verb] to wish
--点 (diǎn) [noun] hour
--了 (le) [particle] (change of state)
+-上班儿 (shàngbānr) [verb] to go to work
+-迟到 (chídào) [verb] to be late
+-告诉 (gàosu) [verb] to tell
+-坐 (zuò) [verb] to ride
+-挤 (jǐ) [verb] to squeeze
+-地铁 (dìtiě) [noun] subway
+-终点站 (zhōngdiǎnzhàn) [noun] terminus station
+-起始站 (qǐshǐzhàn) [noun] first station
+-傻 (shǎ) [adjective] idiotic
+-可是 (kěshì) [conjunction] but
+-但是 (dànshì) [conjunction] however
+-而且 (érqiě) [conjunction] moreover

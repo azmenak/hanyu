@@ -1,38 +1,33 @@
 # Consoling a Friend
 **Elementary** level
 ### Chinese Text
-甲：哎，你看见张华了吗？
-乙：没有啊，他不是跟你在一起吗？
-甲：没有啊。
-乙：那我们应该去找他吗？
-甲：不用了吧。
-乙：行，那我们继续玩吧。
-甲：好啊。
+甲：她不要我了。<br />乙：哎哟，你别哭了。哭能解决问题吗？
+乙：我知道，你很难过，对吧？虽然我也同情你，但其实，我也理解她的感受。
+乙：你看看你这个样子。别哭了，我说.... 我说话你没听见啊？
+乙：像个男人点儿。丢不丢人？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，你看见张华了吗？<blockquote>ai ， nǐ kànjian Zhāng Huá le ma ？<br />Hey, have you seen Zhang Hua?</blockquote>|
-|乙|没有啊，他不是跟你在一起吗？<blockquote>méiyǒu a ， tā bù shì gēn nǐ zài yīqǐ ma ？<br />No, wasn't he together with you?</blockquote>|
-|甲|没有啊。<blockquote>méiyǒu a 。<br />Nope.</blockquote>|
-|乙|那我们应该去找他吗？<blockquote>nà wǒmen yīnggāi qù zhǎo tā ma ？<br />Then should we go look for him?</blockquote>|
-|甲|不用了吧。<blockquote>bù yòng le ba 。<br />No need.</blockquote>|
-|乙|行，那我们继续玩吧。<blockquote>xíng ， nà wǒmen jìxù wán ba 。<br />Ok. Then let's keep playing.</blockquote>|
-|甲|好啊。<blockquote>hǎo a 。<br />Sure.</blockquote>|
+|甲|她不要我了。<blockquote>tā bù yào wǒ le 。<br />She doesn't want me anymore.</blockquote>|
+|乙|哎哟，你别哭了。哭能解决问题吗？<blockquote>āiyo ， nǐ bié kū le 。 kū néng jiějué wèntí ma ？<br />Goodness gracious, stop crying. Can crying solve the problem?</blockquote>|
+|乙|我知道，你很难过，对吧？虽然我也同情你，但其实，我也理解她的感受。<blockquote>Wǒ zhīdào ， nǐ hěn nánguò ， duì ba ？ suīrán wǒ yě tóngqíng nǐ ， dàn qíshí ， wǒ yě lǐjiě tā de gǎnshòu 。<br />I know you're sad, right? And while it's true I sympathize with you, I also understand how she feels.</blockquote>|
+|乙|你看看你这个样子。别哭了，我说.... 我说话你没听见啊？<blockquote>nǐ kànkan nǐ zhège yàngzi 。 bié kū le ， wǒ shuō .... wǒ shuōhuà nǐ méi tīngjiàn a ？<br />Look at yourself. Stop crying, I said.... Didn't you hear what I said?</blockquote>|
+|乙|像个男人点儿。丢不丢人？<blockquote>xiàng ge nánrén diǎnr 。 diū bù diūrén ？<br />Man up a bit. Don't you think this is shameful?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|觉得|juéde|to feel|verb|
-|加糖|jiātáng|to add sugar|verb|
-|恐怕|kǒngpà|unfortunately|adverb|
-|可怕|kěpà|terrible|adjective|
-|恐怖|kǒngbù|terrifying|adjective|
-|看来|kànlái|to seem|other|
-|只有|zhǐyǒu|only|adverb|
-|而且|érqiě|moreover|conjunction|
-|遗憾|yíhàn|regretable|adjective|
-|吃惊|chījīng|surprise|adjective|
-|难过|nánguò|troubling|adjective|
-|黑咖啡|hēikāfēi|black coffee|noun|
-|开玩笑|kāi wánxiào|to play a joke|verb|
-|让人 ... 的是|ràng rén ... de shì|what makes people ...|phrase|
+|安慰|ānwèi|to console|verb|
+|解决|jiějué|to solve|verb|
+|问题|wèntí|problem|noun|
+|难过|nánguò|troubled|adjective|
+|同情|tóngqíng|to sympathize|verb|
+|丢人|diūrén|to lose face|verb|
+|理解|lǐjiě|to understand|verb|
+|感受|gǎnshòu|feeling|noun|
+|虽然|suīrán|although|conjunction|
+|但是|dànshì|but|conjunction|
+|因为|yīnwèi|because|conjunction|
+|所以|suǒyǐ|therefore|conjunction|
+|只有|zhǐyǒu|only when|conjunction|
+|才|cái|only then|adverb|

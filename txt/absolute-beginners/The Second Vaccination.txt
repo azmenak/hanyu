@@ -2,32 +2,44 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：猫又上你的椅子了。
-乙：Squeak，下来，我得工作。
-甲：别动它，它很舒服。
+甲：这是第一次吗？
+乙：不，第二次。
+甲：这个疫苗需要打三次。
+乙：我需要回来吗？
+甲：六个月以后，再来一次。
 
 ### Pinyin and Translation
 
-甲: 猫又上你的椅子了。
-    māo yòu shàng nǐ de yǐzi le 。
-    The cat's in your chair again.
+甲: 这是第一次吗？
+    zhè shì dì yī cì ma ？
+    This is your first time?
 
-乙: Squeak，下来，我得工作。
-    Squeak ， xiàlai ， wǒ děi gōngzuò 。
-    Get down Squeak. I need to work.
+乙: 不，第二次。
+    bù ， dì èr cì 。
+    No. The second time.
 
-甲: 别动它，它很舒服。
-    bié dòng tā ， tā hěn shūfu 。
-    Don't move him. He's comfortable.
+甲: 这个疫苗需要打三次。
+    zhège yìmiáo xūyào dǎ sān cì 。
+    This vaccine needs three injections.
+
+乙: 我需要回来吗？
+    wǒ xūyào huílai ma ？
+    I need to come back?
+
+甲: 六个月以后，再来一次。
+    liù  ge yuè yǐhòu ， zài lái yī cì 。
+    Come back once more after six months.
 ### Vocab
--还 (hái) [adverb] still
--有 (yǒu) [verb] to have
--米 (mǐ) [unit] meter
--累 (lèi) [adjective] tired
--想 (xiǎng) [verb] to think
--坚持 (jiānchí) [verb] to persist
--一百 (yībǎi) [number] one hundred
--一定 (yīdìng) [adverb] absolutely
--孩子 (háizi) [noun] child
--别管我 (bié guǎn wǒ) [phrase] leave me alone
--不行了 (bù xíng le) [phrase] it's not ok
+-不 (bù) [adverb] no
+-次 (cì) [measure word] time
+-再 (zài) [adverb] again
+-月 (yuè) [noun] month
+-需要 (xūyào) [verb] to need
+-回来 (huílai) [verb] to come back
+-疫苗 (yìmiáo) [noun] vaccine
+-第一次 (dì yī cì) [phrase] 1st time
+-第二次 (dì èr cì) [phrase] 2nd time
+-第三次 (dì sān cì) [phrase] 3rd time
+-第四次 (dì sì cì) [phrase] 4th time
+-第五次 (dì wǔ cì) [phrase] 5th time
+-再来一次 (zài lái yī cì) [phrase] come once again

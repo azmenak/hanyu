@@ -1,32 +1,31 @@
 # Lost in a Parking Garage
 **Elementary** level
 ### Chinese Text
-我是一名军人。
-我也是一名军人。
-为了保卫国家。
-为了服务人民。
-为了世界和平。
-甲：哎，你看那是黄晓明吗？
-乙：黄头发那个？
-甲：对，穿军装那个。
-乙：不是吧。
-甲：是是是，绝对是。穿军装还挺帅的，但我跟你说我参军那会儿没有一个这么帅的。就我穿得是最帅，真的，就我这是最帅....
-乙：“的”。
+[第一部]<br />甲：我们的车在哪儿？
+乙：不是在三层吗？
+甲：这不是三层吗？
+乙：我不知道。
+甲：这个地方真像个迷宫。
+[第二部]
+甲：你不是说我们的车在三层吗？
+乙：我记得是三层啊，难道是在四层？
+甲：你有没有记性啊？
+乙：是你开的车，又不是我。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||我是一名军人。<blockquote>wǒ shì yī míng jūnrén 。<br />I'm a soldier.</blockquote>|
-||我也是一名军人。<blockquote>wǒ yě shì yī míng jūnrén 。<br />I'm a soldier too.</blockquote>|
-||为了保卫国家。<blockquote>wèile bǎowèi  guójiā 。<br />In order to protect the country.</blockquote>|
-||为了服务人民。<blockquote>wèile fúwù rénmín 。<br />In order to serve the people.</blockquote>|
-||为了世界和平。<blockquote>wèile shìjiè hépíng 。<br />For the cause of world peace.</blockquote>|
-|甲|哎，你看那是黄晓明吗？<blockquote>ai ， nǐ kàn nà shì Huáng Xiǎomíng ma ？<br />Hey, does that look like Huang Xiaoming to you?</blockquote>|
-|乙|黄头发那个？<blockquote>huáng tóufa nàge ？<br />The one with dyed hair?</blockquote>|
-|甲|对，穿军装那个。<blockquote>duì ， chuān jūnzhuāng nà ge 。<br />Right, the one wearing military fatigues.</blockquote>|
-|乙|不是吧。<blockquote>bù shì ba 。<br />No way.</blockquote>|
-|甲|是是是，绝对是。穿军装还挺帅的，但我跟你说我参军那会儿没有一个这么帅的。就我穿得是最帅，真的，就我这是最帅....<blockquote>shì shì shì ， juéduì shì 。 chuān jūnzhuāng hái tǐng shuài de ， dàn wǒ gēn nǐ shuō wǒ cānjūn nà huìr méiyǒu yī ge zhème shuài de 。 jiù wǒ chuānde shì zuì shuài ， zhēnde ， jiù wǒ zhè shì zuì shuài . . . .<br />Yes, it is. He's the handsome one wearing military clothing. But let me say tell you -- when I was in the military there wasn't anyone as good looking as that. Except for me. I was the most handsome one. Really. I was the most handsomest.</blockquote>|
-|乙|“的”。<blockquote>“ de ” 。<br />You're an idiot.</blockquote>|
+||[第一部]<blockquote>[ dì  yī bù ]<br />Part One</blockquote>|
+|甲|我们的车在哪儿？<blockquote>wǒmen de chē zài nǎr ？<br />Where's our car?</blockquote>|
+|乙|不是在三层吗？<blockquote>bù shì zài sān céng ma ？<br />It's on the third floor, right?</blockquote>|
+|甲|这不是三层吗？<blockquote>zhè bù shì sān céng ma ？<br />Isn't this the third floor?</blockquote>|
+|乙|我不知道。<blockquote>wǒ bù zhīdào 。<br />I don't know.</blockquote>|
+|甲|这个地方真像个迷宫。<blockquote>zhège dìfang zhēn xiàng ge mígōng 。<br />This place is like a labyrinth.</blockquote>|
+||[第二部]<blockquote>[ dì  èr bù ]<br />Part Two</blockquote>|
+|甲|你不是说我们的车在三层吗？<blockquote>nǐ bù shì shuō wǒmen de chē zài sān céng ma ？<br />Didn't you say our car was on the third floor?</blockquote>|
+|乙|我记得是三层啊，难道是在四层？<blockquote>wǒ jìde shì sān céng a ， nándào shì zài sì céng ？<br />I remember it being the third floor, could it possibly be on the fourth?</blockquote>|
+|甲|你有没有记性啊？<blockquote>nǐ yǒu méiyǒu jìxing a ？<br />What kind of memory is that?</blockquote>|
+|乙|是你开的车，又不是我。<blockquote>shì nǐ kāi de chē ， yòu bù shì wǒ 。<br />You were the one driving, not me.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

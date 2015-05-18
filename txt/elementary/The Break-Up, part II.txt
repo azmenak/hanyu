@@ -2,60 +2,64 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：嗨，Selina！
-Selina：嗨！
-甲：你这件T恤衫真好看。
-Selina：好看吧？
-甲：是什么牌子的呢？
-Selina：是泡泡中文的。
-甲：哦，泡泡中文！
-Selina：嗯。
-甲：没听说过。
+甲：今天我必须离开，永远离开！
+乙：你别走。
+甲：我不走，我不走成天看着你和别的男的勾三搭四吗？
+乙：我没有那样！你相信我！
+甲：你没有那样？孩子都是别人的，你没有那样？
+乙：不是的，你怎么可以这样想我？
+甲：我要永远离开这儿，我告诉你。再见！我永远不会回来！
+乙：不要走......
+乙：啊，我就知道你不会离开我的。
+甲：我的钱包落在这儿了。
 
 ### Pinyin and Translation
 
-甲: 嗨，Selina！
-    hāi ， Selina ！
-    Hi,Selina!
+甲: 今天我必须离开，永远离开！
+    jīntiān wǒ bìxū líkāi ， yǒngyuǎn líkāi ！
+    I must leave today, and leave forever!
 
-Selina: 嗨！
-              hāi ！
-              Hi!
+乙: 你别走。
+    nǐ bié zǒu 。
+    Don't go!
 
-甲: 你这件T恤衫真好看。
-    nǐ zhè jiàn tīxùshān zhēn hǎokàn 。
-    Your t-shirt is really good looking.
+甲: 我不走，我不走成天看着你和别的男的勾三搭四吗？
+    wǒ bù zǒu ， wǒ bù zǒu chéngtiān kàn zhe nǐ hé biéde nánde gōusāndāsì ma ？
+    Not go? Not go and watch you fool around with those men all day?
 
-Selina: 好看吧？
-              hǎokàn ba ？
-              It's good looking?
+乙: 我没有那样！你相信我！
+    wǒ méiyǒu nàyàng ！ nǐ xiāngxìn wǒ ！
+    I'm not that way! Believe me!
 
-甲: 是什么牌子的呢？
-    shì shénme páizi de ne ？
-    What brand is it?
+甲: 你没有那样？孩子都是别人的，你没有那样？
+    nǐ méiyǒu nàyàng ？ háizi dōu shì biérén de ， nǐ méiyǒu nàyàng ？
+    You're not that way? The kids all belong to other people and you're not that way?
 
-Selina: 是泡泡中文的。
-              shì Pàopào Zhōngwén de 。
-              It's Popup Chinese.
+乙: 不是的，你怎么可以这样想我？
+    bù shì de ， nǐ zěnme kěyǐ zhèyàng xiǎng wǒ ？
+    That's not true, how can you think of me this way?
 
-甲: 哦，泡泡中文！
-    ò ， Pàopào Zhōngwén ！
-    Oh, Popup Chinese.
+甲: 我要永远离开这儿，我告诉你。再见！我永远不会回来！
+    wǒ yào yǒngyuǎn líkāi zhèr ， wǒ gàosu nǐ 。 zàijiàn ！ wǒ yǒngyuǎn bù huì huílai ！
+    I want to get out of here forever, I'm telling you. Goodbye! I'm never coming back!
 
-Selina: 嗯。
-              èn 。
-              Yeah.
+乙: 不要走......
+    bùyào zǒu ......
+    Don't go....
 
-甲: 没听说过。
-    méi tīngshuō guo 。
-    Haven't heard of it.
+乙: 啊，我就知道你不会离开我的。
+    ā ， wǒ jiù zhīdào nǐ bù huì líkāi wǒ de 。
+    I knew you wouldn't leave me.
+
+甲: 我的钱包落在这儿了。
+    wǒ de qiánbāo là zài zhèr le 。
+    I left my wallet here.
 ### Vocab
--给 (gěi) [preposition] for
--妈 (mā) [noun] mom
--爸 (bà) [noun] dad
--礼物 (lǐwù) [noun] gift
--买 (mǎi) [verb] to buy
--为什么 (wèishénme) [question] why
--因为 (yīnwèi) [conjunction] because
--母亲节 (mǔqīnjié) [noun] Mothers Day
--忘 (wàng) [verb] to forget
+-必须 (bìxū) [adverb] must
+-永远 (yǒngyuǎn) [adverb] forever
+-成天 (chéngtiān) [adverb] all day long
+-落 (là) [verb] to leave behind
+-相信 (xiāngxìn) [verb] to believe
+-离开 (líkāi) [verb] to leave
+-钱包 (qiánbāo) [noun] wallet
+-勾三搭四 (gōusāndāsì) [chengyu] to fool around with undesirables

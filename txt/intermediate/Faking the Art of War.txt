@@ -2,52 +2,75 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：我觉得我吃不了僵尸的肉。
-乙：那你原来喝羊杂汤怎么没事呢？
-丙：羊杂汤太恶心了。
-甲：他们原来可都是人呢...  这不是楼上的张大爷吗？
-乙：他原来是张大爷，现在是张僵尸。而且现在是世界末日，你觉得我们还有的选吗？
-丙：要是有的选我还选僵尸，反正我不会再喝羊杂汤了。
+甲：探子报，敌人把步兵从城里转移到了十里外的军火库。
+乙：不会是引我们进攻吧？
+甲：不可能。除非....
+乙：是个陷阱。
+甲：空城计。
+乙：探子到底看到多少兵撤离了？
+甲：谁知道？昨晚雾很大。
+乙：那他们是准备偷袭我们。
+甲：我们怎么办？
+乙：按原来的计划，我们还在黎明进攻。不过，不在他们预计的地方。
 
 ### Pinyin and Translation
 
-甲: 我觉得我吃不了僵尸的肉。
-    wǒ juéde wǒ chībùliǎo jiāngshī de ròu 。
-    I don't think I can eat zombie meat.
+甲: 探子报，敌人把步兵从城里转移到了十里外的军火库。
+    tànzǐ bào ， dírén bǎ bùbīng cóng chénglǐ zhuǎnyí  dào le shí lǐ wài de jūnhuǒkù 。
+    Scouts report that the enemy has moved his infantry from inside the city to the military reserves ten miles outside it.
 
-乙: 那你原来喝羊杂汤怎么没事呢？
-    nà nǐ yuánlái hē yángzátāng zěnme méishì ne ？
-    So how come you didn't have a problem with sheep offal soup?
+乙: 不会是引我们进攻吧？
+    bùhuì shì yǐn wǒmen jìngōng ba ？
+    This can't be a lure to get us to attack?
 
-丙: 羊杂汤太恶心了。
-    yángzátāng tài ěxīn le 。
-    Sheep offal soup is really gross.
+甲: 不可能。除非....
+    bù kěnéng 。 chúfēi ....
+    That's impossible. Unless....
 
-甲: 他们原来可都是人呢...  这不是楼上的张大爷吗？
-    tāmen yuánlái kě dōu shì rén ne ...  zhè bù shì lóushàng de Zhāng dàye ma ？
-    But they used to be people... I mean, isn't this Papa Zhang from upstairs?
+乙: 是个陷阱。
+    shì ge xiànjǐng 。
+    It's a trap.
 
-乙: 他原来是张大爷，现在是张僵尸。而且现在是世界末日，你觉得我们还有的选吗？
-    tā yuánlái shì Zhāng dàye ， xiànzài shì Zhāng jiāngshī 。 érqiě xiànzài shì shìjièmòrì ， nǐ juéde wǒmen hái yǒude xuǎn ma ？
-    It used to be Papa Zhang, but now it's Zombie Zhang. And it's the end of the world, what kind of choice do you think we have?
+甲: 空城计。
+    kōngchéngjì 。
+    It's the empty city strategem.
 
-丙: 要是有的选我还选僵尸，反正我不会再喝羊杂汤了。
-    yàoshi yǒude xuǎn wǒ hái xuǎn jiāngshī ， fǎnzhèng wǒ bùhuì zài hē yángzátāng le 。
-    If we had a choice I'd still go for the zombie. I won't be eating any more sheep offal soup, anyway.
+乙: 探子到底看到多少兵撤离了？
+    tànzǐ dàodǐ kàn dào duōshǎo bīng chèlí le ？
+    How many soldiers did the scouts see in retreat?
+
+甲: 谁知道？昨晚雾很大。
+    shéi zhīdào ？ zuówǎn wù hěn dà 。
+    Who knows? There was a lot of fog last night.
+
+乙: 那他们是准备偷袭我们。
+    nà tāmen shì zhǔnbèi tōuxí wǒmen 。
+    Then, they must be preparing to attack us in secret.
+
+甲: 我们怎么办？
+    wǒmen zěnme bàn ？
+    So what do we do?
+
+乙: 按原来的计划，我们还在黎明进攻。不过，不在他们预计的地方。
+    àn yuánlái  de jìhuà ， wǒmen hái zài límíng jìngōng 。 búguò ， bù zài tāmen yùjì de dìfang 。
+    We'll follow the original plan and attack at dawn. Just... not where they'll be expecting it.
 ### Vocab
--抓 (zhuā) [verb] to grab
--贪官 (tánguān) [noun] corrupt official
--基因 (jīyīn) [noun] gene
--档案 (dàngàn) [noun] file
--确实 (quèshí) [adverb] indeed
--数据库 (shùjùkù) [noun] database
--指纹 (zhǐwén) [noun] fingerprints
--瞳孔 (tóngkǒng) [noun] eyes
--扫描 (sǎomiáo) [verb] to scan
--线索 (xiànsuǒ) [noun] clue; trace
--处置 (chǔzhì) [verb] to deal with people
--处理 (chǔlǐ) [verb] to deal with things
--逮捕 (dàibǔ) [verb] to arrest
--不可思议 (bùkěsīyì) [idiom] unbelivable
--乌托邦 (wūtuōbāng) [noun] utopian
--反乌托邦 (fǎnwūtuōbāng) [noun] dystopian
+-探子 (tànzǐ) [noun] scouts
+-敌人 (dírén) [noun] enemy
+-步兵 (bùbīng) [noun] infantry
+-转移 (zhuǎnyí) [verb] to shift
+-引 (yǐn) [verb] to lure
+-军火库 (jūnhuǒkù) [noun] military storehouse
+-进攻 (jìngōng) [verb] to attack
+-陷阱 (xiànjǐng) [noun] trap
+-撤离 (chèlí) [verb] to retreat
+-偷袭 (tōuxí) [verb] to attack secretly
+-黎明 (límíng) [noun] dawn
+-预计 (yùjì) [verb] to forecast
+-美人计 (měirénjì) [noun] honeytrap strategem
+-空城计 (kōngchéngjì) [noun] empty city strategem
+-浑水摸鱼 (hùnshuǐmōyú) [verb] muddy the waters to catch a fish
+-借刀杀人 (jièdāoshārén) [verb] borrow a knife to kill someone
+-声东击西 (shēngdōngjīxī) [verb] feint to the east and attack in the west
+-顺手牵羊 (shùnshǒuqiānyáng) [verb] steal a sheep if the chance happens
+-走为上计 (zǒuwéishàngjì) [verb] running away is the most important strategem

@@ -2,48 +2,63 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？
-乙：老板，我是坐地铁来的....
-甲：开什么玩笑？从你们家到公司只有两站地。
-乙：是，但是....
-甲：而且你那儿是起始站！
-乙：可是我只能在终点站才下得了车。
-甲：你傻吗？
-乙：我挤不下来啊。
+男：想看什么电影？
+女：不知道。现在有什么？
+男：华尔街II，还有山楂树之恋。
+女：嗯......
+男：华尔街II？
+女：不想看。
+男：山楂树之恋？
+女：不想看。
+男：那我们可以再看一遍盗梦空间。
+女：什么？第十五遍？
+男：那你还有更好的建议吗？
 
 ### Pinyin and Translation
 
-甲: 秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？
-    Qín ， nǐ zěnme jīntiān shàngbānr yòu chídào le ？ bù shì gàosu guò nǐ zuò dìtiě le ma ？
-    Qin, why are you late for work again this morning? Didn't I tell you to take the subway?
+男: 想看什么电影？
+    xiǎng kàn shénme diànyǐng ？
+    What movie do you want to watch?
 
-乙: 老板，我是坐地铁来的....
-    lǎobǎn ， wǒ shì zuò dìtiě lái de ....
-    Boss, I did take the subway....
+女: 不知道。现在有什么？
+    bù zhīdào 。 xiànzài yǒu shénme ？
+    I don't know. What's out?
 
-甲: 开什么玩笑？从你们家到公司只有两站地。
-    kāi shénme wánxiào ？ cóng nǐmen jiā dào gōngsī zhǐ yǒu liǎng zhàndì 。
-    What are you trying to pull? It's only two stops from your home to the office.
+男: 华尔街II，还有山楂树之恋。
+    huáěrjiē II ， hái yǒu shānzhāshù zhī liàn 。
+    Wall Street II and Hawthorn Tree Forever.
 
-乙: 是，但是....
-    shì ， dànshì ....
-    Yes, but....
+女: 嗯......
+    en ......
+    Hmm......
 
-甲: 而且你那儿是起始站！
-    érqiě nǐ nàr shì qǐshǐzhàn ！
-    And you're at the first station!
+男: 华尔街II？
+    huáěrjiē II ？
+    Wall Street II?
 
-乙: 可是我只能在终点站才下得了车。
-    kěshì wǒ zhǐ néng zài zhōngdiǎnzhàn cái xiàdeliǎo chē 。
-    But I was only able to get off at the last stop.
+女: 不想看。
+    bù xiǎng kàn 。
+    I don't want to see it.
 
-甲: 你傻吗？
-    nǐ shǎ ma ？
-    Are you stupid?
+男: 山楂树之恋？
+    shānzhāshùzhīliàn ？
+    Hawthorn Tree Forever?
 
-乙: 我挤不下来啊。
-    wǒ jǐ bu xiàlai ā 。
-    I couldn't squeeze my way off.
+女: 不想看。
+    bù xiǎng kàn 。
+    No.
+
+男: 那我们可以再看一遍盗梦空间。
+    nà wǒmen kěyǐ zài kàn yī biàn dàomèngkōngjiān 。
+    Then we can see Inception one more time.
+
+女: 什么？第十五遍？
+    shénme ？ dì shíwǔ biàn ？
+    What? For the 15th time?
+
+男: 那你还有更好的建议吗？
+    nà nǐ hái yǒu gèng hǎo de jiànyì ma ？
+    Then do you have better suggestions?
 ### Vocab
 -看 (kàn) [verb] to see
 -电影 (diànyǐng) [noun] movie

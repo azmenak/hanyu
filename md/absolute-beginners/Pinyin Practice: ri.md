@@ -1,16 +1,13 @@
 # Pinyin Practice: ri
 **Absolute Beginners** level
 ### Chinese Text
-我第一次写汉字。
-我自己去。
-你的工资是多少？
+她用日语写日记。<br />星期日我去日本。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||我第一次写汉字。<blockquote>wǒ dì yī cì xiě hànzì 。<br />My first time writing Chinese characters.</blockquote>|
-||我自己去。<blockquote>wǒ zìjǐ qù 。<br />I'll go myself.</blockquote>|
-||你的工资是多少？<blockquote>nǐ de gōngzī shì duōshǎo ？<br />How much is your salary?</blockquote>|
+||她用日语写日记。<blockquote>tā yòng rìyǔ xiě rìjì 。<br />She writes a diary in Japanese.</blockquote>|
+||星期日我去日本。<blockquote>xīngqīrì wǒ qù Rìběn 。<br />Sunday I am going to Japan.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

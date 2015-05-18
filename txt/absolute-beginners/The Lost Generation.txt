@@ -2,50 +2,33 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-一：他是谁？
-二：我不认识。
-三：哎，哎，宝贝！
-一：宝贝？
-二：我不认识！
-三：小王，我爱你！
-二：哦....
+一：哦，那是什么？
+二：我的小明？
+一：我的天啊，它还活着！
 
 ### Pinyin and Translation
 
-一: 他是谁？
-    tā shì shéi ？
-    Who is he?
+一: 哦，那是什么？
+    ò ， nà shì shénme ？
+    Oh, what is that?
 
-二: 我不认识。
-    wǒ bù rènshi 。
-    I don't know him.
+二: 我的小明？
+    wǒ de Xiǎo Míng ？
+    My Little Ming?
 
-三: 哎，哎，宝贝！
-    āi ， āi ， bǎobèi ！
-    Hey, hey, baby!
-
-一: 宝贝？
-    bǎobèi ？
-    Baby?
-
-二: 我不认识！
-    wǒ bù rènshi ！
-    I don't know him!
-
-三: 小王，我爱你！
-    Xiǎo Wáng ， wǒ ài nǐ ！
-    Miss Wang, I love you!
-
-二: 哦....
-    ò ....
-    Oh....
+一: 我的天啊，它还活着！
+    wǒ de tiānā ， tā hái huózhe ！
+    My heavens, it's alive!
 ### Vocab
--怎么 (zěnme) [unknown] how
--下雨 (xiàyǔ) [unknown] to rain
--没 (méi) [adverb] not to have
--我 (wǒ) [unknown] I
+-我 (wǒ) [pronoun] me
 -你 (nǐ) [pronoun] you
--不 (bù) [adverb] not
--好 (hǎo) [adjective] good
--意思 (yìsi) [noun] idea
--不好意思 (bùhǎoyìsi) [phrase] sorry about that
+-它 (tā) [pronoun] it
+-我的 (wǒ de) [phrase] mine
+-你的 (nǐ de) [phrase] yours
+-它的 (tā de) [phrase] its
+-是 (shì) [verb] to be
+-什么 (shénme) [question] what
+-天啊 (tiānā) [phrase] heavens
+-这是什么 (zhè shì shénme) [phrase] what is this
+-那是什么 (nà shì shénme) [phrase] what is that
+-我的天啊 (wǒ de) [phrase] my heavens

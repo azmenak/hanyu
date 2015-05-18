@@ -1,48 +1,55 @@
 # A Visit to the Doctor
 **Intermediate** level
 ### Chinese Text
-男：Apple，你能过来帮我搭把手吗?
-女：哎，我忙着呢!
-男：可是我觉得你的桌子放在卧室会比较好，或许你能亲自来把它搬一下。
-女：不用，放客厅就行了。
-男：不是说... 怎么就我一个人? 你不是说有很多人来帮忙的吗?
-女：有。他们一会儿肯定会来。这样，我现在有事，我要出去了。你就把所有东西全搁客厅就行啊。
-男：哎，可是门外还有那么多东西需要搬进来呢！
-女：谢谢你了!
-男：唉，我的周末。
+病人：大夫，大夫，救命！这手折了！<br />大夫：我眼睛又不是X光，先去拍个片子回来再说吧。
+病人：在哪儿呢？
+大夫：给你开张单子，去放射科。
+大夫：哎，你回来了。
+病人：这片子您快瞅瞅！
+大夫：我看看。嗯，好像是骨折了...
+病人：呦，这您确定吗？
+大夫：那就是骨裂。
+病人：这哪儿裂了？
+大夫：我肯定了，是粉碎性骨折。
+病人：这越说越离谱儿了！您是医生吗？这儿是骨科吗？
+大夫：当然是了。我给你打个石膏，再给你根儿绷带，你回家躺着去吧。伤筋动骨一百天，不好再来看。
+病人：得了，我看你呀，就是一蒙古大夫，混饭的！
+大夫：不是，我是北京人儿！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|Apple，你能过来帮我搭把手吗?<blockquote>Apple ， nǐ néng guòlai bāng wǒ dābǎshǒu ma ?<br />Apple, can you give me a hand with this?</blockquote>|
-|女|哎，我忙着呢!<blockquote>ai ， wǒ mángzhe ne !<br />Oh, I'm busy.</blockquote>|
-|男|可是我觉得你的桌子放在卧室会比较好，或许你能亲自来把它搬一下。<blockquote>kěshì wǒ juéde nǐ de zhuōzi fàng zài wòshì huì bǐjiào hǎo ， huòxǔ nǐ néng qīnzì lái bǎ tā bān yixià 。<br />But I think the table would be better in the bedroom, and maybe you could come over and move it yourself.</blockquote>|
-|女|不用，放客厅就行了。<blockquote>bùyòng ， fàng kètīng jiù xíng le 。<br />No need. Just put it in the living room.</blockquote>|
-|男|不是说... 怎么就我一个人? 你不是说有很多人来帮忙的吗?<blockquote>bù shì shuō ... zěnme jiù wǒ yī gè rén ? nǐ bù shì shuō yǒu hěn duō rén lái bāngmáng de ma ?<br />I mean... why am I alone here? Didn't you say there were a lot of people coming to help you move?</blockquote>|
-|女|有。他们一会儿肯定会来。这样，我现在有事，我要出去了。你就把所有东西全搁客厅就行啊。<blockquote>yǒu 。 tāmen yīhuìr kěndìng huì lái 。 zhèyàng ， wǒ xiànzài yǒushì ， wǒ yào chūqù le 。 nǐ jiù bǎ suǒyǒu dōngxi quán gē kètīng jiù xíng a 。<br />They'll be over in a bit for sure. Hey, I've got something to do and need to go out. Just put everything in the living room and it will be fine.</blockquote>|
-|男|哎，可是门外还有那么多东西需要搬进来呢！<blockquote>ai ， kěshì ménwài hái yǒu nàme duō dōngxi xūyào bān jìnlái ne ！<br />Uh... but there's a lot of stuff outside that needs moving in.</blockquote>|
-|女|谢谢你了!<blockquote>xièxiè nǐ le !<br />Super thanks!</blockquote>|
-|男|唉，我的周末。<blockquote>ai ， wǒ de zhōumò 。<br />Oh, my weekend....</blockquote>|
+|病人|大夫，大夫，救命！这手折了！<blockquote>dàifu ， dàifu ， jiùmìng ！ zhè shǒu shé le ！<br />Help Doctor! My hand is broken!</blockquote>|
+|大夫|我眼睛又不是X光，先去拍个片子回来再说吧。<blockquote>wǒ yǎnjing yòu bù shì X guāng ， xiān qù pāi ge piānzi huílai zài shuō ba 。<br />I don't have X-ray vision. Go get a film taken and then we'll talk.</blockquote>|
+|病人|在哪儿呢？<blockquote>zài nǎr ne ？<br />Where?</blockquote>|
+|大夫|给你开张单子，去放射科。<blockquote>gěi nǐ kāi zhāng dānzi ， qù fàngshèkē 。<br />I'll write you a prescription, go to Radiology.</blockquote>|
+|大夫|哎，你回来了。<blockquote>ai ， nǐ huílai le 。<br />Oh, you're back.</blockquote>|
+|病人|这片子您快瞅瞅！<blockquote>zhè piānzi nín kuài chǒuchǒu ！<br />Quickly, take a look at the X-ray!</blockquote>|
+|大夫|我看看。嗯，好像是骨折了...<blockquote>wǒ kànkan 。 en ， hǎoxiàng shì gǔzhé le ...<br />Hmmm, let me see. Seems to be a snapped bone.</blockquote>|
+|病人|呦，这您确定吗？<blockquote>you ， zhè nín quèdìng ma ？<br />Are you sure about that?</blockquote>|
+|大夫|那就是骨裂。<blockquote>nà jiùshì gǔliè 。<br />Then it's a hairline fracture.</blockquote>|
+|病人|这哪儿裂了？<blockquote>zhè nǎr liè le ？<br />Where is the crack?</blockquote>|
+|大夫|我肯定了，是粉碎性骨折。<blockquote>wǒ kěndìng le ， shì fěnsuìxìng gǔzhé 。<br />It's a compound fracture, I'm sure of it.</blockquote>|
+|病人|这越说越离谱儿了！您是医生吗？这儿是骨科吗？<blockquote>zhè yuè shuō yuè lípǔr le ！ nín shì yīshēng ma ？ zhèr shì gǔkē ma ？<br />This is more and more ridiculous! Are you a doctor? Is this orthopedics?</blockquote>|
+|大夫|当然是了。我给你打个石膏，再给你根儿绷带，你回家躺着去吧。伤筋动骨一百天，不好再来看。<blockquote>dāngrán shì le 。 wǒ gěi nǐ dǎ ge shígāo ， zài gěi nǐ gēnr bēngdài ， nǐ huíjiā tǎngzhe qù ba 。 shāngjīndònggǔyībǎitiān ， bù hǎo zài lái kàn 。<br />Of course. I'll put on a cast and wrap it up nicely, then you can go home and rest. Wait it up for a hundred days so the arm has time to heal, then come in if there are problems.</blockquote>|
+|病人|得了，我看你呀，就是一蒙古大夫，混饭的！<blockquote>déle ， wǒ kàn nǐ ya ， jiùshì yī měnggǔ dàifu ， hùnfàn de ！<br />I've had enough. You're nothing more than a quack, scamming to make your way.</blockquote>|
+|大夫|不是，我是北京人儿！<blockquote>bù shì ， wǒ shì běijīngrénr ！<br />No, I'm from Beijing!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|年终奖|niánzhōngjiǎng|annual bonus|noun|
-|成绩|chéngji|accomplishments|noun|
-|乐观|lèguān|optimistic|adjective|
-|翻|fān|to flip over|verb|
-|奖励|jiǎnglì|to reward|verb|
-|营业额|yíngyèé|amount of business|noun|
-|盈利|yínglì|profit|noun|
-|扩大|kuòdà|to expand|verb|
-|市场影响力|shìchǎng yǐngxiǎnglì|market influence|noun|
-|点击率|diǎnjī lǜ|clickthrough rate|noun|
-|公关|gōngguān|public relations|noun|
-|危机|wēijī|crisis|noun|
-|处理|chǔlǐ|to handle|verb|
-|标准|biāozhǔn|standard|noun|
-|严|yán|strictly|adverb|
-|辞职|cízhí|to resign|verb|
-|谷歌|gǔgē|Google|company|
-|新浪|xīnlàng|Sina|company|
-|搜狐|sōuhú|Sohu|company|
-|百度|bǎidù|Baidu|company|
+|大夫|dàifu|doctor|noun|
+|救命|jiùmìng|to save a life|verb|
+|折|shé|to be frayed or broken|verb|
+|片子|piānzi|sheet|noun|
+|单子|dānzi|prescription|noun|
+|放射科|fàngshèkē|radiology|noun|
+|瞅|chǒu|to see|verb|
+|伤筋动骨一百天|shāngjīndònggǔ yī bǎi tiān|it takes a hundred days for the bone to knit and tendons to heal|phrase|
+|骨折|gǔzhé|bone fracture|noun|
+|骨裂|gǔliè|hairline fracture|noun|
+|离谱儿|lípǔr|out of bounds|adjective|
+|骨科|gǔkē|orthopedics|noun|
+|石膏|shígāo|plaster cast|noun|
+|绷带|bēngdài|bandage|noun|
+|混饭的|hùnfàn de|scammer|noun|
+|蒙古大夫|měnggǔ dàifu|quack doctor|noun|

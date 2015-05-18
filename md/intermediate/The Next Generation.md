@@ -1,8 +1,7 @@
 # The Next Generation
 **Intermediate** level
 ### Chinese Text
-甲：看来你最终还是选的苹果啊。
-乙：今天早上刚到的货。
+甲：看来你最终还是选的苹果啊。<br />乙：今天早上刚到的货。
 甲：你不是说专卖店卖得贵吗？
 乙：我买的这是水货，朋友刚从深圳给我带的。
 甲：咦，这屏幕怎么那么小，而且还有按键啊？
@@ -38,15 +37,18 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|判|pàn|to judge; to sentence|verb|
-|证据|zhèngju|evidence|noun|
-|坐牢|zuòláo|to be in prison|verb|
-|监控|jiānkòng|to monitor|verb|
-|录像|lùxiàng|recording|noun|
-|用心|yòngxīn|vigorously; wholeheartedly|adverb|
-|发现|fāxiàn|to discover|verb|
-|走人|zǒurén|to get lost|verb|
-|停车场|tíngchēchǎng|parking lot|noun|
-|目击证人|mùjī zhèngren|eyewitness|noun|
-|收费人员|shōufèi rényuán|toll collector|noun|
-|不在场证明|bù zài chǎng zhèngmíng|alibi|noun|
+|水货|shuǐhuò|tax-free import|noun|
+|辟谣|pìyáo|to disperse rumors|verb|
+|按键|ànjiàn|keypad; button|noun|
+|时髦|shímáo|fashionable|adjective|
+|复古|fùgǔ|retro|adjective|
+|兼容|jiānróng|compatible|adjective|
+|风格|fēnggé|style|noun|
+|解锁|jiěsuǒ|to unlock|verb|
+|升级|shēngjí|to upgrade|verb|
+|全才|quáncái|renaissance man|noun|
+|验货|yànhuò|to inspect goods|verb|
+|实体店|shítǐdiàn|demo store|noun|
+|专卖店|zhuānmàidiàn|brand store|noun|
+|电容屏|diànróngpíng|touch screen|noun|
+|货到付款|huòdàofùkuǎn|charge on delivery|noun|

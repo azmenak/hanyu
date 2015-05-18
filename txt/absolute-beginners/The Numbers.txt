@@ -2,40 +2,26 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男的：你需要点儿什么？
-女的：啤酒。
-男的：一扎还是一瓶儿?
-女的：一瓶儿。
+
 
 ### Pinyin and Translation
-
-男的: 你需要点儿什么？
-      nǐ xūyào diǎnr shénme ？
-      What would you like?
-
-女的: 啤酒。
-      píjiǔ 。
-      Beer.
-
-男的: 一扎还是一瓶儿?
-      yī zhā hái shì yī píngr ?
-      A draft or a bottle?
-
-女的: 一瓶儿。
-      yī píngr 。
-      A bottle.
 ### Vocab
--服务员 (fúwùyuán) [noun] waiter
--我 (wǒ) [pronoun] I
--您 (nín) [pronoun] you
--要 (yào) [verb] to want
--一 (yī) [number] one
--两 (liǎng) [number] two
--个 (ge) [measure word] (measure word)
--人 (rén) [noun] person
--吗 (ma) [question marker] (question marker)
--饿 (è) [adjective] hungry
--这 (zhè) [determiner] this
--那 (nà) [determiner] that
--这个 (zhège) [phrase] this one
--那个 (nàge) [phrase] that one
+-一 (yī) [number] 1
+-二 (èr) [number] 2
+-三 (sān) [number] 3
+-四 (sì) [number] 4
+-五 (wǔ) [number] 5
+-六 (liù) [number] 6
+-七 (qī) [number] 7
+-八 (bā) [number] 8
+-九 (jiǔ) [number] 9
+-十 (shí) [number] 10
+-十一 (shíyī) [number] 11
+-十二 (shíèr) [number] 12
+-二十 (èrshí) [number] 20
+-六十 (liùshí) [number] 60
+-九十 (jiǔshí) [number] 90
+-九十九 (jiǔshíjiǔ) [number] ninety nine
+-再来一遍 (zài lái yī biàn) [phrase] do it again
+-再说一遍 (zài shuō yī biàn) [phrase] say it again
+-跟不上 (gēnbùshàng) [phrase] can't keep up

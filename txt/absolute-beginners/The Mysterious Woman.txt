@@ -2,36 +2,29 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男：不好意思....
-女：哦？
-男：过一下。
-女：没问题。真见鬼！
+男：你是谁？
+女：我是你的老婆！
 
 ### Pinyin and Translation
 
-男: 不好意思....
-    bùhǎoyìsi ....
-    I'm sorry....
+男: 你是谁？
+    nǐ shì shéi ？
+    Who are you?
 
-女: 哦？
-    ò ？
-    Huh?
-
-男: 过一下。
-    guòyīxià 。
-    Let me by, please.
-
-女: 没问题。真见鬼！
-    méi wèntí 。 zhēnjiànguǐ ！
-    No problem. Dammit!
+女: 我是你的老婆！
+    wǒ shì nǐ de lǎopo ！
+    I'm your wife!
 ### Vocab
+-你是谁 (nǐ shì shéi) [phrase] who are you
 -我 (wǒ) [pronoun] I
 -你 (nǐ) [pronoun] you
--她 (tā) [pronoun] she
 -他 (tā) [pronoun] he
--想要 (xiǎng yào) [verb] to want
--哪个 (nǎ ge) [phrase] which one
--这个 (zhège) [phrase] this one
--那个 (nàge) [phrase] that one
--怎么样 (zěnmeyàng) [phrase] how about it
--就 (jiù) [adverb] exactly
+-她 (tā) [pronoun] she
+-是 (shì) [verb] to be
+-谁 (shéi) [question] who
+-我的 (wǒ de) [phrase] my
+-你的 (nǐ de) [phrase] your
+-他的 (tā de) [phrase] his
+-她的 (tā de) [phrase] her
+-老婆 (lǎopo) [noun] wife
+-老公 (lǎogōng) [noun] husband

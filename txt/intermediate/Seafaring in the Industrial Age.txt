@@ -2,47 +2,63 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：亲爱的，你看看，你女儿又躲到柜子里啦！
-乙：我女儿？
-甲：这反正肯定不是从我们家这边遗传的呀！
-乙：这也不是从我这儿来的呀。
-甲：难道...是从那个民工那儿学的？
-旁白：北京昂贵的房价让人望而兴叹，是否已经有外来务工人员悄悄搬进了您的家？金房子保险，让您的家免受外来流动人员的侵扰。
+甲：我太喜欢航海了，可以周游世界，而且处处充满了商机。
+乙：对，数不清的鸟粪....
+甲：你知道的，我就是为了这个才加入的海军。
+丙：船长，我们快靠岸了吗？我闻到了！
+甲：是啊，孩子，这里有取之不尽的鸟粪。
+丙：真的有吃不完那么多吗？
+甲：呵呵呵，你很快就会有属于你的那份了。这儿的鸟粪，足够支持工业时代发展一个世纪。
+丙：耶，我们快到啦！
+甲：孩子... 我永远不会忘记我第一次吃的鸟粪....
 
 ### Pinyin and Translation
 
-甲: 亲爱的，你看看，你女儿又躲到柜子里啦！
-    qīn`ài de ， nǐ kànkan ， nǐ nǚér yòu duǒdào guìzi lǐ la ！
-    Honey, look, your daughter is hiding in the closet again!
+甲: 我太喜欢航海了，可以周游世界，而且处处充满了商机。
+    wǒ tài xǐhuān hánghǎi le ， kěyǐ zhōuyóu shìjiè ， érqiě chùchù chōngmǎn le shāngjī 。
+    I love sailing the seas. You can see the world and there's opportunity everywhere.
 
-乙: 我女儿？
-    wǒ nǚér ？
-    My daughter?
+乙: 对，数不清的鸟粪....
+    duì ， shǔbùqīng de niǎofèn . . . .
+    Yup. More guano than you can count....
 
-甲: 这反正肯定不是从我们家这边遗传的呀！
-    zhè fǎnzhèng kěndìng bù shì cóng wǒmen jiā zhèbiān yíchuán de ya ！
-    Well, this definitely doesn't come from my side of the family!
+甲: 你知道的，我就是为了这个才加入的海军。
+    nǐ zhīdào de ， wǒ jiùshì wèi le zhège cái jiārù de hǎijūn 。
+    You know, this was exactly why I joined the navy.
 
-乙: 这也不是从我这儿来的呀。
-    zhè yě bù shì cóng wǒ zhèr lái de ya 。
-    It doesn't come from my side either.
+丙: 船长，我们快靠岸了吗？我闻到了！
+    chuánzhǎng ， wǒmen kuài kàoàn le ma ？ wǒ wéndào le ！
+    Captain, are we almost there? I can smell it!
 
-甲: 难道...是从那个民工那儿学的？
-    nándào . . . shì cóng nà ge míngōng nàr xué de ？
-    Could it be... she learned this from the laborer?
+甲: 是啊，孩子，这里有取之不尽的鸟粪。
+    shì a ， háizi ， zhèli yǒu qǔzhībùjìn de niǎofèn 。
+    Yes, kiddo. There's more guano here than anyone can use.
 
-旁白: 北京昂贵的房价让人望而兴叹，是否已经有外来务工人员悄悄搬进了您的家？金房子保险，让您的家免受外来流动人员的侵扰。
-      Běijīng ángguì de fángjià ràng rén wàngérxīngtàn ， shìfǒu yǐjīng yǒu wàilái wùgōng rényuán qiāoqiāo bānjìn le nín de jiā ？ Jīn Fángzi Bǎoxiǎn ， ràng nín de jiā miǎnshòu wàilái liúdòng rényuán de qīnrǎo 。
-      Are Beijing's high prices causing you pain? Have migrant workers already moved into your home? Keep your house free from invasion by non-local workers, use Golden Home Insurance.
+丙: 真的有吃不完那么多吗？
+    zhēnde yǒu chībuwán nàme duō ma ？
+    Is there really more than anyone can eat?
+
+甲: 呵呵呵，你很快就会有属于你的那份了。这儿的鸟粪，足够支持工业时代发展一个世纪。
+    hēhē ā ， nǐ hěn kuài jiù huì yǒu shǔyú nǐ de nà fèn le 。 zhèr de niǎofèn ， zúgòu zhīchí gōngyè shídài fāzhǎn yī ge shìjì 。
+    Ha ha ha. You'll have your share soon enough. There's enough guano here to support the Industrial Age for a whole century.
+
+丙: 耶，我们快到啦！
+    ye ， wǒmen kuài dào la ！
+    Yippee, we're almost there!
+
+甲: 孩子... 我永远不会忘记我第一次吃的鸟粪....
+    háizi . . .  wǒ yǒngyuǎn bùhuì wàngjì wǒ dìyī cì chī de niǎofèn . . . .
+    Kids... I'll never forget my first taste of guano....
 ### Vocab
--晚餐会 (wǎncānhuì) [noun] dinner party
--大衣 (dàyī) [noun] overcoat
--奴隶 (núlì) [noun] slave
--养 (yǎng) [verb] to raise
--逃税 (táoshuì) [verb] to cheat on taxes
--拿不住 (nábùzhù) [verb] to be unable to hold
--拿不动 (nábùdòng) [verb] to be unable to lift
--怪 (guài) [verb] to blame
--记性 (jìxing) [noun] memory
--见识 (jiànshi) [noun] experience
--长眼 (zhǎng yǎn) [verb] to be observant
+-周游 (zhōuyóu) [verb] to travel around
+-靠岸 (kàoàn) [verb] to near the shore
+-鸟粪 (niǎofèn) [noun] guano
+-鸟屎 (niǎoshǐ) [noun] bird poo
+-眼屎 (yǎnshǐ) [noun] eye crust
+-耳屎 (ěrshǐ) [noun] ear wax
+-鼻屎 (bíshǐ) [noun] snot
+-屎壳郎 (shǐkeláng) [noun] dung beatle
+-上大号 (shàng dàhào) [phrase] to take a poo
+-数不清 (shǔbùqīng) [phrase] countless
+-取之不尽 (qǔzhībùjìn) [phrase] inexhaustible
+-工业时代 (gōngyè shídài) [noun] industrial age

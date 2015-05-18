@@ -2,27 +2,35 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：哎呀，坏了，老板在。
-乙：不许聊天，回去工作。
+甲：水费这么多！
+乙：哦，多少？
+甲：六千多。
+乙：哦，我最近经常洗澡。
 
 ### Pinyin and Translation
 
-甲: 哎呀，坏了，老板在。
-    āiya ， huài le ， lǎobǎn zài 。
-    Oh no, dammit, the boss is here.
+甲: 水费这么多！
+    shuǐfèi zhème duō ！
+    The water bill is so expensive!
 
-乙: 不许聊天，回去工作。
-    bù xǔ liáotiān ， huíqu gōngzuò 。
-    No chatting allowed, get back to work.
+乙: 哦，多少？
+    o ， duōshǎo ？
+    Oh, how much?
+
+甲: 六千多。
+    liùqiān duō 。
+    More than six thousand.
+
+乙: 哦，我最近经常洗澡。
+    o ， wǒ zuìjìn jīngcháng xǐzǎo 。
+    Oh, I've been showering a lot these days.
 ### Vocab
--喂 (wèi) [verb] to feed
--昨天 (zuótiān) [noun] yesterday
--怪不得 (guàibudé) [phrase] no wonder
--老实 (lǎoshi) [adjective] affectionate
--猫粮 (māoliáng) [noun] cat food
--狗粮 (gǒuliáng) [noun] dog food
--罐头 (guàntou) [noun] can
--干的 (gānde) [adjective] dry
--湿的 (shīde) [adjective] wet
--猫砂 (māoshā) [noun] cat litter
--这么 (zhème) [adverb] so very
+-哦 (o) [onomatopoeia] oh
+-多 (duō) [adjective] many
+-最近 (zuìjìn) [adverb] these days
+-经常 (jīngcháng) [adverb] often
+-洗澡 (xǐzǎo) [verb] to take a shower
+-水费 (shuǐfèi) [noun] water bill
+-电费 (diànfèi) [noun] power bill
+-学费 (xuéfèi) [noun] tuition
+-付费 (fùfèi) [verb] to pay the bill

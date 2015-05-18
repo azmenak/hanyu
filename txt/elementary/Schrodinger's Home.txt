@@ -2,73 +2,30 @@
 ## *elementary* level
 
 ### Chinese Text
-男：想看什么电影？
-女：不知道。现在有什么？
-男：华尔街II，还有山楂树之恋。
-女：嗯......
-男：华尔街II？
-女：不想看。
-男：山楂树之恋？
-女：不想看。
-男：那我们可以再看一遍盗梦空间。
-女：什么？第十五遍？
-男：那你还有更好的建议吗？
+甲：我想我妈妈。
+乙：我也是。
+甲：你不是住在家里吗？
 
 ### Pinyin and Translation
 
-男: 想看什么电影？
-    xiǎng kàn shénme diànyǐng ？
-    What movie do you want to watch?
+甲: 我想我妈妈。
+    wǒ xiǎng wǒ māma 。
+    I miss my mother.
 
-女: 不知道。现在有什么？
-    bù zhīdào 。 xiànzài yǒu shénme ？
-    I don't know. What's out?
+乙: 我也是。
+    wǒ yě shì 。
+    Me too.
 
-男: 华尔街II，还有山楂树之恋。
-    huáěrjiē II ， hái yǒu shānzhāshù zhī liàn 。
-    Wall Street II and Hawthorn Tree Forever.
-
-女: 嗯......
-    en ......
-    Hmm......
-
-男: 华尔街II？
-    huáěrjiē II ？
-    Wall Street II?
-
-女: 不想看。
-    bù xiǎng kàn 。
-    I don't want to see it.
-
-男: 山楂树之恋？
-    shānzhāshùzhīliàn ？
-    Hawthorn Tree Forever?
-
-女: 不想看。
-    bù xiǎng kàn 。
-    No.
-
-男: 那我们可以再看一遍盗梦空间。
-    nà wǒmen kěyǐ zài kàn yī biàn dàomèngkōngjiān 。
-    Then we can see Inception one more time.
-
-女: 什么？第十五遍？
-    shénme ？ dì shíwǔ biàn ？
-    What? For the 15th time?
-
-男: 那你还有更好的建议吗？
-    nà nǐ hái yǒu gèng hǎo de jiànyì ma ？
-    Then do you have better suggestions?
+甲: 你不是住在家里吗？
+    nǐ bù shì zhù zài jiā lǐ ma ？
+    Don't you live at home?
 ### Vocab
--苹果派 (píngguǒ pài) [noun] apple pie
--原始人 (yuánshǐrén) [noun] cave man
--外来词 (wàiláicí) [noun] loan word
--冰淇淋 (bīngqílín) [noun] ice cream
--咖啡 (kāfēi) [noun] coffee
--时髦 (shímáo) [adjective] fashionable
--佛 (fó) [noun] Buddha
--鸡尾酒 (jīwěijiǔ) [noun] cocktail
--热狗 (règǒu) [noun] hot dog
--沙发 (shāfā) [noun] sofa
--打 (dá) [measure word] dozen
--听 (tīng) [measure word] tin
+-想 (xiǎng) [verb] to miss
+-在 (zài) [preposition] at
+-里 (lǐ) [complement] inside
+-书包 (shūbāo) [noun] book bag
+-商场 (shāngchǎng) [noun] shopping center
+-盒子 (hézi) [noun] box
+-北京 (Běijīng) [noun] Beijing
+-加拿大 (Jiānádà) [noun] Canada
+-住在家里 (zhù zài jiā lǐ) [phrase] to live at home

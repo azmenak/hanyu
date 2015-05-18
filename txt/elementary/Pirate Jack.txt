@@ -2,60 +2,45 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：你从没告诉我你哥哥这么帅。
-乙：我哥哥？他不帅。
-甲：他长得像布拉德皮特。
-乙：他不像。
-甲：不，他像。
-乙：他不像！
-甲：他太帅了。他的电话是多少？
-乙：什么？
-甲：哦，等等。你的电话是多少来着？
+甲：你认识杰克吗？
+乙：海盗杰克？
+甲：杰克斯维顿。
+乙：海洋杀手，海盗杰克斯维顿！
+甲：我以为他是个大夫。
+乙：海洋杀手，海盗神医，杰克斯维顿！
 
 ### Pinyin and Translation
 
-甲: 你从没告诉我你哥哥这么帅。
-    nǐ cóngméi gàosu wǒ nǐ gēge zhème shuài 。
-    You never told me your brother was this handsome.
+甲: 你认识杰克吗？
+    nǐ rènshi Jiékè ma ？
+    Do you know Jack?
 
-乙: 我哥哥？他不帅。
-    wǒ gēge ？ tā bù shuài 。
-    My brother? He's not handsome.
+乙: 海盗杰克？
+    hǎidào Jiékè ？
+    Pirate Jack?
 
-甲: 他长得像布拉德皮特。
-    tā zhǎng de xiàng Bùlādé Pítè 。
-    He looks like Brad Pitt.
+甲: 杰克斯维顿。
+    Jiékè Sīwéidùn 。
+    Jack Sweeton.
 
-乙: 他不像。
-    tā bù xiàng 。
-    He's not at all like him.
+乙: 海洋杀手，海盗杰克斯维顿！
+    hǎiyáng shāshǒu ， hǎidào Jiékè Sīwéidùn ！
+    Pirate Jack Sweeton, the killer of the seas!
 
-甲: 不，他像。
-    bù ， tā xiàng 。
-    No, he's like him.
+甲: 我以为他是个大夫。
+    wǒ yǐwéi tā shì ge dàifu 。
+    I thought he was a doctor.
 
-乙: 他不像！
-    tā bù xiàng ！
-    He's not like him!
-
-甲: 他太帅了。他的电话是多少？
-    tā tài shuài le 。 tā de diànhuà shì duōshǎo ？
-    He's gorgeous. What's his number?
-
-乙: 什么？
-    shénme ？
-    What?
-
-甲: 哦，等等。你的电话是多少来着？
-    ò ， děngděng 。 nǐ de diànhuà shì duōshao láizhe ？
-    Oh, wait. What's your number again?
+乙: 海洋杀手，海盗神医，杰克斯维顿！
+    hǎiyáng shāshǒu ， hǎidào shén yī ， Jiékè Sīwéidùn ！
+    Jack Sweeton, pirate doctor and killer of the seas!
 ### Vocab
--哦 (o) [onomatopoeia] oh
--多 (duō) [adjective] many
--最近 (zuìjìn) [adverb] these days
--经常 (jīngcháng) [adverb] often
--洗澡 (xǐzǎo) [verb] to take a shower
--水费 (shuǐfèi) [noun] water bill
--电费 (diànfèi) [noun] power bill
--学费 (xuéfèi) [noun] tuition
--付费 (fùfèi) [verb] to pay the bill
+-海洋 (hǎiyáng) [noun] ocean
+-觉得 (juéde) [verb] to feel
+-杀手 (shāshǒu) [noun] killer
+-海盗 (hǎidào) [noun] pirate
+-大夫 (dàifu) [noun] doctor
+-神 (shén) [adjective] excellent
+-以为 (yǐwéi) [verb] to believe mistakenly
+-认识 (rènshi) [verb] to recognize
+-认为 (rènwéi) [verb] to believe

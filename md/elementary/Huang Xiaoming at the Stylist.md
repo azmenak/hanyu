@@ -1,34 +1,40 @@
 # Huang Xiaoming at the Stylist
 **Elementary** level
 ### Chinese Text
-甲：哎，哪位？
-乙：我是301的，能麻烦你帮我开下吗？
-甲：你门卡呢？
-乙：我门卡丢了，那个，物业还没给我新的呢。
-甲：哦，好的。
-乙：谢谢啊。
+甲：先生，你今天需要一个什么样的发型？<br />已：黄晓明那样的，顶上长两边短。
+甲：哦，黄晓明那样的。
+丙：那个，我也剪一个黄晓明那样的发型。
+甲：等一会儿，我先来的。
+丁：你们说黄晓明吗？你们这儿能剪黄晓明的发型？
+丙：你起开，我先来的。
+甲：好了。你们都会有黄晓明的发型。只不过是一个一个的来。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，哪位？<blockquote>ái ， nǎ wèi ？<br />Hey, who is it?</blockquote>|
-|乙|我是301的，能麻烦你帮我开下吗？<blockquote>wǒ shì sānlíngyāo de ， néng máfan nǐ bāng wǒ kāixià ma ？<br />I'm from 301, can I bother you to open the door for me?</blockquote>|
-|甲|你门卡呢？<blockquote>nǐ ménkǎ ne ？<br />What about your keycard?</blockquote>|
-|乙|我门卡丢了，那个，物业还没给我新的呢。<blockquote>wǒ ménkǎ diū le ， nà ge ， wùyè hái méi gěi wǒ xīnde ne 。<br />I lost my keycard and the property manager still hasn't given me a new one.</blockquote>|
-|甲|哦，好的。<blockquote>ò ， hǎode 。<br />Oh, OK.</blockquote>|
-|乙|谢谢啊。<blockquote>xièxie ā 。<br />Thanks.</blockquote>|
+|甲|先生，你今天需要一个什么样的发型？<blockquote>Xiānsheng ， nǐ jīntiān xūyào yī ge shénmeyàng de fàxíng ？<br />Sir, what kind of hairstyle do you want today?</blockquote>|
+|已|黄晓明那样的，顶上长两边短。<blockquote>Huáng Xiǎomíng nàyàngde ， dǐngshàng cháng liǎng biān duǎn 。<br />Long on top and short on both sides, like Huang Xiaoming.</blockquote>|
+|甲|哦，黄晓明那样的。<blockquote>ò ， Huáng Xiǎomíng nàyàngde 。<br />Oh, like Huang Xiaoming.</blockquote>|
+|丙|那个，我也剪一个黄晓明那样的发型。<blockquote>那ge ， wǒ yě jiǎn yī ge Huáng Xiǎomíng nàyàngde fàxíng 。<br />Hey, I also want a haircut like Huang Xiaoming's.</blockquote>|
+|甲|等一会儿，我先来的。<blockquote>děng  yīhuìr ， wǒ xiān lái de 。<br />Wait a minute, I came first.</blockquote>|
+|丁|你们说黄晓明吗？你们这儿能剪黄晓明的发型？<blockquote>nǐmen shuō Huáng Xiǎomíng ma ？ nǐmen zhèr néng jiǎn Huáng Xiǎomíng de fàxíng ？<br />Are you talking about Huang Xiaoming? Can you style hair like Huang Xiaoming's here?</blockquote>|
+|丙|你起开，我先来的。<blockquote>nǐ qǐkāi ， wǒ xiān lái de 。<br />Get out of the way, I was here first.</blockquote>|
+|甲|好了。你们都会有黄晓明的发型。只不过是一个一个的来。<blockquote>hǎo le 。 nǐmen dōu huì yǒu Huáng Xiǎomíng de fàxíng 。 zhǐ bù guò shì yī ge yī ge de lái 。<br />Enough. You'll all get Huang Xiaoming's hairstyle. But we'll have to do it one at a time.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|正常|zhèngcháng|normal|adjective|
-|承认|chéngrèn|to acknowledge|verb|
-|出柜|chūguì|to come out|verb|
-|理解|lǐjiě|to understand|verb|
-|支持|zhīchí|to support|verb|
-|不管|bùguǎn|regardless of|preposition|
-|关键|guānjiàn|key point|noun|
-|同性恋|tóngxìngliàn|homosexual|noun|
-|异性恋|yìxìngliàn|heterosexual|noun|
-|大不了|dàbuliǎo|in the worst case|adverb|
-|没什么大不了的|méi shénme dàbuliǎo de|it's not a big deal|phrase|
-|有什么大不了的|yǒu shénme dàbuliǎo de|you think there's anything special about it|phrase|
+|发型|fàxíng|hairstyle|noun|
+|头顶|tóudǐng|top of the head|noun|
+|两边|liǎngbiān|the two sides|noun|
+|长|cháng|long|adjective|
+|短|duǎn|short|adjective|
+|剪|jiǎn|to cut|verb|
+|吹|chuī|to dry|verb|
+|洗|xǐ|to cut|verb|
+|修|xiū|to trim|verb|
+|起开|qǐkāi|to get up and out of the way|verb|
+|让开|ràngkāi|to get out of the way|verb|
+|走开|zǒukāi|to get out of the way|verb|
+|只不过|zhǐ bù guò|it is just that|phrase|
+|等一会儿|děng  yīhuìr|wait a minute|phrase|
+|一个一个的|yī ge yī ge de|one at a time|phrase|

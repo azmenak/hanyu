@@ -1,8 +1,7 @@
 # Impromptu Home Renovation
 **Absolute Beginners** level
 ### Chinese Text
-甲：你干嘛呢？
-乙：没什么，没什么！
+甲：你干嘛呢？<br />乙：没什么，没什么！
 甲：怎么回事？
 乙：一切正常。
 甲：我下来看看。

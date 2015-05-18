@@ -1,8 +1,7 @@
 # The Marriage of True Minds
 **Elementary** level
 ### Chinese Text
-甲：听说李健要结婚了。
-乙：结婚？和谁呀？
+甲：听说李健要结婚了。<br />乙：结婚？和谁呀？
 甲：和他前妻。
 乙：他已经结过一次啦？我怎么什么都不知道啊。
 
@@ -16,14 +15,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|百科|bǎikē|encyclopedia|noun|
-|维基百科|wéijī bǎikē|Wikipedia|noun|
-|百度百科|bǎidù bǎikē|Baidupedia|noun|
-|早|zǎo|early|adverb|
-|在|zài|at|preposition|
-|从|cóng|from|preposition|
-|上|shàng|on|directional complement|
-|里|lǐ|in|directional complement|
-|抄|chāo|to copy|verb|
-|报告|bàogào|report|noun|
-|天下文章一大抄，看你会抄不会抄|tiānxià wénzhāng yī dà chāo, kàn nǐ huì chāo būhuì chāo|writing articles is just a matter of copying, you just need to know how|saying|
+|过|guò|completed aspect|particle|
+|了|le|past aspect|particle|
+|前|qián|previous; former|adjective|
+|妻子|qīzi|wife|noun|
+|已经|yǐjīng|already|already|
+|结婚|jiéhūn|to marry|verb|
+|听说|tīngshuō|to hear told|phrase|
+|穿鞋|chuānxié|to put on shoes|verb|
+|开饭馆|kāi fànguǎn|to open a restaurant|verb|
+|下雨|xiàyǔ|to rain|verb|

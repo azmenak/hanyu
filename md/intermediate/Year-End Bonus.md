@@ -1,8 +1,7 @@
 # Year-End Bonus
 **Intermediate** level
 ### Chinese Text
-老板：今天我叫你过来，跟你谈一下年终奖的问题。
-职员：噢，老板，今年我们的成绩非常乐观，比去年翻了两倍！
+老板：今天我叫你过来，跟你谈一下年终奖的问题。<br />职员：噢，老板，今年我们的成绩非常乐观，比去年翻了两倍！
 老板：嗯，所以我奖励你四百。
 职员：四百？可是我给公司盈利可有好几百万呢！
 老板：你的工作确实做得不错！不过，你看谷歌公司一年的营业额翻了几番？
@@ -26,19 +25,23 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|大夫|dàifu|doctor|noun|
-|救命|jiùmìng|to save a life|verb|
-|折|shé|to be frayed or broken|verb|
-|片子|piānzi|sheet|noun|
-|单子|dānzi|prescription|noun|
-|放射科|fàngshèkē|radiology|noun|
-|瞅|chǒu|to see|verb|
-|伤筋动骨一百天|shāngjīndònggǔ yī bǎi tiān|it takes a hundred days for the bone to knit and tendons to heal|phrase|
-|骨折|gǔzhé|bone fracture|noun|
-|骨裂|gǔliè|hairline fracture|noun|
-|离谱儿|lípǔr|out of bounds|adjective|
-|骨科|gǔkē|orthopedics|noun|
-|石膏|shígāo|plaster cast|noun|
-|绷带|bēngdài|bandage|noun|
-|混饭的|hùnfàn de|scammer|noun|
-|蒙古大夫|měnggǔ dàifu|quack doctor|noun|
+|年终奖|niánzhōngjiǎng|annual bonus|noun|
+|成绩|chéngji|accomplishments|noun|
+|乐观|lèguān|optimistic|adjective|
+|翻|fān|to flip over|verb|
+|奖励|jiǎnglì|to reward|verb|
+|营业额|yíngyèé|amount of business|noun|
+|盈利|yínglì|profit|noun|
+|扩大|kuòdà|to expand|verb|
+|市场影响力|shìchǎng yǐngxiǎnglì|market influence|noun|
+|点击率|diǎnjī lǜ|clickthrough rate|noun|
+|公关|gōngguān|public relations|noun|
+|危机|wēijī|crisis|noun|
+|处理|chǔlǐ|to handle|verb|
+|标准|biāozhǔn|standard|noun|
+|严|yán|strictly|adverb|
+|辞职|cízhí|to resign|verb|
+|谷歌|gǔgē|Google|company|
+|新浪|xīnlàng|Sina|company|
+|搜狐|sōuhú|Sohu|company|
+|百度|bǎidù|Baidu|company|

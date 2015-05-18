@@ -1,26 +1,31 @@
 # Wall Street II
 **Elementary** level
 ### Chinese Text
-甲：秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？
-乙：老板，我是坐地铁来的....
-甲：开什么玩笑？从你们家到公司只有两站地。
-乙：是，但是....
-甲：而且你那儿是起始站！
-乙：可是我只能在终点站才下得了车。
-甲：你傻吗？
-乙：我挤不下来啊。
+男：想看什么电影？<br />女：不知道。现在有什么？
+男：华尔街II，还有山楂树之恋。
+女：嗯......
+男：华尔街II？
+女：不想看。
+男：山楂树之恋？
+女：不想看。
+男：那我们可以再看一遍盗梦空间。
+女：什么？第十五遍？
+男：那你还有更好的建议吗？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|秦，你怎么今天上班儿又迟到了？不是告诉过你坐地铁了吗？<blockquote>Qín ， nǐ zěnme jīntiān shàngbānr yòu chídào le ？ bù shì gàosu guò nǐ zuò dìtiě le ma ？<br />Qin, why are you late for work again this morning? Didn't I tell you to take the subway?</blockquote>|
-|乙|老板，我是坐地铁来的....<blockquote>lǎobǎn ， wǒ shì zuò dìtiě lái de ....<br />Boss, I did take the subway....</blockquote>|
-|甲|开什么玩笑？从你们家到公司只有两站地。<blockquote>kāi shénme wánxiào ？ cóng nǐmen jiā dào gōngsī zhǐ yǒu liǎng zhàndì 。<br />What are you trying to pull? It's only two stops from your home to the office.</blockquote>|
-|乙|是，但是....<blockquote>shì ， dànshì ....<br />Yes, but....</blockquote>|
-|甲|而且你那儿是起始站！<blockquote>érqiě nǐ nàr shì qǐshǐzhàn ！<br />And you're at the first station!</blockquote>|
-|乙|可是我只能在终点站才下得了车。<blockquote>kěshì wǒ zhǐ néng zài zhōngdiǎnzhàn cái xiàdeliǎo chē 。<br />But I was only able to get off at the last stop.</blockquote>|
-|甲|你傻吗？<blockquote>nǐ shǎ ma ？<br />Are you stupid?</blockquote>|
-|乙|我挤不下来啊。<blockquote>wǒ jǐ bu xiàlai ā 。<br />I couldn't squeeze my way off.</blockquote>|
+|男|想看什么电影？<blockquote>xiǎng kàn shénme diànyǐng ？<br />What movie do you want to watch?</blockquote>|
+|女|不知道。现在有什么？<blockquote>bù zhīdào 。 xiànzài yǒu shénme ？<br />I don't know. What's out?</blockquote>|
+|男|华尔街II，还有山楂树之恋。<blockquote>huáěrjiē II ， hái yǒu shānzhāshù zhī liàn 。<br />Wall Street II and Hawthorn Tree Forever.</blockquote>|
+|女|嗯......<blockquote>en ......<br />Hmm......</blockquote>|
+|男|华尔街II？<blockquote>huáěrjiē II ？<br />Wall Street II?</blockquote>|
+|女|不想看。<blockquote>bù xiǎng kàn 。<br />I don't want to see it.</blockquote>|
+|男|山楂树之恋？<blockquote>shānzhāshùzhīliàn ？<br />Hawthorn Tree Forever?</blockquote>|
+|女|不想看。<blockquote>bù xiǎng kàn 。<br />No.</blockquote>|
+|男|那我们可以再看一遍盗梦空间。<blockquote>nà wǒmen kěyǐ zài kàn yī biàn dàomèngkōngjiān 。<br />Then we can see Inception one more time.</blockquote>|
+|女|什么？第十五遍？<blockquote>shénme ？ dì shíwǔ biàn ？<br />What? For the 15th time?</blockquote>|
+|男|那你还有更好的建议吗？<blockquote>nà nǐ hái yǒu gèng hǎo de jiànyì ma ？<br />Then do you have better suggestions?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

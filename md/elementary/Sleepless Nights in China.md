@@ -1,18 +1,21 @@
 # Sleepless Nights in China
 **Elementary** level
 ### Chinese Text
-甲：老板，这些文件都处理完了。
-乙：辛苦了，给你的咖啡。
-甲：不用了，我这就回去。喝了咖啡该睡不着觉了。
-乙：哦，你今天不会回家。
+甲：我知道你为什么睡不着觉了。<br />乙：为什么？快！告诉我！
+甲：因为刚才你喝了三杯咖啡。
+乙：这有关系吗？
+甲：当然有关系，你开什么玩笑呀？
+乙：开玩笑？我喝咖啡的时候从不开玩笑！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|老板，这些文件都处理完了。<blockquote>lǎobǎn ， zhè xiē wénjiàn dōu chǔlǐwán le 。<br />Boss, these files are all finished.</blockquote>|
-|乙|辛苦了，给你的咖啡。<blockquote>xīnkǔ le ， gěi nǐ de kāfēi 。<br />Good work, here's your coffee.</blockquote>|
-|甲|不用了，我这就回去。喝了咖啡该睡不着觉了。<blockquote>bùyòng le ， wǒ zhèjiù huíqu 。 hē le kāfēi gāi shuì bu zháo jiào le 。<br />No need, I'll be off in a second. If I drink coffee I won't be able to sleep.</blockquote>|
-|乙|哦，你今天不会回家。<blockquote>ò ， nǐ jīntiān bùhuì huíjiā 。<br />Oh, you won't be going home tonight.</blockquote>|
+|甲|我知道你为什么睡不着觉了。<blockquote>wǒ zhīdào nǐ wèishénme shuì bu zháo jiào le 。<br />I know why you can't sleep.</blockquote>|
+|乙|为什么？快！告诉我！<blockquote>wèishénme ？ kuài ！ gàosu wǒ ！<br />Why? Quickly! Tell me!</blockquote>|
+|甲|因为刚才你喝了三杯咖啡。<blockquote>yīnwèi gāngcái nǐ hē le sān bēi kāfēi 。<br />Because you just drank three cups of coffee.</blockquote>|
+|乙|这有关系吗？<blockquote>zhè yǒu guānxi ma ？<br />What does that have to do with it?</blockquote>|
+|甲|当然有关系，你开什么玩笑呀？<blockquote>dāngrán yǒu guānxi ， nǐ kāi shénme wánxiào ya ？<br />Of course it matters, what are you joking about?</blockquote>|
+|乙|开玩笑？我喝咖啡的时候从不开玩笑！<blockquote>kāi wánxiào ？ wǒ hē kāfēi de shíhou cóng bù kāi wánxiào ！<br />Joking? I never joke when I drink coffee.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

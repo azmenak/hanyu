@@ -1,8 +1,7 @@
 # Losing Touch with Reality
 **Absolute Beginners** level
 ### Chinese Text
-男：你看过《盗梦空间》吗？
-女：对，它很好。
+男：你看过《盗梦空间》吗？<br />女：对，它很好。
 男：太好了，非常好！
 女：好极了！
 
@@ -16,12 +15,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|他|tā|he|pronoun|
-|我|wǒ|I|pronoun|
-|你|nǐ|you|pronoun|
-|谁|shéi|who|question|
-|是|shì|to be|verb|
-|在|zài|to be at|verb|
-|爱|ài|to love|verb|
-|这儿|zhèr|here|noun|
-|天啊|tiānā|heavens|noun|
+|盗梦空间|dàomèng kōngjiān|Inception|noun|
+|它|tā|it|pronoun|
+|很|hěn|very|adverb|
+|非常|fēicháng|extremely|adverb|
+|太|tài|too|adverb|
+|极了|jí le|to an extreme|adverb|
+|好|hǎo|good|adjective|
+|酷|kù|cool|adjective|
+|复杂|fùzá|complex|adjective|
+|漂亮|piàoliang|pretty|adjective|
+|对|duì|correct|adjective|

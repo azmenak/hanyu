@@ -1,8 +1,7 @@
 # Customer Service
 **Elementary** level
 ### Chinese Text
-苹果：先生您好。欢迎光临。请问有什么可以帮助您吗？
-康：一个A套餐。两瓶啤酒。
+苹果：先生您好。欢迎光临。请问有什么可以帮助您吗？<br />康：一个A套餐。两瓶啤酒。
 苹果：啤酒？我们这儿没有啤酒。
 康：二锅头也行。
 苹果：还二锅头？我们这儿也没有。
@@ -24,10 +23,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|服务员|fúwùyuán|server, waiter|noun|
-|不能|bù néng|to be unable|auxiliary verb|
-|火儿|huǒr|lighter|noun|
-|吸烟|xīyān|to smoke|verb|
-|这里|zhèlǐ|here|phrase|
-|玩儿火|wánr huǒ|to play with fire|verb|
-|火|huǒ|fire|noun|
+|欢迎光临|huānyíng guānglín|welcome|phrase|
+|套餐|tàocān|meal (combo)|noun|
+|瓶|píng|bottle|measure word|
+|啤酒|píjiǔ|beer|noun|
+|二锅头|èrguōtóu|Erguotou|proper noun|
+|行|xíng|ok|adjective|
+|还|hái|still|signals disbelief|
+|酒|jiǔ|alcohol|noun|
+|那|nà|in that case|conjunction|
+|长岛冰茶|chángdǎo bīngchá|long island ice tea|noun|
+|吧|ba||suggestive particle|

@@ -1,8 +1,7 @@
 # Cosplay Jiang Zemin
 **Intermediate** level
 ### Chinese Text
-甲：我们本周末要去北海公园cosplay江泽民。
-乙：又cosplay江泽民...
+甲：我们本周末要去北海公园cosplay江泽民。<br />乙：又cosplay江泽民...
 丙：我讨厌江泽民...
 甲：你胡说什么！
 乙：我们能不能cosplay一次温家宝啊？

@@ -1,32 +1,17 @@
 # Adventures on the Second Ring Road
 **Absolute Beginners** level
 ### Chinese Text
-甲：坏孩子。
-乙：坏孩子。
-甲：坏孩子。
-乙：坏孩子。
-甲：坏孩子。
-乙：坏孩子。
-甲：真坏。
-乙：你太坏了。
-甲：那是你妹妹的，给你妹妹。
-乙：你妹妹好，你不好。
-甲：唉，我要是有两个女孩就好了。
+甲：师傅，醒醒，醒醒！<br />乙：到了，到了。十块，十块....
+甲：你刚才睡着了。
+乙：没有，没有啊，我们去哪儿？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|坏孩子。<blockquote>huài háizi 。<br />Bad child.</blockquote>|
-|乙|坏孩子。<blockquote>huài háizi 。<br />Bad child.</blockquote>|
-|甲|坏孩子。<blockquote>huài háizi 。<br />Bad child.</blockquote>|
-|乙|坏孩子。<blockquote>huài háizi 。<br />Bad child.</blockquote>|
-|甲|坏孩子。<blockquote>huài háizi 。<br />Wicked child.</blockquote>|
-|乙|坏孩子。<blockquote>huài háizi 。<br />Bad child.</blockquote>|
-|甲|真坏。<blockquote>zhēn huài 。<br />Really wicked.</blockquote>|
-|乙|你太坏了。<blockquote>nǐ tài huài le 。<br />You're too wicked.</blockquote>|
-|甲|那是你妹妹的，给你妹妹。<blockquote>nà shì nǐ mèimei de ， gěi nǐ mèimei 。<br />That's your sister's. Give it to your sister.</blockquote>|
-|乙|你妹妹好，你不好。<blockquote>nǐ mèimei hǎo ， nǐ bù hǎo 。<br />Your sister is good. You're no good.</blockquote>|
-|甲|唉，我要是有两个女孩就好了。<blockquote>ai ， wǒ yàoshi yǒu liǎng ge nǚhái jiù hǎo le 。<br />Oh, if only I had two girls.</blockquote>|
+|甲|师傅，醒醒，醒醒！<blockquote>shīfu ， xǐngxing ， xǐngxing ！<br />Driver, wake up, wake up!</blockquote>|
+|乙|到了，到了。十块，十块....<blockquote>dào le ， dào le 。 shí kuài ， shí kuài . . . .<br />We're here, we're here.... That'll be ten kuai.</blockquote>|
+|甲|你刚才睡着了。<blockquote>nǐ gāngcái shuìzháo le 。<br />You were just sleeping.</blockquote>|
+|乙|没有，没有啊，我们去哪儿？<blockquote>méiyǒu ， méiyǒu a ， wǒmen qù nǎr ？<br />No I wasn't.... Where are we going?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

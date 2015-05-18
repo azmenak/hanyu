@@ -2,43 +2,33 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：警察！
-乙：警察！
-甲：开门！
-丙：我不在。
-甲：登记！登记！
-丙：出国了。
-乙：她出国了。
+女：把枪放下。
+男：把钱放下。
+女：不，把枪放下。
+男：我有枪，把钱放下。
+女：好吧。
 
 ### Pinyin and Translation
 
-甲: 警察！
-    jǐngchá ！
-    Police!
+女: 把枪放下。
+    bǎ qiāng fàngxià .
+    Put down the gun.
 
-乙: 警察！
-    jǐngchá ！
-    Police!
+男: 把钱放下。
+    bǎ qián fàngxià 。
+    Put down the money.
 
-甲: 开门！
-    kāimén ！
-    Open the door!
+女: 不，把枪放下。
+    bù ， bǎ qiāng fàngxià 。
+    No, put the gun down.
 
-丙: 我不在。
-    wǒ bù zài 。
-    I'm not here.
+男: 我有枪，把钱放下。
+    wǒ yǒu qiāng ， bǎ qián fàngxià 。
+    I have a gun. Put down the money.
 
-甲: 登记！登记！
-    dēngjì ！ dēngjì ！
-    Register! Register!
-
-丙: 出国了。
-    chūguó le 。
-    I've left the country.
-
-乙: 她出国了。
-    tā chūguó le 。
-    She's left the country.
+女: 好吧。
+    hǎo ba 。
+    Ok.
 ### Vocab
 -枪 (qiāng) [noun] gun
 -钱 (qián) [noun] money

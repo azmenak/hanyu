@@ -1,24 +1,25 @@
 # The Backstreet Boys
 **Elementary** level
 ### Chinese Text
-甲：你怎么啦？
-乙：我不舒服。
-甲：哪儿不舒服？
-乙：有点儿头晕，也有点儿恶心。
-甲：你吃了什么？
-乙：没吃什么，就吃了妈妈做的饭。
-甲：咳，你还没习惯呢。
+甲：你听的是什么呀？挺熟的。<br />乙：好像是那个......
+甲：哦，我想起来了，是后街男孩对吧？
+乙：对对对对对，是那个有山羊胡的男孩唱的。
+甲：特别酷。
+乙：这个好像是他们的新专辑。
+甲：这个音乐特别流行。美国音乐，真棒。
+乙：够酷的。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你怎么啦？<blockquote>nǐ zěnme la ？<br />What's wrong with you?</blockquote>|
-|乙|我不舒服。<blockquote>wǒ bù shūfu 。<br />I'm feeling ill.</blockquote>|
-|甲|哪儿不舒服？<blockquote>nǎr bù shūfu ？<br />Where are you uncomfortable?</blockquote>|
-|乙|有点儿头晕，也有点儿恶心。<blockquote>yǒu diǎnr tóuyūn ， yě yǒu diǎnr ěxīn 。<br />I feel a bit dizzy and a little nauseous.</blockquote>|
-|甲|你吃了什么？<blockquote>nǐ chī le shénme ？<br />What did you eat?</blockquote>|
-|乙|没吃什么，就吃了妈妈做的饭。<blockquote>méi chī shénme ， jiù chī le māma zuò de fàn 。<br />I didn't eat anything, just the food mom made.</blockquote>|
-|甲|咳，你还没习惯呢。<blockquote>hai ， nǐ hái méi xíguàn ne 。<br />You're still not used to it?</blockquote>|
+|甲|你听的是什么呀？挺熟的。<blockquote>nǐ tīng de shì shénme ya ？ tǐng shóu de 。<br />What are you listening to? Sounds familiar.</blockquote>|
+|乙|好像是那个......<blockquote>hǎoxiàng shì nà ge ......<br />It seems to be....</blockquote>|
+|甲|哦，我想起来了，是后街男孩对吧？<blockquote>ò ， wǒ xiǎng qǐlai le ， shì hòujiēnánhái duì ba ？<br />Oh, I've got it. It's the Backstreet Boys, right?</blockquote>|
+|乙|对对对对对，是那个有山羊胡的男孩唱的。<blockquote>duì duì duì duì duì ， shì nàge yǒu shānyánghú de nánhái chàng de 。<br />Yeah! It's the one sung by the guy with the goatee.</blockquote>|
+|甲|特别酷。<blockquote>tèbié kù 。<br />It's really cool.</blockquote>|
+|乙|这个好像是他们的新专辑。<blockquote>zhège hǎoxiàng shì tāmen de xīn zhuānjí 。<br />I think this is from their new album.</blockquote>|
+|甲|这个音乐特别流行。美国音乐，真棒。<blockquote>zhège yīnyuè tèbié liúxíng 。 Měiguó yīnyuè ， zhēn bàng 。<br />This music is really popular. American music is awesome.</blockquote>|
+|乙|够酷的。<blockquote>gòu kù de 。<br />It's really cool.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -35,3 +35,11 @@
     ò ， shì zǎocān 。
     Oh, it's breakfast.
 ### Vocab
+-里 (lǐ) [directional] in
+-上 (shàng) [directional] on
+-下 (xià) [directional] under
+-就 (jiù) [adverb] exactly
+-桌子 (zhuōzi) [noun] table
+-书包 (shūbāo) [noun] book bag
+-早餐 (zǎocān) [noun] breakfast
+-头发 (tóufa) [noun] hair

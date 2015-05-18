@@ -1,12 +1,17 @@
 # It Happened Over Lunch
 **Absolute Beginners** level
 ### Chinese Text
-一，二，三，四，五，六，七，八，九，十...
+甲：你手怎么了？<br />乙：哦，是血。
+甲：血？那么多血？
+乙：哦，别担心，这不是我的。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||一，二，三，四，五，六，七，八，九，十...<blockquote>yī ， èr ， sān ， sì ， wǔ ， liù ， qī ， bā ， jiǔ ， shí ...<br /></blockquote>|
+|甲|你手怎么了？<blockquote>nǐ shǒu zěnme le ？<br />What's wrong with your hands?</blockquote>|
+|乙|哦，是血。<blockquote>ò ， shì xiě 。<br />Oh, it's blood.</blockquote>|
+|甲|血？那么多血？<blockquote>xiě ？ nàme duō xiě ？<br />Blood? That much blood?</blockquote>|
+|乙|哦，别担心，这不是我的。<blockquote>ò ， bié dānxīn ， zhè bù shì wǒde 。<br />Oh, don't worry. This isn't mine.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

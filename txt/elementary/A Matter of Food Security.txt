@@ -2,23 +2,33 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：我们在太空里经历了太多的冒险。
-乙：是的船长，这是我此生最难忘的旅行！
-甲：噢，太刺激了。
+甲：你怎么又爬进冰箱里啦？
+乙：什么？猫又进冰箱里啦？
+甲：你怎么进去的？
+乙：打它，打它！
+甲：快，快出来！
 
 ### Pinyin and Translation
 
-甲: 我们在太空里经历了太多的冒险。
-    wǒmen zài tàikōng lǐ jīnglì le tài duō de màoxiǎn 。
-    We've experienced a lot of adventures in space.
+甲: 你怎么又爬进冰箱里啦？
+    nǐ zěnme yòu pájìn bīngxiāng lǐ la ？
+    How have you got into the fridge again?
 
-乙: 是的船长，这是我此生最难忘的旅行！
-    shì de chuánzhǎng ， zhè shì wǒ cǐshēng zuì nánwàng de lǚxíng ！
-    Yes Captain, this has been the most unforgettable journey of my life.
+乙: 什么？猫又进冰箱里啦？
+    shénme ？ māo yòu jìn bīngxiāng lǐ la ？
+    What? The cat's in the fridge again?
 
-甲: 噢，太刺激了。
-    o ， tài cìji le 。
-    Hmm... extremely stimulating.
+甲: 你怎么进去的？
+    nǐ zěnme jìnqù de ？
+    How did you get in?
+
+乙: 打它，打它！
+    dǎ tā ， dǎ tā ！
+    Beat it, beat it!
+
+甲: 快，快出来！
+    kuài ， kuài chūlai ！
+    Quick, get out!
 ### Vocab
 -怎么 (zěnme) [question] how
 -又 (yòu) [adverb] again

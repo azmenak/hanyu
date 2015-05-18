@@ -2,49 +2,35 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：哎，哥们儿，把空调打开。快！我朋友快热死了。
-乙：已经打开了。
-甲：那把温度再调低点儿。
-乙：已经是最低了。
-甲：哎，已经热死了。
-乙：啊？
+甲：Bunny, 你给你妈买礼物了吗？
+乙：为什么？
+甲：因为母亲节！
+乙：哦，我忘了！
 
 ### Pinyin and Translation
 
-甲: 哎，哥们儿，把空调打开。快！我朋友快热死了。
-    āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。
-    Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.
+甲: Bunny, 你给你妈买礼物了吗？
+    Bunny, nǐ gěi nǐ mā mǎi lǐwù le ma ？
+    Bunny, did you buy a present for your mom?
 
-乙: 已经打开了。
-    yǐjīng dǎkāi le 。
-    It's already on.
+乙: 为什么？
+    wèishénme ？
+    Why?
 
-甲: 那把温度再调低点儿。
-    nà bǎ wēndù zài tiáo dī diǎnr 。
-    Then turn the temperature down a bit more.
+甲: 因为母亲节！
+    yīnwèi mǔqīnjié ！
+    Because of Mother's Day!
 
-乙: 已经是最低了。
-    yǐjīng shì zuì dī le 。
-    It's already as low as it goes.
-
-甲: 哎，已经热死了。
-    āi ， yǐjīng rè sǐ le 。
-    Oh, he's already died.
-
-乙: 啊？
-    á ？
-    Huh?
+乙: 哦，我忘了！
+    o ， wǒ wàng le ！
+    Oh, I forgot!
 ### Vocab
--空调 (kōngtiáo) [noun] air conditioner
--暖气 (nuǎnqì) [noun] heater
--电扇 (diànshàn) [noun] electric fan
--电热毯 (diànrètǎn) [noun] electric blanket
--暖风机 (nuǎnfēngjī) [noun] electric heat fan
--冷 (lěng) [adjective] cold
--热 (rè) [adjective] hot
--冻 (dòng) [adjective] freezing
--烫 (tàng) [adjective] scalding
--打开 (dǎkāi) [verb] to turn on
--关上 (guānshàng) [verb] to turn off
--修好 (xiūhǎo) [verb] to repair
--插上 (chāshàng) [verb] to plug in
+-给 (gěi) [preposition] for
+-妈 (mā) [noun] mom
+-爸 (bà) [noun] dad
+-礼物 (lǐwù) [noun] gift
+-买 (mǎi) [verb] to buy
+-为什么 (wèishénme) [question] why
+-因为 (yīnwèi) [conjunction] because
+-母亲节 (mǔqīnjié) [noun] Mothers Day
+-忘 (wàng) [verb] to forget

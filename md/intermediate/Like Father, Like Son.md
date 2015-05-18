@@ -1,8 +1,7 @@
 # Like Father, Like Son
 **Intermediate** level
 ### Chinese Text
-甲：大夫，这是什么呀？
-乙：我跟您说过了，这个是您孩子头部的X光片。您看这个地方。您孩子的大脑呢，只有同龄孩子大脑的百分之七十那么大。
+甲：大夫，这是什么呀？<br />乙：我跟您说过了，这个是您孩子头部的X光片。您看这个地方。您孩子的大脑呢，只有同龄孩子大脑的百分之七十那么大。
 甲：啊？
 乙：这就说明呢，他天生就会非常的笨。
 甲：我，我不太懂。
@@ -20,25 +19,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|万能|wànnéng|all-powerful|adjective|
-|信徒|xìntú|disciple|noun|
-|盛宴|shèngyàn|feast|noun|
-|命令|mìnglìng|to order|verb|
-|血腥|xuèxīng|bloody|adjective|
-|妖怪|yāoguài|monster|noun|
-|魔鬼|móguǐ|demon|noun|
-|魔法|mófǎ|magic|noun|
-|怨气|yuànqì|resentment|noun|
-|招财|zhāocái|to bring fortune|verb|
-|普及|pǔjí|to educate|verb|
-|典型|diǎnxíng|typical|adjective|
-|撒旦|sàdàn|Satan|noun|
-|蛇精|shéjīng|snake spirit|noun|
-|狐狸精|húlíjīng|fox spirit|noun|
-|五角星|wǔjiǎoxīng|pentagram|noun|
-|万能胶|wànnéngjiāo|super glue|noun|
-|万能钥匙|wànnéngyàoshi|master key|noun|
-|邪恶之神|xiéèzhīshén|spirit of devil|noun|
-|正义之神|zhèngyìzhīshén|spirit of justice|noun|
-|黑暗之神|hēiànzhīshén|spirit of darkness|noun|
-|山羊之肝|shānyángzhīgān|liver of mountain goat|noun|
+|头部|tóubù|head|noun|
+|同龄|tónglíng|of the same age|noun|
+|天生|tiānshēng|natural-born|adverb|
+|活泼|huópō|lively|adjective|
+|礼貌|lǐmào|polite|adjective|
+|粗鲁|cūlǔ|rude|adjective|
+|体贴|tǐtiē|considerate|adjective|
+|三星|Sānxīng|Samsung|noun|
+|遗传性|yíchuánxìng|inherited|noun|
+|比较级|bǐjiàojí|comparatives|noun|

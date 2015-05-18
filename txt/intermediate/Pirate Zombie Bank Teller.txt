@@ -45,17 +45,14 @@
     zuì dī yào cún wǔbǎi kuài 。
     The minimum deposit is 500 dollars.
 ### Vocab
--博士 (bóshì) [noun] doctorate
--迷恋 (míliàn) [verb] to be infatuated with
--研究 (yánjiū) [verb] research
--发展 (fāzhǎn) [noun] development
--趋向 (qūxiàng) [noun] tendency
--回归分析 (huíguīfēnxi) [noun] regression analysis
--农业 (nóngyè) [noun] agriculture
--政治口号 (zhèngzhi kǒuhào) [noun] political slogan
--顺口 (shùnkǒu) [adjective] easy to say
--三农问题 (sānnóngwèntí) [noun] the rural problems
--一国两制 (yīguóliǎngzhì) [noun] one country two systems
--三个代表 (sān ge dàibiǎo) [noun] the Three Represents
--四个现代化 (sì ge xiàndàihuà) [noun] the Four Modernizations
--八荣八耻 (bāróngbāchǐ) [noun] the Eight Honors and Shames
+-存 (cún) [verb] to deposit
+-开户 (kāihù) [verb] to open an account
+-户头 (hùtóu) [noun] account
+-账户 (zhànghù) [noun] account
+-吊死 (diào) [verb] to hang to death
+-利息 (lìxi) [noun] interest
+-丰厚 (fēnghòu) [adjective] rich; generous
+-活过来 (huóguòlai) [verb] to survive
+-船长 (chuánzhǎng) [noun] captain
+-僵尸 (jiāngshī) [noun] zambie
+-海盗 (hǎidào) [noun] pirate

@@ -1,8 +1,7 @@
 # A New Home
 **Intermediate** level
 ### Chinese Text
-Andy：田森，你干吗去了？累成这样？
-田森：我买了一堆冰箱。
+Andy：田森，你干吗去了？累成这样？<br />田森：我买了一堆冰箱。
 Andy：你们家不有冰箱吗？你买冰箱干吗？
 田森：这不全球气候变暖嘛。我啊，养了一堆企鹅。
 Andy：这......
@@ -18,16 +17,11 @@ Andy：这......
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|催|cuī|to urge|verb|
-|辛苦|xīnkǔ|to take the trouble|verb|
-|客气|kèqi|polite|verb|
-|当年|dāngnián|in those days|phrase|
-|满汉全席|mǎnhànquánxí|sumptuous Imperial dining|noun|
-|皇宫|huánggōng|palace|noun|
-|砸|zá|to smash|verb|
-|老子|lǎozi|father-me (I)|slang|
-|姑奶奶|gūnǎinai|auntie-me (I)|slang|
-|老娘|lǎoniáng|mother-me (I)|slang|
-|妈的|māde|damn|slang|
-|他妈的|tāmāde|dammit|slang|
-|你妈的|nǐmāde|damn you|slang|
+|你干吗去了|nǐ gànmá qù le|what are you doing|phrase|
+|企鹅|qǐ'é|penguin|noun|
+|累成这样|lèi chéng zhèyàng|as tired as this|phrase|
+|饿成什么样|è chéng shénme yàng|as hungry as what|phrase|
+|堆|duī|a pile|measure word|
+|冰箱|bīngxiāng|refrigerator|noun|
+|全球气候变暖|quánqiú qìhòu biàn nuǎn|global warming|phrase|
+|养|yǎng|to raise|verb|

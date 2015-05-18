@@ -1,26 +1,23 @@
 # No, you cannot build a swimming pool in our backyard....
 **Elementary** level
 ### Chinese Text
-甲：你听的是什么呀？挺熟的。
-乙：好像是那个......
-甲：哦，我想起来了，是后街男孩对吧？
-乙：对对对对对，是那个有山羊胡的男孩唱的。
-甲：特别酷。
-乙：这个好像是他们的新专辑。
-甲：这个音乐特别流行。美国音乐，真棒。
-乙：够酷的。
+爸爸：一个字儿，没门儿！<br />儿子：什么？
+爸爸：我跟你妈妈说好了，完全不可能！
+儿子：那是两个字儿！
+爸爸：什么？
+儿子：没门儿！
+爸爸：反正，你明白我的意思！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你听的是什么呀？挺熟的。<blockquote>nǐ tīng de shì shénme ya ？ tǐng shóu de 。<br />What are you listening to? Sounds familiar.</blockquote>|
-|乙|好像是那个......<blockquote>hǎoxiàng shì nà ge ......<br />It seems to be....</blockquote>|
-|甲|哦，我想起来了，是后街男孩对吧？<blockquote>ò ， wǒ xiǎng qǐlai le ， shì hòujiēnánhái duì ba ？<br />Oh, I've got it. It's the Backstreet Boys, right?</blockquote>|
-|乙|对对对对对，是那个有山羊胡的男孩唱的。<blockquote>duì duì duì duì duì ， shì nàge yǒu shānyánghú de nánhái chàng de 。<br />Yeah! It's the one sung by the guy with the goatee.</blockquote>|
-|甲|特别酷。<blockquote>tèbié kù 。<br />It's really cool.</blockquote>|
-|乙|这个好像是他们的新专辑。<blockquote>zhège hǎoxiàng shì tāmen de xīn zhuānjí 。<br />I think this is from their new album.</blockquote>|
-|甲|这个音乐特别流行。美国音乐，真棒。<blockquote>zhège yīnyuè tèbié liúxíng 。 Měiguó yīnyuè ， zhēn bàng 。<br />This music is really popular. American music is awesome.</blockquote>|
-|乙|够酷的。<blockquote>gòu kù de 。<br />It's really cool.</blockquote>|
+|爸爸|一个字儿，没门儿！<blockquote>yī ge zìr ， méiménr ！<br />One word: no way!</blockquote>|
+|儿子|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|爸爸|我跟你妈妈说好了，完全不可能！<blockquote>wǒ gēn nǐ māma shuōhǎo le ， wánquán bù kěnéng ！<br />I've already talked it over with your mother. It's totally impossible.</blockquote>|
+|儿子|那是两个字儿！<blockquote>nà shì liǎng ge zìr ！<br />That's two characters!</blockquote>|
+|爸爸|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|儿子|没门儿！<blockquote>méiménr ！<br />No way!</blockquote>|
+|爸爸|反正，你明白我的意思！<blockquote>fǎnzhèng ， nǐ míngbai wǒ de yìsi ！<br />You know what I mean, and that's it!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

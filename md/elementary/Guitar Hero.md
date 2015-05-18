@@ -1,22 +1,17 @@
 # Guitar Hero
 **Elementary** level
 ### Chinese Text
-护士：脱裤子。
-病人：啊？
-护士：脱裤子!
-护士：脱裤子！
-病人：干什么呀？
-护士：你脱不脱？不脱裤子怎么打针!
+女：啊，你会弹吉他。你学了多长时间了?<br />男：我没学多长时间。。。 三个月吧。
+女：啊，弹得真不错。
+男：谢谢。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|护士|脱裤子。<blockquote>tuō kùzi 。<br />Take off your pants.</blockquote>|
-|病人|啊？<blockquote>ā ？<br />Huh?</blockquote>|
-|护士|脱裤子!<blockquote>tuō kùzi !<br />Take off your pants!</blockquote>|
-|护士|脱裤子！<blockquote>tuō kùzi ！<br />Take off your pants！</blockquote>|
-|病人|干什么呀？<blockquote>gàn shénme yā ？<br />What are you doing?</blockquote>|
-|护士|你脱不脱？不脱裤子怎么打针!<blockquote>nǐ tuō bù tuō ？ bù tuō kùzi zěnme dǎzhēn !<br />If you don't take off your pants, how can I give you a shot?</blockquote>|
+|女|啊，你会弹吉他。你学了多长时间了?<blockquote>a ， nǐ huì tán jíta 。 nǐ xué le duōcháng shíjiān le ?<br />Hey, you can play the guitar. How long have you been learning?</blockquote>|
+|男|我没学多长时间。。。 三个月吧。<blockquote>wǒ méi xué duōcháng shíjiān 。 。 。  sān ge yuè ba 。<br />I haven't studied long at all... about three months.</blockquote>|
+|女|啊，弹得真不错。<blockquote>a ， tán de zhēn bùcuò 。<br />Ah, you play pretty well.</blockquote>|
+|男|谢谢。<blockquote>xièxie 。<br />Thanks.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

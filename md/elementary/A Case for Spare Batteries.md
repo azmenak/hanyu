@@ -1,18 +1,17 @@
 # A Case for Spare Batteries
 **Elementary** level
 ### Chinese Text
-甲：呃，你的衣服。
-乙：怎么了？
-甲：你的衣服哪儿去了？
-乙：哦，真丢人。
+男的：手机没电了，怎么办？<br />女的：买新的！
+男的：买新的手机？你疯了吗？
+女的：电池！电池！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|呃，你的衣服。<blockquote>e ， nǐ de yīfu 。<br />Uh, your clothing....</blockquote>|
-|乙|怎么了？<blockquote>zěnme le ？<br />What's wrong?</blockquote>|
-|甲|你的衣服哪儿去了？<blockquote>nǐ de yīfu nǎr qù le ？<br />Where did your clothes go?</blockquote>|
-|乙|哦，真丢人。<blockquote>ò ， zhēn diūrén 。<br />Oh, how embarrassing.</blockquote>|
+|男的|手机没电了，怎么办？<blockquote>shǒujī méi diàn le ， zěnme bàn ？<br />The phone is out of power, what can we do?</blockquote>|
+|女的|买新的！<blockquote>mǎi xīn de ！<br />Buy a new one!</blockquote>|
+|男的|买新的手机？你疯了吗？<blockquote>mǎi xīn de shǒujī ？ nǐ fēng le ma ？<br />Buy a new cellphone? Are you crazy?</blockquote>|
+|女的|电池！电池！<blockquote>diànchí ！ diànchí ！<br />Battery, battery!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

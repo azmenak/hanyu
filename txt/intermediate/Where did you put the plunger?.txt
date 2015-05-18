@@ -2,63 +2,65 @@
 ## *intermediate* level
 
 ### Chinese Text
-太太：哦，侦探先生，你解开了这个案子的疑团？
-侦探：对，恐怕凶手就在我们中间。
-大爷：凶手？但是爱德华是自杀的啊！他摔坏的手表显示，他是9点24分死的。
-太太：而且9点半的时候，我们所有人都聚在这儿了呀！
-侦探：差得远了太太。爱德华被推下悬崖的时候，才8点24分。
-大爷：推下？我的天啊！
-侦探：通常情况下，没有人能在6分钟之内从海滩走到这儿。
-太太：就是就是。
-侦探：但那一天是夏令时的第一天，而且是你，是你太太，是你调的表！
+甲：哎，对了，那个皮搋子你放哪儿了？
+乙：皮搋子... 我想想啊，刚才掏完厕所... 然后... 放床上了。
+甲：啊？床上！
+乙：啊？
+甲：在卧室呢？
+乙：对啊。
+甲：我的天哪，你闻闻这个味儿，你看看这么大一滩，哎哟，又黄又黑....
+乙：没事，没事，我给你拿点儿手纸擦擦就行了，你看这，这也拿手纸擦一擦就行了。
+乙：哎，我给你倒点儿水，倒点儿水就好了，你看和开了就好了，颜色淡多了吧？
 
 ### Pinyin and Translation
 
-太太: 哦，侦探先生，你解开了这个案子的疑团？
-      ò ， zhēntàn xiānsheng ， nǐ jiěkāi le zhège ànzi de yítuán ？
-      Oh, Detective. Have you unraveled this mysterious case?
+甲: 哎，对了，那个皮搋子你放哪儿了？
+    ai ， duìle ， nàge píchuāizi nǐ fàng nǎr le ？
+    Hey, that's right. Where did you put the plunger?
 
-侦探: 对，恐怕凶手就在我们中间。
-      duì ， kǒngpà xiōngshǒu jiù zài wǒmen zhōngjiān 。
-      Yes, I'm afraid the killer is here among us.
+乙: 皮搋子... 我想想啊，刚才掏完厕所... 然后... 放床上了。
+    píchuāizi ... wǒ xiǎngxiang a ， gāngcái tāowán cèsuǒ ... ránhòu ... fàng  chuáng shàng le 。
+    The plunger... let me think. We'd just finished cleaning out the toilet... and... I put it on the bed.
 
-大爷: 凶手？但是爱德华是自杀的啊！他摔坏的手表显示，他是9点24分死的。
-      xiōngshǒu ？ dànshì Aìdéhuá shì zìshā de ā ！ tā shuāihuài de shǒubiǎo xiǎnshì ， tā shì jiǔ diǎn èrshísì fēn sǐ de 。
-      Killer? But Edward killed himself! His broken wristwatch showed that he died at 9:24.
+甲: 啊？床上！
+    a ？  chuáng shàng ！
+    What? On the bed?
 
-太太: 而且9点半的时候，我们所有人都聚在这儿了呀！
-      érqiě jiǔ diǎn bàn de shíhou ， wǒmen suǒyǒurén dōu jùzài zhèr le yā ！
-      And at 9:30 we were all gathered here!
+乙: 啊？
+    a ？
+    Huh?
 
-侦探: 差得远了太太。爱德华被推下悬崖的时候，才8点24分。
-      chādeyuǎn le tàitai 。 Aìdéhuá bèi tuīxià xuányá de shíhou ， cái bā diǎn èrshísì fēn 。
-      Not even close, Madame. It was only 8:24 when Edward was pushed off the cliff.
+甲: 在卧室呢？
+    zài wòshì ne ？
+    In the bedroom?
 
-大爷: 推下？我的天啊！
-      tuīxià ？ wǒ de tiānā ！
-      Pushed? My Lord!
+乙: 对啊。
+    duì a 。
+    That's right.
 
-侦探: 通常情况下，没有人能在6分钟之内从海滩走到这儿。
-      tōngcháng qíngkuàng xià ， méiyǒurén néng zài liù fēnzhōng zhīnèi cóng hǎitān zǒudào zhèr 。
-      In normal circumstances, no-one could walk here from the beach in six minutes.
+甲: 我的天哪，你闻闻这个味儿，你看看这么大一滩，哎哟，又黄又黑....
+    wǒ de tiān na ， nǐ wénwen zhège wèir ， nǐ kànkan zhème dà yī tān ， āiyo ， yòu huáng yòu hēi . . . .
+    Sweet heavens, will you smell this? Look at all this mess. It's all brown and black....
 
-太太: 就是就是。
-      jiùshì jiùshì 。
-      That's right.
+乙: 没事，没事，我给你拿点儿手纸擦擦就行了，你看这，这也拿手纸擦一擦就行了。
+    méishì ， méishì ， wǒ gěi nǐ nádiǎnr shǒuzhǐ cāca jiù xíng le ， nǐ kàn zhè ， zhè yě ná shǒuzhǐ cā yī cā jiù xíng le 。
+    No problem, no problem. I'll get some toilet paper and wipe it and it'll be fine. Look, all it takes is a bit of wiping down and it's fine.
 
-侦探: 但那一天是夏令时的第一天，而且是你，是你太太，是你调的表！
-      dàn nà yī tiān shì xiàlìngshí de dì yī tiān ， érqiě shì nǐ ， shì nǐ tàitai ， shì nǐ tiáo de biǎo ！
-      But that day was the first day of daylight savings time. And it was you, you Madame... it was you who adjusted the clocks.
+乙: 哎，我给你倒点儿水，倒点儿水就好了，你看和开了就好了，颜色淡多了吧？
+    ai ， wǒ gěi nǐ dào diǎnr shuǐ ， dào diǎnr shuǐ jiù hǎo le ， nǐ kàn huòkāi le jiù hǎo le ， yánsè dàn duō le ba ？
+    Hey, I'll just pour some water, pour a bit of water and then it'll be fine. Look, it's fine when you spread it out a bit. Isn't it much less noticeable?
 ### Vocab
--得逞 (déchěng) [verb] to get away with
--永远 (yǒngyuǎn) [noun] forever
--开罗 (Kāiluó) [noun] Cairo
--挖 (wā) [verb] to dig
--将军 (jiāngjūn) [noun] general
--太监 (tàijian) [noun] eunuch
--现实 (xiànshí) [adjective] realistic
--到底 (dàodǐ) [adverb] finally
--甚 (shèn) [adverb] very
--生意人 (shēngyìrén) [noun] business person
--插翅难逃 (chāchìnántáo) [phrase] to be unable to escape
--破铜烂铁 (pòtónglàntiě) [phrase] broken scraps of metal
+-滩 (tān) [measure word] expanse
+-淡 (dàn) [adjective] light; pale
+-掏 (tāo) [verb] to scoop
+-闻 (wén) [verb] to smell
+-擦 (cā) [verb] to rub
+-抹 (mǒ) [verb] to wipe
+-和开 (huòkāi) [verb] to spread out
+-倒水 (dào shuǐ) [verb] to pour water
+-拖地 (tuōdì) [verb] to mop the floor
+-拖把 (tuōbǎ) [noun] mop
+-皮搋子 (píchuāizi) [noun] plunger
+-清洁剂 (qīngjiéjì) [noun] cleaning detergent
+-漂白剂 (piǎobáijì) [noun] bleach
+-消毒液 (xiāodúyè) [noun] disinfectant

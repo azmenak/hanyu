@@ -1,8 +1,7 @@
 # Happy Father's Day....
 **Absolute Beginners** level
 ### Chinese Text
-朋友：你给你爸爸买礼物了吗？
-Bunny：为什么？
+朋友：你给你爸爸买礼物了吗？<br />Bunny：为什么？
 朋友：因为父亲节！
 Bunny：我买了一堆玫瑰花。
 朋友：玫瑰花...?
@@ -20,12 +19,11 @@ Bunny：我买了一堆玫瑰花。
 |----|----|----|----|
 |你|nǐ|you|pronoun|
 |我|wǒ|I|pronoun|
-|真|zhēn|really|adverb|
-|能吃|néngchī|gluttonous|adjective|
-|又|yòu|once again|adverb|
-|开玩笑|kāiwánxiào|you're kidding|phrase|
-|在|zài|currently|preposition|
-|减肥|jiǎnféi|to diet|verb|
-|还|hái|still|adverb|
-|米饭|mǐfàn|cooked rice|noun|
-|没了|méi le|to be gone|verb phrase|
+|妈妈|māma|mother|noun|
+|爸爸|bàba|father|noun|
+|买|mǎi|to buy|verb|
+|给|gěi|to give|verb|
+|礼物|lǐwù|gift|noun|
+|吗|ma|question particle|particle|
+|为什么|wèishénme|why|question|
+|因为|yīnwèi|because|conjunction|

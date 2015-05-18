@@ -6,12 +6,14 @@
 
 ### Pinyin and Translation
 ### Vocab
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] I
+-妈 (mā) [noun] ma
 -他 (tā) [pronoun] he
--她 (tā) [pronoun] she
--爱 (ài) [verb] to love
--可是 (kěshì) [conjunction] but
--喜欢 (xǐhuān) [verb] to like
--恨 (hèn) [verb] to hate
--讨厌 (tǎoyàn) [verb] to find disgusting
+-她 (tā) [pronoun] her
+-它 (tā) [pronoun] it
+-一 (yī) [pronoun] 1
+-吃 (chī) [verb] to eat
+-喝 (hē) [verb] to drink
+-说 (shuō) [verb] to say
+-中文 (zhōngwén) [noun] Chinese
+-打 (dǎ) [verb] to hit
+-串 (chuàn) [noun] kebab

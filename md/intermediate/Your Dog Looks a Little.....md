@@ -1,8 +1,7 @@
 # Your Dog Looks a Little....
 **Intermediate** level
 ### Chinese Text
-甲：哎，你这狗怎么看起来这么蔫儿啊？是不是病了？
-乙：不是病了，就是喝多了。
+甲：哎，你这狗怎么看起来这么蔫儿啊？是不是病了？<br />乙：不是病了，就是喝多了。
 甲：那你怎么给它喝酒呢？
 乙：咳，不给它喝酒它咬人啊。它平时每天晚上都得喝二两。
 甲：二两，二两啤酒？
@@ -24,12 +23,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|五音不全|wǔyīnbùquán|tone-deaf|phrase|
-|五线谱|wǔxiànpǔ|musical staff|noun|
-|大调|dàdiào|major tone|noun|
-|小调|xiǎodiào|minor tone|noun|
-|演奏|yǎnzòu|to perform|verb|
-|和弦|héxián|chord|noun|
-|曲子|qǔzi|song|noun|
-|开除|kāichú|to expel|verb|
-|反复|fǎnfù|repeatedly|adverb|
+|蔫儿|niānr|drowsy|adjective|
+|两|liǎng|50 grams|measurement|
+|看起来|kànqǐlái|to seem|note: to seem to be, to appear to be|
+|那得看|nà děi kàn|that depends on|phrase|
+|威士忌|wēishiji|whiskey|noun|
+|朗姆酒|lǎngmǔ jiǔ|rum|noun|
+|白酒|báijiǔ|Chinese white wine|noun|
+|人头马|réntóumǎ|Remy Martin|noun|
+|苏格兰威士忌|sūgelán wēishiji|scotch|noun|
+|龙舌兰|lóngshélán|tequila|noun|
+|伏特加|fútèjiā|vodka|noun|
+|金酒|jīnjiǔ|gin|noun|

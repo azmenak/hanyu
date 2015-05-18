@@ -2,49 +2,49 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：哎，你喂猫了吗？
-乙：没有，你喂猫了吗？
-甲：没有。你昨天喂了吗？
-乙：没有，你呢？
-甲：我也没喂。
-乙：怪不得他今天这么老实。
+甲：被告，请问你什么时候第一次听说王大明杀了他舅舅？
+乙：法官大人，我反对。这是传闻。
+乙：反对无效？
+甲：谢谢您法官大人。
+乙：但这只是一个传闻。法庭不能把传闻作为证据！
+乙：是法官大人。我向法庭道歉。
 
 ### Pinyin and Translation
 
-甲: 哎，你喂猫了吗？
-    ai ， nǐ wèi māo le ma ？
-    Hey, you feed the cat?
+甲: 被告，请问你什么时候第一次听说王大明杀了他舅舅？
+    bèigào ， qǐngwèn nǐ shénme shíhòu dì yī cì tīngshuō Wáng Dàmíng shā le tā jiùjiu ？
+    Defendent, when was the first time you heard that Wang Daming killed his uncle?
 
-乙: 没有，你喂猫了吗？
-    méiyǒu ， nǐ wèi māo le ma ？
-    No, you feed the cat?
+乙: 法官大人，我反对。这是传闻。
+    fǎguān dàren ， wǒ fǎnduì 。 zhè shì chuánwén 。
+    I object Your Honor. This is hearsay.
 
-甲: 没有。你昨天喂了吗？
-    méiyǒu 。 nǐ zuótiān wèi le ma ？
-    No. Did you feed it yesterday?
+乙: 反对无效？
+    fǎnduì wúxiào ？
+    Objection overruled?
 
-乙: 没有，你呢？
-    méiyǒu ， nǐ ne ？
-    No, you?
+甲: 谢谢您法官大人。
+    xièxiè nín fǎguān dàren 。
+    Thank you, Your Honor.
 
-甲: 我也没喂。
-    wǒ yě méi wèi 。
-    I didn't either.
+乙: 但这只是一个传闻。法庭不能把传闻作为证据！
+    dàn zhè zhǐ shì yī ge chuánwén 。 fǎtíng bù néng bǎ chuánwén zuòwéi zhèngju ！
+    But this is only hearsay. The court can't take hearsay as evidence!
 
-乙: 怪不得他今天这么老实。
-    guàibudé tā jīntiān zhème lǎoshi 。
-    No wonder he's being so good today.
+乙: 是法官大人。我向法庭道歉。
+    shì fǎguān dàren 。 wǒ xiàng fǎtíng dàoqiàn 。
+    Yes, Your Honor. I apologize to the court.
 ### Vocab
--芬达 (fēndá) [noun] Fanta
--刚 (gāng) [adverb] just recently
--瓶 (píng) [measure word] bottle
--吧 (ba) [particle] (suggestion)
--正好 (zhènghǎo) [adverb] as it happens
--就着 (jiùzhe) [verb] together with
--就 (jiù) [verb] along with
--披萨 (pīsà) [noun] pizza
--一起 (yīqǐ) [adverb] together
--原始人 (yuánshǐrén) [noun] caveman
--厨房 (chúfáng) [noun] kitchen
--可 (kě) [particle] (adds emphasis)
--可是 (kěshì) [conjunction] but
+-被告 (bèigào) [noun] defendant
+-听说 (tīngshuō) [verb] to hear it said
+-舅舅 (jiùjiu) [non] uncle
+-法官大人 (fǎguān dàren) [phrase] Your Honor
+-反对 (fǎnduì) [verb] to oppose
+-传闻 (chuánwén) [noun] rumor; hearsay
+-无效 (wúxiào) [adjective] to be ineffective
+-法庭 (fǎtíng) [noun] court of law
+-证据 (zhèngju) [noun] evidence
+-道歉 (dàoqiàn) [verb] to apologize
+-无聊 (wúliáo) [adjective] boring
+-无语 (wúyǔ) [adjective] speechless
+-无罪 (wúzuì) [adjective] innocent

@@ -1,33 +1,34 @@
 # The Trip Home
 **Elementary** level
 ### Chinese Text
-爸爸：一个字儿，没门儿！
-儿子：什么？
-爸爸：我跟你妈妈说好了，完全不可能！
-儿子：那是两个字儿！
-爸爸：什么？
-儿子：没门儿！
-爸爸：反正，你明白我的意思！
+甲：你怎么啦？<br />乙：我不舒服。
+甲：哪儿不舒服？
+乙：有点儿头晕，也有点儿恶心。
+甲：你吃了什么？
+乙：没吃什么，就吃了妈妈做的饭。
+甲：咳，你还没习惯呢。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|爸爸|一个字儿，没门儿！<blockquote>yī ge zìr ， méiménr ！<br />One word: no way!</blockquote>|
-|儿子|什么？<blockquote>shénme ？<br />What?</blockquote>|
-|爸爸|我跟你妈妈说好了，完全不可能！<blockquote>wǒ gēn nǐ māma shuōhǎo le ， wánquán bù kěnéng ！<br />I've already talked it over with your mother. It's totally impossible.</blockquote>|
-|儿子|那是两个字儿！<blockquote>nà shì liǎng ge zìr ！<br />That's two characters!</blockquote>|
-|爸爸|什么？<blockquote>shénme ？<br />What?</blockquote>|
-|儿子|没门儿！<blockquote>méiménr ！<br />No way!</blockquote>|
-|爸爸|反正，你明白我的意思！<blockquote>fǎnzhèng ， nǐ míngbai wǒ de yìsi ！<br />You know what I mean, and that's it!</blockquote>|
+|甲|你怎么啦？<blockquote>nǐ zěnme la ？<br />What's wrong with you?</blockquote>|
+|乙|我不舒服。<blockquote>wǒ bù shūfu 。<br />I'm feeling ill.</blockquote>|
+|甲|哪儿不舒服？<blockquote>nǎr bù shūfu ？<br />Where are you uncomfortable?</blockquote>|
+|乙|有点儿头晕，也有点儿恶心。<blockquote>yǒu diǎnr tóuyūn ， yě yǒu diǎnr ěxīn 。<br />I feel a bit dizzy and a little nauseous.</blockquote>|
+|甲|你吃了什么？<blockquote>nǐ chī le shénme ？<br />What did you eat?</blockquote>|
+|乙|没吃什么，就吃了妈妈做的饭。<blockquote>méi chī shénme ， jiù chī le māma zuò de fàn 。<br />I didn't eat anything, just the food mom made.</blockquote>|
+|甲|咳，你还没习惯呢。<blockquote>hai ， nǐ hái méi xíguàn ne 。<br />You're still not used to it?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|几|jǐ|how many|question|
-|看不出来|kàn bù chūlái|to be unable to tell|verb|
-|怎么|zěnme|how|question|
-|这么|zhème|so very|adverb|
-|糟糕|zāogāo|awful|adjective|
-|自己|zìji|oneself|noun|
-|觉得|juéde|to feel|verb|
-|好好|hǎohāo|very well|adverb|
-|差劲|chàjìn|poor; lacking|adjective|
+|不好|bù hǎo|not good|adjective|
+|不舒服|bù shūfu|uncomfortable|adjective|
+|头晕|tóuyūn|dizzy|adjective|
+|恶心|ěxīn|nauseous|adjective|
+|疼|téng|painful|adjective|
+|累|lèi|tired|adjective|
+|困|kùn|sleepy|adjective|
+|感觉|gǎnjué|to feel|verb|
+|习惯|xíguàn|to be accustomed|verb|
+|让|ràng|to make|verb|
+|粥|zhōu|rice gruel|noun|

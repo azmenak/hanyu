@@ -2,66 +2,131 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：张警官，还记得今天早上抓的那个要饭的吗？
-乙：上次让你查的那个？
-甲：对，但不可思议的是，档案局里没有他的任何档案。
-乙：每个人都有。
-甲：我知道，可是他确实没有。
-乙：你查了基因库吗？
-甲：我全都查过了。数据库、指纹、瞳孔扫描，没有任何结果。连档案局局长都找不到任何线索。
-乙：也就是说，这个人不存在了？
-甲：那我们现在该怎么处置他？
-乙：逮捕他。
+[第一部]
+合：八二三四，五六七八。耶！
+甲：太棒了这一次，太完美了！
+乙：我们跳得怎么样？
+甲：特别好，我觉得。
+乙：那我们真的能进决赛吗？
+甲：有小明帮忙，我们肯定能。
+乙：真的？
+甲：说不定还就把学校给救了！
+合：好，加油！
+[第二部］
+甲：老大，大事不妙了！
+乙：什么事儿啊？
+甲：就是林肯高中的那帮学生。
+乙：那帮不会跳舞的傻蛋？
+甲：这次看来他们真有点本事啊。
+乙：嗯？什么情况？
+甲：有一个中国留学生加入了他们的舞蹈队。
+乙：妈的！
+甲：如果这次他们赢得奖金，他们就可以还清贷款买回学校。
+乙：那我们就建不了赌场了。
+甲：咱们怎么办啊？
+乙：我们得采取点措施。
 
 ### Pinyin and Translation
 
-甲: 张警官，还记得今天早上抓的那个要饭的吗？
-    Zhāng Jǐngguān ， hái jìde jīntiān zǎoshang zhuā de nà ge yàofàn de ma ？
-    Officer Zhang, do you remember that beggar we caught this morning?
+[第一部]
+[ dì  yī bù ]
+[Part One]
 
-乙: 上次让你查的那个？
-    shàng cì ràng nǐ chá de nà ge ？
-    The one I asked you to investigate?
+合: 八二三四，五六七八。耶！
+    bā èr sān sì ， wǔ liù qī bā 。 ye ！
+    Eight, two, three, four, five, six, seven, eight. Yeah!
 
-甲: 对，但不可思议的是，档案局里没有他的任何档案。
-    duì ， dàn bù kě sīyì de shì ， dàngànjú lǐ méiyǒu tā de rènhé dàngàn 。
-    Yes, but what's unbelievable is that there are no files on him at the Agency.
+甲: 太棒了这一次，太完美了！
+    tài bàng le zhèyīcì ， tài wánměi le ！
+    Great work this time. Perfect!
 
-乙: 每个人都有。
-    měi ge rén dōu yǒu 。
-    There are files on everyone.
+乙: 我们跳得怎么样？
+    wǒmen tiào de zěnmeyàng ？
+    How did we do?
 
-甲: 我知道，可是他确实没有。
-    wǒ zhīdào ， kěshì tā quèshí méiyǒu 。
-    I know, but he doesn't have any.
+甲: 特别好，我觉得。
+    tèbié hǎo ， wǒ juéde 。
+    Very good, I think.
 
-乙: 你查了基因库吗？
-    nǐ chá le jīyīnkù ma ？
-    Did you check in the genetic database?
+乙: 那我们真的能进决赛吗？
+    nà wǒmen zhēnde néng jìn juésài ma ？
+    Can we really enter the tournament finals?
 
-甲: 我全都查过了。数据库、指纹、瞳孔扫描，没有任何结果。连档案局局长都找不到任何线索。
-    wǒ quán dōu cháguò le 。 shùjùkù 、 zhǐwén 、 tóngkǒng sǎomiáo ， méiyǒu rènhé jiéguǒ 。 lián dàngànjú júzhǎng dōu zhǎo bù dào rènhé xiànsuǒ 。
-    I checked all of them, including the database, fingerprint, and eye scans. But to no effect. Even the archive director couldn't find any traces of him.
+甲: 有小明帮忙，我们肯定能。
+    yǒu Xiǎo Míng bāngmáng ， wǒmen kěndìng néng 。
+    With Xiao Ming's help, of course we can.
 
-乙: 也就是说，这个人不存在了？
-    yě jiù shì shuō ， zhè ge rén bù cúnzài le ？
-    So what you're saying is, that this person doesn't exist?
+乙: 真的？
+    zhēnde ？
+    Really?
 
-甲: 那我们现在该怎么处置他？
-    nà wǒmen xiànzài gāi zěnme chǔzhì tā ？
-    Yeah, so now how should we deal with him?
+甲: 说不定还就把学校给救了！
+    shuōbudìng hái jiù bǎ xuéxiào gěi jiùle ！
+    Maybe we can even save our school!
 
-乙: 逮捕他。
-    dàibǔ tā 。
-    Arrest him.
+合: 好，加油！
+    hǎo ， jiāyóu ！
+    Go team!
+
+[第二部］
+[ dì  èr bù ］
+[Part Two]
+
+甲: 老大，大事不妙了！
+    lǎodà ， dàshì bù miào le ！
+    Boss, something terrible has happened!
+
+乙: 什么事儿啊？
+    shénme shìr ā ？
+    What's wrong?
+
+甲: 就是林肯高中的那帮学生。
+    jiùshì Línkěn gāozhōng de nà bāng xuésheng 。
+    Those students from Lincoln High.
+
+乙: 那帮不会跳舞的傻蛋？
+    nà bāng bùhuì tiàowǔ de shǎdàn ？
+    Those idiots who can't dance?
+
+甲: 这次看来他们真有点本事啊。
+    zhècì kànlái tāmen zhēn yǒudiǎn běnshì ā 。
+    It seems they've got some talent this time.
+
+乙: 嗯？什么情况？
+    en ？ shénme qíngkuàng ？
+    Huh? What's going on?
+
+甲: 有一个中国留学生加入了他们的舞蹈队。
+    yǒu yī ge Zhōngguó liúxuéshēng jiārù le tāmende wǔdǎoduì 。
+    An exchange student from China joined their dance team.
+
+乙: 妈的！
+    māde ！
+    Dammit!
+
+甲: 如果这次他们赢得奖金，他们就可以还清贷款买回学校。
+    rúguǒ zhècì tāmen yíngdé jiǎngjīn ， tāmen jiù kěyǐ huánqīng dàikuǎn mǎihuí xuéxiào 。
+    If they win the prize, they'll be able to pay off the loan and buy back the school.
+
+乙: 那我们就建不了赌场了。
+    nà wǒmen jiù jiàn bù liǎo dǔchǎng le 。
+    Then we can't build the casino.
+
+甲: 咱们怎么办啊？
+    zánmen zěnme bàn ā ？
+    What should we do?
+
+乙: 我们得采取点措施。
+    wǒmen děi cǎiqǔ diǎn cuòshī 。
+    We've got to take some measures.
 ### Vocab
--头部 (tóubù) [noun] head
--同龄 (tónglíng) [noun] of the same age
--天生 (tiānshēng) [adverb] natural-born
--活泼 (huópō) [adjective] lively
--礼貌 (lǐmào) [adjective] polite
--粗鲁 (cūlǔ) [adjective] rude
--体贴 (tǐtiē) [adjective] considerate
--三星 (Sānxīng) [noun] Samsung
--遗传性 (yíchuánxìng) [noun] inherited
--比较级 (bǐjiàojí) [noun] comparatives
+-决赛 (juésài) [noun] tournament finals
+-本事 (běnshì) [noun] ability
+-奖金 (jiǎngjīn) [noun] prize
+-还清 (huánqīng) [verb] to pay off
+-贷款 (dàikuǎn) [noun] loan
+-赌场 (dǔchǎng) [noun] casino
+-采取 (cǎiqǔ) [verb] to take
+-措施 (cuòshī) [noun] measure
+-铺垫 (pūdiàn) [noun] groundwork
+-留学生 (liúxuéshēng) [noun] exchange student

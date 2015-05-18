@@ -30,7 +30,10 @@ A: 是！是！你是汤姆克鲁斯！
     shì ！ shì ！ nǐ shì Tāngmǔ Kèlǔsī ！
     You are! You are! You are Tom Cruise!
 ### Vocab
--对不起 (duìbuqǐ) [phrase] sorry
--没关系 (méiguānxi) [phrase] don't worry about it
--真 (zhēn) [adverb] really
--真的 (zhēnde) [adverb] really
+-你 (nǐ) [pronoun] you
+-是 (shì) [verb] to be
+-不 (bù) [adverb] not, no
+-谁 (shéi) [question] who, whom
+-我 (wǒ) [pronoun] I, me
+-说 (shuō) [verb] to say, to speak
+-汤姆克鲁斯 (Tāngmǔ Kèlǔsī) [proper noun] Tom Cruise

@@ -2,28 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：你属什么？
-乙：我属鸡。
-甲：你属鸡？哈⋯⋯咕咕咕咕⋯⋯
-乙：嘿！嘿！别笑了！
+刘：你是中国人吗？
+秦：不，我是日本人。
+刘：你的汉语真好！
+秦：谢谢！
 
 ### Pinyin and Translation
 
-甲: 你属什么？
-    nǐ shǔ shénme ？
-    What sign are you?
+刘: 你是中国人吗？
+    nǐ shì Zhōngguórén ma ？
+    Are you Chinese?
 
-乙: 我属鸡。
-    wǒ shǔ jī 。
-    I'm a chicken.
+秦: 不，我是日本人。
+    bù ， wǒ shì Rìběnrén 。
+    No, I'm Japanese.
 
-甲: 你属鸡？哈⋯⋯咕咕咕咕⋯⋯
-    nǐ shǔ jī ？ hā ⋯⋯ gū gū gū gū ⋯⋯
-    You're a chicken. Ha! Cluck, cluck, cluck....
+刘: 你的汉语真好！
+    nǐ de hànyǔ zhēn hǎo ！
+    Your Chinese is really good!
 
-乙: 嘿！嘿！别笑了！
-    hēi ！ hēi ！ bié xiào le ！
-    Hey! Hey! Don't laugh!
+秦: 谢谢！
+    xièxiè ！
+    Thank You!
 ### Vocab
 -我 (wǒ) [pronoun] I
 -你 (nǐ) [pronoun] you

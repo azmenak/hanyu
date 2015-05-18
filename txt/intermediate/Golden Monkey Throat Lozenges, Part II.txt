@@ -2,73 +2,53 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：我知道你是我们出版社最喜欢J.K. 罗琳斯的作者。
-乙：哦，是的，那是当然！她是最棒的作者。你知道我去年去英国就是为了看她的老家。
-甲：所以我现在给你带来一个重磅的消息.
-乙：啊！难道她来北京了？
-甲：比这个更好。我们出版社已经买下了中国内地的第八集版权。
-乙：哦，第八集...呃...不是只写到第七集就结束了吗？
-甲：是的，所以才把第八集交给你来写。
-乙：可是...大反派伏地魔已经死了。故事都结束了。
-甲：我不管你怎么写，你爱怎么写怎么写。
-乙：那到底怎么写？
-甲：你不是作家嘛！你的创意哪儿去了？!
-乙：呃...
-甲：你可以让哈利和他的朋友去反腐败啊，反邪教，或者是去反恐怖主义，这都可以。但是记住一定要尽快写，下两个月还有第九集，第十集等着你写呢。
+甲：哇！你瘦了好多啊！是怎么做到的？
+乙：你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！
+丙：啊?!那不是感冒药吗?
+乙：没关系。
+丙：那不是有很严重的副作用吗？
+乙：没关系。
+丙：那不是违禁品吗？
+乙：没关系。要减肥，就用金猴子嗓宝！订购热线：
+丁：800-820-8820
 
 ### Pinyin and Translation
 
-甲: 我知道你是我们出版社最喜欢J.K. 罗琳斯的作者。
-    wǒ zhīdào nǐ shì wǒmen chūbǎnshè zuì xǐhuān J.K. luólínsī de zuòzhě 。
-    I know you're the writer in our publishing house that is fondest of J.K. Rowling.
+甲: 哇！你瘦了好多啊！是怎么做到的？
+    wa ！ nǐ shòu le hǎo duō ā ！ shì zěnme zuò dào de ？
+    Whoa! You've lost so much weight. How did you do it?
 
-乙: 哦，是的，那是当然！她是最棒的作者。你知道我去年去英国就是为了看她的老家。
-    ò ， shì de ， nà shì dāngrán ！ tā shì zuì bàng de zuòzhě 。 nǐ zhīdào wǒ qùnián qù Yīngguó jiùshì wèile kàn tā de lǎojiā 。
-    Oh yes, of course! She's an incredible writer. You know I went to England last year just to see where she lives.
+乙: 你想减肥吗？你想变成真正的约翰·库萨克吗？请用世界著名的金猴子嗓宝！
+    nǐ xiǎng jiǎnféi ma ？ nǐ xiǎng biànchéng zhēnzhèng de yuēhàn kùsàkè ma ？ qǐng yòng shìjiè zhùmíng de jīnhóuzi sǎngbǎo ！
+    Want to lose weight? Want to become a real John Cusack? Please use the world-famous Golden Monkey Throat Lozenges.
 
-甲: 所以我现在给你带来一个重磅的消息.
-    suǒyǐ wǒ xiànzài gěi nǐ dàilái yī ge zhòngbàng de xiāoxi .
-    That's why I've got some really exciting news for you.
+丙: 啊?!那不是感冒药吗?
+    ā ?! nà bù shì gǎnmàoyào ma ?
+    Huh? Isn't that cold medicine?
 
-乙: 啊！难道她来北京了？
-    ā ！ nándào tā lái Běijīng le ？
-    What? She's come to Beijing?
+乙: 没关系。
+    méiguānxi 。
+    That doesn't matter.
 
-甲: 比这个更好。我们出版社已经买下了中国内地的第八集版权。
-    bǐ zhège gèng hǎo 。 wǒmen chūbǎnshè yǐjīng mǎi xià le zhōngguó nèidì de dì bā jí bǎnquán 。
-    It's even better than that. Our publishing house has just bought the mainland China right to her eighth book.
+丙: 那不是有很严重的副作用吗？
+    nà bù shì yǒu hěn yánzhòng de fùzuòyòng ma ？
+    Doesn't that have serious side effects?
 
-乙: 哦，第八集...呃...不是只写到第七集就结束了吗？
-    ò ， dì bā jí ... e ... bù shì zhǐ xiě dào dì qī jí jiù jiéshù le ma ？
-    Umm... the 8th book?  Didn't she only write seven books and then stop?
+乙: 没关系。
+    méi guānxi 。
+    That doesn't matter.
 
-甲: 是的，所以才把第八集交给你来写。
-    shì de ， suǒyǐ cái bǎ dì bā jí jiāogěi nǐ lái xiě 。
-    Yes, and that's why we're giving you the 8th book to write.
+丙: 那不是违禁品吗？
+    nà bù shì wéijīnpǐn ma ？
+    Isn't that banned?
 
-乙: 可是...大反派伏地魔已经死了。故事都结束了。
-    kěshì ... dà fǎnpài fúdìmó yǐjīng sǐ le 。 gùshi dōu jiéshù le 。
-    But... the bad guy Voldemort has already died. The story's totally over.
+乙: 没关系。要减肥，就用金猴子嗓宝！订购热线：
+    méi guānxi 。 yào jiǎnféi ， jiù yòng jīnhóuzi sǎngbǎo ！ dìnggòu rèxiàn ：
+    That doesn't matter. If you want to lose weight, use Golden Monkey Throat Lozenges! The ordering hotline:
 
-甲: 我不管你怎么写，你爱怎么写怎么写。
-    wǒ bùguǎn nǐ zěnme xiě ， nǐ ài zěnme xiě zěnme xiě 。
-    I don't care how you do it. Write whatever you want.
-
-乙: 那到底怎么写？
-    nà dàodǐ zěnme xiě ？
-    So then what can I write?
-
-甲: 你不是作家嘛！你的创意哪儿去了？!
-    nǐ bù shì zuòjiā ma ！ nǐ de chuàngyì nǎr qù le ？ !
-    Aren't you a writer! Where's your creativity?!
-
-乙: 呃...
-    e ...
-    Uh....
-
-甲: 你可以让哈利和他的朋友去反腐败啊，反邪教，或者是去反恐怖主义，这都可以。但是记住一定要尽快写，下两个月还有第九集，第十集等着你写呢。
-    nǐ kěyǐ ràng hālì hé tā de péngyou qù fǎn fǔbài ā ， fǎn xiéjiào ， huòzhě shì qù fǎn kǒngbùzhǔyì ， zhè dōu kěyǐ 。 dànshì jìzhu yīdìng yào jǐnkuài xiě ， xià liǎng ge yuè hái yǒu dì jiǔ jí ， dì shí jí děng zhe nǐ xiě ne 。
-    Make Harry and his friends fight corruption, evil cults or terror. I don't care. Just remember: you've got to write quickly because books nine and ten are waiting in the wings.
+丁: 800-820-8820
+    bālínglíng bāèrlíng bābāèrlíng
+    800-820-8820
 ### Vocab
 -减肥 (jiǎnféi) [verb] to lose weight
 -约翰·库萨克 (yuēhàn kùsàkè) [person] John Cusack

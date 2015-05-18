@@ -2,32 +2,32 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-刘：你是中国人吗？
-秦：不，我是日本人。
-刘：你的汉语真好！
-秦：谢谢！
+甲：你属什么？
+乙：我属鸡。
+甲：你属鸡？哈⋯⋯咕咕咕咕⋯⋯
+乙：嘿！嘿！别笑了！
 
 ### Pinyin and Translation
 
-刘: 你是中国人吗？
-    nǐ shì Zhōngguórén ma ？
-    Are you Chinese?
+甲: 你属什么？
+    nǐ shǔ shénme ？
+    What sign are you?
 
-秦: 不，我是日本人。
-    bù ， wǒ shì Rìběnrén 。
-    No, I'm Japanese.
+乙: 我属鸡。
+    wǒ shǔ jī 。
+    I'm a chicken.
 
-刘: 你的汉语真好！
-    nǐ de hànyǔ zhēn hǎo ！
-    Your Chinese is really good!
+甲: 你属鸡？哈⋯⋯咕咕咕咕⋯⋯
+    nǐ shǔ jī ？ hā ⋯⋯ gū gū gū gū ⋯⋯
+    You're a chicken. Ha! Cluck, cluck, cluck....
 
-秦: 谢谢！
-    xièxiè ！
-    Thank You!
+乙: 嘿！嘿！别笑了！
+    hēi ！ hēi ！ bié xiào le ！
+    Hey! Hey! Don't laugh!
 ### Vocab
--月亮 (yuèliang) [noun] moon
--缺点 (quēdiǎn) [noun] fault
--觉得 (juéde) [verb] to feel
--学习 (xuéxí) [verb] to study
--虐待 (nuèdài) [verb] to abuse
--省略 (shěngluè) [verb] to be missing
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I
+-属 (shǔ) [verb] to belong to
+-什么 (shénme) [question] what
+-鸡 (jī) [noun] chicken
+-别笑了 (bié xiào le) [phrase] stop laughing

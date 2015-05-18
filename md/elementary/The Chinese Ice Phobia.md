@@ -1,16 +1,19 @@
 # The Chinese Ice Phobia
 **Elementary** level
 ### Chinese Text
-甲：咱们的猫不再爱你了。它给你写的信。
-乙：咱们的猫会写字儿？
-甲：对，我一直在训练它。
+甲：小姐，可以给我一支甜筒吗？<br />乙：嗯，要什么口味的？
+甲：嗯，有巧克力味的吗？
+乙：嗯，啊？
+甲：啊，我一想到巧克力甜筒就会觉得热，不好意思。难道您不觉得我的身材很好吗？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|咱们的猫不再爱你了。它给你写的信。<blockquote>zánmen de māo bù zài ài nǐ le 。 tā gěi nǐ xiě de xìn 。<br />Our cat no longer loves you. This is the letter it wrote you.</blockquote>|
-|乙|咱们的猫会写字儿？<blockquote>zánmen de māo huìxiě zìr ？<br />Our cat can write?</blockquote>|
-|甲|对，我一直在训练它。<blockquote>duì ， wǒ yīzhí zài xùnliàn tā 。<br />Yes. I've been training him for a while.</blockquote>|
+|甲|小姐，可以给我一支甜筒吗？<blockquote>xiǎojie ， kěyǐ gěi wǒ yī zhī tiántǒng ma ？<br />Miss, can you give me an ice cream cone?</blockquote>|
+|乙|嗯，要什么口味的？<blockquote>en ， yào shénme kǒuwèi de ？<br />Oh, what flavor do you want?</blockquote>|
+|甲|嗯，有巧克力味的吗？<blockquote>en ， yǒu qiǎokèlì wèi de ma ？<br />Oh, do you have chocolate?</blockquote>|
+|乙|嗯，啊？<blockquote>en ， ā ？<br />Oh, huh?</blockquote>|
+|甲|啊，我一想到巧克力甜筒就会觉得热，不好意思。难道您不觉得我的身材很好吗？<blockquote>ā ， wǒ yī xiǎngdào qiǎokèlì tiántǒng jiù huì juéde rè ， bùhǎoyìsi 。 nándào nín bù juéde wǒ de shēncái hěn hǎo ma ？<br />I'm sorry... whenever I think of chocolate ice cream cones I get all hot. Don't you think my body is sexy?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

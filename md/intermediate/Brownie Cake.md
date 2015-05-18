@@ -1,36 +1,52 @@
 # Brownie Cake
 **Intermediate** level
 ### Chinese Text
-男：现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。
-女：但是亲爱的，我们真的要蹚过这条河吗？
-男：如果我是个银行家，当然我们就有钱坐摆渡过河了。但是嫁鸡随鸡嫁狗随狗，你嫁的是个农民。你爸爸说过四百美金不够坚持到加州。现在看来他可能确实有点儿对了。
-孩子：妈妈，我难受。
-女：哦，我的上帝啊。蒂米拉痢疾了。
-男：谁没拉痢疾？
+高：Echo，这个布朗尼是为9527精心准备的，毒药我已经放好了。<br />Echo：什么？
+高：足够毒死一头非洲象，看她以后怎么影响我们录音。
+Echo：你不能....
+9527：嗨，高，Echo，我来了。
+高：说曹操曹操到。
+Echo：哎，9527，你来了......
+高：9527，瞧我给你准备了什么。
+9527：哦，布朗尼蛋糕....
+Echo：不，录音之前不能吃东西！
+9527：我....
+高：Echo！
+Echo：我不知道你为什么给9527准备这个。
+高：这是为了我们好，也为了她好。你的痛苦，我的痛苦和她的痛苦很快就会过去。
+9527：我的痛苦？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。<blockquote>xiànzài huíxiǎng qǐlái ， dāngchū zài sānyuè chūfā díquè shì yī ge cuòwu 。 dànshì dāngshí wǒmen dōu pòbùjídài de xiǎng qù Jiāzhōu 。 bùguǎn  zěnmeyàng ， zuì zhòngyào de shì wǒmen xiànzài hái yǒu liǎng tóu niú áoguò le dōngtiān 。<br />Thinking back on it now, it seems clear that starting our in March was a mistake. But at the time we were all eager to go to California. And regardless of this all, the most important thing is that we still have two oxen that survived the winter.</blockquote>|
-|女|但是亲爱的，我们真的要蹚过这条河吗？<blockquote>dànshì qīn_APOS_àide ， wǒmen zhēnde yào tāngguò zhè tiáo hé ma ？<br />But darling, do we really need to ford this river?</blockquote>|
-|男|如果我是个银行家，当然我们就有钱坐摆渡过河了。但是嫁鸡随鸡嫁狗随狗，你嫁的是个农民。你爸爸说过四百美金不够坚持到加州。现在看来他可能确实有点儿对了。<blockquote>rúguǒ wǒ shì ge yínhángjiā ， dāngrán wǒmen jiù yǒu qián zuò bǎidù guòhé le 。 dànshì jiàjīsuíjī jiàgǒusuígǒu ， nǐ jià de shì ge nóngmín 。 nǐ bàba shuō guò sìbǎi měijīn bù gòu jiānchí dào Jiāzhōu 。 xiànzài kànlái tā kěnéng quèshí yǒudiǎnr duì le 。<br />If I were a banker, then of course we'd have the money to take a ferry. But you get what you married and you married a farmer, honey. Your father said that four hundred dollars wasn't enough to last us to California. And right now it looks like he might just be right.</blockquote>|
-|孩子|妈妈，我难受。<blockquote>māma ， wǒ nánshòu 。<br />Mother, I'm feeling ill.</blockquote>|
-|女|哦，我的上帝啊。蒂米拉痢疾了。<blockquote>ò ， wǒ de shàngdì a 。 Dìmǐ lā lìji le 。<br />Oh, my God. Timmy has dysentery.</blockquote>|
-|男|谁没拉痢疾？<blockquote>shéi méi lā lìji ？<br />Who doesn't?</blockquote>|
+|高|Echo，这个布朗尼是为9527精心准备的，毒药我已经放好了。<blockquote>Echo ， zhège bùlǎngní shì wèi jiǔwǔèrqī jīngxīn zhǔnbèi de ， dúyào wǒ yǐjīng fànghǎo le 。<br />Echo, I've prepared this brownie specially for 9527. The poison is already set to go.</blockquote>|
+|Echo|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|高|足够毒死一头非洲象，看她以后怎么影响我们录音。<blockquote>zúgòu dúsǐ yī tóu fēizhōuxiàng ， kàn tā yǐhòu zěnme yǐngxiǎng wǒmen lùyīn 。<br />There's enough to kill an African elephant. Let's see if how she can detract from our recording sessions after this!</blockquote>|
+|Echo|你不能....<blockquote>nǐ bù néng ....<br />You can't....</blockquote>|
+|9527|嗨，高，Echo，我来了。<blockquote>hài ， Gāo ， Echo ， wǒ lái le 。<br />Hey Gao, Echo. I'm here.</blockquote>|
+|高|说曹操曹操到。<blockquote>shuō Cáo Cāo Cáo Cāo dào 。<br />Speak of the devil and look who's here.</blockquote>|
+|Echo|哎，9527，你来了......<blockquote>ai ， jiǔwǔèrqī ， nǐ lái le . . . . . .<br />Hey 9527. You're here....</blockquote>|
+|高|9527，瞧我给你准备了什么。<blockquote>jiǔwǔèrqī ， qiáo wǒ gěi nǐ zhǔnbèi le shénme .<br />9527, look at what I prepared for you.</blockquote>|
+|9527|哦，布朗尼蛋糕....<blockquote>ò ， Bùlǎngní dàngāo ....<br />Oh, it's a brownie-cake.</blockquote>|
+|Echo|不，录音之前不能吃东西！<blockquote>bù ， lùyīn zhīqián bù néng chī  dōngxi ！<br />No, you can't eat before recording!</blockquote>|
+|9527|我....<blockquote>wǒ ....<br />I....</blockquote>|
+|高|Echo！<blockquote>Echo ！<br />Echo!</blockquote>|
+|Echo|我不知道你为什么给9527准备这个。<blockquote>wǒ bù zhīdào nǐ wèishénme gěi jiǔwǔèrqī zhǔnbèi zhège 。<br />I don't know why you prepared this for 9527.</blockquote>|
+|高|这是为了我们好，也为了她好。你的痛苦，我的痛苦和她的痛苦很快就会过去。<blockquote>zhè shì wèile wǒmen hǎo ， yě wèile tā hǎo 。 nǐ de tòngkǔ ， wǒ de tòngkǔ hé tā de tòngkǔ hěn kuài jiù huì guòqù 。<br />This is for our good, as well as hers. Your pain, my pain and her pain will be over very soon.</blockquote>|
+|9527|我的痛苦？<blockquote>wǒ de tòngkǔ ?<br />My pain?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|蹭|cèng|to take advantage of|verb|
-|播客|bōkè|podcast|noun|
-|享受|xiǎngshòu|to enjoy|verb|
-|电锯|diànjù|chainsaw|noun|
-|借口|jièkǒu|to make an excuse|noun|
-|按钮|ànniǔ|button|noun|
-|眼瞎|yǎnxiā|blind|adjective|
-|卖萌|màiméng|to play cute|verb|
-|实话|shíhuà|the truth|noun|
-|小命|xiǎo mìng|worthless life|noun|
-|铁公鸡|tiěgōngjī|a real tight wad|noun|
-|一样儿|yīyàngr|one kind of|other|
-|不见棺材不落泪|bùjiànguāncai bùluòlèi|not to shed tears until one sees the coffin|phrase|
-|天下没有免费的午餐|tiānxià méiyǒu miǎnfèi de wǔcān|there ain't no such thing as a free lunch|phrase|
+|瞧|qiáo|to look at|verb|
+|头|tóu|(measure word)|measure word|
+|精心|jīngxīn|meticulously|adverb|
+|准备|zhǔnbèi|to prepare|verb|
+|毒药|dúyào|poison|noun|
+|足够|zúgòu|enough|adjective|
+|足以|zúyǐ|enough|adverb|
+|痛苦|tòngkǔ|pain|noun|
+|用心|yòngxīn|cannily|adverb|
+|安排|ānpái|to arrange|verb|
+|布朗尼|bùlǎngní|brownie|noun|
+|非洲象|fēizhōuxiàng|African elephant|noun|
+|说曹操曹操到|shuō Cáo Cāo Cáo Cāo dào|speak of the devil|phrase|

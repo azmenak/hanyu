@@ -1,8 +1,7 @@
 # Feline Aggression
 **Elementary** level
 ### Chinese Text
-咪咪.... 咪咪....
-过来.... 过来....
+咪咪.... 咪咪....<br />过来.... 过来....
 .... 过不过来？
 啊!
 抓我!
@@ -20,15 +19,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|警官|jǐngguān|police chief|noun|
-|警卫|jǐngwèi|police officers|noun|
-|歹徒|dǎitú|robbers|noun|
-|劫持|jiéchí|to seize|verb|
-|人质|rénzhì|hostages|noun|
-|露台|lùtái|rooftop|noun|
-|封锁|fēngsuǒ|to seal off|verb|
-|把守|bǎshǒu|to guard|verb|
-|提出|tíchū|to raise|verb|
-|赎金|shújīn|ransom|noun|
-|斥巨资|chì jùzī|to invest a large sum|verb|
-|释放|shìfàng|to release|verb|
+|猫|māo|cat|noun|
+|小猫|xiǎomāo|kitten|noun|
+|咪咪|mīmī|kitty|name|
+|坏蛋|huàidàn|bad person|noun|
+|过来|guòlai|to come over|verb|
+|过不过来|guò bu guòlai|to come over or not|verb phrase|
+|啊|à|ouch!|expression|
+|抓|zhuā|to scratch|verb|

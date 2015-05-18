@@ -1,8 +1,7 @@
 # Market for Lehmans
 **Intermediate** level
 ### Chinese Text
-甲：嘿，哥们儿。你知道刚才谁打电话吗？
-乙：谁呀？我正忙着呢。一会儿再说。
+甲：嘿，哥们儿。你知道刚才谁打电话吗？<br />乙：谁呀？我正忙着呢。一会儿再说。
 甲：那我告儿你，就那个雷曼兄弟，那家风险投资银行。
 乙：啊，就是那快破产的那个。
 甲：对，就是它。你知道他们说什么呀？
@@ -32,14 +31,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|阿姨|āyí|maid|noun|
-|感兴趣|gǎn xìngqu|to feel interested|verb phrase|
-|眼光|yǎnguāng|vision, perception|noun|
-|家务|jiāwù|household duties|noun|
-|顺便|shùnbiàn|in passing, casually|adverb|
-|绝对|juéduì|absolutely|adverb|
-|拿手|náshǒu|expert|adjective|
-|月薪|yuèxīn|monthly salary|noun|
-|老资格|lǎozīgé|experienced worker|noun|
-|吃苦|chīkǔ|to bear hardships|verb phrase|
-|保姆|bǎomǔ|babysitter|noun|
+|哥们|gēmenr|friend|noun|
+|雷曼兄弟|léimàn xiōngdì|Lehman Brothers|noun|
+|风险|fēngxiǎn|risk|noun|
+|投资银行|tóuzī yínháng|investment bank|noun|
+|破产|pòchǎn|to go bankrupt|verb|
+|期货|qīhuò|futures|noun|
+|次贷|cìdài|subprime loan|noun|
+|次贷款|cìdài kuǎn|subprime loan|noun|
+|价值|jiàzhí|value|noun|
+|投资|tóuzī|to invest|verb|
+|疯了|fēng le|to go crazy|verb|
+|评估|pínggū|appraisal|noun|

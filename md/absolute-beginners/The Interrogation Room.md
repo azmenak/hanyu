@@ -1,8 +1,7 @@
 # The Interrogation Room
 **Absolute Beginners** level
 ### Chinese Text
-甲：一，二....
-乙：停，我说。我告诉你，我都告诉你！
+甲：一，二....<br />乙：停，我说。我告诉你，我都告诉你！
 丙：别，别告诉他！
 甲：你看，他懂事儿。
 
@@ -16,15 +15,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|咱们|zánmen|us|pronoun|
-|朋友|péngyou|friend|noun|
-|我们|wǒmen|we|pronoun|
-|去|qù|to go|verb|
-|喝|hē|to drink|verb|
-|咖啡|kāfēi|coffee|noun|
-|咖啡厅|kāfēitīng|coffee shop|noun|
-|北京|Běijīng|Beijing|noun|
-|对|duì|that's right|phrase|
-|怎么样|zěnmeyàng|what's up|phrase|
-|嘿|hei|hey|other|
-|宝贝儿|bǎobèir|baby|noun|
+|一|yī|one|number|
+|二|èr|two|number|
+|三|sān|three|number|
+|停|tíng|to stop|verb|
+|说|shuō|to speak|verb|
+|告诉|gàosu|to tell|verb|
+|都|dōu|all|adverb|
+|别|bié|don't|adverb|
+|懂事儿|dǒngshìr|to understand things|phrase|
+|请|qǐng|please|phrase|
+|中文|zhōngwén|Chinese|noun|
+|英文|yīngwén|English|noun|

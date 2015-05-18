@@ -2,48 +2,33 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：服务员，我要点一个水煮牛肉。
-乙：啊？
-甲：水煮牛肉，那个辣的，有牛肉的那个。
-乙：鱼香肉丝？
-甲：不不不不不，水煮牛肉片，菜单上28号。
-乙：哎，28号不是鱼香肉丝，那是水煮牛肉。
-甲：是，我要的就是这个。
-乙：我不清楚。
+甲：我不喜欢你们这个T 恤衫上的商标，有没有没有的？
+乙：哎哟，他们这儿就这一种。
+丙：哎，您看，我们这儿还有另一种。
+甲：这个好像就是logo小了一点儿，也不是完全没有啊。
+丙：那就没有了。
 
 ### Pinyin and Translation
 
-甲: 服务员，我要点一个水煮牛肉。
-    fúwùyuán ， wǒ yào diǎn yī ge shuǐzhǔniúròu 。
-    Waiter, I'd like a beef in chili broth.
+甲: 我不喜欢你们这个T 恤衫上的商标，有没有没有的？
+    wǒ bù xǐhuān nǐmen zhège T xùshān shàng de shāngbiāo ， yǒu méiyǒu méiyǒu de ？
+    I don't like the logo on this t-shirt of yours. Don't you have one without any?
 
-乙: 啊？
-    a ？
-    Huh?
+乙: 哎哟，他们这儿就这一种。
+    āiyo ， tāmen zhèr jiù zhè yī zhǒng 。
+    Goodness gracious, they only have this one type.
 
-甲: 水煮牛肉，那个辣的，有牛肉的那个。
-    shuǐzhǔniúròu ， nàge là de ， yǒu niúròu de nàge 。
-    Beef in chili broth. It's the hot one, the one with beef.
+丙: 哎，您看，我们这儿还有另一种。
+    āi ， nín kàn ， wǒmen zhèr hái yǒu lìng yī zhǒng 。
+    Hey, look, we also have this other type here.
 
-乙: 鱼香肉丝？
-    yúxiāngròusī ？
-    Fish-flavoured pork slices?
+甲: 这个好像就是logo小了一点儿，也不是完全没有啊。
+    zhège hǎoxiàng jiùshì logo xiǎo le yīdiǎnr ， yě bù shì wánquán méiyǒu a 。
+    This just has a slightly smaller logo, it isn't completely without one.
 
-甲: 不不不不不，水煮牛肉片，菜单上28号。
-    bù bù bù bù bù ， shuǐzhǔniúròupiàn ， càidān shàng èrshíbā hào 。
-    No! The beef in chili broth. Number 28 on the menu.
-
-乙: 哎，28号不是鱼香肉丝，那是水煮牛肉。
-    ai ， èrshíbā hào bù shì yúxiāngròusī ， nà shì shuǐzhǔniúròu 。
-    Hey. Number 28 isn't fish-flavored pork slices. It's beef in chili broth.
-
-甲: 是，我要的就是这个。
-    shì ， wǒ yào de jiùshì zhège 。
-    Yes. This is exactly the one I want.
-
-乙: 我不清楚。
-    wǒ bù  qīngchu 。
-    I don't get it.
+丙: 那就没有了。
+    nà jiù méiyǒu le 。
+    Then we don't have any.
 ### Vocab
 -T 恤衫 (T xùshān) [noun] t-shirt
 -商标 (shāngbiāo) [noun] logo

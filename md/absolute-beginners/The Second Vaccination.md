@@ -1,27 +1,32 @@
 # The Second Vaccination
 **Absolute Beginners** level
 ### Chinese Text
-甲：猫又上你的椅子了。
-乙：Squeak，下来，我得工作。
-甲：别动它，它很舒服。
+甲：这是第一次吗？<br />乙：不，第二次。
+甲：这个疫苗需要打三次。
+乙：我需要回来吗？
+甲：六个月以后，再来一次。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|猫又上你的椅子了。<blockquote>māo yòu shàng nǐ de yǐzi le 。<br />The cat's in your chair again.</blockquote>|
-|乙|Squeak，下来，我得工作。<blockquote>Squeak ， xiàlai ， wǒ děi gōngzuò 。<br />Get down Squeak. I need to work.</blockquote>|
-|甲|别动它，它很舒服。<blockquote>bié dòng tā ， tā hěn shūfu 。<br />Don't move him. He's comfortable.</blockquote>|
+|甲|这是第一次吗？<blockquote>zhè shì dì yī cì ma ？<br />This is your first time?</blockquote>|
+|乙|不，第二次。<blockquote>bù ， dì èr cì 。<br />No. The second time.</blockquote>|
+|甲|这个疫苗需要打三次。<blockquote>zhège yìmiáo xūyào dǎ sān cì 。<br />This vaccine needs three injections.</blockquote>|
+|乙|我需要回来吗？<blockquote>wǒ xūyào huílai ma ？<br />I need to come back?</blockquote>|
+|甲|六个月以后，再来一次。<blockquote>liù  ge yuè yǐhòu ， zài lái yī cì 。<br />Come back once more after six months.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|还|hái|still|adverb|
-|有|yǒu|to have|verb|
-|米|mǐ|meter|unit|
-|累|lèi|tired|adjective|
-|想|xiǎng|to think|verb|
-|坚持|jiānchí|to persist|verb|
-|一百|yībǎi|one hundred|number|
-|一定|yīdìng|absolutely|adverb|
-|孩子|háizi|child|noun|
-|别管我|bié guǎn wǒ|leave me alone|phrase|
-|不行了|bù xíng le|it's not ok|phrase|
+|不|bù|no|adverb|
+|次|cì|time|measure word|
+|再|zài|again|adverb|
+|月|yuè|month|noun|
+|需要|xūyào|to need|verb|
+|回来|huílai|to come back|verb|
+|疫苗|yìmiáo|vaccine|noun|
+|第一次|dì yī cì|1st time|phrase|
+|第二次|dì èr cì|2nd time|phrase|
+|第三次|dì sān cì|3rd time|phrase|
+|第四次|dì sì cì|4th time|phrase|
+|第五次|dì wǔ cì|5th time|phrase|
+|再来一次|zài lái yī cì|come once again|phrase|

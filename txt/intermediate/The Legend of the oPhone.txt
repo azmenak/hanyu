@@ -2,48 +2,43 @@
 ## *intermediate* level
 
 ### Chinese Text
-嘉宾：本届诺贝尔和平奖获奖者----
-嘉宾：泡泡中文！
-甲：咳，怎么又是泡泡中文？
-乙：这叫实至名归！
-甲：但是她已经拿到了文学奖和经济学奖。
-乙：泡泡中文很经济，又有文化呀！
-甲：那她凭什么拿和平奖呢？
-丙：嘿，你闭嘴！
+甲：嗨，哥们儿，你背的这什么呀？
+乙：我的新MP3。
+甲：这么大？
+乙：没那么大吧？
+甲：你看，这还不大？哎哟，还这么沉。
+乙：哦，抽奖抽的。
+甲：这东西，白给我我都不要。
 
 ### Pinyin and Translation
 
-嘉宾: 本届诺贝尔和平奖获奖者----
-      běn jiè nuòbèiěr hépíng jiǎng huòjiǎngzhě ----
-      This session's Nobel Peace Prize winner....
+甲: 嗨，哥们儿，你背的这什么呀？
+    hāi ， gēmenr ， nǐ bēi de zhè shénme ya ？
+    Hey, dude. What that you've got on your back?
 
-嘉宾: 泡泡中文！
-      Pàopào Zhōngwén ！
-      Popup Chinese!
+乙: 我的新MP3。
+    wǒ de xīn mp sān 。
+    It's my new MP3 player.
 
-甲: 咳，怎么又是泡泡中文？
-    hai ， zěnme yòu shì Pàopào Zhōngwén ？
-    Hey, how can it be Popup Chinese yet again?
+甲: 这么大？
+    zhème dà ？
+    It's that big?
 
-乙: 这叫实至名归！
-    zhè jiào shízhìmíngguī ！
-    They deserve it!
+乙: 没那么大吧？
+    méi nàme dà ba ？
+    It's not that big.
 
-甲: 但是她已经拿到了文学奖和经济学奖。
-    dànshì tā yǐjīng ná dào le wénxuéjiǎng hé jīngjìxuéjiǎng 。
-    But it's already taken the prizes in literature and economics.
+甲: 你看，这还不大？哎哟，还这么沉。
+    nǐ kàn ， zhè hái bù dà ？ āiyo ， hái zhème chén 。
+    Look, this isn't big? And, wow, it's also really heavy.
 
-乙: 泡泡中文很经济，又有文化呀！
-    Pàopào Zhōngwén hěn jīngjì ， yòu yǒu wénhuà yā ！
-    Popup Chinese is quite economical and really cultured!
+乙: 哦，抽奖抽的。
+    ò ， chōujiǎng chōu de 。
+    Oh. I won it in a draw.
 
-甲: 那她凭什么拿和平奖呢？
-    nà tā píng shénme ná hépíngjiǎng ne ？
-    Then what were the grounds for the peace prize?
-
-丙: 嘿，你闭嘴！
-    hei ， nǐ bìzuǐ ！
-    Hey, shut your mouth!
+甲: 这东西，白给我我都不要。
+    zhè dōngxi ， bái gěi wǒ wǒ dōu bù yào 。
+    This thing? I wouldn't take it if it was given to me for free.
 ### Vocab
 -背 (bēi) [verb] to carry on the back
 -沉 (chén) [adjective] weighty

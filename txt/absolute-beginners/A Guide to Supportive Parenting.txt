@@ -2,29 +2,37 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男：你是谁？
-女：我是你的老婆！
+妈妈：小宝，你的中文课怎么样？
+小宝：我学的不是中文！
+妈妈：啊，是吗？
+小宝：妈妈！
 
 ### Pinyin and Translation
 
-男: 你是谁？
-    nǐ shì shéi ？
-    Who are you?
+妈妈: 小宝，你的中文课怎么样？
+      Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？
+      Darling, how is your Chinese class?
 
-女: 我是你的老婆！
-    wǒ shì nǐ de lǎopo ！
-    I'm your wife!
+小宝: 我学的不是中文！
+      wǒ xué de bù shì Zhōngwén ！
+      What I study isn't Chinese!
+
+妈妈: 啊，是吗？
+      a ， shì ma ？
+      Oh, is that so?
+
+小宝: 妈妈！
+      māma ！
+      Mother!
 ### Vocab
--你是谁 (nǐ shì shéi) [phrase] who are you
--我 (wǒ) [pronoun] I
--你 (nǐ) [pronoun] you
--他 (tā) [pronoun] he
--她 (tā) [pronoun] she
+-妈妈 (māma) [noun] mother
+-中文 (zhōngwén) [noun] Chinese language
+-英文 (yīngwén) [noun] English language
+-课 (kè) [noun] class
 -是 (shì) [verb] to be
--谁 (shéi) [question] who
--我的 (wǒ de) [phrase] my
--你的 (nǐ de) [phrase] your
--他的 (tā de) [phrase] his
--她的 (tā de) [phrase] her
--老婆 (lǎopo) [noun] wife
--老公 (lǎogōng) [noun] husband
+-学 (xué) [verb] to study
+-吃 (chī) [verb] to eat
+-的 (de) [particle] (subordinating particle)
+-怎么样 (zěnmeyàng) [phrase] how is it
+-汉堡 (hànbǎo) [noun] hamburger
+-东西 (dōngxi) [noun] thing

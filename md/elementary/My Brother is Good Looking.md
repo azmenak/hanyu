@@ -1,22 +1,17 @@
 # My Brother is Good Looking
 **Elementary** level
 ### Chinese Text
-甲：老板，来瓶鲜橙多。
-乙：挣那么多钱，来瓶脉动呗。
-甲：不了，我就要鲜橙多。
-乙：哎呀，脉动比鲜橙多贵不了多少钱。
-甲：我就要鲜橙多。
-乙：好吧。抠门儿。
+甲：哎，你弟弟长得挺帅的，哈。<br />乙：你什么意思啊？
+甲：没，我就是说他长得好看而已。
+乙：你注意点儿，他是我的。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|老板，来瓶鲜橙多。<blockquote>lǎobǎn ， lái píng Xiānchéngduō 。<br />Boss, give me a bottle of orange tang.</blockquote>|
-|乙|挣那么多钱，来瓶脉动呗。<blockquote>zhèng nàme duō qián ， lái píng Màidòng bei 。<br />You earn so much money, how about a bottle of Mizone sports drink.</blockquote>|
-|甲|不了，我就要鲜橙多。<blockquote>bù le ， wǒ jiù yào Xiānchéngduō 。<br />Nah, I just want orange tang.</blockquote>|
-|乙|哎呀，脉动比鲜橙多贵不了多少钱。<blockquote>aiya ， Màidòng bǐ Xiānchéngduō guì bù liǎo duōshǎo qián 。<br />Good gracious. Mizone sports drink isn't really that much more expensive than tang!</blockquote>|
-|甲|我就要鲜橙多。<blockquote>wǒ jiù yào Xiānchéngduō 。<br />I just want orange tang.</blockquote>|
-|乙|好吧。抠门儿。<blockquote>hǎoba 。 kōuménr 。<br />Alright, cheapskate.</blockquote>|
+|甲|哎，你弟弟长得挺帅的，哈。<blockquote>āi ， nǐ dìdi zhǎng de tǐng shuài de ， hā 。<br />Hey, your brother is pretty handsome, eh!</blockquote>|
+|乙|你什么意思啊？<blockquote>nǐ shénme yìsi a ？<br />What do you mean?</blockquote>|
+|甲|没，我就是说他长得好看而已。<blockquote>méi ， wǒ jiù shì shuō tā zhǎng de hǎokàn éryǐ 。<br />No, I'm just saying he's good looking, that's all.</blockquote>|
+|乙|你注意点儿，他是我的。<blockquote>nǐ zhùyì diǎnr ， tā shì wǒ de 。<br />You pay attention, he's mine.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

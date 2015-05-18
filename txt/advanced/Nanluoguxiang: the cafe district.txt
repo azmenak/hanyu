@@ -2,46 +2,20 @@
 ## *advanced* level
 
 ### Chinese Text
-甲：说正题，昨儿碰见一小孩儿，特别逗。他非让我们买花儿，然后就跟我朋友说：“哎，哥哥，你给姐姐买一朵花吧。”
-乙：是你的孩子吗？
-甲：这怎么可能？你听我说，后面更逗。然后我朋友就来了一句：“哎，你都长那么大了！”然后我特别不可思议，你知道吗？
-乙：哦，原来你的孩子都长那么大了。
-甲：什么我的孩子啊？这，这小孩儿，真的，就是我们大一进校的时候去mix玩儿，就看见过他。就这四年，突飞猛长，一下子就长个儿了，但是还能认出来。
+
 
 ### Pinyin and Translation
-
-甲: 说正题，昨儿碰见一小孩儿，特别逗。他非让我们买花儿，然后就跟我朋友说：“哎，哥哥，你给姐姐买一朵花吧。”
-    shuō zhèng tí ， zuór pèngjiàn yī xiǎoháir ， tèbié dòu 。 tā fēi ràng wǒmen mǎi huār ， ránhòu jiù gēn wǒ péngyou shuō ： “ ai ， gēge ， nǐ gěi jiějie mǎi yī duǒ huā ba 。 ”
-    Speaking of this, I ran into this kid yesterday. It was funny. He wanted us to buy flowers, and then said to my friend, "Hey man, why don't you buy a flower for her?"
-
-乙: 是你的孩子吗？
-    shì nǐ de háizi ma ？
-    Was it your kid?
-
-甲: 这怎么可能？你听我说，后面更逗。然后我朋友就来了一句：“哎，你都长那么大了！”然后我特别不可思议，你知道吗？
-    zhè zěnme kěnéng ？ nǐ tīng wǒ shuō ， hòumian gèng dòu 。 ránhòu wǒ péngyou jiù lái le yī jù ： “ ai ， nǐ dōu zhǎng nàme dà le ！ ” ránhòu wǒ tèbié bùkěsīyì ， nǐ zhīdào ma ？
-    What? Listen to this, because it gets funnier. Then my friend said, "Hey, you've really grown up!" And it just blew me away, you know?
-
-乙: 哦，原来你的孩子都长那么大了。
-    o ， yuánlái nǐ de háizi dōu zhǎng nàme dà le 。
-    What? To see your kid grow up so fast?
-
-甲: 什么我的孩子啊？这，这小孩儿，真的，就是我们大一进校的时候去mix玩儿，就看见过他。就这四年，突飞猛长，一下子就长个儿了，但是还能认出来。
-    shénme wǒ de háizi ā ？ zhè ， zhè xiǎoháir ， zhēnde ， jiùshì wǒmen dàyī jìn xiào de shíhou qù mix wánr ， jiù kànjiàn guò tā 。 jiù zhè sì nián ， tūfēiměngzhǎng ， yīxiàzi jiù zhǎng gèr le ， dànshì hái néng rèn chūlai 。
-    What are you talking about? This was a kid we'd seen when we went to Mix back at the start of our first year of university. He'd just grown like a weed in those four years. Totally overnight, although you could still tell it was him.
 ### Vocab
--吴方言 (wúfāngyán) [noun] Wu dialect
--尾音 (wěiyīn) [noun] closing word in sentence
--不变应万变 (bú biàn yìng wàn biàn) [phrase] to shun change in order to cope with a changing world
--不懂装懂 (bù dǒng zhuāng dǒng) [verb phrase] to pretend to understand when one doesn't
--中原 (zhōngyuán) [noun] the central plains of China
--褶儿 (zhěer) [noun] wrinkles, pleats
--卤儿 (lǔer) [noun] thick meat, egg and starch gravy put on noodles
--烧包儿 (shāobāoer) [noun] spendthrift or financially reckless person
--冤家 (yuānjiā) [noun] enemy
--头颈 (tóujǐng) [noun] neck
--横行霸道 (héngxíngbàdào) [adjective] tyrannical
--油条 (yóutiáo) [noun] fried dough stick
--油饼 (yóubǐng) [noun] deep-fried pancake
--烧饼 (shāobǐng) [noun] baked seseme seed covered cake
--盛情 (shèngqíng) [noun] great hospitality
+-南锣鼓巷 (nánluógǔxiàng) [place] Nanluoguxiang
+-小松糕 (xiǎosōnggāo) [noun] muffin
+-巷 (xiàng) [noun] lane
+-杀手游戏 (shāshǒuyóuxì) [drinking game] killer game
+-陆陆续续 (lùlùxùxù) [adverb] in a steady stream
+-这里 (zhèlǐ) [cafe] Here
+-过客 (guòkè) [cafe] Pass By Bar
+-吉他吧 (jítaba) [cafe] Guitar Bar
+-沙漏 (shālòu) [cafe] Sandglass
+-三棵树 (sānkèshù) [cafe] Three Trees
+-假沙漏 (jiǎ shālòu) [cafe] (fake) Sandglass
+-闹鬼 (nàoguǐ) [verb] to haunt, to stir up trouble
+-平房 (píngfáng) [noun] single-story house

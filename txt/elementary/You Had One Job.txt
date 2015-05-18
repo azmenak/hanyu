@@ -30,18 +30,15 @@
       tǐng hǎo de ？ nǐ zhīdào wǒmen jiā māo ma ？ wǒmen jiā māo zuò de dōu bǐ nǐ qiáng 。 bié shuō māo le 。 jiù zhè zhuōzi ， zhè zhuōzi dōu bǐ nǐ qiáng 。 tā zhìshǎo bù huì bǎ zhè  jiàn shì gǎozá 。
       Pretty good? Do you know my cat? My cat could do a better job than you. No, we don't even need to talk about the cat. This table, even this table is better than you. Because at the very least it wouldn't screw things up.
 ### Vocab
--菜 (cài) [noun] cuisine
--北京 (Běijīng) [city] Beijing
--上海 (Shànghǎi) [city] Shanghai
--贵州 (Guìzhōu) [city] Guizhou
--新疆 (Xīnjiāng) [city] Xinjiang
--西藏 (Xīzàng) [city] Tibet
--敏感 (mǐngǎn) [adjective] sensitive
--伤害 (shānghài) [verb] to hurt
--感情 (gǎnqíng) [noun] feelings
--首都 (shǒudū) [noun] capital
--骄傲 (jiāoào) [adjective] proud
--喜欢 (xǐhuān) [verb] to like
+-都 (dōu) [particle] all
+-比 (bǐ) [particle] compared to
+-强 (qiáng) [adjective] better; stronger
+-差 (chà) [adjective] worse
+-交给 (jiāogěi) [verb] to hand over to
+-脑残 (nǎocán) [adjective] retarded
+-桌子 (zhuōzi) [noun] table
+-搞砸 (gǎozá) [verb] to screw up
+-一件事 (yī  jiàn shì) [phrase] one task; one matter
+-怎么啦 (zěnme la) [phrase] what's up
 -怎么了 (zěnme le) [phrase] what's wrong
--炸酱面 (zhájiàngmiàn) [noun] wheat noodles with soybean paste
--中国人民 (Zhōngguó rénmín) [phrase] the Chinese people
+-脑子进水 (nǎozi jìnshuǐ) [phrase] to have water on the brain

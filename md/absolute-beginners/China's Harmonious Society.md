@@ -1,20 +1,17 @@
 # China's Harmonious Society
 **Absolute Beginners** level
 ### Chinese Text
-甲：你的手表在哪儿买的？
-乙：在网上。
-甲：什么网？
-乙：因特网。
-甲：哦，没听说过。
+一：你觉得_____怎么样？<br />二：我觉得______不错。
+一：我同意。
+二：好，明天见！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你的手表在哪儿买的？<blockquote>nǐ de shǒubiǎo zài nǎr mǎi de ？<br />Where did you buy your watch?</blockquote>|
-|乙|在网上。<blockquote>zài wǎngshàng 。<br />On the Internet.</blockquote>|
-|甲|什么网？<blockquote>shénme wǎng ？<br />Which website?</blockquote>|
-|乙|因特网。<blockquote>yīntèwǎng 。<br />The Internet.</blockquote>|
-|甲|哦，没听说过。<blockquote>ò ， méi tīngshuō guo 。<br />Oh, never heard of it.</blockquote>|
+|一|你觉得_____怎么样？<blockquote>nǐ juéde _____ zěnmeyàng ？<br />How you you feel about _____?</blockquote>|
+|二|我觉得______不错。<blockquote>wǒ juéde ______ bùcuò 。<br />I think _____ isn't bad.</blockquote>|
+|一|我同意。<blockquote>wǒ tóngyì 。<br />I agree.</blockquote>|
+|二|好，明天见！<blockquote>hǎo ， míng tiān jiàn ！<br />Ok, see you tomorrow!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

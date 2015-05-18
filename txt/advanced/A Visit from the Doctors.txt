@@ -2,25 +2,81 @@
 ## *advanced* level
 
 ### Chinese Text
-
+旁白：2012年12月，为了让泡泡中文的高级播客更有趣，我们邀请了中日友好医院的外科主任观看了节目录制现场。他们要求录制一个跟医疗有关的对话。
+Echo：录音了啊，录音，现在开始录音了，安静，安静！开始。
+病人：大夫，我的脊椎有点歪。
+大夫：你肯定是腰椎间盘突出。
+情况：情况严重吗？
+观众：你会死的！
+Echo：嘘，别出声儿。
+大夫：如果不及时治疗，你会高位截瘫。
+病人：那我怎么办？
+观众：换个大夫呗。
+Echo：你是不是专业的？哎，这啤酒从哪儿来的，给我，给我....
+大夫：别担心，我们中日友好医院....
 
 ### Pinyin and Translation
+
+旁白: 2012年12月，为了让泡泡中文的高级播客更有趣，我们邀请了中日友好医院的外科主任观看了节目录制现场。他们要求录制一个跟医疗有关的对话。
+      Er4língyī_APOS_èr nián shíèr yuè ， wéile ràng Pàopào Zhōngwén de gāojí bōkè gèng yǒuqù ， wǒmen yāoqǐng le Zhōngrì Yǒuhǎo Yīyuàn de wàikē zhǔrèn guānkàn le jiémù lùzhì xiànchǎng 。 tāmen yāoqiú lùzhì yī ge gēn yīliáo yǒuguān de duìhuà 。
+      In December 2012, in an effort to make Popup Chinese's advanced podcasts more interesting, we invited the directors of external medicine at the China-Japan Friendship Hospital to observe a live recording of our program. They requested we record a dialogue about medicine.
+
+Echo: 录音了啊，录音，现在开始录音了，安静，安静！开始。
+          lùyīn le a ， lùyīn ， xiànzài kāishǐ lùyīn le ， ānjìng ， ānjìng ！ kāishǐ 。
+          We're recording. Quiet, the recording is about to start. Quiet, quiet! And start.
+
+病人: 大夫，我的脊椎有点歪。
+      dàifu ， wǒ de jǐzhuī yǒudiǎn wāi 。
+      Doctor, my spine is a little crooked.
+
+大夫: 你肯定是腰椎间盘突出。
+      nǐ kěndìng shì yāozhuījiānpán tūchū 。
+      You've certainly got a protuded vertebrate.
+
+情况: 情况严重吗？
+      qíngkuàng yánzhòng ma ？
+      Is the situation serious?
+
+观众: 你会死的！
+      nǐ huì sǐ de ！
+      You're gonna die!
+
+Echo: 嘘，别出声儿。
+          xu ， bié chūshēngr 。
+          Hey, don't make any noise.
+
+大夫: 如果不及时治疗，你会高位截瘫。
+      rúguǒ bù jíshí zhìliáo ， nǐ huì gāowèi jiétān 。
+      If you don't treat it promptly, you'll get paralyzed from a high position in the chest downwards.
+
+病人: 那我怎么办？
+      nà wǒ zěnmebàn ？
+      Then what should I do?
+
+观众: 换个大夫呗。
+      huàn ge dàifu bei 。
+      Get another doctor.
+
+Echo: 你是不是专业的？哎，这啤酒从哪儿来的，给我，给我....
+          nǐ shì bù shì zhuānyè de ？ āi ， zhè píjiǔ cóng nǎr lái de ， gěi wǒ ， gěi wǒ . . . .
+          Aren't you people professional? And where did this beer come from. Give it to me, give it to me....
+
+大夫: 别担心，我们中日友好医院....
+      bié dānxīn ， wǒmen Zhōngrì Yǒuhǎo Yīyuàn . . . .
+      Don't worry, our China-Japan Friendship Hospital....
 ### Vocab
--苟活 (gǒuhuó) [verb] to live on in degradation
--逃离 (táolí) [verb] to escape
--情怀 (qínghuái) [noun] feelings
--菜肴 (càiyáo) [noun] dish
--因素 (yīnsù) [noun] factor
--言论 (yánlùn) [noun] expression of opinion
--共鸣 (gòngmíng) [noun] resonance
--舒心 (shūxīn) [adjective] comfortable
--诉苦 (sùkǔ) [verb] to complain
--公积金 (gōngjījīn) [noun] housing fund
--苦行僧 (kǔxíngsēng) [noun] a monk who finds divinity in suffering
--随遇而安 (suíyù'ér'ān) [verb] to feel at ease in all circumstances
--陆陆续续 (lùlùxùxù) [adverb] in droves
--五花八门 (wǔhuābāmén) [adjective] rich in variety
--五险一金 (wǔxiǎnyījīn) [noun] insurance and housing fund
--中外合璧 (zhōngwàihébì) [phrase] blending the east and the west
--地域色彩 (dìyùsècǎi) [noun] geographical color
--集思广益 (jísīguǎngyì) [verb] to pool the wisdom of the masses
+-旁白 (pángbái) [noun] narrator
+-录制 (lùzhì) [verb] to record
+-医疗 (yīliáo) [noun] medical treatment
+-脊椎 (jǐzhuī) [noun] spine
+-歪 (wāi) [adjective] skewed; crooked
+-抽筋儿 (chōujīnr) [verb] limb cramp
+-岔气儿 (chàqìr) [verb] chest cramp
+-崴脚 (wǎijiǎo) [verb] to sprain an ankle
+-戳了手指 (chuō le shǒuzhǐ) [verb] to sprain a finger
+-扭了背 (niǔ le bèi) [verb] to sprain one's back
+-闪了腰 (shǎn le yāo) [verb] to sprain one's waist
+-脱臼 (tuōjiù) [verb] to dislocate
+-抽风儿 (chōufēngr) [verb] stroke
+-淤血 (yūxiě) [noun] bruise
+-青了 (qīng le) [verb] to bump against

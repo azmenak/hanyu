@@ -2,78 +2,72 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：我们手里的证据只够判他五个月的。
-乙：我告诉过你，我要他坐五年的牢。
-甲：他不在监控录像里，而且还有不在场证明。
-乙：你没有采访目击证人吗？
-甲：我们已经采访了停车场的收费人员...
-乙：嗯，干的好！
-甲：但他们什么都没看见。
-乙：你要用心去发现！
-甲：可是....
-乙：我不在乎你怎么找证据，要是判不了他五年，你走人。
+甲：零零七，救我！
+乙：动不了....
+丙：谁也帮不了你们，卫星马上就要进入轨道了....
+乙：到时，你就会干掉我们？
+丙：不不不，这不是一把电枪，它会发射微波。
+乙：让我们的大脑爆炸？
+丙：一般不会造成什么伤害，但是…长期辐射，会导致皮肤癌。
+甲：我的皮肤！
+乙：你不会得逞的。
+甲：零零七，救我！
 
 ### Pinyin and Translation
 
-甲: 我们手里的证据只够判他五个月的。
-    wǒmen shǒulǐ de zhèngju zhǐ gòu pàn tā wǔ ge  yuè de 。
-    We only have enough evidence to get a five month conviction.
+甲: 零零七，救我！
+    líng líng qī ， jiù wǒ ！
+    Rescue me, 007!
 
-乙: 我告诉过你，我要他坐五年的牢。
-    Wǒ gàosu guò nǐ ， wǒ yào tā zuò wǔ nián de láo 。
-    I told you, I want him to serve five years.
+乙: 动不了....
+    dòngbùliǎo . . . .
+    I can't move....
 
-甲: 他不在监控录像里，而且还有不在场证明。
-    tā bù zài jiānkòng  lùxiàng lǐ ， érqiě hái yǒu bùzàichǎngzhèngmíng 。
-    He isn't in the security recordings, and has evidence he wasn't on the scene.
+丙: 谁也帮不了你们，卫星马上就要进入轨道了....
+    shéi yě bāngbùliǎo nǐmen ， wèixīng mǎshàng jiù yào jìnrù guǐdào le . . . .
+    No-one can help you. The satellite is just about to enter orbit.
 
-乙: 你没有采访目击证人吗？
-    nǐ méiyǒu cǎifǎng mùjī  zhèngren ma ？
-    Haven't you interviewed the witnesses?
+乙: 到时，你就会干掉我们？
+    dàoshí ， nǐ jiù huì gāndiào wǒmen ？
+    When that happens, you'll kill us?
 
-甲: 我们已经采访了停车场的收费人员...
-    wǒmen yǐjīng cǎifǎng le tíngchēchǎng de shōufèi rényuán . . .
-    We've already interviewed the parking lot attendants...
+丙: 不不不，这不是一把电枪，它会发射微波。
+    bù bù bù ， zhè bù shì yī bǎ diànqiāng ， tā huì fāshè wēibō 。
+    Oh no, this is no electric gun. It shoots out microwaves.
 
-乙: 嗯，干的好！
-    en ， gàn de hǎo ！
-    Hmm... that's the way to do it!
+乙: 让我们的大脑爆炸？
+    ràng wǒmen de dànǎo bàozhà ？
+    It'll make our brains explode?
 
-甲: 但他们什么都没看见。
-    dàn tāmen shénme dōu méi kànjiàn 。
-    But they didn't see anything.
+丙: 一般不会造成什么伤害，但是…长期辐射，会导致皮肤癌。
+    yībān bùhuì zàochéng shénme shānghài ， dànshì … chángqī fúshè ， huì dǎozhì pífūái 。
+    In general it doesn't cause any damage, but... long term radiation can lead to skin cancer.
 
-乙: 你要用心去发现！
-    nǐ yào yòngxīn qù fāxiàn ！
-    You've got to put some effort into investigating!
+甲: 我的皮肤！
+    wǒ de pífū ！
+    Oh, my skin!
 
-甲: 可是....
-    kěshì . . . .
-    But....
+乙: 你不会得逞的。
+    nǐ bùhuì déchěng de 。
+    You won't get away with this.
 
-乙: 我不在乎你怎么找证据，要是判不了他五年，你走人。
-    wǒ bù zàihu nǐ zěnme zhǎo zhèngju ， yàoshi pànbù liǎo tā wǔ nián ， nǐ zǒurén 。
-    I don't care how you find the evidence, but if you can't get five years you're no longer welcome here.
+甲: 零零七，救我！
+    líng líng qī ， jiù wǒ ！
+    Save me, 007!
 ### Vocab
--侦探 (zhēntàn) [noun] detective
--解开 (jiěkāi) [verb] to unravel
--疑团 (yítuán) [noun] puzzle; mystery
--凶手 (xiōngshǒu) [noun] murderer
--自杀 (zìshā) [noun] suicide
--摔坏 (shuāihuài) [verb] to fall and break
--手表 (shǒubiǎo) [noun] wristwatch
--显示 (xiǎnshì) [verb] to show
--聚 (jù) [verb] to gather
--差得远了 (chādeyuǎn le) [phrase] not even close
--推下 (tuīxià) [verb] to push down
--悬崖 (xuányá) [noun] cliff
--调 (tiáo) [verb] to adjust
--冷酷 (lěngkù) [adjective] callous
--冷漠 (lěngmò) [adjective] aloof
--冷淡 (lěngdàn) [adjective] indifferent
--温暖 (wēnnuǎn) [adjective] warm
--温柔 (wēnróu) [adjective] gentle
--温馨 (wēnxīn) [adjective] balmy
--热情 (rèqíng) [adjective] enthusiastic
--热烈 (rèliè) [adjective] fervent
--热切 (rèqiè) [adjective] ardent
+-卫星 (wèixīng) [noun] satellite
+-轨道 (guǐdào) [noun] orbit
+-干掉 (gàndiào) [verb] to knock off
+-电工 (diàngōng) [noun] electrician
+-电线 (diànxiàn) [noun] electric cord
+-水管工 (shuǐguǎngōng) [noun] plumber
+-发射 (fāshè) [verb] to shoot
+-微波 (wēibō) [noun] microwave
+-辐射 (fúshè) [noun] radiation
+-造成 (zàochéng) [verb] to cause
+-导致 (dǎozhì) [verb] to lead to
+-引起 (yǐnqǐ) [verb] to result in
+-长期 (chángqī) [adjective] long term
+-癌症 (áizhèng) [noun] cancer
+-得逞 (déchěng) [verb] to gain unethically
+-枪毙 (qiāngbì) [verb] to shoot

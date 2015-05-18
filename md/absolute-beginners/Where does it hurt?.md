@@ -1,28 +1,28 @@
 # Where does it hurt?
 **Absolute Beginners** level
 ### Chinese Text
-甲：我们吃什么？
-乙：外卖吧。
-甲：外卖什么？
-乙：韩国菜吧。
+甲：嗯......<br />乙：怎么了？
+甲：我不舒服。
+乙：哪儿不舒服？
+甲：我这儿疼。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我们吃什么？<blockquote>wǒmen chī shénme ？<br />What should we eat?</blockquote>|
-|乙|外卖吧。<blockquote>wàimài ba 。<br />How about take-out?</blockquote>|
-|甲|外卖什么？<blockquote>wàimài shénme ？<br />What kind of take-out?</blockquote>|
-|乙|韩国菜吧。<blockquote>Hánguó cài ba 。<br />How about Korean food?</blockquote>|
+|甲|嗯......<blockquote>en ......<br />Ouch....</blockquote>|
+|乙|怎么了？<blockquote>zěnmele ？<br />What's wrong?</blockquote>|
+|甲|我不舒服。<blockquote>wǒ bù shūfu 。<br />I'm not comfortable.</blockquote>|
+|乙|哪儿不舒服？<blockquote>nǎr bù shūfu ？<br />Where does it hurt?</blockquote>|
+|甲|我这儿疼。<blockquote>wǒ zhèr téng 。<br />I hurt here.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|这|zhè|this|pronoun|
-|那|nà|that|pronoun|
-|是|shì|to be|verb|
-|什么|shénme|what|pronoun|
-|吃|chī|to eat|verb|
-|好|hǎo|good|adjective|
-|好吃|hǎochī|tasty|adjective|
-|天哪|tiānna|my heavens|phrase|
-|这是什么|zhè shì shénme|what is this|phrase|
-|那是什么|nà shì shénme|what is that|phrase|
+|怎么了|zěnmele|what's wrong|phrase|
+|我|wǒ|I|pronoun|
+|不|bù|not|adverb|
+|很|hěn|very|adverb|
+|舒服|shūfu|comfortable|adjective|
+|哪儿|nǎr|where|question|
+|疼|téng|to hurt|verb|
+|这儿|zhèr|here|determiner|
+|那儿|nàr|there|determiner|

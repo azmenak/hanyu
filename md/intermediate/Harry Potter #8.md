@@ -1,8 +1,7 @@
 # Harry Potter #8
 **Intermediate** level
 ### Chinese Text
-甲：大哥，要碟吗？
-乙：你这儿都有什么呀？
+甲：大哥，要碟吗？<br />乙：你这儿都有什么呀？
 甲：哈利波特八，要什么有什么。
 乙：哈利波特七不是前天才上映吗，哪儿来的哈利波特八呀？
 甲：我们的盗版产业可是走在世界最前沿的。
@@ -26,13 +25,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|一见钟情|yījiànzhōngqíng|love at first sight|chengyu|
-|坠入爱河|zhuìrùàihé|to fall into the river of love|phrase|
-|自投罗网|zìtóuluówǎng|to give oneself away|chengyu|
-|无法自拔|wúfǎzìbá|to be unable to help oneself|phrase|
-|头套儿|tóutàor|mask|noun|
-|脑袋|nǎodai|head|noun|
-|饥渴|jīkě|eager|adjective|
-|人质|rénzhì|hostage|noun|
-|假头套儿|jiǎtóutàor|wig|noun|
-|劫匪|jiéfěi|robber|noun|
+|碟|dié|disc|noun|
+|上映|shàngyìng|to go on screen|verb|
+|盗版|dàobǎn|pirated|adjective|
+|产业|chǎnyè|industry|noun|
+|前沿|qiányán|vanguard|noun|
+|画质|huàzhì|display quality|noun|
+|枪版|qiāngbǎn|handicam-version|noun|
+|高清|gāoqīng|high-definition|adjective|
+|巨星|jùxīng|mega-star|noun|
+|枪手|qiāngshǒu|hired gun|noun|
+|碟版|diébǎn|DVD version|noun|
+|绝对|juéduì|absolutely|adverb|
+|实惠|shíhuì|of good value|adjective|

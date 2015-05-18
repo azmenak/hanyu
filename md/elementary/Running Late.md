@@ -1,8 +1,7 @@
 # Running Late
 **Elementary** level
 ### Chinese Text
-女：你迟到了。
-男：不好意思，不好意思。我又迟到了。
+女：你迟到了。<br />男：不好意思，不好意思。我又迟到了。
 女：你再迟到你就再也别出现了。
 
 ### Pinyin and Translation

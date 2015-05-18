@@ -6,15 +6,3 @@
 
 ### Pinyin and Translation
 ### Vocab
--孩子 (háizi) [noun] child
--还 (hái) [adverb] still
--好 (hǎo) [adjective] good
--会 (huì) [verb] will
--但是 (dànshì) [conjunction] but
--已经 (yǐjīng) [adverb] already
--用 (yòng) [verb] to use
--了 (le) [particle] (particle)
--有点儿 (yǒudiǎnr) [phrase] to be a bit
--慢 (màn) [adjective] slow
--学 (xué) [verb] to study
--睡 (shuì) [verb] to sleep

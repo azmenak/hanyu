@@ -30,13 +30,13 @@
     gǔn ！
     Get lost!
 ### Vocab
--过 (guò) [particle] completed aspect
--了 (le) [particle] past aspect
--前 (qián) [adjective] previous; former
--妻子 (qīzi) [noun] wife
--已经 (yǐjīng) [already] already
--结婚 (jiéhūn) [verb] to marry
--听说 (tīngshuō) [phrase] to hear told
--穿鞋 (chuānxié) [verb] to put on shoes
--开饭馆 (kāi fànguǎn) [verb] to open a restaurant
--下雨 (xiàyǔ) [verb] to rain
+-泡泡中文 (Pàopào Zhōngwén) [noun] Popup Chinese
+-滚蛋 (gǔndàn) [phrase] scram
+-忙 (máng) [adjective] busy
+-滚 (gǔn) [verb] to roll
+-待见 (dàijian) [verb] to pay attention to
+-理 (lǐ) [verb] to pay mind to
+-在乎 (zàihu) [verb] to care about
+-管 (guǎn) [verb] to deal with
+-注意 (zhùyì) [verb] to note
+-别管闲事 (biéguǎnxiánshì) [phrase] mind your own business

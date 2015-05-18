@@ -1,40 +1,39 @@
 # Chairman of the Board
 **Intermediate** level
 ### Chinese Text
-高安：喜欢安德鲁洛依韦伯的歌剧，但是又听不懂英文吗？没关系！
-马瑞：回忆，这首歌关于回忆，回忆，回忆，还是回忆，关于回忆。
-高安：绝妙的中文翻译，给您带来至尊享受！
-马瑞：就是回忆，就是美丽。
-高安：享受，享受，再享受！轻轻松松在家里欣赏百老汇顶级歌剧。歌剧魅影。
-马瑞：他是一个怪兽，是有点丑。她是一个美女，很漂亮啊。
-高安：包括那首著名的监狱里的犹太人，约瑟夫。
-马瑞：他是个犹太人，蹲在了监狱里，就没有了希望，也没有了自由。
-高安：世界著名的安德鲁洛依韦伯，快来订购吧！
-马瑞：也没有了希望，就这样的活着。
+甲：女士们，先生们，好消息！我已经咨询过我们的律师。他说我们的合并计划是符合道德的。<br />乙：嗯... 这可是美国最大的通讯公司。
+丙：对！我们需要的是法律支持。
+甲：这么道德！怎么会有问题！
+乙：这不是道德的问题。
+丙：你知道现在政府对通讯领域的市场交易有多敏感吗？
+甲：我们的律师已经通过了他的职业道德考试。不过... 他还没通过律师资格考试。
+乙：什么？
+甲：反正，他已经跟我保证了，我们的生意绝对是道德的。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|高安|喜欢安德鲁洛依韦伯的歌剧，但是又听不懂英文吗？没关系！<blockquote>xǐhuān An1délǔ Luòyī wěibó de gējù ， dànshì yòu tīngbùdǒng yīngwén ma ？ méi guānxi ！<br />Do you like Andrew Lloyd Weber musicals, but don't understand English? No problem!</blockquote>|
-|马瑞|回忆，这首歌关于回忆，回忆，回忆，还是回忆，关于回忆。<blockquote>huíyì ， zhè shǒu gē guānyú huíyì ， huíyì ， huíyì ， hái shì huíyì ， guānyú huíyì 。<br />Memories, this song is about memories. Memories, memories and more memories. It's about memories.</blockquote>|
-|高安|绝妙的中文翻译，给您带来至尊享受！<blockquote>juémiào de zhōngwén fānyì ， gěi nín dàilái zhìzūnxiǎngshòu ！<br />A marvelous Chinese translation which will bring you great enjoyment!</blockquote>|
-|马瑞|就是回忆，就是美丽。<blockquote>jiùshì huíyì ， jiùshì měilì 。<br />It's memory and it's beautiful.</blockquote>|
-|高安|享受，享受，再享受！轻轻松松在家里欣赏百老汇顶级歌剧。歌剧魅影。<blockquote>xiǎngshòu ， xiǎngshòu ， zài xiǎngshòu ！ qīngqīngsōngsōng zài jiā lǐ xīnshǎng bǎilǎohuì dǐngjí gējù 。 gējùmèiyǐng 。<br />Enjoy it again and again! Relax at home enjoying the best Broadway musicals, like Phantom of the Opera.</blockquote>|
-|马瑞|他是一个怪兽，是有点丑。她是一个美女，很漂亮啊。<blockquote>tā shì yī ge guàishòu ， shì yǒudiǎn chǒu 。 tā shì yī ge měinǚ ， hěn piàoliang ā 。<br />He is a monster, and is very ugly. She's a beautiful girl, and is quite pretty.</blockquote>|
-|高安|包括那首著名的监狱里的犹太人，约瑟夫。<blockquote>bāokuò nà shǒu zhùmíng de jiānyù lǐ de yóutàirén ， Yuēsèfū 。<br />Including the famous song, A Jew in Jail, from Joseph.</blockquote>|
-|马瑞|他是个犹太人，蹲在了监狱里，就没有了希望，也没有了自由。<blockquote>tā shì ge yóutàirén ， dūn zài le jiānyù lǐ ， jiù méiyǒu le xīwàng ， yě méiyǒu le zìyóu 。<br />He is a Jewish person, squatting in jail. He doesn't have any hope, and doesn't have freedom.</blockquote>|
-|高安|世界著名的安德鲁洛依韦伯，快来订购吧！<blockquote>shìjiè zhùmíng de āndélǔ Luòyī wěibó ， kuài lái dìnggòu ba ！<br />The world famous Andrew Lloyd Weber. Place your order soon!</blockquote>|
-|马瑞|也没有了希望，就这样的活着。<blockquote>yě méiyǒule xīwàng ， jiù zhèyàng de huózhe 。<br />Without any hope, he goes on living this way.</blockquote>|
+|甲|女士们，先生们，好消息！我已经咨询过我们的律师。他说我们的合并计划是符合道德的。<blockquote>nǚshìmen ， xiānshēngmen ， hǎo xiāoxi ！ wǒ yǐjīng zīxún guò wǒmen de lǜshī 。 tā shuō wǒmen de hébìng jìhuà shì fúhé dàodé de 。<br />Good news ladies and gentlemen! I've already consulted our lawyer. He says our merger plan is ethical.</blockquote>|
+|乙|嗯... 这可是美国最大的通讯公司。<blockquote>en ... zhè kě shì Měiguó zuì dà de tōngxùn gōngsī 。<br />Uh... but this is the biggest communications company in America.</blockquote>|
+|丙|对！我们需要的是法律支持。<blockquote>duì ！ wǒmen xūyào de shì fǎlǜ zhīchí 。<br />Right! What we need is legal support.</blockquote>|
+|甲|这么道德！怎么会有问题！<blockquote>zhème dàodé ！ zěnme huì yǒu wèntí ！<br />This ethical! What could possibly go wrong!</blockquote>|
+|乙|这不是道德的问题。<blockquote>zhè bù shì dàodé de wèntí 。<br />This isn't a question of ethics.</blockquote>|
+|丙|你知道现在政府对通讯领域的市场交易有多敏感吗？<blockquote>nǐ zhīdào xiànzài zhèngfǔ duì tōngxùn lǐngyù de shìchǎng jiāoyì yǒuduō mǐngǎn ma ？<br />Do you know how sensitive the government is to transactions in the telecommunications field right now?</blockquote>|
+|甲|我们的律师已经通过了他的职业道德考试。不过... 他还没通过律师资格考试。<blockquote>wǒmen de lǜshī yǐjīng tōngguòle tā de zhíyè dàodé kǎoshì 。 búguò ... tā hái méi tōngguò lǜshī zīgé kǎoshì 。<br />Our lawyer has already passed his ethics exam, but he still hasn't passed his bar exam.</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|甲|反正，他已经跟我保证了，我们的生意绝对是道德的。<blockquote>fǎnzhèng ， tā yǐjīng gēn wǒ bǎozhèng le ， wǒmen de shēngyi juéduì shì dàodé de 。<br />At any rate, he's already guaranteed it, our business is completely ethical.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|居然|jūrán|unexpectedly|adverb|
-|一向|yīxiàng|always|adverb|
-|弄死|nòngsǐ|to murder|verb|
-|弄坏|nònghuài|to break|verb|
-|弄丢|nòngdiū|to lose|verb|
-|弄乱|nòngluàn|to mess up|verb|
-|警告|jǐnggào|to warn|verb|
-|任何|rènhé|any|other|
-|上帝|shàngdì|God|noun|
-|说话算话|shuōhuà suànhuà|to be true to one's word|verb|
+|咨询|zīxún|to consult|verb|
+|反正|fǎnzhèng|anyway|conjunction|
+|绝对|juéduì|absolutely|adverb|
+|法律|fǎlǜ|law|noun|
+|律师|lǜshī|lawyer|noun|
+|合并|hébìng|to merge|verb|
+|符合|fúhé|to be up to|verb|
+|道德|dàodé|ethics|noun|
+|通讯|tōngxùn|communications|noun|
+|交易|jiāoyì|transaction|noun|
+|敏感|mǐngǎn|sensitive|adjective|
+|资格|zīgé|qualification|noun|

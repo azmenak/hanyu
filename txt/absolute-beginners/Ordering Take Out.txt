@@ -2,33 +2,33 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男的：美女，你好。
-女的：什么?
-男的：美女，你好!
-女的：听不见。
-男的：留个电话吧。
+男：喂，我想点餐。
+女：什么?
+男：我想叫外卖。
+女：啊，行。你要什么?
+男：烤鸭。
 
 ### Pinyin and Translation
 
-男的: 美女，你好。
-      měinǚ ， nǐhǎo 。
-      Hello beautiful.
+男: 喂，我想点餐。
+    wéi ， wǒ xiǎng diǎncān 。
+    Hi, I'd like to order a meal.
 
-女的: 什么?
-      shénme ?
-      What?
+女: 什么?
+    shénme ?
+    What?
 
-男的: 美女，你好!
-      měinǚ ， nǐhǎo !
-      Hey beautiful!
+男: 我想叫外卖。
+    wǒ xiǎng jiào wàimài 。
+    I want to order take-out.
 
-女的: 听不见。
-      tīngbùjiàn 。
-      I can't hear you.
+女: 啊，行。你要什么?
+    a ， xíng 。 nǐ yào shénme ?
+    Ah, OK. What do you want?
 
-男的: 留个电话吧。
-      liú ge diànhuà ba 。
-      Give me your number.
+男: 烤鸭。
+    kǎoyā 。
+    Roast duck.
 ### Vocab
 -喂 (wéi) [exclamation] hello
 -我 (wǒ) [pronoun] I

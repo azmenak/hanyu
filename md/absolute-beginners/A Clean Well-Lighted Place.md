@@ -1,18 +1,17 @@
 # A Clean Well-Lighted Place
 **Absolute Beginners** level
 ### Chinese Text
-女：你叫什么？
-男：我叫布拉德·皮特。你呢？
-女：我叫安杰利娜·朱莉。
-男：啊... 你很漂亮。
+甲：几点关门儿？<br />乙：我们不关门儿。
+甲：是吗？
+乙：对，我们通宵。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|你叫什么？<blockquote>nǐ jiào shénme ？<br />What are you called?</blockquote>|
-|男|我叫布拉德·皮特。你呢？<blockquote>wǒ jiào bùlādé pítè 。 nǐ ne ？<br />I'm Brad Pitt, how about you?</blockquote>|
-|女|我叫安杰利娜·朱莉。<blockquote>wǒ jiào ānjiélìnà · zhūlì 。<br />I'm Angelina Jolie.</blockquote>|
-|男|啊... 你很漂亮。<blockquote>ā ... nǐ hěn piàoliang 。<br />Ah, you are pretty.</blockquote>|
+|甲|几点关门儿？<blockquote>jǐdiǎn guān ménr ？<br />What time do you close?</blockquote>|
+|乙|我们不关门儿。<blockquote>wǒmen bù guān ménr 。<br />We don't close.</blockquote>|
+|甲|是吗？<blockquote>shìma ？<br />Is that the case?</blockquote>|
+|乙|对，我们通宵。<blockquote>duì ， wǒmen tōngxiāo 。<br />Correct, we're open all night.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

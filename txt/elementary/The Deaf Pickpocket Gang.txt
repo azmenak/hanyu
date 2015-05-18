@@ -50,13 +50,15 @@
     dǎkāi zhùtīngqì ， chūlái tóuxiáng ！
     Turn on your hearing aids and come out with yours hands up!
 ### Vocab
--泡泡中文 (Pàopào Zhōngwén) [noun] Popup Chinese
--滚蛋 (gǔndàn) [phrase] scram
--忙 (máng) [adjective] busy
--滚 (gǔn) [verb] to roll
--待见 (dàijian) [verb] to pay attention to
--理 (lǐ) [verb] to pay mind to
--在乎 (zàihu) [verb] to care about
--管 (guǎn) [verb] to deal with
--注意 (zhùyì) [verb] to note
--别管闲事 (biéguǎnxiánshì) [phrase] mind your own business
+-放下 (fàngxià) [verb] to put down
+-武器 (wǔqì) [noun] weapon
+-投降 (tóuxiáng) [verb] surrender
+-夫妻 (fūqī) [noun] man and wife
+-打开 (dǎkāi) [verb] to turn on
+-助听器 (zhùtīngqì) [noun] hearing aid
+-盲 (máng) [adjective] blind
+-盲人 (mángrén) [noun] blind person
+-聋 (lóng) [adjective] deaf
+-聋人 (lóngrén) [noun] deaf person
+-残疾人 (cánjirén) [noun] handicapped person
+-扒手 (páshǒu) [noun] pickpocket

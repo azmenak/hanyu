@@ -1,38 +1,37 @@
 # The Rumor Mill
 **Intermediate** level
 ### Chinese Text
-甲：嗨，你很眼熟，我们认识吗？
-乙：不，我是一个演员。
-甲：哦，你演过什么？
-乙：最著名的，是泰坦尼克号。
-甲：哦，你就是那个意大利人！
-乙：是的，Fabrizio! 我就是里奥的朋友。
-甲：被烟囱砸死的人！
-乙：怎么样？想跟我喝杯咖啡吗？
-甲：那片儿真是太烂了！你知道吗？就为了看那片儿，我排了四个小时的队呢，花了我整整一百二十块钱门票，根本没法看。
+甲：哎，哥们儿我告诉你一个特大的消息。<br />乙：怎么了？
+甲：你知道小王他那女朋友居然是个男的！
+乙：不是吧，是个男的？
+甲：对呀，我也想不通。特漂亮，你知道那么漂亮一个女孩子居然是个男的。
+乙：你别听谁瞎说了吧。
+甲：真的，我不骗你。
+乙：谁跟你说的呀？
+甲：哎，就发现了。
+乙：我靠！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|嗨，你很眼熟，我们认识吗？<blockquote>hài ， nǐ hěn yǎnshóu ， wǒmen rènshi ma ？<br />Hey, you look familiar. Do we know each other?</blockquote>|
-|乙|不，我是一个演员。<blockquote>bù ， wǒ shì yī ge yǎnyuán 。<br />No, I'm an actor.</blockquote>|
-|甲|哦，你演过什么？<blockquote>ò ， nǐ yǎn guò shénme ？<br />Oh, what have you been in?</blockquote>|
-|乙|最著名的，是泰坦尼克号。<blockquote>zuì zhùmíng de ， shì Tàitǎnníkè hào 。<br />The most famous one was Titanic.</blockquote>|
-|甲|哦，你就是那个意大利人！<blockquote>ò ， nǐ jiù shì nà ge Yìdàlì rén ！<br />Oh, you're the Italian!</blockquote>|
-|乙|是的，Fabrizio! 我就是里奥的朋友。<blockquote>shì de ， Fabrizio! wǒ jiùshì lǐào de péngyou 。<br />Yes, Fabrizio! I was Leo's friend.</blockquote>|
-|甲|被烟囱砸死的人！<blockquote>bèi yāncong zásǐ de rén ！<br />The one crushed by the smokestack!</blockquote>|
-|乙|怎么样？想跟我喝杯咖啡吗？<blockquote>zěnmeyàng ？ xiǎng gēn wǒ hē bēi kāfēi ma ？<br />How about it? Want to have a cup of coffee with me?</blockquote>|
-|甲|那片儿真是太烂了！你知道吗？就为了看那片儿，我排了四个小时的队呢，花了我整整一百二十块钱门票，根本没法看。<blockquote>nà piànér zhēn shì tài làn le ！ nǐ zhīdào ma ？ jiù wéile kàn nà piànér ， wǒ páile sì ge xiǎoshí de duì ne ， huā le wǒ zhěngzhěng yībǎi èrshí kuài ménpiào ， gēnběn méifǎ kàn 。<br />That film was awful! Did you know I lined up for four hours to see it, and spent a whole 120 kuai on the tickets? And it wasn't even watchable!</blockquote>|
+|甲|哎，哥们儿我告诉你一个特大的消息。<blockquote>āi ， gēmenr wǒ gàosu nǐ yī ge tè dà de xiāoxi 。<br />Hey dude, I've got some really hot news to tell you.</blockquote>|
+|乙|怎么了？<blockquote>zěnme le ？<br />What is it?</blockquote>|
+|甲|你知道小王他那女朋友居然是个男的！<blockquote>nǐ zhīdào Xiǎo Wáng tā nà nǚpéngyou jūrán shì ge nán de ！<br />Do you know that Xiao Wang's girlfriend is actually a guy?</blockquote>|
+|乙|不是吧，是个男的？<blockquote>bù shì ba ， shì ge nán de ？<br />No way. She's a guy?</blockquote>|
+|甲|对呀，我也想不通。特漂亮，你知道那么漂亮一个女孩子居然是个男的。<blockquote>duì ya ， wǒ yě xiǎng bu tōng 。 tè piàoliang ， nǐ zhīdào nàme piàoliang de yī ge nǚháizi jūrán shì ge nán de 。<br />Yeah. I can't put my mind around it, for such a beautiful girl, you know such a beautiful girl to be a guy.</blockquote>|
+|乙|你别听谁瞎说了吧。<blockquote>nǐ bié tīng shéi xiāshuō le ba 。<br />Don't listen to that sort of nonsense.</blockquote>|
+|甲|真的，我不骗你。<blockquote>zhēnde ， wǒ bù piàn nǐ 。<br />Really, I'm not kidding you.</blockquote>|
+|乙|谁跟你说的呀？<blockquote>shéi gēn nǐ shuō de yā ？<br />Who told you?</blockquote>|
+|甲|哎，就发现了。<blockquote>āi ， jiù fāxiàn le 。<br />Oh, I just found out.</blockquote>|
+|乙|我靠！<blockquote>wǒ kào ！<br />Gosh!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|金字塔|jīnzìtǎ|pyramid|noun|
-|完工|wángōng|to finish construction|verb|
-|装死|zhuāngsǐ|to play dead|verb|
-|装病|zhuāngbìng|to pretend to be sick|verb|
-|装酷|zhuāngkù|to act cool|verb|
-|唠叨|lāodao|to talk incessently|verb|
-|鞭子|biānzi|whip|noun|
-|收拾|shōushi|to clean up|verb|
-|懒鬼|lǎnguǐ|lazy bastard|noun|
-|拖走|tuōzǒu|to drag off|verb|
+|哥们儿|gēmenr|dude|noun|
+|居然|jūrán|surprisingly|adverb|
+|想不通|xiǎng bu tōng|to be unable to comprehend|verb|
+|说不通|shuō bù tōng|to be unable to convince|verb|
+|瞎说|xiāshuō|to talk nonsense|verb|
+|我靠|wǒ kào|darn|slang|
+|哎|āi|hey|onomatopeia|
+|骗|piàn|to cheat|verb|

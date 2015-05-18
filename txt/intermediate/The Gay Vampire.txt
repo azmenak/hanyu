@@ -2,43 +2,53 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：哟，今天心情不错呀！
-乙：你不知道，昨儿晚上我跟一个身材非常火辣的内衣模特过了一夜。
-甲：去哪儿逍遥了？
-乙：在他家。我们首先跳了一支舞，然后我把他放在床上，在他的脖子上开了一个小口，再把吸管插进去，那个味道真是----滴滴香浓，百分之百男人味儿。
-甲：行了！别说了！
-乙：你接受不了了，你鄙视我是不是？因为你知道我是一个同志。
-甲：没有，没有没有，是因为吸血鬼的事儿。
+甲：还记得我怕阳光的事情吗？还有，我很喜欢喝蕃茄汁儿。
+乙：知道。
+甲：不过那些都不是蕃茄汁儿。
+乙：什么？
+甲：我要告诉你的是：我是吸血鬼。
+乙：你不会吸我的血吧？
+甲：应该不会吧。
+乙：哦，那没关系，现在都二十一世纪了。
+甲：不过还有一件事儿。我也是个同性恋。
 
 ### Pinyin and Translation
 
-甲: 哟，今天心情不错呀！
-    yo ， jīntiān xīnqíng bùcuò ya ！
-    Hey, you're in a good mood today!
+甲: 还记得我怕阳光的事情吗？还有，我很喜欢喝蕃茄汁儿。
+    hái jìde wǒ pà yángguāng de shìqing ma ？ háiyǒu ， wǒ hěn xǐhuan hē fānqiézhīr 。
+    Remember that thing about my fear of sunlight? And about how much I like tomato juice?
 
-乙: 你不知道，昨儿晚上我跟一个身材非常火辣的内衣模特过了一夜。
-    nǐ bù zhīdào ， zuór wǎnshang wǒ gēn yī ge shēncái fēicháng huǒlà de nèiyī mótè guò le yī yè 。
-    You don't know. Yesterday I spent the night with an absolutely smoking underwear model.
+乙: 知道。
+    zhīdào 。
+    Yeah.
 
-甲: 去哪儿逍遥了？
-    qù nǎr xiāoyáo le ？
-    Where did you go?
+甲: 不过那些都不是蕃茄汁儿。
+    bùguò nà xiē dōu bù shì fānqiézhīr 。
+    Well, it wasn't tomato juice.
 
-乙: 在他家。我们首先跳了一支舞，然后我把他放在床上，在他的脖子上开了一个小口，再把吸管插进去，那个味道真是----滴滴香浓，百分之百男人味儿。
-    zài tā jiā 。 wǒmen shǒuxiān tiào le yī zhī wǔ ， ránhòu wǒ bǎ tā fàng zài chuáng shàng ， zài tā de bózi shàng kāi le yī ge xiǎokǒu ， zài bǎ xīguǎn chā jìnqù ， nàge wèidao zhēnshì ---- dīdī xiāng nóng ， bǎifēnzhībǎi nánrén wèir 。
-    His place. First we danced, and then I put him on the bed, opened a small hole in his neck and stuck in my straw. Every drop tasted really fragrant. 100% man-flavor.
+乙: 什么？
+    shénme ？
+    What?
 
-甲: 行了！别说了！
-    xíng le ！ bié shuō le ！
-    That's enough! Stop talking about it!
+甲: 我要告诉你的是：我是吸血鬼。
+    wǒ yào gàosu nǐ de shì ： wǒ shì xīxuèguǐ 。
+    What I want to tell you is, I'm a vampire.
 
-乙: 你接受不了了，你鄙视我是不是？因为你知道我是一个同志。
-    nǐ jiēshòu bu liǎo le ， nǐ bǐshì wǒ shìbùshì ？ yīnwèi nǐ zhīdào wǒ shì yī ge tóngzhì 。
-    You can't take it? You look down on me? It's because I'm gay, no?
+乙: 你不会吸我的血吧？
+    nǐ bù huì xī wǒ de xiě ba ？
+    You won't suck my blood, will you?
 
-甲: 没有，没有没有，是因为吸血鬼的事儿。
-    méiyǒu ， méiyǒu méiyǒu ， shì yīnwèi xīxuèguǐ de shìr 。
-    No, no, no. It's the vampire bit.
+甲: 应该不会吧。
+    yīnggāi bù huì ba 。
+    Probably not.
+
+乙: 哦，那没关系，现在都二十一世纪了。
+    ò ， nà méi guānxi ， xiànzài dōu èrshí yī shìjì le 。
+    Oh, then no worries. It's the 21st century now.
+
+甲: 不过还有一件事儿。我也是个同性恋。
+    búguò hái yǒu yī jiàn shìr 。 wǒ yě shì ge tóngxìngliàn 。
+    But there's one more thing. I'm also a homosexual.
 ### Vocab
 -蕃茄汁儿 (fānqiézhīr) [noun] tomato juice
 -吸血鬼 (xīxuèguǐ) [noun] vampire

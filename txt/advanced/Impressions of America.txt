@@ -6,18 +6,15 @@
 
 ### Pinyin and Translation
 ### Vocab
--旁白 (pángbái) [noun] narrator
--录制 (lùzhì) [verb] to record
--医疗 (yīliáo) [noun] medical treatment
--脊椎 (jǐzhuī) [noun] spine
--歪 (wāi) [adjective] skewed; crooked
--抽筋儿 (chōujīnr) [verb] limb cramp
--岔气儿 (chàqìr) [verb] chest cramp
--崴脚 (wǎijiǎo) [verb] to sprain an ankle
--戳了手指 (chuō le shǒuzhǐ) [verb] to sprain a finger
--扭了背 (niǔ le bèi) [verb] to sprain one's back
--闪了腰 (shǎn le yāo) [verb] to sprain one's waist
--脱臼 (tuōjiù) [verb] to dislocate
--抽风儿 (chōufēngr) [verb] stroke
--淤血 (yūxiě) [noun] bruise
--青了 (qīng le) [verb] to bump against
+-重心 (zhòngxīn) [noun] center of gravity
+-炸雷 (zhàléi) [noun] clap of thunder
+-大忌 (dàjì) [noun] taboo
+-裸奔 (luǒbēn) [noun] streaking
+-奇葩 (qípā) [noun] strange person/thing
+-口哨 (kǒushào) [noun] whistle
+-搭茬儿 (dāchár) [verb] to pick up the thread of a conversation and take part in it
+-醉醺醺 (zuìxūnxūn) [adverb] drunkenly
+-敲竹杠 (qiāozhúgàng) [verb] to rob by a trick
+-帝国主义 (dìguózhǔyì) [noun] imperialism
+-种族歧视 (zhǒngzúqíshì) [noun] racism
+-越描越黑 (yuèmiáoyuèhēi) [other] the more you explain it, the worse it gets

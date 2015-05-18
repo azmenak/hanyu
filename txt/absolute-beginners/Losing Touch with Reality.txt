@@ -25,12 +25,14 @@
     hǎo jí le ！
     Couldn't be better!
 ### Vocab
--他 (tā) [pronoun] he
--我 (wǒ) [pronoun] I
--你 (nǐ) [pronoun] you
--谁 (shéi) [question] who
--是 (shì) [verb] to be
--在 (zài) [verb] to be at
--爱 (ài) [verb] to love
--这儿 (zhèr) [noun] here
--天啊 (tiānā) [noun] heavens
+-盗梦空间 (dàomèng kōngjiān) [noun] Inception
+-它 (tā) [pronoun] it
+-很 (hěn) [adverb] very
+-非常 (fēicháng) [adverb] extremely
+-太 (tài) [adverb] too
+-极了 (jí le) [adverb] to an extreme
+-好 (hǎo) [adjective] good
+-酷 (kù) [adjective] cool
+-复杂 (fùzá) [adjective] complex
+-漂亮 (piàoliang) [adjective] pretty
+-对 (duì) [adjective] correct

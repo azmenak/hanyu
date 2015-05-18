@@ -2,32 +2,36 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：哎呀，这服务太差了。这儿谁管呢？
-乙：饺子。
-甲：谁？
-乙：饺子馆呢！
+甲：这是什么？
+乙：那是......天哪！那是什么？
+甲：嗯，好吃！
+乙：哦。
 
 ### Pinyin and Translation
 
-甲: 哎呀，这服务太差了。这儿谁管呢？
-    aiya ， zhè fúwù tài chà le 。 zhèr shéi guǎn ne ？
-    Great Scott! The service here is awful. Who is in charge!
+甲: 这是什么？
+    zhè shì shénme ？
+    What is this?
 
-乙: 饺子。
-    jiǎozi 。
-    Dumplings.
+乙: 那是......天哪！那是什么？
+    nà shì ...... tiānna ！ nà shì shénme ？
+    That is... good heavens! What is that?
 
-甲: 谁？
-    shéi ？
-    Who?
+甲: 嗯，好吃！
+    Ng ， hǎochī ！
+    Hmmm... tastes good!
 
-乙: 饺子馆呢！
-    jiǎoziguǎn ne ！
-    The dumpling restaurant!
+乙: 哦。
+    ò 。
+    Ewww....
 ### Vocab
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] I
--属 (shǔ) [verb] to belong to
--什么 (shénme) [question] what
--鸡 (jī) [noun] chicken
--别笑了 (bié xiào le) [phrase] stop laughing
+-这 (zhè) [pronoun] this
+-那 (nà) [pronoun] that
+-是 (shì) [verb] to be
+-什么 (shénme) [pronoun] what
+-吃 (chī) [verb] to eat
+-好 (hǎo) [adjective] good
+-好吃 (hǎochī) [adjective] tasty
+-天哪 (tiānna) [phrase] my heavens
+-这是什么 (zhè shì shénme) [phrase] what is this
+-那是什么 (nà shì shénme) [phrase] what is that

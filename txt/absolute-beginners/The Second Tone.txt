@@ -2,48 +2,63 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：你别动!
-乙：没事!
-甲：别动!
-乙：没事!
-甲：别动!
-乙：没....
+中国行
+十一人
+中国人说中文
+英国人说英文
+多花钱
+他行
+他很忙
+中国人花钱
+别烦人
 
 ### Pinyin and Translation
 
-甲: 你别动!
-    nǐ bié dòng !
-    Don't move, you!
+中国行
+Zhōngguó xíng
+China is ok.
 
-乙: 没事!
-    méishì !
-    Don't worry about it!
+十一人
+shíyī rén
+11 people
 
-甲: 别动!
-    bié dòng !
-    Don't move!
+中国人说中文
+Zhōngguórén shuō zhōngwén
+Chinese people speak Chinese
 
-乙: 没事!
-    méishì !
-    There's nothing wrong!
+英国人说英文
+Yīngguórén shuō yīngwén
+People from England speak English
 
-甲: 别动!
-    bié dòng !
-    Don't move!
+多花钱
+duō huāqián
+Spend more money
 
-乙: 没....
-    méi ....
-    There's no....
+他行
+tā xíng
+He is ok
+
+他很忙
+tā hěn máng
+He is very busy
+
+中国人花钱
+Zhōngguórén huāqián
+Chinese people spend money
+
+别烦人
+bié fánrén
+Don't be such a nuisance
 ### Vocab
--谁 (shéi) [question] who
--放屁 (fàngpì) [verb] to fart
--不 (bù) [adverb] not
--是 (shì) [verb] to be
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] me
--很 (hěn) [adverb] very
--臭 (chòu) [adjective] smelly
--吧 (ba) [particle] (suggestion or guess)
--放心 (fàngxīn) [verb] to relax, be at ease
--放手 (fàngshòu) [verb] to release
--屁话 (pìhuà) [phrase] nonsense
+-人 (rén) [noun] person
+-国 (guó) [noun] country
+-瓶 (píng) [measure word] bottle
+-钱 (qián) [noun] money
+-忙 (máng) [adjective] busy
+-烦 (fán) [adjective] bothersome
+-烦人 (fánrén) [adjective] bothersome
+-成 (chéng) [phrase] ok
+-行 (xíng) [phrase] ok
+-中国 (Zhōngguó) [noun] China
+-中国人 (Zhōngguórén) [noun] Chinese person
+-中文 (zhōngwén) [noun] Chinese

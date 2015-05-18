@@ -1,8 +1,7 @@
 # The Hottest Hotpot in Beijing
 **Elementary** level
 ### Chinese Text
-甲：您想吃这个变态辣锅？
-乙：对。
+甲：您想吃这个变态辣锅？<br />乙：对。
 甲：这个超辣。
 乙：没事，我就爱吃辣的。
 甲：上一个老外吃了这个辣死了，就倒在这儿，在我怀里死的。

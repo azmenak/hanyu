@@ -2,86 +2,88 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：当时，我们被困在海边的溶洞里。那个女孩儿说......
-乙：女孩儿？
-甲：哦，那不重要。我们都快被淹死了。
-乙：哪儿不重要？好不好看？
-甲：还行。
-乙：有多好看？
-甲：拜托，我们都快被淹死了。
-乙：从一到十，你打个分儿吧。
-甲：我根本没想那个。
-乙：唉，就是个数字。一？还是八？
-甲：好，八。
-乙：那后来呢？
-甲：后来，后来我们就得救啦。
-乙：我不是说那个。后来你们没留个电话？什么也没发生？
+甲：哦，陆大夫，我发现我最近好像有了一些变化。
+乙：嗯？
+甲：就是... 和您在一起工作的时候，感觉那么幸福。
+乙：啊，是吗？
+甲：我看到花儿是那么美，鸟儿是那么清脆。
+乙：这跟我有关系吗？
+甲：其实... 我的意思是... 最近很有默契。
+乙：啊，我知道。
+甲：您知道？
+乙：你记得三个月前我给你买过一杯咖啡吗？
+甲：啊，好像记得。
+乙：里面放了一颗爱情药。
+甲：爱情药！那这么说，您也爱上我了？
+乙：哦，不是。只是为了科学。我给小狗，小猫，还有阿姨都吃了这个药。你看现在我们的屋子收拾得多么干净。
 
 ### Pinyin and Translation
 
-甲: 当时，我们被困在海边的溶洞里。那个女孩儿说......
-    dāngshí ， wǒmen bèi kùn zài hǎibiān de róngdòng lǐ 。 nà ge nǚháir shuō ......
-    There we were, trapped in the sea cave when that girl said....
+甲: 哦，陆大夫，我发现我最近好像有了一些变化。
+    ò ， Lù Dàifu ， wǒ fāxiàn wǒ zuìjìn hǎoxiàng yǒu le yīxiē biànhuà 。
+    Oh, Doctor Lu. I've discovered that lately I seem to have undergone a few changes.
 
-乙: 女孩儿？
-    nǚháir ？
-    Girl?
+乙: 嗯？
+    en ？
+    Huh?
 
-甲: 哦，那不重要。我们都快被淹死了。
-    ò ， nà bù zhòngyào 。 wǒmen dōu kuài bèi yānsǐ le 。
-    Oh, that's not important. We had almost drowned.
+甲: 就是... 和您在一起工作的时候，感觉那么幸福。
+    jiùshì ... hé nín zài yīqǐ gōngzuò de shíhou ， gǎnjué nàme xìngfú 。
+    It's just that... I've been feeling so fortunate to work together with you lately.
 
-乙: 哪儿不重要？好不好看？
-    nǎr bù zhòngyào ？ hǎo bu hǎokàn ？
-    What do you mean it isn't important? Was she good-looking?
+乙: 啊，是吗？
+    ā ， shìma ？
+    Oh, is that so?
 
-甲: 还行。
-    hái xíng 。
-    She was ok.
+甲: 我看到花儿是那么美，鸟儿是那么清脆。
+    wǒ kàn dào huār shì nàme měi ， niǎoér shì nàme qīngcuì 。
+    I've noticed how beautiful the flowers are, and how wonderfully the birds are singing.
 
-乙: 有多好看？
-    yǒu duō hǎokàn ？
-    How good-looking?
+乙: 这跟我有关系吗？
+    zhè gēn wǒ yǒu guānxi ma ？
+    Does this have anything to do with me?
 
-甲: 拜托，我们都快被淹死了。
-    bàituō ， wǒmen dōu kuài bèi yānsǐ le 。
-    Oh please, we were about to drown.
+甲: 其实... 我的意思是... 最近很有默契。
+    qíshí ... wǒ de yìsi shì ... zuìjìn hěn yǒu mòqi 。
+    Actually... what I mean is... lately I've felt connected to you.
 
-乙: 从一到十，你打个分儿吧。
-    cóng yī dào shí ， nǐ dǎ ge fēnr ba 。
-    From one to ten, pick a number.
+乙: 啊，我知道。
+    ā ， wǒ zhīdào 。
+    Oh, I know.
 
-甲: 我根本没想那个。
-    wǒ gēnběn méi xiǎng nà ge 。
-    I really wasn't thinking of that at all.
+甲: 您知道？
+    nín zhīdào ？
+    You know?
 
-乙: 唉，就是个数字。一？还是八？
-    ai ， jiùshì ge shùzì 。 yī ？ háishì bā ？
-    It's just a number. One? Eight?
+乙: 你记得三个月前我给你买过一杯咖啡吗？
+    nǐ jìde sān ge yuè qián wǒ gěi nǐ mǎiguò yī bēi kāfēi ma ？
+    Do you remember when I bought a cup of coffee for you three months ago?
 
-甲: 好，八。
-    hǎo ， bā 。
-    Ok, eight.
+甲: 啊，好像记得。
+    ā ， hǎoxiàng jìde 。
+    Uh... I think so.
 
-乙: 那后来呢？
-    nà hòulái ne ？
-    So what happened next?
+乙: 里面放了一颗爱情药。
+    lǐmiàn fàngle yī kē àiqíngyào 。
+    I put a love pill inside.
 
-甲: 后来，后来我们就得救啦。
-    hòulái ， hòulái wǒmen jiù déjiù la 。
-    Well, afterwards we were rescued.
+甲: 爱情药！那这么说，您也爱上我了？
+    àiqíngyào ！ nà zhème shuō ， nín yě ài shàng wǒ le ？
+    A love pill! Then that's to say, you've also fallen in love with me?
 
-乙: 我不是说那个。后来你们没留个电话？什么也没发生？
-    wǒ bù shì shuō nà ge 。 hòulái nǐmen méi liú ge diànhuà ？ shénme yě méi fāshēng ？
-    I didn't mean that. Did you get her number? Nothing happened at all?
+乙: 哦，不是。只是为了科学。我给小狗，小猫，还有阿姨都吃了这个药。你看现在我们的屋子收拾得多么干净。
+    ò ， bù shì 。 zhǐ shì wèile kēxué 。 wǒ gěi xiǎogǒu ， xiǎomāo ， hái yǒu āyí dōu chī le zhège yào 。 nǐ kàn xiànzài wǒmen de wūzi shōushi de duōme gānjìng 。
+    Oh, no. It was just for science. I gave some to the puppy and kitten as well as our maid. You can see for yourself how good the housekeeping is these days.
 ### Vocab
--溶洞 (róngdòng) [noun] sea cave
--山洞 (shāndòng) [noun] mountain cave
--根本 (gēnběn) [adverb] basically
--淹死 (yānsǐ) [verb] to drown
--困 (kùn) [verb] to enclose
--得救 (déjiù) [verb] to be rescued
--打个分儿 (dǎ ge fēnr) [phrase] to give marks
--打个招呼 (dǎ ge zhāohu) [phrase] to give a greeting
--打个眼神儿 (dǎ ge yǎnshénr) [phrase] to give a look
--打个手势 (dǎ ge shǒushi) [phrase] to make a gesture
+-变化 (biànhua) [noun] changes
+-幸福 (xìngfú) [adjective] fortunate
+-鸟儿 (niǎoér) [noun] birds
+-花儿 (huār) [noun] flowers
+-清脆 (qīngcuì) [adjective] ringing; clear
+-默契 (mòqi) [noun] tacit understanding
+-气质 (qìzhi) [noun] character
+-缘分 (yuánfēn) [noun] destined connection
+-爱情药 (àiqíngyào) [noun] love potion
+-屋子 (wūzi) [noun] room
+-颗 (kē) [measure word] (measure word for round pills)
+-片 (piàn) [measure word] (measure word for oval pills)

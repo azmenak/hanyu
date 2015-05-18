@@ -2,55 +2,37 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-他去.
-我爱中国.
-今天很热.
-我想去中国.
-你太忙！
-中文不难．
-爸爸爱吃串儿.
+女：你今天怎么样?
+男：我不怎么样。
+女：为什么不怎么样?
+男：因为我熬夜了，很累。
 
 ### Pinyin and Translation
 
-他去.
-tā qù .
-He goes.
+女: 你今天怎么样?
+    nǐ jīntiān zěnmeyàng ?
+    How are you today?
 
-我爱中国.
-wǒ ài Zhōngguó .
-I love China.
+男: 我不怎么样。
+    wǒ bù zěnmeyàng 。
+    I'm not too good.
 
-今天很热.
-jīntiān hěn rè .
-It's hot today.
+女: 为什么不怎么样?
+    wèishénme bù zěnmeyàng ?
+    Why aren't you feeling so good?
 
-我想去中国.
-wǒ xiǎng qù Zhōngguó .
-I want to go to China.
-
-你太忙！
-nǐ tài máng ！
-You're too busy!
-
-中文不难．
-zhōngwén bù nán ．
-Chinese is not difficult.
-
-爸爸爱吃串儿.
-bàba ài chī chuànr .
-Dad loves eating meat-on-a-stick.
+男: 因为我熬夜了，很累。
+    yīnwèi wǒ áoyè le ， hěn lèi 。
+    Because I was up all night, I'm tired.
 ### Vocab
--这个 (zhège) [phrase] this one
--那个 (nàge) [phrase] that one
--块 (kuài) [noun] Chinese dollar
--好 (hǎo) [adjective] good, ok
--一 (yī) [number] one
--二 (èr) [number] two
--三 (sān) [number] three
--四 (sì) [number] four
--五 (wǔ) [number] five
--六 (liù) [number] six
--七 (qī) [number] seven
--八 (bā) [number] eight
--九 (jiǔ) [number] nine
--十 (shí) [number] ten
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] I, me
+-今天 (jīntiān) [time, noun] today
+-怎么样 (zěnmeyàng) [phrase] how is it like
+-不 (bù) [adverb] not, no
+-不怎么样 (bù zěnmeyàng) [phrase] not to be too good
+-为什么 (wèishénme) [question] why
+-因为 (yīnwèi) [conjunction] because
+-熬夜 (áoyè) [verb] to stay up really late
+-很 (hěn) [adverb] very
+-累 (lèi) [adjective] physically exhausted

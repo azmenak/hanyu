@@ -1,8 +1,7 @@
 # A Betrayal of Family
 **Elementary** level
 ### Chinese Text
-甲：老...老大，你...你找我啊？
-乙：还叫老大？
+甲：老...老大，你...你找我啊？<br />乙：还叫老大？
 甲：你是我老大啊。
 乙：女儿都嫁给你了。
 甲：父亲大人。

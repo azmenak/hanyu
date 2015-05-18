@@ -1,43 +1,32 @@
 # From the Archives of the CBC
 **Advanced** level
 ### Chinese Text
-刘：哎，我说你那边儿网怎么样啊？我这边儿慢死了。
-秦：你别说了，我这儿也是。浏览器都打不开网页。
-刘：就是，下载一东西等半天呢。
-秦：你帮我看看那个端口是怎么回事啊。
-刘：我瞅瞅... 插着呢，你看那路由器灯亮着呢。
-秦：我这儿正下载着东西呢。你看，这MSN又掉线了，哎呀！
-刘：哎，我说你那打印机，现在用吗？
-秦：哦... 我帮你看看。好像用不了，你看停电了，开不了。
-刘：得，什么都歇菜。
+甲：在他生命接近尾声的时候，二十世纪最著名的古典音乐钢琴家格伦古尔德创造出了一些迄今为止最伟大的巴赫的作品。本周加拿大广播公司将隆重发行格伦古尔德巴赫合成器系列。<br />甲：这就是巴赫，一个你从来没有听过的巴赫。本CD包括哥尔德堡变奏曲，D小调协奏曲，还有更多。包括对他妈妈的采访。
+乙：他是真的爱那个合成器。其实我和他的父亲也都不太理解。这个... 强迫症。有点儿强迫症。
+甲：你喜欢古典音乐吗？你喜欢八十年代的风格吗？那么本张CD将会是你的最佳选择。格伦古尔德巴赫合成器系列：敬请期待。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|刘|哎，我说你那边儿网怎么样啊？我这边儿慢死了。<blockquote>āi ， wǒ shuō nǐ nàbiānr wǎng zěnme yàng ā ？ wǒ zhèbiānr mànsǐ le 。<br />Hey, how's the Internet over there? It's ridiculously slow over here.</blockquote>|
-|秦|你别说了，我这儿也是。浏览器都打不开网页。<blockquote>nǐ bié shuō le ， wǒ zhèr yě shì 。 liúlǎnqì dōu dǎbùkāi wǎngyè 。<br />I don't want to hear about it, it sucks here too. My browser can't even open anything.</blockquote>|
-|刘|就是，下载一东西等半天呢。<blockquote>jiùshi ， xiàzǎi yī dōngxi děng bàntiān ne 。<br />Yeah, it's taking me ages to download a single thing.</blockquote>|
-|秦|你帮我看看那个端口是怎么回事啊。<blockquote>nǐ bāng wǒ kànkan nàge duānkǒu shì zěnme huíshì ā 。<br />Can you take a look at what's up with that port for me?</blockquote>|
-|刘|我瞅瞅... 插着呢，你看那路由器灯亮着呢。<blockquote>wǒ chǒuchou ... chāzhene ， nǐ kàn nà lùyóuqì dēng liàngzhene 。<br />Looking now... it's plugged in. Look, the router light's on.</blockquote>|
-|秦|我这儿正下载着东西呢。你看，这MSN又掉线了，哎呀！<blockquote>wǒ zhèr zhèng xiàzǎizhe dōngxi ne 。 nǐ kàn ， zhè MSN yòu diàoxiàn le ， āiya ！<br />I'm just downloading something here. Arg! Look! MSN just cut off again.</blockquote>|
-|刘|哎，我说你那打印机，现在用吗？<blockquote>āi ， wǒ shuō nǐ nà dǎyìnjī ， xiànzài yòng ma ？<br />Hey, are you using your printer now?</blockquote>|
-|秦|哦... 我帮你看看。好像用不了，你看停电了，开不了。<blockquote>òu ...  wǒ bāng nǐ kànkan 。 hǎoxiàng yòngbùliǎo ， nǐ kàn tíngdiàn le ， kāibùliǎo 。<br />Uh... I'll take a look for you. Seems it's useless, power is off as you can see. It won't start.</blockquote>|
-|刘|得，什么都歇菜。<blockquote>dé ， shénme dōu xiēcài 。<br />Whatever, it's all messed up.</blockquote>|
+|甲|在他生命接近尾声的时候，二十世纪最著名的古典音乐钢琴家格伦古尔德创造出了一些迄今为止最伟大的巴赫的作品。本周加拿大广播公司将隆重发行格伦古尔德巴赫合成器系列。<blockquote>zài tā shēngmìng jiējìn  wěishēng de shíhou ， èrshí shìjì zuì zhùmíng de gǔdiǎn yīnyuè gāngqínjiā Gélún Gǔěrdé chuàngzào chū le yī xiē qìjīnwéizhǐ zuì wěidà de Bāhè de zuòpǐn 。 běn zhōu Jiānádà guǎngbō gōngsī jiāng lóngzhòng fāxíng Gélún Gǔěrdé Bāhè héchéngqì xìliè 。<br />Towards the end of his life, the most famous classical pianist in the twentieth century released an unprecedented series of Bach pieces. This week, the Canadian Broadcasting Company is gloriously releasing... the Glenn Gould Bach Synthesizer Collection.</blockquote>|
+|甲|这就是巴赫，一个你从来没有听过的巴赫。本CD包括哥尔德堡变奏曲，D小调协奏曲，还有更多。包括对他妈妈的采访。<blockquote>zhè jiùshì Bāhè ， yī ge nǐ cónglái méiyǒu tīngguo de Bāhè 。 běn CD bāokuò Gēěrdébǎo biànzòuqǔ ， D xiǎodiào xiézuòqū ， hái yǒu gèngduō 。 bāokuò duì tā māma de cǎifǎng 。<br />This is Bach, but its a Bach you've never heard before. This CD includes the Goldberg Variations, the Concerto in D-Minor, and much more. It also has an interview with his mother.</blockquote>|
+|乙|他是真的爱那个合成器。其实我和他的父亲也都不太理解。这个... 强迫症。有点儿强迫症。<blockquote>tā shì zhēnde ài nà ge héchéngqì 。 qíshí wǒ hé tā de fùqin yě dōu bù tài lǐjiě 。 zhège . . .  qiǎngpòzhèng 。 yǒu  diǎnr qiǎngpòzhèng 。<br />He really loved that synthesizer. Actually, his father and I never really understood. It was... compulsive. It was a bit compulsive.</blockquote>|
+|甲|你喜欢古典音乐吗？你喜欢八十年代的风格吗？那么本张CD将会是你的最佳选择。格伦古尔德巴赫合成器系列：敬请期待。<blockquote>nǐ xǐhuān gǔdiǎnyīnyuè ma ？ nǐ xǐhuān bāshí niándài de fēnggé ma ？ nàme běn zhāng CD jiāng huì shì nǐ de zuì jiā xuǎnzé 。 Gélún Gǔěrdé Bāhè héchéngqì xìliè ： jìngqǐngqīdài 。<br />Do you like classical music? Do you like 80s music? Then this CD is your best choice. The Glenn Gould Bach Synthesizer Collection: look forward to it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|网|wǎng|network|noun|
-|浏览器|liúlǎnqì|browser|noun|
-|网页|wǎngyè|webpage|noun|
-|端口|duānkǒu|port|noun|
-|打印机|dǎyìnjī|printer|noun|
-|路由器|lùyóuqì|router|noun|
-|好像|hǎoxiàng|as if|adverb|
-|歇菜|xiēcài|messed up|adjective|
-|掉线|diàoxiàn|to drop a connection|verb|
-|下载|xiàzǎi|to download|verb|
-|亮着呢|liàngzhene|to be lit|verb|
-|帮|bāng|to help|verb|
-|停电|tíngdiàn|to black out|verb|
-|慢死了|mànsǐ le|to be really slow|verb|
-|什么都歇菜|shénme dōu xiēcài|everything's messed up|phrase|
+|尾声|wěishēng|closing notes|noun|
+|古典音乐|gǔdiǎn yīnyuè|classical music|noun|
+|钢琴家|gāngqínjiā|pianist|noun|
+|迄今为止|qìjīnwéizhǐ|unprecedented|adjective|
+|合成器|héchéngqì|synthesizer|unknown|
+|变奏曲|biànzòuqǔ|variations|unknown|
+|协奏曲|xiézuòqū|concerto|unknown|
+|强迫症|qiǎngpòzhèng|obsessive-compulsive disorder|unknown|
+|风格|fēnggé|style|noun|
+|小调|xiǎodiào|minor note|noun|
+|大调|dàdiào|major note|noun|
+|余音绕梁三日不绝|yúyīnrǎoliáng sānrìbùjué|great music lingers for three days|phrase|
+|朗朗上口|lánglángshàngkǒu|catchy|phrase|
+|受挫|shòucuò|frustrated|adjective|
+|神曲|shénqǔ|popular song|noun|

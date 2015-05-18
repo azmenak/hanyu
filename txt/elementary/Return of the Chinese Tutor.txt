@@ -2,37 +2,69 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：哎，车钥匙呢？
-乙：不是在你兜里吗？
-甲：没有。我给你了。是你开车来的。
-乙：妈的。
+老师：跟我读：透司特。
+学生：透司特。
+老师：透司特是面包的意思。例如，一杯橙汁，两片儿透司特。
+学生：一杯橙汁，两片儿透司特。
+老师：好。
+学生：一杯橙汁，两片儿透司特。
+老师：透司特。
+学生：这不是轻声吗？
+老师：你是老师吗？跟我读：透司特。还有罢特日。
 
 ### Pinyin and Translation
 
-甲: 哎，车钥匙呢？
-    āi ， chē yàoshi ne ？
-    Hey, where are the car keys?
+老师: 跟我读：透司特。
+      gēn wǒ dú ： tòusītè 。
+      Read with me: toast.
 
-乙: 不是在你兜里吗？
-    bù shì zài nǐ dōu lǐ ma ？
-    Aren't they in your pocket?
+学生: 透司特。
+      tòusītè 。
+      Toast.
 
-甲: 没有。我给你了。是你开车来的。
-    méiyǒu 。 wǒ gěi nǐ le 。 shì nǐ kāichē lái de 。
-    No. I gave them to you. It was you who drove here.
+老师: 透司特是面包的意思。例如，一杯橙汁，两片儿透司特。
+      tòusītè shì miànbāo de yìsi 。 lìrú ， yī bēi chéngzhī ， liǎng piānr tòusītè 。
+      Toast means bread. For example, a cup of orange juice and two pieces of toast.
 
-乙: 妈的。
-    māde 。
-    Dammit.
+学生: 一杯橙汁，两片儿透司特。
+      yī bēi chéngzhī ， liǎng piànr tòusītè 。
+      A cup of orange juice and two pieces of toast.
+
+老师: 好。
+      hǎo 。
+      Good.
+
+学生: 一杯橙汁，两片儿透司特。
+      yī bēi chéngzhī ， liǎng piànr tòusītè 。
+      A cup of orange juice and two pieces of toast.
+
+老师: 透司特。
+      tòusītè 。
+      Toast.
+
+学生: 这不是轻声吗？
+      zhè bù shì qīngshēng ma ？
+      Isn't this a neutral tone?
+
+老师: 你是老师吗？跟我读：透司特。还有罢特日。
+      nǐ shì lǎoshī ma ？ gēn wǒ dú ： tòusītè 。 hái yǒu bàtèrì 。
+      Are you the teacher? Read with me: toast and butter.
 ### Vocab
--丢 (diū) [verb] to lose
--钥匙 (yàoshi) [noun] key
--开车 (kāichē) [verb] to drive a car
--眼镜 (yǎnjìng) [noun] glasses
--妈的 (māde) [phrase] damn
--找到 (zhǎodào) [verb] to find
--插队 (chāduì) [verb] to be sent to the countryside for work
--在地上 (zài dì shàng) [phrase] on the ground
--在兜里 (zài dōu lǐ) [phrase] in one's pocket
--在手里 (zài shǒu lǐ) [phrase] in one's hand
--毛主席 (Máo zhǔxí) [person] Chairman Mao
+-杯 (bēi) [measure word] cup
+-片儿 (piànr) [measure word] piece
+-笔 (bǐ) [noun] pen
+-书 (shū) [noun] book
+-吐司 (tǔsī) [noun] toast
+-黄油 (huángyōu) [noun] butter
+-橙汁 (chéngzhī) [noun] orange juice
+-面包 (miànbāo) [noun] bread
+-轻声 (qīngshēng) [noun] neutral tone
+-老师 (lǎoshī) [noun] teacher
+-铅笔 (qiānbǐ) [noun] pencil
+-作业 (zuòyè) [noun] homework
+-课本 (kèběn) [noun] textbook
+-课文 (kèwén) [noun] passage
+-听写 (tīngxiě) [verb] to take dictation
+-跟我读 (gēn wǒ dú) [phrase] read with me
+-跟我说 (gēn wǒ shuō) [phrase] say it with me
+-再说一遍 (zài shuō yī biàn) [phrase] say it again

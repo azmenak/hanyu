@@ -2,34 +2,66 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：Bunny, 你给你妈买礼物了吗？
-乙：为什么？
-甲：因为母亲节！
-乙：哦，我忘了！
+甲：嗨，Selina！
+Selina：嗨！
+甲：你这件T恤衫真好看。
+Selina：好看吧？
+甲：是什么牌子的呢？
+Selina：是泡泡中文的。
+甲：哦，泡泡中文！
+Selina：嗯。
+甲：没听说过。
 
 ### Pinyin and Translation
 
-甲: Bunny, 你给你妈买礼物了吗？
-    Bunny, nǐ gěi nǐ mā mǎi lǐwù le ma ？
-    Bunny, did you buy a present for your mom?
+甲: 嗨，Selina！
+    hāi ， Selina ！
+    Hi,Selina!
 
-乙: 为什么？
-    wèishénme ？
-    Why?
+Selina: 嗨！
+              hāi ！
+              Hi!
 
-甲: 因为母亲节！
-    yīnwèi mǔqīnjié ！
-    Because of Mother's Day!
+甲: 你这件T恤衫真好看。
+    nǐ zhè jiàn tīxùshān zhēn hǎokàn 。
+    Your t-shirt is really good looking.
 
-乙: 哦，我忘了！
-    o ， wǒ wàng le ！
-    Oh, I forgot!
+Selina: 好看吧？
+              hǎokàn ba ？
+              It's good looking?
+
+甲: 是什么牌子的呢？
+    shì shénme páizi de ne ？
+    What brand is it?
+
+Selina: 是泡泡中文的。
+              shì Pàopào Zhōngwén de 。
+              It's Popup Chinese.
+
+甲: 哦，泡泡中文！
+    ò ， Pàopào Zhōngwén ！
+    Oh, Popup Chinese.
+
+Selina: 嗯。
+              èn 。
+              Yeah.
+
+甲: 没听说过。
+    méi tīngshuō guo 。
+    Haven't heard of it.
 ### Vocab
--必须 (bìxū) [adverb] must
--永远 (yǒngyuǎn) [adverb] forever
--成天 (chéngtiān) [adverb] all day long
--落 (là) [verb] to leave behind
--相信 (xiāngxìn) [verb] to believe
--离开 (líkāi) [verb] to leave
--钱包 (qiánbāo) [noun] wallet
--勾三搭四 (gōusāndāsì) [chengyu] to fool around with undesirables
+-件 (jiàn) [measure word] measure word for clothes
+-T恤衫 (tìxùshān) [noun] T-shirt
+-衬衫 (chènshān) [noun] shirt
+-夹克 (jiákè) [noun] jacket
+-衣服 (yīfu) [noun] clothes
+-条 (tiáo) [measure word] measure word for pants
+-裤子 (kùzi) [noun] pants
+-双 (shuāng) [measure word] measure word for socks and shoes
+-鞋 (xié) [noun] shoes
+-顶 (dǐng) [measure word] measure word for hats
+-帽子 (màozi) [noun] hat
+-过 (guò) [particle] ever
+-没 (méi) [adverb] not yet
+-牌子 (páizi) [noun] brand
+-名牌 (míngpái) [noun] name brand

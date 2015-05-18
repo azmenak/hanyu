@@ -1,26 +1,31 @@
 # In the Army (Huang Xiaoming edition)
 **Elementary** level
 ### Chinese Text
-甲：我给你五分钟的时间，好好儿考虑一下。
-乙：啊，就五分钟？
-甲：好了。
-乙：你等会儿，你等会儿，我捋捋。
-甲：五分钟到了。
-乙：这么快，哥，咱这表坏了吧。
-甲：你的答案是什么？
-乙：我还来不及想呢，我送你一块表，咱们再重新想行不行。
+我是一名军人。<br />我也是一名军人。
+为了保卫国家。
+为了服务人民。
+为了世界和平。
+甲：哎，你看那是黄晓明吗？
+乙：黄头发那个？
+甲：对，穿军装那个。
+乙：不是吧。
+甲：是是是，绝对是。穿军装还挺帅的，但我跟你说我参军那会儿没有一个这么帅的。就我穿得是最帅，真的，就我这是最帅....
+乙：“的”。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我给你五分钟的时间，好好儿考虑一下。<blockquote>wǒ gěi nǐ wǔ fēnzhōng de shíjiān ， hǎohāor kǎolǜ  yīxià 。<br />I'll give you five minutes to think it over.</blockquote>|
-|乙|啊，就五分钟？<blockquote>a ， jiù wǔ fēnzhōng ？<br />Huh, just five minutes?</blockquote>|
-|甲|好了。<blockquote>hǎo le 。<br />Ok.</blockquote>|
-|乙|你等会儿，你等会儿，我捋捋。<blockquote>nǐ děng huǐr ， nǐ děng huìr ， wǒ lǚlv 。<br />Wait a minute. Wait a minute. I'm working it out.</blockquote>|
-|甲|五分钟到了。<blockquote>wǔ fēnzhōng dào le 。<br />Five minutes is up.</blockquote>|
-|乙|这么快，哥，咱这表坏了吧。<blockquote>zhème kuài ， gē ， zá zhè biǎo huài le ba 。<br />So fast? Dude, this watch of ours is broken.</blockquote>|
-|甲|你的答案是什么？<blockquote>nǐ de dáàn shì shénme ？<br />What's your answer?</blockquote>|
-|乙|我还来不及想呢，我送你一块表，咱们再重新想行不行。<blockquote>wǒ hái láibùjí xiǎng ne ， wǒ sòng nǐ yī kuài biǎo ， zánmen zài chóngxīn xiǎng xíng bù xíng 。<br />I haven't had time to think. How about I give you a watch and we start all over again?</blockquote>|
+||我是一名军人。<blockquote>wǒ shì yī míng jūnrén 。<br />I'm a soldier.</blockquote>|
+||我也是一名军人。<blockquote>wǒ yě shì yī míng jūnrén 。<br />I'm a soldier too.</blockquote>|
+||为了保卫国家。<blockquote>wèile bǎowèi  guójiā 。<br />In order to protect the country.</blockquote>|
+||为了服务人民。<blockquote>wèile fúwù rénmín 。<br />In order to serve the people.</blockquote>|
+||为了世界和平。<blockquote>wèile shìjiè hépíng 。<br />For the cause of world peace.</blockquote>|
+|甲|哎，你看那是黄晓明吗？<blockquote>ai ， nǐ kàn nà shì Huáng Xiǎomíng ma ？<br />Hey, does that look like Huang Xiaoming to you?</blockquote>|
+|乙|黄头发那个？<blockquote>huáng tóufa nàge ？<br />The one with dyed hair?</blockquote>|
+|甲|对，穿军装那个。<blockquote>duì ， chuān jūnzhuāng nà ge 。<br />Right, the one wearing military fatigues.</blockquote>|
+|乙|不是吧。<blockquote>bù shì ba 。<br />No way.</blockquote>|
+|甲|是是是，绝对是。穿军装还挺帅的，但我跟你说我参军那会儿没有一个这么帅的。就我穿得是最帅，真的，就我这是最帅....<blockquote>shì shì shì ， juéduì shì 。 chuān jūnzhuāng hái tǐng shuài de ， dàn wǒ gēn nǐ shuō wǒ cānjūn nà huìr méiyǒu yī ge zhème shuài de 。 jiù wǒ chuānde shì zuì shuài ， zhēnde ， jiù wǒ zhè shì zuì shuài . . . .<br />Yes, it is. He's the handsome one wearing military clothing. But let me say tell you -- when I was in the military there wasn't anyone as good looking as that. Except for me. I was the most handsome one. Really. I was the most handsomest.</blockquote>|
+|乙|“的”。<blockquote>“ de ” 。<br />You're an idiot.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

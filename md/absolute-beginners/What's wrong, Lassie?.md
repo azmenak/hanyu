@@ -1,22 +1,25 @@
 # What's wrong, Lassie?
 **Absolute Beginners** level
 ### Chinese Text
-女人：你知道吗？
-男人：你也知道了。
-女人：你什么时候知道的？
-男人：刚才。
-女人：我也是。
-男人：天哪！
+狗：汪... 汪....<br />男人：怎么了，莱西？ 提米怎么了？
+狗：汪汪汪....
+男人：我的天哪，他掉到井里了？
+狗：汪汪汪汪汪汪汪....
+男人：马上要爆炸了？
+狗：汪。
+男人：快上车，我们赶快走。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女人|你知道吗？<blockquote>nǐ zhīdào ma ？<br />Do you know?</blockquote>|
-|男人|你也知道了。<blockquote>nǐ yě zhīdào le 。<br />You know now too?</blockquote>|
-|女人|你什么时候知道的？<blockquote>nǐ shénme shíhou zhīdào de ？<br />When did you find out?</blockquote>|
-|男人|刚才。<blockquote>gāngcái 。<br />Just now.</blockquote>|
-|女人|我也是。<blockquote>wǒ yě shì 。<br />Me too.</blockquote>|
-|男人|天哪！<blockquote>tiānna ！<br />My heavens!</blockquote>|
+|狗|汪... 汪....<blockquote>wàng ... wàng ....<br />Woof... woof....</blockquote>|
+|男人|怎么了，莱西？ 提米怎么了？<blockquote>zěnme le ， Láixī ？  Tímǐ zěnme le ？<br />What's wrong Lassie? What happened to Timmy?</blockquote>|
+|狗|汪汪汪....<blockquote>wàng wàng wàng . . . .<br />Bark, bark, bark....</blockquote>|
+|男人|我的天哪，他掉到井里了？<blockquote>wǒ de tiān na ， tā diàodào jǐng lǐ le ？<br />My heavens, he fell into a well?</blockquote>|
+|狗|汪汪汪汪汪汪汪....<blockquote>wàng wàng wàng wàng wàng wàng wàng . . . .<br />Bark bark bark bark bark bark....</blockquote>|
+|男人|马上要爆炸了？<blockquote>mǎshàng yào bàozhà le ？<br />And it's going to blow up right away?</blockquote>|
+|狗|汪。<blockquote>wàng 。<br />That's right.</blockquote>|
+|男人|快上车，我们赶快走。<blockquote>kuài shàngchē ， wǒmen gǎnkuài zǒu 。<br />Get in the car, we're going at once.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

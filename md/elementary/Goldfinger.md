@@ -1,8 +1,7 @@
 # Goldfinger
 **Elementary** level
 ### Chinese Text
-甲：我们会用这个激光切开金库的大门。不过，我打算先拿你来试一试。
-乙：好热。
+甲：我们会用这个激光切开金库的大门。不过，我打算先拿你来试一试。<br />乙：好热。
 甲：告诉你，我们现在只用了百分之五十的能量。现在我把它调到百分之一百试一下。来！
 乙：更热了。不过还能忍。还受得了。
 
@@ -16,16 +15,20 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|拿|ná|to bring|verb|
-|带|dài|to take|verb|
-|送|sòng|to send|verb|
-|下班|xiàbān|to get off work|verb|
-|兴趣|xìngqu|interest|noun|
-|新年|Xīnnián|New Year|noun|
-|直接|zhíjiē|direct|adjective|
-|公司|gōngsī|company|noun|
-|派对|pàiduì|party|noun|
-|雨伞|yǔsǎn|umbrella|noun|
-|机场|jīchǎng|airport|noun|
-|百合|bǎihé|lily|noun|
-|办公室|bàngōngshì|office|noun|
+|用|yòng|to use|verb|
+|拿|ná|to take|verb|
+|调|tiáo|to adjust|verb|
+|骗|piàn|to cheat|verb|
+|激光|jīguāng|laser|noun|
+|打算|dǎsuàn|to plan|verb|
+|切开|qiēkāi|to cut open|verb|
+|金库|jīnkù|vault|noun|
+|告诉|gàosu|to tell|verb|
+|现在|xiànzài|now|adverb|
+|不过|búguò|but|adverb|
+|能量|néngliàng|energy|noun|
+|忍受|rěnshòu|to bear|verb|
+|钥匙|yàoshi|key|noun|
+|起子|qǐzi|bottle opener|noun|
+|受不了|shòubùliǎo|unable to bear it|phrase|
+|受得了|shòudeliǎo|able to bear it|phrase|

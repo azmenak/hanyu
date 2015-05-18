@@ -1,8 +1,7 @@
 # Awake, Masters of Darkness!
 **Intermediate** level
 ### Chinese Text
-甲：万能的黑暗之神，你的信徒为您准备了伟大的盛宴。
-乙：快醒来吧，快醒来吧。我们已经准备好了山羊之肝。
+甲：万能的黑暗之神，你的信徒为您准备了伟大的盛宴。<br />乙：快醒来吧，快醒来吧。我们已经准备好了山羊之肝。
 甲：黑暗之门，我们命令你打开。
 乙：打开了吗？它怎么没打开呀好像。
 甲：怎么以前成功了，这次却没有呢？
@@ -22,13 +21,25 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|决赛|juésài|tournament finals|noun|
-|本事|běnshì|ability|noun|
-|奖金|jiǎngjīn|prize|noun|
-|还清|huánqīng|to pay off|verb|
-|贷款|dàikuǎn|loan|noun|
-|赌场|dǔchǎng|casino|noun|
-|采取|cǎiqǔ|to take|verb|
-|措施|cuòshī|measure|noun|
-|铺垫|pūdiàn|groundwork|noun|
-|留学生|liúxuéshēng|exchange student|noun|
+|万能|wànnéng|all-powerful|adjective|
+|信徒|xìntú|disciple|noun|
+|盛宴|shèngyàn|feast|noun|
+|命令|mìnglìng|to order|verb|
+|血腥|xuèxīng|bloody|adjective|
+|妖怪|yāoguài|monster|noun|
+|魔鬼|móguǐ|demon|noun|
+|魔法|mófǎ|magic|noun|
+|怨气|yuànqì|resentment|noun|
+|招财|zhāocái|to bring fortune|verb|
+|普及|pǔjí|to educate|verb|
+|典型|diǎnxíng|typical|adjective|
+|撒旦|sàdàn|Satan|noun|
+|蛇精|shéjīng|snake spirit|noun|
+|狐狸精|húlíjīng|fox spirit|noun|
+|五角星|wǔjiǎoxīng|pentagram|noun|
+|万能胶|wànnéngjiāo|super glue|noun|
+|万能钥匙|wànnéngyàoshi|master key|noun|
+|邪恶之神|xiéèzhīshén|spirit of devil|noun|
+|正义之神|zhèngyìzhīshén|spirit of justice|noun|
+|黑暗之神|hēiànzhīshén|spirit of darkness|noun|
+|山羊之肝|shānyángzhīgān|liver of mountain goat|noun|

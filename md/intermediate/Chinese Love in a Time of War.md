@@ -1,8 +1,7 @@
 # Chinese Love in a Time of War
 **Intermediate** level
 ### Chinese Text
-甲：你太天真了。战争里的爱情一文不值。
-乙：你真的没有爱过我吗？
+甲：你太天真了。战争里的爱情一文不值。<br />乙：你真的没有爱过我吗？
 甲：我从来就没有爱过你。
 乙：你怎么能如此无情？
 甲：我要的只是那份名单。
@@ -22,13 +21,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|毕业|bìyè|to graduate|verb|
-|差距|chājù|disparity|noun|
-|连|lián|even|conjunction|
-|家门儿|jiāménr|the threshold of a house|noun|
-|嫌|xián|to dislike; to resent|verb|
-|待遇|dàiyù|treatment|noun|
-|满嘴|mǎnzuǐ|full of mouth|other|
-|借口|jièkǒu|excuses|noun|
-|大小姐|dàxiǎojiě|self-centered woman|noun|
-|脾气|píqì|temper|noun|
+|天真|tiānzhēn|naive|adjective|
+|战争|zhànzhēng|war|noun|
+|爱情|àiqíng|love|noun|
+|一文不值|yīwénbùzhí|to be totally worthless|proverb|
+|从来|cónglái|always|adverb|
+|如此|rúcǐ|in this way|adverb|
+|无情|wúqíng|heartless|adjective|
+|名单|míngdān|list of names|noun|
+|背叛|bèipàn|to betray|verb|
+|为了|wèile|for|preposition|
+|可|kě|(emphatic particle indicating a surprise)|adverb|

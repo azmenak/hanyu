@@ -1,8 +1,7 @@
 # Pinyin Practice - Xi
 **Absolute Beginners** level
 ### Chinese Text
-我喜欢学习中文。
-我不喜欢玩游戏。
+我喜欢学习中文。<br />我不喜欢玩游戏。
 她是西方人。
 我需要休息。
 多学习，行不行？

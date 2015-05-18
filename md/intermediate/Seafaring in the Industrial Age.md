@@ -1,33 +1,39 @@
 # Seafaring in the Industrial Age
 **Intermediate** level
 ### Chinese Text
-甲：亲爱的，你看看，你女儿又躲到柜子里啦！
-乙：我女儿？
-甲：这反正肯定不是从我们家这边遗传的呀！
-乙：这也不是从我这儿来的呀。
-甲：难道...是从那个民工那儿学的？
-旁白：北京昂贵的房价让人望而兴叹，是否已经有外来务工人员悄悄搬进了您的家？金房子保险，让您的家免受外来流动人员的侵扰。
+甲：我太喜欢航海了，可以周游世界，而且处处充满了商机。<br />乙：对，数不清的鸟粪....
+甲：你知道的，我就是为了这个才加入的海军。
+丙：船长，我们快靠岸了吗？我闻到了！
+甲：是啊，孩子，这里有取之不尽的鸟粪。
+丙：真的有吃不完那么多吗？
+甲：呵呵呵，你很快就会有属于你的那份了。这儿的鸟粪，足够支持工业时代发展一个世纪。
+丙：耶，我们快到啦！
+甲：孩子... 我永远不会忘记我第一次吃的鸟粪....
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|亲爱的，你看看，你女儿又躲到柜子里啦！<blockquote>qīn`ài de ， nǐ kànkan ， nǐ nǚér yòu duǒdào guìzi lǐ la ！<br />Honey, look, your daughter is hiding in the closet again!</blockquote>|
-|乙|我女儿？<blockquote>wǒ nǚér ？<br />My daughter?</blockquote>|
-|甲|这反正肯定不是从我们家这边遗传的呀！<blockquote>zhè fǎnzhèng kěndìng bù shì cóng wǒmen jiā zhèbiān yíchuán de ya ！<br />Well, this definitely doesn't come from my side of the family!</blockquote>|
-|乙|这也不是从我这儿来的呀。<blockquote>zhè yě bù shì cóng wǒ zhèr lái de ya 。<br />It doesn't come from my side either.</blockquote>|
-|甲|难道...是从那个民工那儿学的？<blockquote>nándào . . . shì cóng nà ge míngōng nàr xué de ？<br />Could it be... she learned this from the laborer?</blockquote>|
-|旁白|北京昂贵的房价让人望而兴叹，是否已经有外来务工人员悄悄搬进了您的家？金房子保险，让您的家免受外来流动人员的侵扰。<blockquote>Běijīng ángguì de fángjià ràng rén wàngérxīngtàn ， shìfǒu yǐjīng yǒu wàilái wùgōng rényuán qiāoqiāo bānjìn le nín de jiā ？ Jīn Fángzi Bǎoxiǎn ， ràng nín de jiā miǎnshòu wàilái liúdòng rényuán de qīnrǎo 。<br />Are Beijing's high prices causing you pain? Have migrant workers already moved into your home? Keep your house free from invasion by non-local workers, use Golden Home Insurance.</blockquote>|
+|甲|我太喜欢航海了，可以周游世界，而且处处充满了商机。<blockquote>wǒ tài xǐhuān hánghǎi le ， kěyǐ zhōuyóu shìjiè ， érqiě chùchù chōngmǎn le shāngjī 。<br />I love sailing the seas. You can see the world and there's opportunity everywhere.</blockquote>|
+|乙|对，数不清的鸟粪....<blockquote>duì ， shǔbùqīng de niǎofèn . . . .<br />Yup. More guano than you can count....</blockquote>|
+|甲|你知道的，我就是为了这个才加入的海军。<blockquote>nǐ zhīdào de ， wǒ jiùshì wèi le zhège cái jiārù de hǎijūn 。<br />You know, this was exactly why I joined the navy.</blockquote>|
+|丙|船长，我们快靠岸了吗？我闻到了！<blockquote>chuánzhǎng ， wǒmen kuài kàoàn le ma ？ wǒ wéndào le ！<br />Captain, are we almost there? I can smell it!</blockquote>|
+|甲|是啊，孩子，这里有取之不尽的鸟粪。<blockquote>shì a ， háizi ， zhèli yǒu qǔzhībùjìn de niǎofèn 。<br />Yes, kiddo. There's more guano here than anyone can use.</blockquote>|
+|丙|真的有吃不完那么多吗？<blockquote>zhēnde yǒu chībuwán nàme duō ma ？<br />Is there really more than anyone can eat?</blockquote>|
+|甲|呵呵呵，你很快就会有属于你的那份了。这儿的鸟粪，足够支持工业时代发展一个世纪。<blockquote>hēhē ā ， nǐ hěn kuài jiù huì yǒu shǔyú nǐ de nà fèn le 。 zhèr de niǎofèn ， zúgòu zhīchí gōngyè shídài fāzhǎn yī ge shìjì 。<br />Ha ha ha. You'll have your share soon enough. There's enough guano here to support the Industrial Age for a whole century.</blockquote>|
+|丙|耶，我们快到啦！<blockquote>ye ， wǒmen kuài dào la ！<br />Yippee, we're almost there!</blockquote>|
+|甲|孩子... 我永远不会忘记我第一次吃的鸟粪....<blockquote>háizi . . .  wǒ yǒngyuǎn bùhuì wàngjì wǒ dìyī cì chī de niǎofèn . . . .<br />Kids... I'll never forget my first taste of guano....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|晚餐会|wǎncānhuì|dinner party|noun|
-|大衣|dàyī|overcoat|noun|
-|奴隶|núlì|slave|noun|
-|养|yǎng|to raise|verb|
-|逃税|táoshuì|to cheat on taxes|verb|
-|拿不住|nábùzhù|to be unable to hold|verb|
-|拿不动|nábùdòng|to be unable to lift|verb|
-|怪|guài|to blame|verb|
-|记性|jìxing|memory|noun|
-|见识|jiànshi|experience|noun|
-|长眼|zhǎng yǎn|to be observant|verb|
+|周游|zhōuyóu|to travel around|verb|
+|靠岸|kàoàn|to near the shore|verb|
+|鸟粪|niǎofèn|guano|noun|
+|鸟屎|niǎoshǐ|bird poo|noun|
+|眼屎|yǎnshǐ|eye crust|noun|
+|耳屎|ěrshǐ|ear wax|noun|
+|鼻屎|bíshǐ|snot|noun|
+|屎壳郎|shǐkeláng|dung beatle|noun|
+|上大号|shàng dàhào|to take a poo|phrase|
+|数不清|shǔbùqīng|countless|phrase|
+|取之不尽|qǔzhībùjìn|inexhaustible|phrase|
+|工业时代|gōngyè shídài|industrial age|noun|

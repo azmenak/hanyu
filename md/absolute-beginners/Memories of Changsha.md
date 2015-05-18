@@ -1,18 +1,17 @@
 # Memories of Changsha
 **Absolute Beginners** level
 ### Chinese Text
-妈妈：小宝，你的中文课怎么样？
-小宝：我学的不是中文！
-妈妈：啊，是吗？
-小宝：妈妈！
+男：不好意思....<br />女：哦？
+男：过一下。
+女：没问题。真见鬼！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|妈妈|小宝，你的中文课怎么样？<blockquote>Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？<br />Darling, how is your Chinese class?</blockquote>|
-|小宝|我学的不是中文！<blockquote>wǒ xué de bù shì Zhōngwén ！<br />What I study isn't Chinese!</blockquote>|
-|妈妈|啊，是吗？<blockquote>a ， shì ma ？<br />Oh, is that so?</blockquote>|
-|小宝|妈妈！<blockquote>māma ！<br />Mother!</blockquote>|
+|男|不好意思....<blockquote>bùhǎoyìsi ....<br />I'm sorry....</blockquote>|
+|女|哦？<blockquote>ò ？<br />Huh?</blockquote>|
+|男|过一下。<blockquote>guòyīxià 。<br />Let me by, please.</blockquote>|
+|女|没问题。真见鬼！<blockquote>méi wèntí 。 zhēnjiànguǐ ！<br />No problem. Dammit!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

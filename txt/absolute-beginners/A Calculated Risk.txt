@@ -2,83 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：Chandler!
-乙：Monica!
-甲：嘿，宝贝儿。咱们去咖啡厅吧。
-乙：好，我们去喝咖啡。
-甲：对。
-乙：对。
-丙：嘿！
-乙：Joey!
-甲：Joey!
-乙：Joey!
-丙：Chandler, Pheobe... 怎么样？
-乙：咖啡？
-甲：对。
-乙：对！
-甲：对！
+甲：我生气了。
+乙：你生什么气呀？
+甲：我生你的气。
+乙：哦，这样啊。
 
 ### Pinyin and Translation
 
-甲: Chandler!
-    Chandler !
-    Chandler!
+甲: 我生气了。
+    wǒ shēngqì le 。
+    I'm angry.
 
-乙: Monica!
-    Monica !
-    Monica!
+乙: 你生什么气呀？
+    nǐ shēng shénme qì ya ？
+    What are you angry about?
 
-甲: 嘿，宝贝儿。咱们去咖啡厅吧。
-    hei ， bǎobèir 。 zánmen qù kāfēitīng ba 。
-    Hey, baby. Let's go to the coffee shop.
+甲: 我生你的气。
+    wǒ shēng nǐ de qì 。
+    I'm angry at you.
 
-乙: 好，我们去喝咖啡。
-    hǎo ， wǒmen qù hē kāfēi 。
-    Ok, let's go drink coffee.
-
-甲: 对。
-    duì 。
-    Right.
-
-乙: 对。
-    duì 。
-    Right.
-
-丙: 嘿！
-    hei ！
-    Hey!
-
-乙: Joey!
-    Joey !
-    Joey!
-
-甲: Joey!
-    Joey !
-    Joey!
-
-乙: Joey!
-    Joey !
-    Joey!
-
-丙: Chandler, Pheobe... 怎么样？
-    Chandler ,  Pheobe . . .  zěnmeyàng ？
-    Chandler, Pheobe... what's up?
-
-乙: 咖啡？
-    kāfēi ？
-    Coffee.
-
-甲: 对。
-    duì 。
-    Right.
-
-乙: 对！
-    duì ！
-    Right!
-
-甲: 对！
-    duì ！
-    Right!
+乙: 哦，这样啊。
+    o ， zhè yàng ā 。
+    Oh, it's like that.
 ### Vocab
 -我 (wǒ) [pronoun] I
 -你 (nǐ) [pronoun] you

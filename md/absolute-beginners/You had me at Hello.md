@@ -1,8 +1,7 @@
 # You had me at Hello
 **Absolute Beginners** level
 ### Chinese Text
-B：你好。
-A：你好吗？
+B：你好。<br />A：你好吗？
 B：我很好，谢谢。
 A：再见！
 
@@ -18,11 +17,9 @@ A：再见！
 |----|----|----|----|
 |你|nǐ|you|pronoun|
 |我|wǒ|I|pronoun|
-|好|hǎo|good|adjective|
-|少|shǎo|few|adjective|
-|有|yǒu|to have|verb|
-|水|shuǐ|water|noun|
-|酒|jiǔ|alcohol|noun|
+|你好|nǐhǎo|hello|phrase|
+|你好吗|nǐhǎo ma|how are you|phrase|
 |很|hěn|very|adverb|
-|美|měi|beautiful|adjective|
-|可爱|kěài|cute|adjective|
+|好|hǎo|good|adjective|
+|谢谢|xièxie|thank you|phrase|
+|再见|zàijiàn|good bye|phrase|

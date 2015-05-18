@@ -1,8 +1,7 @@
 # You Had One Job
 **Elementary** level
 ### Chinese Text
-女人：我就交给你这一件事，一件事！
-男人：怎么啦？
+女人：我就交给你这一件事，一件事！<br />男人：怎么啦？
 女人：还怎么了？你脑残吗？你脑子进水了吧？
 男人：我觉得挺好的。
 女人：挺好的？你知道我们家猫吗？我们家猫做得都比你强。别说猫了。就这桌子，这桌子都比你强。它至少不会把这件事搞砸。
@@ -18,18 +17,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|菜|cài|cuisine|noun|
-|北京|Běijīng|Beijing|city|
-|上海|Shànghǎi|Shanghai|city|
-|贵州|Guìzhōu|Guizhou|city|
-|新疆|Xīnjiāng|Xinjiang|city|
-|西藏|Xīzàng|Tibet|city|
-|敏感|mǐngǎn|sensitive|adjective|
-|伤害|shānghài|to hurt|verb|
-|感情|gǎnqíng|feelings|noun|
-|首都|shǒudū|capital|noun|
-|骄傲|jiāoào|proud|adjective|
-|喜欢|xǐhuān|to like|verb|
+|都|dōu|all|particle|
+|比|bǐ|compared to|particle|
+|强|qiáng|better; stronger|adjective|
+|差|chà|worse|adjective|
+|交给|jiāogěi|to hand over to|verb|
+|脑残|nǎocán|retarded|adjective|
+|桌子|zhuōzi|table|noun|
+|搞砸|gǎozá|to screw up|verb|
+|一件事|yī  jiàn shì|one task; one matter|phrase|
+|怎么啦|zěnme la|what's up|phrase|
 |怎么了|zěnme le|what's wrong|phrase|
-|炸酱面|zhájiàngmiàn|wheat noodles with soybean paste|noun|
-|中国人民|Zhōngguó rénmín|the Chinese people|phrase|
+|脑子进水|nǎozi jìnshuǐ|to have water on the brain|phrase|

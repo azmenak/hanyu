@@ -2,73 +2,19 @@
 ## *advanced* level
 
 ### Chinese Text
-甲：同学们，中央戏剧学院表演第五课，《理查德三世》片段。首先呢，请王同学上来给大家表演一下。
-乙：我们夙愿的冬季......
-甲：现在！前面还有现在两个字儿，给我看清楚啊。
-乙：现在是我们夙愿的冬季，正变成融融的夏景。
-甲：停！情绪一定要饱满，带动你所有的情感。看我的。现在，我们夙愿的冬季，正变成融融的夏景。情绪一定要饱满，看明白没有？你来。
-乙：现在，是我们夙....
-甲：停！你要去想象，想象一下这个人物，他这句台词充满了阴谋，充满了谋杀，充满了野心。再来！
-乙：现在....
-甲：现在....
-乙：现在....
-甲：停！谁把你招进来的？你怎么考进来的？下一个！
+
 
 ### Pinyin and Translation
-
-甲: 同学们，中央戏剧学院表演第五课，《理查德三世》片段。首先呢，请王同学上来给大家表演一下。
-    tóngxuémen ， Zhōngyāng Xìjù Xuéyuàn biǎoyǎn dì wǔ kè , 《 Lǐchádé sānshì 》 piànduàn 。 shǒuxiān ne ， qǐng Wáng tóngxué shànglái gěi dàjiā biǎoyǎn yīxià 。
-    Students, this is the fifth acting class at the Central Drama Academy, focusing on an extract from Richard III. First, I'd like to invite Wang to come up and perform for everyone.
-
-乙: 我们夙愿的冬季......
-    wǒmen sùyuàn de dōngjì ......
-    The winter of our discontent....
-
-甲: 现在！前面还有现在两个字儿，给我看清楚啊。
-    xiànzài ！ qiánmian hái yǒu xiànzài liǎng ge zìr ， gěi wǒ kān qīngchu ā 。
-    Now! There are two characters in front. Pay attention.
-
-乙: 现在是我们夙愿的冬季，正变成融融的夏景。
-    xiànzài shì wǒmen sùyuàn de dōngjì ， zhèng biànchéng róngróng de xiàjǐng 。
-    Now is the winter of our discontent, made glorious summer.
-
-甲: 停！情绪一定要饱满，带动你所有的情感。看我的。现在，我们夙愿的冬季，正变成融融的夏景。情绪一定要饱满，看明白没有？你来。
-    tíng ！ qíngxù yīdìng yào bǎomǎn ， dàidòng nǐ suǒyǒu de qínggǎn 。 kànwǒde 。 xiànzài ， wǒmen sùyuàn de dōngjì ， zhèng biànchéng róngróng de xiàjǐng 。 qíngxù yīdìng yào bǎomǎn ， kàn míngbai méiyǒu ？ nǐ lái 。
-    Stop! You have to do it with full-feeling, so put your emotions into it. Now is the winter of our discontent, made glorious summer. It has to be full of feeling. You get it? Ok, your turn.
-
-乙: 现在，是我们夙....
-    xiànzài ， shì wǒmen sù ....
-    Now, is our winter....
-
-甲: 停！你要去想象，想象一下这个人物，他这句台词充满了阴谋，充满了谋杀，充满了野心。再来！
-    tíng ！ nǐ yào qù xiǎngxiàng ， xiǎngxiàng  yīxià zhège rénwù ， tā zhè jù táicí chōngmǎn le yīnmóu ， chōngmǎn le móushā ， chōngmǎn le yěxīn 。 zàilái ！
-    Stop! You have to imagine, imagine this kind of person. This line is full of plotting and murder and ambition. Try it again!
-
-乙: 现在....
-    xiànzài ....
-    Now....
-
-甲: 现在....
-    xiànzài ....
-    Now....
-
-乙: 现在....
-    xiànzài ....
-    Now....
-
-甲: 停！谁把你招进来的？你怎么考进来的？下一个！
-    tíng ！ shéi bǎ nǐ zhāo jìnlai de ？ nǐ zěnme kǎo jìnlái de ？ xià yī ge ！
-    Enough! Who let you in here? How on earth did you test your way in. Next!
 ### Vocab
--重心 (zhòngxīn) [noun] center of gravity
--炸雷 (zhàléi) [noun] clap of thunder
--大忌 (dàjì) [noun] taboo
--裸奔 (luǒbēn) [noun] streaking
--奇葩 (qípā) [noun] strange person/thing
--口哨 (kǒushào) [noun] whistle
--搭茬儿 (dāchár) [verb] to pick up the thread of a conversation and take part in it
--醉醺醺 (zuìxūnxūn) [adverb] drunkenly
--敲竹杠 (qiāozhúgàng) [verb] to rob by a trick
--帝国主义 (dìguózhǔyì) [noun] imperialism
--种族歧视 (zhǒngzúqíshì) [noun] racism
--越描越黑 (yuèmiáoyuèhēi) [other] the more you explain it, the worse it gets
+-指数 (zhǐshù) [noun] index
+-爆表 (bàobiǎo) [verb] to go off the table
+-刺鼻 (cìbí) [adjective] irritating to the nose
+-自驾 (zìjià) [noun] self-driving
+-牢骚 (láosao) [noun] complaint
+-可吸入 (kěxīrù) [adjective] sniffable
+-明眼人 (míngyǎnrén) [noun] person of good sense
+-露天烧烤 (lùtiānshāokǎo) [noun] open-air barbecue
+-防不胜防 (fángbùshèngfáng) [phrase] hard to guard against
+-防毒面具 (fángdú miànjù) [noun] gas mask
+-空气净化器 (kōngqì jìnghuàqì) [noun] air purifier
+-空气加湿器 (kōngqì jiāshīqì) [noun] air humidifier

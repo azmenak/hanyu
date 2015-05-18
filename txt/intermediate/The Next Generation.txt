@@ -80,15 +80,18 @@
     huò ， zhè Qiāobùsī hái néng xiě hànzì ， tā kě zhēn shì quáncái a ！
     Whoa, Jobs could write in Chinese. What a genius!
 ### Vocab
--判 (pàn) [verb] to judge; to sentence
--证据 (zhèngju) [noun] evidence
--坐牢 (zuòláo) [verb] to be in prison
--监控 (jiānkòng) [verb] to monitor
--录像 (lùxiàng) [noun] recording
--用心 (yòngxīn) [adverb] vigorously; wholeheartedly
--发现 (fāxiàn) [verb] to discover
--走人 (zǒurén) [verb] to get lost
--停车场 (tíngchēchǎng) [noun] parking lot
--目击证人 (mùjī zhèngren) [noun] eyewitness
--收费人员 (shōufèi rényuán) [noun] toll collector
--不在场证明 (bù zài chǎng zhèngmíng) [noun] alibi
+-水货 (shuǐhuò) [noun] tax-free import
+-辟谣 (pìyáo) [verb] to disperse rumors
+-按键 (ànjiàn) [noun] keypad; button
+-时髦 (shímáo) [adjective] fashionable
+-复古 (fùgǔ) [adjective] retro
+-兼容 (jiānróng) [adjective] compatible
+-风格 (fēnggé) [noun] style
+-解锁 (jiěsuǒ) [verb] to unlock
+-升级 (shēngjí) [verb] to upgrade
+-全才 (quáncái) [noun] renaissance man
+-验货 (yànhuò) [verb] to inspect goods
+-实体店 (shítǐdiàn) [noun] demo store
+-专卖店 (zhuānmàidiàn) [noun] brand store
+-电容屏 (diànróngpíng) [noun] touch screen
+-货到付款 (huòdàofùkuǎn) [noun] charge on delivery

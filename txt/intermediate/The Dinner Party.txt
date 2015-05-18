@@ -2,63 +2,117 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：我太喜欢航海了，可以周游世界，而且处处充满了商机。
-乙：对，数不清的鸟粪....
-甲：你知道的，我就是为了这个才加入的海军。
-丙：船长，我们快靠岸了吗？我闻到了！
-甲：是啊，孩子，这里有取之不尽的鸟粪。
-丙：真的有吃不完那么多吗？
-甲：呵呵呵，你很快就会有属于你的那份了。这儿的鸟粪，足够支持工业时代发展一个世纪。
-丙：耶，我们快到啦！
-甲：孩子... 我永远不会忘记我第一次吃的鸟粪....
+甲：哦，亲爱的，你能赏光来晚餐会真是太好了。
+乙：我给你带了一瓶红酒。
+甲：谢谢。把大衣给奴隶。
+丙：请给我。
+甲：我们进去吧。
+乙：现在养奴隶不是犯法吗？
+甲：咳，每个人都这么干，跟逃税一样。
+乙：我们可不逃税。
+甲：嘿！我跟你说过多少次了，奴隶！
+丙：太重了，拿不住....
+乙：哎呀，都怪我大衣太重了。
+甲：你还敢废话！
+丁：亲爱的，怎么啦？
+甲：你看看他！
+丁：跟你说多少次了，想吃饭就得好好干活！
+丙：我知道....
+丁：你又想住冰箱了，是不是，啊？
+乙：哎呀，这不怪他，是我大衣太重了。
+丁：不长记性的，啊，你还跑！
+甲：唉，家庭问题，家庭问题....
 
 ### Pinyin and Translation
 
-甲: 我太喜欢航海了，可以周游世界，而且处处充满了商机。
-    wǒ tài xǐhuān hánghǎi le ， kěyǐ zhōuyóu shìjiè ， érqiě chùchù chōngmǎn le shāngjī 。
-    I love sailing the seas. You can see the world and there's opportunity everywhere.
+甲: 哦，亲爱的，你能赏光来晚餐会真是太好了。
+    o ， qīn_APOS_àide ， nǐ néng shǎngguāng lái wǎncānhuì zhēn shì tài hǎo le 。
+    Oh darling, it's so wonderful you've been able to come to dinner.
 
-乙: 对，数不清的鸟粪....
-    duì ， shǔbùqīng de niǎofèn . . . .
-    Yup. More guano than you can count....
+乙: 我给你带了一瓶红酒。
+    wǒ gěi nǐ dài le yī píng hóngjiǔ 。
+    I brought you a bottle of wine.
 
-甲: 你知道的，我就是为了这个才加入的海军。
-    nǐ zhīdào de ， wǒ jiùshì wèi le zhège cái jiārù de hǎijūn 。
-    You know, this was exactly why I joined the navy.
+甲: 谢谢。把大衣给奴隶。
+    xièxie 。 bǎ dàyī gěi núlì 。
+    Thank you. Give your coat to the slave.
 
-丙: 船长，我们快靠岸了吗？我闻到了！
-    chuánzhǎng ， wǒmen kuài kàoàn le ma ？ wǒ wéndào le ！
-    Captain, are we almost there? I can smell it!
+丙: 请给我。
+    qǐng gěi wǒ 。
+    Please give it to me.
 
-甲: 是啊，孩子，这里有取之不尽的鸟粪。
-    shì a ， háizi ， zhèli yǒu qǔzhībùjìn de niǎofèn 。
-    Yes, kiddo. There's more guano here than anyone can use.
+甲: 我们进去吧。
+    wǒmen jìnqù ba 。
+    And let's go in.
 
-丙: 真的有吃不完那么多吗？
-    zhēnde yǒu chībuwán nàme duō ma ？
-    Is there really more than anyone can eat?
+乙: 现在养奴隶不是犯法吗？
+    xiànzài yǎng núlì bù shì fànfǎ ma ？
+    Isn't slavery illegal these days?
 
-甲: 呵呵呵，你很快就会有属于你的那份了。这儿的鸟粪，足够支持工业时代发展一个世纪。
-    hēhē ā ， nǐ hěn kuài jiù huì yǒu shǔyú nǐ de nà fèn le 。 zhèr de niǎofèn ， zúgòu zhīchí gōngyè shídài fāzhǎn yī ge shìjì 。
-    Ha ha ha. You'll have your share soon enough. There's enough guano here to support the Industrial Age for a whole century.
+甲: 咳，每个人都这么干，跟逃税一样。
+    hai ， měi ge rén dōu zhème gàn ， gēn táoshuì yīyàng 。
+    Oh, everyone does it, just like tax evasion.
 
-丙: 耶，我们快到啦！
-    ye ， wǒmen kuài dào la ！
-    Yippee, we're almost there!
+乙: 我们可不逃税。
+    wǒmen kě bù táoshuì 。
+    We don't cheat on our taxes.
 
-甲: 孩子... 我永远不会忘记我第一次吃的鸟粪....
-    háizi . . .  wǒ yǒngyuǎn bùhuì wàngjì wǒ dìyī cì chī de niǎofèn . . . .
-    Kids... I'll never forget my first taste of guano....
+甲: 嘿！我跟你说过多少次了，奴隶！
+    hei ！ wǒ gēn nǐ shuōguò duōshao cì le ， núlì ！
+    Hey! How many times have I told you, slave!
+
+丙: 太重了，拿不住....
+    tài zhòng le ， nábùzhù . . . .
+    It's too heavy, I can't keep it up....
+
+乙: 哎呀，都怪我大衣太重了。
+    āiya ， dōu guài wǒ dàyī tài zhòng le 。
+    Oh dear, it's my fault for having such a heavy coat.
+
+甲: 你还敢废话！
+    nǐ hái gǎn fèihuà ！
+    And you still dare to talk this way!
+
+丁: 亲爱的，怎么啦？
+    qīn_APOS_àide ， zěnme la ？
+    What is it, honey?
+
+甲: 你看看他！
+    nǐ kànkan tā ！
+    See for yourself!
+
+丁: 跟你说多少次了，想吃饭就得好好干活！
+    gēn nǐ shuō duōshao cì le ， xiǎng chīfàn jiù děi hǎohāo gànhuó ！
+    How many times have I told you? If you want to eat you need to earn your keep!
+
+丙: 我知道....
+    wǒ zhīdào . . . .
+    I know....
+
+丁: 你又想住冰箱了，是不是，啊？
+    nǐ yòu xiǎng zhù bīngxiāng le ， shì bù shì ， a ？
+    So you want to live in the fridge again, is that it?
+
+乙: 哎呀，这不怪他，是我大衣太重了。
+    āiya ， zhè bù guài tā ， shì wǒ dàyī tài zhòng le 。
+    Oh no, this isn't his fault. It's my coat that's too heavy.
+
+丁: 不长记性的，啊，你还跑！
+    bù zhǎng jìxing de ， a ， nǐ hái pǎo ！
+    You forgetful idiot, and now you're trying to run?
+
+甲: 唉，家庭问题，家庭问题....
+    ai ， jiātíng wèntí ， jiātíng wèntí . . . .
+    Oh dear, family problems, family problems....
 ### Vocab
--周游 (zhōuyóu) [verb] to travel around
--靠岸 (kàoàn) [verb] to near the shore
--鸟粪 (niǎofèn) [noun] guano
--鸟屎 (niǎoshǐ) [noun] bird poo
--眼屎 (yǎnshǐ) [noun] eye crust
--耳屎 (ěrshǐ) [noun] ear wax
--鼻屎 (bíshǐ) [noun] snot
--屎壳郎 (shǐkeláng) [noun] dung beatle
--上大号 (shàng dàhào) [phrase] to take a poo
--数不清 (shǔbùqīng) [phrase] countless
--取之不尽 (qǔzhībùjìn) [phrase] inexhaustible
--工业时代 (gōngyè shídài) [noun] industrial age
+-晚餐会 (wǎncānhuì) [noun] dinner party
+-大衣 (dàyī) [noun] overcoat
+-奴隶 (núlì) [noun] slave
+-养 (yǎng) [verb] to raise
+-逃税 (táoshuì) [verb] to cheat on taxes
+-拿不住 (nábùzhù) [verb] to be unable to hold
+-拿不动 (nábùdòng) [verb] to be unable to lift
+-怪 (guài) [verb] to blame
+-记性 (jìxing) [noun] memory
+-见识 (jiànshi) [noun] experience
+-长眼 (zhǎng yǎn) [verb] to be observant

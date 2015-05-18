@@ -2,72 +2,50 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-妈妈：喂？
-小秦：妈妈，我爱你。
-妈妈：我也爱你。
-爸爸：是小秦吗？
-小秦：爸爸，我爱你。
-爸爸：我也爱你。
-小秦：我也爱你。
-爸爸：好。
-妈妈：好。
-小秦：好。
-爸爸：今天就到这吧。
+女：哦，Bradley Cooper!
+男：他是谁？
+女：Bradley，我在这儿！
+男：Bradley Cooper是谁？
+女：我的天啊，Bradley!
+女：Bradley，我爱你！
+男：他是谁？
 
 ### Pinyin and Translation
 
-妈妈: 喂？
-      wéi ？
-      Hello?
+女: 哦，Bradley Cooper!
+    ò ， Bradley Cooper!
+    Oh, Bradley Cooper!
 
-小秦: 妈妈，我爱你。
-      māma ， wǒ ài nǐ 。
-      Mother, I love you.
+男: 他是谁？
+    tā shì shéi ？
+    Who is he?
 
-妈妈: 我也爱你。
-      wǒ yě ài nǐ 。
-      I love you too.
+女: Bradley，我在这儿！
+    Bradley ， wǒ zài zhèr ！
+    Bradley, I'm here!
 
-爸爸: 是小秦吗？
-      shì Xiǎo Qín ma ？
-      Is that Little Qin?
+男: Bradley Cooper是谁？
+    Bradley Cooper shì shéi ？
+    Who is Bradley Cooper?
 
-小秦: 爸爸，我爱你。
-      bàba ， wǒ ài nǐ 。
-      Daddy, I love you.
+女: 我的天啊，Bradley!
+    wǒde tiānā ， Bradley!
+    My heavens, Bradley!
 
-爸爸: 我也爱你。
-      wǒ yě ài nǐ 。
-      I love you too.
+女: Bradley，我爱你！
+    Bradley ， wǒ ài nǐ ！
+    Bradley, I love you!
 
-小秦: 我也爱你。
-      wǒ yě ài nǐ 。
-      I also love you.
-
-爸爸: 好。
-      hǎo 。
-      Alright.
-
-妈妈: 好。
-      hǎo 。
-      OK.
-
-小秦: 好。
-      hǎo 。
-      Good.
-
-爸爸: 今天就到这吧。
-      jīntiān jiù dào zhè ba 。
-      That's about it for today.
+男: 他是谁？
+    tā shì shéi ？
+    Who is he?
 ### Vocab
--盗梦空间 (dàomèng kōngjiān) [noun] Inception
--它 (tā) [pronoun] it
--很 (hěn) [adverb] very
--非常 (fēicháng) [adverb] extremely
--太 (tài) [adverb] too
--极了 (jí le) [adverb] to an extreme
--好 (hǎo) [adjective] good
--酷 (kù) [adjective] cool
--复杂 (fùzá) [adjective] complex
--漂亮 (piàoliang) [adjective] pretty
--对 (duì) [adjective] correct
+-他 (tā) [pronoun] he
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-谁 (shéi) [question] who
+-是 (shì) [verb] to be
+-在 (zài) [verb] to be at
+-爱 (ài) [verb] to love
+-这儿 (zhèr) [noun] here
+-天啊 (tiānā) [noun] heavens

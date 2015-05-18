@@ -1,8 +1,7 @@
 # The Warehouse Scene
 **Advanced** level
 ### Chinese Text
-甲：既然钻石和金条都到手了，赶快撤吧。
-乙：我就眼睁睁地看着小三死在我面前吗？他的血不能白流！
+甲：既然钻石和金条都到手了，赶快撤吧。<br />乙：我就眼睁睁地看着小三死在我面前吗？他的血不能白流！
 丙：他加入我们集团的时候就该料到会有今天！我管不了那么多了，我走了！
 乙：你他妈敢走？给我站住！
 甲：你敢拿枪指着我妹妹，再动一下信不信我毙了你？
@@ -26,11 +25,3 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|何况|hékuàng|and additionally|conjunction|
-|指望|zhǐwàng|to place any hope in|verb|
-|再说|zài shuō|and to say more about this|phrase|
-|更何况|gèng hékuàng|to say nothing of|phrase|
-|更别说|gèng biéshuō|and don't even mention|phrase|
-|唯唯诺诺|wéiwéinuònuò|meek and undomineering|idiom|
-|大庭广众|dàtíngguǎngzhòng|public place with numerous people|idiom|
-|望洋兴叹|wàngyángxīngtàn|to gaze on in vain|idiom|

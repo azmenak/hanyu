@@ -6,17 +6,15 @@
 
 ### Pinyin and Translation
 ### Vocab
--设计图 (shèjìtú) [noun] blueprint
--正事 (zhèngshì) [noun] business matter
--正如 (zhèngrú) [conjunction] just like
--打造 (dǎzào) [verb] to create
--报表 (bàobiǎo) [noun] chart
--救护车 (jiùhùchē) [noun] ambulance
--安危 (ānwēi) [noun] health and welfare
--数据 (shùjù) [noun] data
--诱人 (yòurén) [adjective] enticing
--无视 (wúshì) [verb] to ignore
--替补 (tìbǔ) [noun] substitute
--备胎 (bèitāi) [noun] backup copy
--示范 (shìfàn) [noun] demonstration
--前赴后继 (qiánfùhòujì) [phrase] one after the other
+-老生常谈 (lǎoshēngchángtán) [phrase] common subject of discussion
+-有车族 (yǒuchēzú) [noun] car-owning class
+-卡着点儿 (qiǎzhe diǎnr) [phrase] right on time
+-认同 (rèntóng) [verb] to agree
+-里程数 (lǐchéngshù) [noun] distance
+-开通 (kāitōng) [verb] to open for business
+-表态 (biǎotài) [verb] to express an opinion
+-寸土寸金 (cùntǔcùnjīn) [phrase] land as expensive as gold
+-成正比 (chéngzhèngbǐ) [phrase] in proportion
+-便捷 (biànjié) [adjective] convenient
+-月台 (yuètái) [noun] subway platform
+-巨型犬 (jùxíngquǎn) [noun] large dog

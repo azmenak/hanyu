@@ -1,43 +1,32 @@
 # Who is Bradley Cooper
 **Absolute Beginners** level
 ### Chinese Text
-妈妈：喂？
-小秦：妈妈，我爱你。
-妈妈：我也爱你。
-爸爸：是小秦吗？
-小秦：爸爸，我爱你。
-爸爸：我也爱你。
-小秦：我也爱你。
-爸爸：好。
-妈妈：好。
-小秦：好。
-爸爸：今天就到这吧。
+女：哦，Bradley Cooper!<br />男：他是谁？
+女：Bradley，我在这儿！
+男：Bradley Cooper是谁？
+女：我的天啊，Bradley!
+女：Bradley，我爱你！
+男：他是谁？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|妈妈|喂？<blockquote>wéi ？<br />Hello?</blockquote>|
-|小秦|妈妈，我爱你。<blockquote>māma ， wǒ ài nǐ 。<br />Mother, I love you.</blockquote>|
-|妈妈|我也爱你。<blockquote>wǒ yě ài nǐ 。<br />I love you too.</blockquote>|
-|爸爸|是小秦吗？<blockquote>shì Xiǎo Qín ma ？<br />Is that Little Qin?</blockquote>|
-|小秦|爸爸，我爱你。<blockquote>bàba ， wǒ ài nǐ 。<br />Daddy, I love you.</blockquote>|
-|爸爸|我也爱你。<blockquote>wǒ yě ài nǐ 。<br />I love you too.</blockquote>|
-|小秦|我也爱你。<blockquote>wǒ yě ài nǐ 。<br />I also love you.</blockquote>|
-|爸爸|好。<blockquote>hǎo 。<br />Alright.</blockquote>|
-|妈妈|好。<blockquote>hǎo 。<br />OK.</blockquote>|
-|小秦|好。<blockquote>hǎo 。<br />Good.</blockquote>|
-|爸爸|今天就到这吧。<blockquote>jīntiān jiù dào zhè ba 。<br />That's about it for today.</blockquote>|
+|女|哦，Bradley Cooper!<blockquote>ò ， Bradley Cooper!<br />Oh, Bradley Cooper!</blockquote>|
+|男|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
+|女|Bradley，我在这儿！<blockquote>Bradley ， wǒ zài zhèr ！<br />Bradley, I'm here!</blockquote>|
+|男|Bradley Cooper是谁？<blockquote>Bradley Cooper shì shéi ？<br />Who is Bradley Cooper?</blockquote>|
+|女|我的天啊，Bradley!<blockquote>wǒde tiānā ， Bradley!<br />My heavens, Bradley!</blockquote>|
+|女|Bradley，我爱你！<blockquote>Bradley ， wǒ ài nǐ ！<br />Bradley, I love you!</blockquote>|
+|男|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|盗梦空间|dàomèng kōngjiān|Inception|noun|
-|它|tā|it|pronoun|
-|很|hěn|very|adverb|
-|非常|fēicháng|extremely|adverb|
-|太|tài|too|adverb|
-|极了|jí le|to an extreme|adverb|
-|好|hǎo|good|adjective|
-|酷|kù|cool|adjective|
-|复杂|fùzá|complex|adjective|
-|漂亮|piàoliang|pretty|adjective|
-|对|duì|correct|adjective|
+|他|tā|he|pronoun|
+|我|wǒ|I|pronoun|
+|你|nǐ|you|pronoun|
+|谁|shéi|who|question|
+|是|shì|to be|verb|
+|在|zài|to be at|verb|
+|爱|ài|to love|verb|
+|这儿|zhèr|here|noun|
+|天啊|tiānā|heavens|noun|

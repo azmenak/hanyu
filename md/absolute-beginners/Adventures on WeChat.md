@@ -1,33 +1,54 @@
 # Adventures on WeChat
 **Absolute Beginners** level
 ### Chinese Text
-女：救命！快救我！
-男：你怎么了？
-女：我的心脏，好疼啊！
-男：我去打120.
+[第一部]<br />甲：哎，你有微信吗？
+乙：当然有啊。
+甲：你妹妹呢？
+乙：什么？
+甲：你妹妹的微信号是多少？让她加我。
+[第二部］
+甲：哎，你有微信吗？
+乙：有啊。
+甲：那你妹妹呢？
+乙：什么？我妹妹？
+甲：你妹妹有微信吗？
+乙：她应该也有。
+甲：那你爸爸妈妈用微信吗？
+乙：他们也用。
+甲：好。一家四口。真好。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|救命！快救我！<blockquote>jiùmìng ！ kuài jiù wǒ ！<br />Help! Save me quickly!</blockquote>|
-|男|你怎么了？<blockquote>nǐ zěnme le ？<br />What's wrong?</blockquote>|
-|女|我的心脏，好疼啊！<blockquote>wǒde xīnzàng ， hǎo téng a ！<br />My heart. It's really painful!</blockquote>|
-|男|我去打120.<blockquote>wǒ qù dǎ yāoèrlíng .<br />I'm going to call 120.</blockquote>|
+||[第一部]<blockquote>[ dì  yī bù ]<br />[Part One]</blockquote>|
+|甲|哎，你有微信吗？<blockquote>āi ， nǐ yǒu wēixìn ma ？<br />Hey, do you have Wechat?</blockquote>|
+|乙|当然有啊。<blockquote>dāngrán yǒu ā 。<br />Of course I do.</blockquote>|
+|甲|你妹妹呢？<blockquote>nǐ mèimei ne ？<br />What about your younger sister?</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|甲|你妹妹的微信号是多少？让她加我。<blockquote>nǐ mèimei de wēixìn hào shì duōshǎo ？ ràng tā jiā wǒ 。<br />What's your sister's Wechat number? Make her add me.</blockquote>|
+||[第二部］<blockquote>[ dì  èr bù ］<br />[Part Two]</blockquote>|
+|甲|哎，你有微信吗？<blockquote>āi ， nǐ yǒu wēixìn ma ？<br />Hey, do you have Wechat?</blockquote>|
+|乙|有啊。<blockquote>yǒu ā 。<br />Yeah, I do.</blockquote>|
+|甲|那你妹妹呢？<blockquote>nà nǐ mèimei ne ？<br />What about your younger sister?</blockquote>|
+|乙|什么？我妹妹？<blockquote>shénme ？ wǒ mèimei ？<br />What? My younger sister?</blockquote>|
+|甲|你妹妹有微信吗？<blockquote>nǐ mèimei yǒu wēixìn ma ？<br />Does your sister have Wechat?</blockquote>|
+|乙|她应该也有。<blockquote>tā yīnggāi yě yǒu 。<br />She should have it.</blockquote>|
+|甲|那你爸爸妈妈用微信吗？<blockquote>nà nǐ bàba māma yòng wēixìn ma ？<br />So, do your father and mother use Wechat?</blockquote>|
+|乙|他们也用。<blockquote>tāmen yě yòng 。<br />They also use it.</blockquote>|
+|甲|好。一家四口。真好。<blockquote>hǎo 。 yījiā sì kǒu 。 zhēn hǎo 。<br />That's great. A family of four people. Really good.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|干嘛|gànmá|what are you doing|question|
-|呢|ne|(particle)|particle|
-|看|kàn|to read; to see|verb|
-|书|shū|book|noun|
-|小说|xiǎoshuō|novel|noun|
-|什么|shénme|what|question|
-|能|néng|can|verb|
-|给|gěi|to give|verb|
+|你|nǐ|you|pronoun|
 |我|wǒ|me|pronoun|
-|想|xiǎng|to wish|verb|
-|谢谢|xièxiè|thank you|phrase|
-|人|rén|people|noun|
-|车|chē|car|noun|
-|钱包|qiánbāo|wallet|noun|
-|宝贝儿|bǎobèir|baby|noun|
+|妹妹|mèimei|younger sister|noun|
+|爸爸|bàba|father|noun|
+|妈妈|māma|mother|noun|
+|有|yǒu|to have|verb|
+|用|yòng|to use|verb|
+|加|jiā|to add|verb|
+|微信|wēixìn|wechat|noun|
+|当然|dāngrán|of course|conjunction|
+|什么|shénme|what|question|
+|应该|yīnggāi|should|verb|
+|一家四口|yījiā sì kǒu|a family of four|phrase|

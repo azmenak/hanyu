@@ -1,8 +1,7 @@
 # Feeling Thirsty?
 **Elementary** level
 ### Chinese Text
-甲：给我一瓶水。
-乙：好的。一瓶毒水。
+甲：给我一瓶水。<br />乙：好的。一瓶毒水。
 甲：什么？
 乙：我的意思是，一瓶水。
 甲：你说这水有毒？

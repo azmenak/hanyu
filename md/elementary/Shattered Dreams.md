@@ -1,8 +1,7 @@
 # Shattered Dreams
 **Elementary** level
 ### Chinese Text
-儿子：妈，我怎么了？
-母亲：孩子，这是医院。你出车祸了。
+儿子：妈，我怎么了？<br />母亲：孩子，这是医院。你出车祸了。
 儿子：我的腿好疼啊。
 母亲：傻孩子，你的腿再也不会烦扰你了。医生早上已经把它们切除了。
 儿子：那我以后还能跳舞吗？
@@ -24,13 +23,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|旅游|lǚyóu|travel|noun|
-|指南|zhǐnán|guide|noun|
-|护照|hùzhào|passport|noun|
-|准备|zhǔnbèi|to prepare|verb|
-|机票|jīpiào|airplane ticket|noun|
-|行李|xíngli|luggage|noun|
-|旅行|lǚxíng|tour; trip|noun|
-|签证|qiānzhèng|visa|noun|
-|登记|dēngjì|to register|verb|
-|差不多|chàbuduō|that'll do|phrase|
+|腿|tuǐ|leg|noun|
+|胳膊|gēbo|arm|noun|
+|医院|yīyuàn|hospital|noun|
+|车祸|chēhuò|car accident|noun|
+|傻|shǎ|foolish|adjective|
+|烦扰|fánrǎo|to disturb|verb|
+|打扰|dǎrǎo|to bother|verb|
+|医生|yīshēng|doctor|noun|
+|切除|qiēchú|to cut away|verb|
+|跳舞|tiàowǔ|to dance|verb|
+|天哪|tiānna|heavens|phrase|
+|难道|nándào|can it be that|other|
+|羽毛球|yǔmáoqiú|badminton|verb|

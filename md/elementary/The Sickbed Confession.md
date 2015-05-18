@@ -1,8 +1,7 @@
 # The Sickbed Confession
 **Elementary** level
 ### Chinese Text
-甲：哦......
-乙：兄弟，大夫说你情况很严重呀。
+甲：哦......<br />乙：兄弟，大夫说你情况很严重呀。
 甲：是的。
 乙：你还要什么？
 甲：我要一个......
@@ -32,13 +31,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|准备|zhǔnbèi|to prepare|verb|
-|停|tíng|to stop|verb|
-|别|bié|do not|adverb|
-|行|xíng|ok|adjective|
-|够|gòu|enough|adverb|
-|特|tè|especially|adverb|
-|精心|jīngxīn|whole heartedly|adjective|
-|都|dōu|all|adverb|
-|右手边|yòu shǒubiān|righthand side|phrase|
-|左手边|zuǒ shǒubiān|lefthand side|phrase|
+|兄弟|xiōngdi|dude|pronoun|
+|大夫|dàifu|doctor|noun|
+|情况|qíngkuàng|situation|noun|
+|严重|yánzhòng|serious|adjective|
+|小姐|xiǎojie|young lady|noun|
+|老婆|lǎopo|wife|noun|
+|知道|zhīdào|to know|verb|
+|最后的|zuì hòu de|the last|phrase|
+|愿望|yuànwàng|to desire|verb|
+|拜托|bàituō|give me a break|phrase|

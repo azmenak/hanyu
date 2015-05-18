@@ -1,8 +1,7 @@
 # Insider Gossip
 **Intermediate** level
 ### Chinese Text
-甲：哎，今儿没见9527呀。
-乙：啊，是啊。哎，对了，你说她为什么叫9527呀？
+甲：哎，今儿没见9527呀。<br />乙：啊，是啊。哎，对了，你说她为什么叫9527呀？
 甲：我之前也纳闷儿了很久，后来我打听了，你可别外传啊！
 乙：啊。
 甲：听说呀，她是公安部注册的A级通缉犯。
@@ -28,15 +27,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|华尔街|Huáěrjiē|Wall Street|noun|
-|主要|zhǔyào|main|adjective|
-|项|xiàng|(measure word)|measure word|
-|并购|bìnggòu|acquisition|noun|
-|涉及|shèjí|to involve|verb|
-|利润|lìrùn|profit|noun|
-|具体|jùtǐ|concretely|adverb|
-|独特|dútè|unique|adjective|
-|出色|chūsè|outstanding|adjective|
-|个别|gèbié|individual|adjective|
-|特殊|tèshū|special|adjective|
-|奇特|qítè|strange|adjective|
+|今儿|jīnr|today|noun|
+|纳闷儿|nàmènr|to be vexed|verb|
+|打听|dǎting|to ask around|verb|
+|外传|wàichuán|to spread information|verb|
+|公安部|Gōngānbù|Public Security Bureau|noun|
+|通缉犯|tōngjīfàn|fugitive|noun|
+|监狱|jiānyù|prison|noun|
+|编号|biānhào|serial number|noun|
+|敢情|gǎnqíng|who would imagine|conjunction|
+|越狱|yuèyù|to escape jail|verb|
+|破解|pòjiě|to unlock|verb|

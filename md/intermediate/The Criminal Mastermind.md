@@ -1,8 +1,7 @@
 # The Criminal Mastermind
 **Intermediate** level
 ### Chinese Text
-甲：嘿，兄弟，干嘛呢？
-乙：打电话呢。
+甲：嘿，兄弟，干嘛呢？<br />乙：打电话呢。
 甲：给谁打电话？
 乙：呃....
 甲：不会是那天银行里的那个女警察吧？
@@ -30,17 +29,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|大夫|dàifu|doctor|noun|
-|病历|bìnglì|medical history|noun|
-|预防针|yùfángzhēn|vaccination|noun|
-|病人|bìngrén|patient|noun|
-|艾滋病|àizībìng|AIDS|noun|
-|性病|xìngbìng|venereal disease|noun|
-|癌症|áizhēng|cancer|noun|
-|盲肠炎|mángchángyán|appendicitis|noun|
-|阑尾炎|lánwěiyán|appendicitis|noun|
-|脑炎|nǎoyán|encephalitis|noun|
-|肝炎|gānyán|hepatitis|noun|
-|甲肝|jiǎgān|hepatitis A|noun|
-|乙肝|yǐgān|hepatitis B|noun|
-|丙肝|bǐnggān|hepatitis C|noun|
+|一见钟情|yījiànzhōngqíng|love at first sight|chengyu|
+|坠入爱河|zhuìrùàihé|to fall into the river of love|phrase|
+|自投罗网|zìtóuluówǎng|to give oneself away|chengyu|
+|无法自拔|wúfǎzìbá|to be unable to help oneself|phrase|
+|头套儿|tóutàor|mask|noun|
+|脑袋|nǎodai|head|noun|
+|饥渴|jīkě|eager|adjective|
+|人质|rénzhì|hostage|noun|
+|假头套儿|jiǎtóutàor|wig|noun|
+|劫匪|jiéfěi|robber|noun|

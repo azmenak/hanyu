@@ -2,37 +2,50 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男：谁放屁啦？
-女：不是我。
-男：很臭啊。
-女：是你吧！
+女人：这个十块。
+男人：五块。
+女人：十块。
+男人：七块。
+女人：十块。
+男人：好。十块。
 
 ### Pinyin and Translation
 
-男: 谁放屁啦？
-    shéi fàngpì la ？
-    Who farted?
+女人: 这个十块。
+      zhège shí kuài 。
+      This is ten dollars.
 
-女: 不是我。
-    bù shì wǒ 。
-    It wasn't me.
+男人: 五块。
+      wǔ kuài 。
+      Five dollars.
 
-男: 很臭啊。
-    hěn chòu a 。
-    That really smells.
+女人: 十块。
+      shí kuài 。
+      Ten dollars.
 
-女: 是你吧！
-    shì nǐ ba ！
-    It was you!
+男人: 七块。
+      qī kuài 。
+      Seven dollars.
+
+女人: 十块。
+      shí kuài 。
+      Ten dollars.
+
+男人: 好。十块。
+      hǎo 。 shí kuài 。
+      Ok. Ten dollars.
 ### Vocab
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] I, me
--今天 (jīntiān) [time, noun] today
--怎么样 (zěnmeyàng) [phrase] how is it like
--不 (bù) [adverb] not, no
--不怎么样 (bù zěnmeyàng) [phrase] not to be too good
--为什么 (wèishénme) [question] why
--因为 (yīnwèi) [conjunction] because
--熬夜 (áoyè) [verb] to stay up really late
--很 (hěn) [adverb] very
--累 (lèi) [adjective] physically exhausted
+-这个 (zhège) [phrase] this one
+-那个 (nàge) [phrase] that one
+-块 (kuài) [noun] Chinese dollar
+-好 (hǎo) [adjective] good, ok
+-一 (yī) [number] one
+-二 (èr) [number] two
+-三 (sān) [number] three
+-四 (sì) [number] four
+-五 (wǔ) [number] five
+-六 (liù) [number] six
+-七 (qī) [number] seven
+-八 (bā) [number] eight
+-九 (jiǔ) [number] nine
+-十 (shí) [number] ten

@@ -1,8 +1,7 @@
 # What happened to my credit card?
 **Absolute Beginners** level
 ### Chinese Text
-甲：机器坏了。
-乙：你的卡呢？
+甲：机器坏了。<br />乙：你的卡呢？
 甲：不行，卡住了。
 乙：去叫服务员。
 
@@ -16,18 +15,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|坏|huài|bad|adjective|
-|好|hǎo|good|adjective|
-|饿|è|hungry|adjective|
-|累|lèi|tired|adjective|
-|不|bù|not|adverb|
-|真|zhēn|truely|adverb|
-|太|tài|too|adverb|
-|孩子|háizi|child|noun|
-|妹妹|mèimei|younger sister|noun|
-|姐姐|jiějie|older sister|noun|
-|那|nà|that|pronoun|
-|给|gěi|to give|verb|
-|我的|wǒde|my|phrase|
-|你的|nǐde|your|phrase|
-|他的|tāde|his|phrase|
+|机器|jīqì|machine|noun|
+|卡|kǎ|card|noun|
+|信用卡|xìnyòngkǎ|credit card|noun|
+|银行卡|yínhángkǎ|bank card|noun|
+|电话卡|diànhuàkǎ|telephone card|noun|
+|电卡|diànkǎ|power card|noun|
+|密码|mìmǎ|password|noun|
+|服务员|fúwùyuán|waiter|noun|
+|坏|huài|to break|verb|
+|卡住|kǎzhù|to stick|verb|
+|输入|shūrù|to enter|verb|
+|行|xíng|ok|adjective|

@@ -2,41 +2,34 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：谁敢打扰我睡觉？
-乙：早上好，您的早餐。
-甲：谁让你进来的？
-乙：哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。
-甲：你最好马上走！
+甲：我们在太空里经历了太多的冒险。
+乙：是的船长，这是我此生最难忘的旅行！
+甲：噢，太刺激了。
 
 ### Pinyin and Translation
 
-甲: 谁敢打扰我睡觉？
-    shéi gǎn dǎrǎo wǒ shuìjiào ？
-    Who dares disturb my slumber?
+甲: 我们在太空里经历了太多的冒险。
+    wǒmen zài tàikōng lǐ jīnglì le tài duō de màoxiǎn 。
+    We've experienced a lot of adventures in space.
 
-乙: 早上好，您的早餐。
-    zǎoshang hǎo ， nín de zǎocān 。
-    Good morning, your breakfast.
+乙: 是的船长，这是我此生最难忘的旅行！
+    shì de chuánzhǎng ， zhè shì wǒ cǐshēng zuì nánwàng de lǚxíng ！
+    Yes Captain, this has been the most unforgettable journey of my life.
 
-甲: 谁让你进来的？
-    shéi ràng nǐ jìnlai de ？
-    Who let you in?
-
-乙: 哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。
-    āiyo ， zhèr zěnme zhème hēi ya ， kuài qǐchuáng ba 。 wǒ bāng nín bǎ chuāngliánr lākāi a 。
-    Goodness gracious is it dark in here. Get up quickly now. I'll just open the curtains for you.
-
-甲: 你最好马上走！
-    nǐ zuìhǎo mǎshàng zǒu ！
-    It would be best for you to leave now!
+甲: 噢，太刺激了。
+    o ， tài cìji le 。
+    Hmm... extremely stimulating.
 ### Vocab
--习近平 (Xí Jìnpíng) [name] Xi Jinping
--从前 (cóngqián) [phrase] once upon a time
--兔子 (tùzi) [noun] rabbit
--知道 (zhīdào) [verb] to know
--让 (ràng) [verb] to let
--遍 (biàn) [measure word] times
--讲 (jiǎng) [verb] to narrate
--故事 (gùshi) [noun] story
--礼貌 (lǐmào) [noun] manners
--孤儿 (gūér) [noun] orphan
+-太空 (tàikōng) [noun] outer space
+-同志 (tóngzhì) [noun] comrade; homosexual
+-冒险 (màoxiǎn) [noun] dangerous adventure
+-此生 (cǐshēng) [noun] in this life
+-旅行 (lǚxíng) [noun] journey
+-难忘 (nánwàng) [adjective] unforgettable
+-刺激 (cìji) [adjective] stimulating
+-受挫 (shòucuò) [adjective] frustrating
+-无聊 (wúliáo) [adjective] boring
+-委屈 (wěiqū) [adjective] unfairly wronged
+-伤心 (shāngxīn) [adjective] wounded; hurt
+-开心 (kāixīn) [adjective] happy
+-吃惊 (chījīng) [adjective] startled

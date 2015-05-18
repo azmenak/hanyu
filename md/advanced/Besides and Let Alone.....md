@@ -1,8 +1,7 @@
 # Besides and Let Alone....
 **Advanced** level
 ### Chinese Text
-我本来就不太想出去逛街，何况天气预报说今天的气温是零下十度。
-我本来就不太想出去逛街，再说天气预报说今天的气温是零下十度。
+我本来就不太想出去逛街，何况天气预报说今天的气温是零下十度。<br />我本来就不太想出去逛街，再说天气预报说今天的气温是零下十度。
 他完全不会切西瓜，更何况他根本不喜欢做家务，你还是别指望他了。
 他完全不会切西瓜，再说他根本不喜欢做家务，你还是别指望他了。
 冬天本来就是一个吃火锅的好季节，更何况他们都嗜辣如命。
@@ -24,13 +23,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|媳妇儿|xífùr|wife|noun|
-|贼|zéi|very|adverb|
-|捂|wǔ|to cover|verb|
-|干啥|gànhá|what are you doing|phrase|
-|磨磨唧唧|mòmòjījī|dawdling|adjective|
-|赶趟儿|gǎntàngr|in time|phrase|
-|麻溜儿|máliūr|hurry up|adverb|
-|嘶哈|sīhā|the sound you make when you are cold|sound|
-|煞楞儿|shālèngr|quick, hurry up|adverb|
-|戈能|gēneng|trash|noun|
+|何况|hékuàng|and additionally|conjunction|
+|指望|zhǐwàng|to place any hope in|verb|
+|再说|zài shuō|and to say more about this|phrase|
+|更何况|gèng hékuàng|to say nothing of|phrase|
+|更别说|gèng biéshuō|and don't even mention|phrase|
+|唯唯诺诺|wéiwéinuònuò|meek and undomineering|idiom|
+|大庭广众|dàtíngguǎngzhòng|public place with numerous people|idiom|
+|望洋兴叹|wàngyángxīngtàn|to gaze on in vain|idiom|

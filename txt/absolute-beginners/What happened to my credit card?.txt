@@ -25,18 +25,15 @@
     qù jiào fúwùyuán 。
     Go call a staff member.
 ### Vocab
--坏 (huài) [adjective] bad
--好 (hǎo) [adjective] good
--饿 (è) [adjective] hungry
--累 (lèi) [adjective] tired
--不 (bù) [adverb] not
--真 (zhēn) [adverb] truely
--太 (tài) [adverb] too
--孩子 (háizi) [noun] child
--妹妹 (mèimei) [noun] younger sister
--姐姐 (jiějie) [noun] older sister
--那 (nà) [pronoun] that
--给 (gěi) [verb] to give
--我的 (wǒde) [phrase] my
--你的 (nǐde) [phrase] your
--他的 (tāde) [phrase] his
+-机器 (jīqì) [noun] machine
+-卡 (kǎ) [noun] card
+-信用卡 (xìnyòngkǎ) [noun] credit card
+-银行卡 (yínhángkǎ) [noun] bank card
+-电话卡 (diànhuàkǎ) [noun] telephone card
+-电卡 (diànkǎ) [noun] power card
+-密码 (mìmǎ) [noun] password
+-服务员 (fúwùyuán) [noun] waiter
+-坏 (huài) [verb] to break
+-卡住 (kǎzhù) [verb] to stick
+-输入 (shūrù) [verb] to enter
+-行 (xíng) [adjective] ok

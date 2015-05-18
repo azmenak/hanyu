@@ -2,43 +2,50 @@
 ## *elementary* level
 
 ### Chinese Text
-女：你被解雇了！
-男：开玩笑！我是老板的儿子！
-女：什么？我是老板的女儿！
-男：这么说......咱们俩是姐弟......
-女：天哪！这是什么公司！
+甲：哎？你的脸怎么了？
+乙：唉，别提了。我撞树上了。
+甲：我都不认识你了。
+乙：有那么严重吗？
+甲：你这样儿还嫁得出去吗？
+乙：我们能不能别提这事了。
+甲：唉，真难看。
 
 ### Pinyin and Translation
 
-女: 你被解雇了！
-    nǐ bèi jiěgù le ！
-    You're being let go.
+甲: 哎？你的脸怎么了？
+    ai ？ nǐ de liǎn zěnme le ？
+    Hey, what's wrong with your face?
 
-男: 开玩笑！我是老板的儿子！
-    kāiwánxiào ！ wǒ shì lǎobǎn de érzi ！
-    You've got to be kidding. I'm the boss' son.
+乙: 唉，别提了。我撞树上了。
+    āi ， bié tí le 。 wǒ zhuàng shù shàng le 。
+    Oh, don't get me started. I ran into a tree.
 
-女: 什么？我是老板的女儿！
-    shénma ？ wǒ shì lǎobǎn de nǚér ！
-    What? I'm the boss' daughter!
+甲: 我都不认识你了。
+    wǒ dōu bù rènshi nǐ le 。
+    I almost didn't recognize you.
 
-男: 这么说......咱们俩是姐弟......
-    zhème shuō ...... zánmen liǎ shì jiědì ......
-    That means we're brother and sister.
+乙: 有那么严重吗？
+    yǒu nàme yánzhòng ma ？
+    Is it that bad?
 
-女: 天哪！这是什么公司！
-    tiānna ！ zhè shì shénme gōngsī ！
-    Good gracious! What kind of company is this!
+甲: 你这样儿还嫁得出去吗？
+    nǐ zhèyàngr hái jià de chūqù ma ？
+    Are you still going to get married, looking like this?
+
+乙: 我们能不能别提这事了。
+    wǒmen néngbùnéng bié tí zhè shì le 。
+    Can we not talk about this?
+
+甲: 唉，真难看。
+    āi ， zhēn nánkàn 。
+    Wow that's ugly.
 ### Vocab
--离开 (líkāi) [verb] to leave
--放手 (fàngshǒu) [verb] to let go
--一切 (yīqiè) [noun] everything
--咪咪 (Mīmi) [name] Mimi
--咱们 (zánmen) [pronoun] we
--喂 (wèi) [verb] to feed
--记得 (jìde) [verb] to remember
--少来这套 (shǎo lái zhè tào) [phrase] enough of this nonsense
--食 (shí) [noun] food
--需要 (xūyào) [verb] to need
--喂奶 (wèinǎi) [verb] to breast-feed
--上大学 (shàng dàxué) [verb] to attend university
+-脸 (liǎn) [noun] face
+-别提了 (bié tí le) [phrase] don't get me started
+-撞 (zhuàng) [verb] to smash into
+-树 (shù) [noun] tree
+-严重 (yánzhòng) [adjective] serious
+-这样儿 (zhèyàngr) [phrase] this way
+-嫁 (jià) [verb] to marry
+-提 (tí) [verb] to raise
+-难看 (nánkàn) [adjective] ugly

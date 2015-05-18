@@ -2,55 +2,60 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：老乡，请问古墓村怎么走啊？
-甲：对，我们听说那儿爆发了一场很严重的疫病。
-乙：我们是国王派来赈灾的。
-甲：对，这个病会影响人的脑子，不过别担心，我们就是来控制疫情的。再问一下，古墓村怎么走啊？
-乙：将军，看来他有点儿没精神啊。
-甲：唉，山区人民生活太疾苦了，好几天没吃饭了吧？
-甲：我们上路吧。
+甲：这个五日游的套餐里面都有什么内容？
+乙：从北京坐火车到上海，然后运气好的话，你会到达第一个目的地。
+甲：运气好？
+乙：在上海停留三天，然后坐和谐号高速动车去杭州，一等软座。
+甲：从上海到杭州，普快不就一个小时吗？
+乙：如果你能活着到杭州，在那儿游览个三天，然后我们呀，就再安排你坐动车去温州。
+甲：我不想去温州。
+乙：别担心，你可能永远都到不了那儿。
 
 ### Pinyin and Translation
 
-甲: 老乡，请问古墓村怎么走啊？
-    lǎoxiāng ， qǐngwèn Gǔmù cūn zěnme zǒu a ？
-    Fellow countryman, how do we get to Old Tombstone Village?
+甲: 这个五日游的套餐里面都有什么内容？
+    zhège wǔrìyóu de tàocān lǐmiàn dōu yǒu shénme nèiróng ？
+    What's included in the five day package?
 
-甲: 对，我们听说那儿爆发了一场很严重的疫病。
-    duì ， wǒmen tīngshuō nàr bàofā le yī chǎng hěn yánzhòng de yìbìng 。
-    That's right, we've heard there's an outbreak of serious disease there.
+乙: 从北京坐火车到上海，然后运气好的话，你会到达第一个目的地。
+    cóng Běijīng zuò huǒchē dào Shànghǎi ， ránhòu yùnqi hǎo dehuà ， nǐ huì dàodá dì yī ge mùdìdì 。
+    From Beijing you'll take the train to Shanghai, and then - if luck is with you - you'll arrive at your first destination.
 
-乙: 我们是国王派来赈灾的。
-    wǒmen shì guówáng pàilái zhènzāi de 。
-    We were sent by the King to handle disaster relief.
+甲: 运气好？
+    yùnqi hǎo ？
+    If luck is with me?
 
-甲: 对，这个病会影响人的脑子，不过别担心，我们就是来控制疫情的。再问一下，古墓村怎么走啊？
-    duì ， zhège bìng huì yǐngxiǎng rén de nǎozi ， búguò bié dānxīn ， wǒmen jiùshì lái kòngzhi yìqíng de 。 zài wèn yīxià ， Gǔmù cūn zěnme zǒu a ？
-    That's right. The disease will affect people's minds. But don't worry - we've come to control the epidemic. So I ask again, how do we get to Tombstone Village?
+乙: 在上海停留三天，然后坐和谐号高速动车去杭州，一等软座。
+    zài Shànghǎi tíngliú sān tiān ， ránhòu zuò héxiéhào gāosù dòngchē qù Hángzhōu ， yīděng ruǎnzuò 。
+    You'll stay in Shanghai three days before taking the high-speed Harmony line to Hangzhou, first class seating all the way.
 
-乙: 将军，看来他有点儿没精神啊。
-    jiāngjun ， kànlái tā yǒu diǎnr méi jīngshen a 。
-    General, it seems he's a bit listless.
+甲: 从上海到杭州，普快不就一个小时吗？
+    cóng Shànghǎi dào Hángzhōu ， pǔkuài bù jiù yī ge xiǎoshí ma ？
+    Isn't the normal train from Shanghai to Hangzhou just an hour?
 
-甲: 唉，山区人民生活太疾苦了，好几天没吃饭了吧？
-    āi ， shānqū rénmín shēnghuó tài jíkǔ le ， hǎo jǐ tiān méi chī fàn le ba ？
-    Sigh, life is quite hard for the peoples of mountain regions. You haven't eaten for several days, yes?
+乙: 如果你能活着到杭州，在那儿游览个三天，然后我们呀，就再安排你坐动车去温州。
+    rúguǒ nǐ néng huózhe dào Hángzhōu ， zài nàr yóulǎn ge sān tiān ， ránhòu wǒmen ya ， jiù zài ānpái nǐ zuò dòngchē qù Wēnzhōu 。
+    If you survive to Hangzhou, then you'll travel around for three days before we, well, schedule another high-speed trip to Wenzhou.
 
-甲: 我们上路吧。
-    wǒmen shànglù ba 。
-    Let's get going.
+甲: 我不想去温州。
+    wǒ bù xiǎng qù Wēnzhōu 。
+    I don't want to go to Wenzhou.
+
+乙: 别担心，你可能永远都到不了那儿。
+    bié dānxīn ， nǐ kěnéng yǒngyuǎn dōu dàobùliǎo nàr 。
+    Don't worry, you might never make it.
 ### Vocab
--迅猛龙 (xùnměnglóng) [noun] velociraptors
--侏罗纪 (zhūluójì) [noun] Jurassic
--白垩纪 (báièjì) [noun] Cretaceous
--失控 (shīkòng) [verb] to be out of control
--完蛋 (wándàn) [verb] to be finished; to be screwed
--黑客 (hēikè) [noun] hacker
--谢天谢地 (xiètiānxièdì) [phrase] thank heavens
--终端 (zhōngduān) [noun] terminal
--服务器 (fúwùqì) [noun] server
--被和谐 (bèi héxié) [slang] to be censored
--复活 (fùhuó) [verb] to resurrect
--可靠 (kěkào) [adjective] reliable
--翻墙 (fānqiáng) [verb] to evade the firewall
--防火墙 (fánghuǒqiáng) [noun] firewall
+-五日游 (wǔrìyóu) [noun] five-day trip
+-套餐 (tàocān) [noun] package
+-内容 (nèiróng) [noun] content
+-目的地 (mùdìdì) [noun] destination
+-停留 (tíngliú) [verb] to stop over
+-高速 (gāosù) [adjective] high speed
+-普快 (pǔkuài) [adjective] normal speed
+-动车 (dòngchē) [noun] high-speed train
+-游览 (yóulǎn) [verb] sight-seeing
+-慢车 (mànchē) [noun] slow train
+-特快 (tèkuài) [noun] express
+-高铁 (gāotiě) [noun] high-speed train
+-和谐号 (héxiéhào) [noun] Harmony line
+-四大发明 (sìdàfāmíng) [phrase] the four great Chinese inventions

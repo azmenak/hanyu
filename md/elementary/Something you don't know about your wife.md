@@ -1,8 +1,7 @@
 # Something you don't know about your wife
 **Elementary** level
 ### Chinese Text
-[第一个对话]
-甲：很遗憾地告诉你，你的老婆其实是个太监，而且她为我工作。
+[第一个对话]<br />甲：很遗憾地告诉你，你的老婆其实是个太监，而且她为我工作。
 乙：那她都做些什么？
 甲：你什么意思？
 乙：我是说，如果她为你工作，那她天天做什么？

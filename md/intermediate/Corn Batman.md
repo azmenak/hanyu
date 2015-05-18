@@ -1,48 +1,47 @@
 # Corn Batman
 **Intermediate** level
 ### Chinese Text
-甲：亲爱的，一会儿见我妈之前有一件事我得告诉你。
-乙：什么事？
-甲：就是我妈她在年轻的时候失去了一条腿，所以呢，她就对这件事特别敏感。一会儿你无论如何千万不要提到她那条木腿。
-乙：我保证不提。
-甲：行，那我敲门了啊。
-丙：迈克，终于见到你啦。
-乙：伯母，您好。
-丙：不好意思啊，让你久等了，都怪我这条该死的木腿。
-甲：妈，你怎么又提那腿....
-丙：不，迈克不是外人，他应该知道。文革那年，厂里出了事故....
-甲：哎，行了行了。
-丙：哦，哦，那你们俩怎么过来的？
-乙：我们走过来的。
-丙：哦，两个人，四条腿，走过来散散步挺好的哈。那进来吧。
-乙：你们家还是复式呢？
-丙：跟住单层一样，我都好久没上二楼啦。
-乙：为什么呀？
-甲：迈克！
-丙：因为我这条该死的木腿呀，混蛋！
+一<br />甲：它在哪儿？
+乙：关键是，你需要选择。
+甲：告诉我，他们在哪儿？
+乙：你只能救他们中的一个，你的女朋友在王府井大街75号。
+甲：那玉米呢？
+乙：它在南锣鼓巷38号的仓库里，但是你得动作快点儿。
+甲：Gordon，你去找Rachel，我去找玉米。
+二
+甲：警官，你来找我的目的是....
+乙：是Gordon警长，他需要你，他需要蝙蝠侠。
+甲：警长告诉你，我是....
+乙：哦，他不知道你的真实身份，但是我在玉米摊儿一见到你就知道了，任何孤儿都会知道的。
+甲：我....
+乙：Gordon进了下水道，出来的时候满嘴念叨着玉米。
+甲：玉米？
+乙：对，玉米，能够养一支军队的了。
+甲：你不该把这些都汇报给你的上级吗？
+乙：他们笑话了我，听着，我不知道你为什么给Dent的谋杀案背黑锅，但是，我还是相信蝙蝠侠。我们的城市需要你，我们的丰收需要你。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|亲爱的，一会儿见我妈之前有一件事我得告诉你。<blockquote>qīn_APOS_àide ， yīhuìr jiàn wǒ mā zhīqián yǒu yī jiàn shì wǒ děi gàosu nǐ 。<br />Darling, before we see my mother in a moment there's something I need to tell you.</blockquote>|
-|乙|什么事？<blockquote>shénme shì ？<br />What's that?</blockquote>|
-|甲|就是我妈她在年轻的时候失去了一条腿，所以呢，她就对这件事特别敏感。一会儿你无论如何千万不要提到她那条木腿。<blockquote>jiùshì wǒ mā tā zài niánqīng de shíhou shīqù le yī tiáo tuǐ ， suǒyǐ ne ， tā jiù duì zhè jiàn shì tèbié mǐngǎn 。 yīhuìr nǐ wúlùnrúhé qiānwàn bù yào tídào tā nà tiáo mùtuǐ 。<br />It's that she lost a leg when she was younger. And so she's quite sensitive about this. So no matter what happens just don't bring up that leg of hers.</blockquote>|
-|乙|我保证不提。<blockquote>wǒ bǎozhèng bù tí 。<br />I promise I won't.</blockquote>|
-|甲|行，那我敲门了啊。<blockquote>xíng ， nà wǒ qiāomén le a 。<br />Ok, then I'll knock on the door.</blockquote>|
-|丙|迈克，终于见到你啦。<blockquote>Màikè ， zhōngyú jiàndào nǐ la 。<br />Michael, finally we meet.</blockquote>|
-|乙|伯母，您好。<blockquote>bómǔ ， nínhǎo 。<br />Hello, Auntie.</blockquote>|
-|丙|不好意思啊，让你久等了，都怪我这条该死的木腿。<blockquote>bùhǎoyìsi a ， ràng nǐ jiǔděng le ， dōu guài wǒ zhè tiáo gāisǐ de mùtuǐ 。<br />I'm sorry to have kept you waiting, it's all the fault of this damn pegleg of mine.</blockquote>|
-|甲|妈，你怎么又提那腿....<blockquote>mā ， nǐ zěnme yòu tí nà tuǐ ....<br />Mother, why are you bringing up your leg again....</blockquote>|
-|丙|不，迈克不是外人，他应该知道。文革那年，厂里出了事故....<blockquote>bù ， Màikè bù shì wàirén ， tā yīnggāi zhīdào 。 wéngé nà nián ， chǎng lǐ chū le shìgù . . . .<br />No, Michael isn't an outsider and he should know. It was that year during the Cultural Revolution, there was an accident in the factory....</blockquote>|
-|甲|哎，行了行了。<blockquote>ai ， xíng le xíng le 。<br />Hey, that's enough of this.</blockquote>|
-|丙|哦，哦，那你们俩怎么过来的？<blockquote>ò ， ò ， nà nǐmen liǎ zěnme guòlai de ？<br />Oh, fine. So how did you two come over?</blockquote>|
-|乙|我们走过来的。<blockquote>wǒmen zǒu guòlái de 。<br />We walked over.</blockquote>|
-|丙|哦，两个人，四条腿，走过来散散步挺好的哈。那进来吧。<blockquote>ò ， liǎng ge rén ， sì tiáo tuǐ ， zǒu guòlái sànsanbù tǐng hǎo de ha 。 nà jìnlai ba 。<br />Ah. Two people. Four legs. That's just right for a nice stroll, isn't it? Well, come in then.</blockquote>|
-|乙|你们家还是复式呢？<blockquote>nǐmen jiā hái shì fùshì ne ？<br />I didn't know your home was a duplex.</blockquote>|
-|丙|跟住单层一样，我都好久没上二楼啦。<blockquote>gēn zhù dāncéng yīyàng ， wǒ dōu hǎojiǔ méi shàng èrlóu la 。<br />It's the same as having one story to me. I haven't been upstairs in ages.</blockquote>|
-|乙|为什么呀？<blockquote>wèishénme ya ？<br />Why?</blockquote>|
-|甲|迈克！<blockquote>Màikè ！<br />Michael!</blockquote>|
-|丙|因为我这条该死的木腿呀，混蛋！<blockquote>yīnwèi wǒ zhè tiáo gāisǐ de mùtuǐ ya ， húndàn ！<br />Because of my damn wooden leg, you bastard!</blockquote>|
+||一<blockquote>yī<br />Part One</blockquote>|
+|甲|它在哪儿？<blockquote>tā zài nǎr ？<br />Where is it?</blockquote>|
+|乙|关键是，你需要选择。<blockquote>guānjiàn shì ， nǐ xūyào xuǎnzé 。<br />The important thing is, you have to choose.</blockquote>|
+|甲|告诉我，他们在哪儿？<blockquote>gàosu wǒ ， tāmen zài nǎr ？<br />Tell me, where are they?</blockquote>|
+|乙|你只能救他们中的一个，你的女朋友在王府井大街75号。<blockquote>nǐ zhǐ néng jiù tāmen zhōng de yī ge ， nǐ de nǚpéngyou zài Wángfǔjǐng dàjiē qīshíwǔ hào 。<br />You can only rescue one of them. Your girlfriend is at number 75 Wangfujing Street.</blockquote>|
+|甲|那玉米呢？<blockquote>nà yùmǐ ne ？<br />And the corn?</blockquote>|
+|乙|它在南锣鼓巷38号的仓库里，但是你得动作快点儿。<blockquote>tā zài Nánluógǔxiàng sānshíbā hào de cāngkù lǐ ， dànshì nǐ děi dòngzuò kuài  diǎnr 。<br />It's in the warehouse at 38 South Luogu lane. But you'll have to move quickly.</blockquote>|
+|甲|Gordon，你去找Rachel，我去找玉米。<blockquote>Gordon ， nǐ qù zhǎo Rachel ， wǒ qù zhǎo yùmǐ 。<br />Gordon, you go get Rachel, I'm getting the corn.</blockquote>|
+||二<blockquote>èr<br />Part Two</blockquote>|
+|甲|警官，你来找我的目的是....<blockquote>jǐngguān ， nǐ lái zhǎo wǒ de mùdi shì . . . .<br />So officer, why exactly are you here looking for me....</blockquote>|
+|乙|是Gordon警长，他需要你，他需要蝙蝠侠。<blockquote>shì Gordon jǐngzhǎng ， tā xūyào nǐ ， tā xūyào biānfúxiá 。<br />It's Commissioner Gordon. He needs you. He needs the Batman.</blockquote>|
+|甲|警长告诉你，我是....<blockquote>jǐngzhǎng gàosu nǐ ， wǒ shì . . . .<br />The commissioner told you that I'm....</blockquote>|
+|乙|哦，他不知道你的真实身份，但是我在玉米摊儿一见到你就知道了，任何孤儿都会知道的。<blockquote>o ， tā bù zhīdào nǐ de zhēnshí shēnfèn ， dànshì wǒ zài yùmǐ tānr yī jiàndào nǐ jiù zhīdao le ， rènhé gū_APOS_ér dōu huì zhīdao de 。<br />Oh, he doesn't know your true identity. But as soon as I saw you at the corn stand, I knew it. Any orphan would know.</blockquote>|
+|甲|我....<blockquote>wǒ . . . .<br />I....</blockquote>|
+|乙|Gordon进了下水道，出来的时候满嘴念叨着玉米。<blockquote>Gordon jìn le xiàshuǐdào ， chūlai de shíhou mǎnzuǐ niàndaozhe yùmǐ 。<br />Gorden went down into the sewers. And when he came out he was mumbling about corn.</blockquote>|
+|甲|玉米？<blockquote>yùmǐ ？<br />Corn?</blockquote>|
+|乙|对，玉米，能够养一支军队的了。<blockquote>duì ， yùmǐ ， nénggòu yǎng yī zhī jūnduì de le 。<br />That's right... corn. Enough to feed an army.</blockquote>|
+|甲|你不该把这些都汇报给你的上级吗？<blockquote>nǐ bù gāi bǎ zhèxiē dōu huìbào gěi nǐ de shàngjí ma ？<br />Shouldn't you be telling this to your superiors?</blockquote>|
+|乙|他们笑话了我，听着，我不知道你为什么给Dent的谋杀案背黑锅，但是，我还是相信蝙蝠侠。我们的城市需要你，我们的丰收需要你。<blockquote>tāmen xiàohua le wǒ ， tīngzhe ， wǒ bù zhīdào nǐ wèishénme gěi Dent de móushāàn bēihēiguō ， dànshì ， wǒ hái shì xiāngxìn biānfúxiá 。 wǒmen de chéngshì xūyào nǐ ， wǒmen de fēngshōu xūyào nǐ 。<br />They laughed at me. Listen. I don't know why you took the fall for Dent's murder, but I still believe in the Batman. Our city needs you. Our harvest needs you.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

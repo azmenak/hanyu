@@ -60,15 +60,11 @@
     wǒmen zhǐ yǒu yī ge háizi ！
     We only have one child!
 ### Vocab
--变化 (biànhua) [noun] changes
--幸福 (xìngfú) [adjective] fortunate
--鸟儿 (niǎoér) [noun] birds
--花儿 (huār) [noun] flowers
--清脆 (qīngcuì) [adjective] ringing; clear
--默契 (mòqi) [noun] tacit understanding
--气质 (qìzhi) [noun] character
--缘分 (yuánfēn) [noun] destined connection
--爱情药 (àiqíngyào) [noun] love potion
--屋子 (wūzi) [noun] room
--颗 (kē) [measure word] (measure word for round pills)
--片 (piàn) [measure word] (measure word for oval pills)
+-忽略 (hūlǜe) [verb] to ignore
+-所有的 (suǒyǒu de) [phrase] all
+-偏爱 (piānài) [verb] to favor
+-溺爱 (nìài) [verb] to dote upon
+-宠爱 (chǒngài) [verb] to spoil
+-博爱 (bóài) [noun] universal love
+-兼爱 (jiān'ài) [noun] impartial love
+-世博会 (Shìbóhuì) [noun] World Fair

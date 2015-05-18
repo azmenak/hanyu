@@ -1,31 +1,36 @@
 # Box on Head
 **Elementary** level
 ### Chinese Text
-甲：我不喜欢你们这个T 恤衫上的商标，有没有没有的？
-乙：哎哟，他们这儿就这一种。
-丙：哎，您看，我们这儿还有另一种。
-甲：这个好像就是logo小了一点儿，也不是完全没有啊。
-丙：那就没有了。
+甲：你头上怎么有个盒子？<br />乙：盒子，什么盒子？
+甲：这个盒子。
+乙：别说盒子，他们看着呢。
+甲：他们是谁？警察吗？
+乙：警察？我不知道你在说什么。
+甲：我们在说你头上这个盒子。
+乙：我头上没有盒子....
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我不喜欢你们这个T 恤衫上的商标，有没有没有的？<blockquote>wǒ bù xǐhuān nǐmen zhège T xùshān shàng de shāngbiāo ， yǒu méiyǒu méiyǒu de ？<br />I don't like the logo on this t-shirt of yours. Don't you have one without any?</blockquote>|
-|乙|哎哟，他们这儿就这一种。<blockquote>āiyo ， tāmen zhèr jiù zhè yī zhǒng 。<br />Goodness gracious, they only have this one type.</blockquote>|
-|丙|哎，您看，我们这儿还有另一种。<blockquote>āi ， nín kàn ， wǒmen zhèr hái yǒu lìng yī zhǒng 。<br />Hey, look, we also have this other type here.</blockquote>|
-|甲|这个好像就是logo小了一点儿，也不是完全没有啊。<blockquote>zhège hǎoxiàng jiùshì logo xiǎo le yīdiǎnr ， yě bù shì wánquán méiyǒu a 。<br />This just has a slightly smaller logo, it isn't completely without one.</blockquote>|
-|丙|那就没有了。<blockquote>nà jiù méiyǒu le 。<br />Then we don't have any.</blockquote>|
+|甲|你头上怎么有个盒子？<blockquote>nǐ tóushàng zěnme yǒu ge hézi ？<br />Why do you have a box on your head?</blockquote>|
+|乙|盒子，什么盒子？<blockquote>hézi ， shénme hézi ？<br />Box? What box?</blockquote>|
+|甲|这个盒子。<blockquote>zhè ge hézi 。<br />This box.</blockquote>|
+|乙|别说盒子，他们看着呢。<blockquote>bié shuō hézi ， tāmen kànzhe ne 。<br />Don't talk about the box. They're watching.</blockquote>|
+|甲|他们是谁？警察吗？<blockquote>tāmen shì shéi ？ jǐngchá ma ？<br />Who are they? The police?</blockquote>|
+|乙|警察？我不知道你在说什么。<blockquote>jǐngchá ？ wǒ bù zhīdào nǐ zài shuō shénme 。<br />Police? I don't know what you're talking about.</blockquote>|
+|甲|我们在说你头上这个盒子。<blockquote>wǒmen zài shuō nǐ tóushàng zhè ge hézi 。<br />I'm talking about this box on your head.</blockquote>|
+|乙|我头上没有盒子....<blockquote>wǒ tóushàng méiyǒu hézi . . . .<br />I don't have a box on my head....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|之|zhī|(particle)|particle|
-|挺|tǐng|very|adverb|
-|首|shǒu|(measure word)|measure word|
-|跳舞|tiàowǔ|to dance|verb|
-|文化|wénhuà|culture|noun|
-|东西|dōngxi|thing|noun|
-|江南|Jiāngnán|gangnam|noun|
-|泰迪熊|tàidíxióng|teddy bear|noun|
-|美国之音|měiguózhīyīn|the Voice of America|noun|
-|上帝之手|shàngdìzhīshǒu|the Hand of God|noun|
-|音乐之声|yīnyuèzhīshēng|the Sound of Music|noun|
+|在|zài|currently|adverb|
+|别|bié|don't|adverb|
+|怎么|zěnme|how|question|
+|头上|tóushàng|on the head|phrase|
+|盒子|hézi|box|noun|
+|警察|jǐngchá|police|noun|
+|看着|kànzhe|to be watching|verb|
+|听着|tīngzhe|to be listening|verb|
+|说着|shuōzhe|to be talking|verb|
+|吃药|chīyào|to take medicine|verb|
+|睡觉|shuìjiào|to sleep|verb|

@@ -1,27 +1,28 @@
 # A Guide to Supportive Parenting
 **Absolute Beginners** level
 ### Chinese Text
-男：你是谁？
-女：我是你的老婆！
+妈妈：小宝，你的中文课怎么样？<br />小宝：我学的不是中文！
+妈妈：啊，是吗？
+小宝：妈妈！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|你是谁？<blockquote>nǐ shì shéi ？<br />Who are you?</blockquote>|
-|女|我是你的老婆！<blockquote>wǒ shì nǐ de lǎopo ！<br />I'm your wife!</blockquote>|
+|妈妈|小宝，你的中文课怎么样？<blockquote>Xiǎo Bǎo ， nǐ de zhōngwénkè zěnmeyàng ？<br />Darling, how is your Chinese class?</blockquote>|
+|小宝|我学的不是中文！<blockquote>wǒ xué de bù shì Zhōngwén ！<br />What I study isn't Chinese!</blockquote>|
+|妈妈|啊，是吗？<blockquote>a ， shì ma ？<br />Oh, is that so?</blockquote>|
+|小宝|妈妈！<blockquote>māma ！<br />Mother!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|你是谁|nǐ shì shéi|who are you|phrase|
-|我|wǒ|I|pronoun|
-|你|nǐ|you|pronoun|
-|他|tā|he|pronoun|
-|她|tā|she|pronoun|
+|妈妈|māma|mother|noun|
+|中文|zhōngwén|Chinese language|noun|
+|英文|yīngwén|English language|noun|
+|课|kè|class|noun|
 |是|shì|to be|verb|
-|谁|shéi|who|question|
-|我的|wǒ de|my|phrase|
-|你的|nǐ de|your|phrase|
-|他的|tā de|his|phrase|
-|她的|tā de|her|phrase|
-|老婆|lǎopo|wife|noun|
-|老公|lǎogōng|husband|noun|
+|学|xué|to study|verb|
+|吃|chī|to eat|verb|
+|的|de|(subordinating particle)|particle|
+|怎么样|zěnmeyàng|how is it|phrase|
+|汉堡|hànbǎo|hamburger|noun|
+|东西|dōngxi|thing|noun|

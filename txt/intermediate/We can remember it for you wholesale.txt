@@ -85,25 +85,17 @@ Part Two
     hěn yíhànde gàosu nǐ ， nǐ de lǎopo qíshí shì ge nánrén ， érqiě tā wèi wǒ gōngzuò 。
     I'm sorry to tell you, but your wife is actually a man, and she works for me.
 ### Vocab
--熬 (áo) [verb] to endure
--蹚 (tāng) [verb] to ford
--回想 (huíxiǎng) [verb] to think back
--当初 (dāngchū) [noun] at that time
--出发 (chūfā) [verb] to set out
--的确 (díquè) [adverb] really
--摆渡 (bǎidù) [noun] ferry
--武侠 (wǔxiá) [noun] martial arts chivalry
--手柄 (shǒubǐng) [noun] hand shank
--拉痢疾 (lā lìji) [verb] to have dysentery
--泡泡龙 (Pàopaolóng) [name] Bubble Shooter
--神秘岛 (Shénmìdǎo) [name] Myst
--魂斗罗 (Húndòuluó) [name] Contra
--贪吃蛇 (Tānchīshé) [name] Snake
--迫不及待 (pòbùjídài) [adverb] to be impatient to do something
--超级玛丽 (Chāojí Mǎlì) [name] Super Mario
--坦克大战 (Tǎnkè Dàzhàn) [name] Battle City
--俄勒冈之旅 (E2lègāng zhī lǚ) [other] The Oregon Trail
--俄罗斯方块 (E2luósī fāngkuài) [name] Tetris
--仙剑奇侠传 (Xiānjiàn qíxiá zhuàn) [name] The Legend of Divine Sword and Wizardly Knight-errant
--别蹚这滩浑水 (bié tāng zhè tān húnshuǐ) [phrase] don't step into the muddy water
--嫁鸡随鸡嫁狗随狗 (jiàjīsuíjī jiàgǒusuígǒu) [phrase] you get what you married
+-脑子 (nǎozi) [noun] brain
+-移除 (yíchú) [verb] to remove
+-记忆 (jìyì) [noun] memory
+-剥夺 (bōduó) [verb] to cut away
+-辨认 (biànrèn) [verb] to identify
+-性别 (xìngbié) [noun] gender
+-为 (wèi) [preposition] for
+-给 (gěi) [preposition] for
+-奋斗 (fèndòu) [verb] to struggle
+-错乱 (cuòluàn) [verb] to be in disarray
+-为 ... 而 (wèi ... ér) [preposition] for
+-遗憾地 (yíhànde) [adverb] regretfully
+-精神错乱 (jīngshén cuòluàn) [noun] mental disorder
+-大脑错乱 (dànǎo cuòluàn) [noun] brain disorder

@@ -1,28 +1,27 @@
 # A Serial Problem
 **Intermediate** level
 ### Chinese Text
-甲：所以你说你被王子骚扰啦？
-乙：是。
-甲：在森林里？
-乙：在森林的城堡里。
-甲：这王子不是本地人吧？
-乙：好像不是吧。
-甲：那这不是我的管辖范围，你需要到当地派出所报案。
-乙：可是，可是我一醒来他就在亲我！
-甲：好了，好了，停停停，你可以走了，我们要关门了。
+甲：没有证据表明这是连环杀手干的。<br />乙：两周内五起谋杀案，这只是一个开始。
+甲：这个城市每年至少七百起恶性案件，贩毒仇杀，黑社会斗殴都有。
+乙：但有多少涉及到孩子？我们需要通知上级安全部门。
+甲：给FBI打电话之前我需要有力的证据。
+乙：有力的？
+甲：这些可能只是一个巧合。
+丙：队长，刚才在城西通运河里又发现了一具尸体，十五岁。
+乙：你看，我说过，这只是一个开头。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|所以你说你被王子骚扰啦？<blockquote>suǒyǐ nǐ shuō nǐ bèi wángzǐ sāorǎo la ？<br />So you say you were harassed by the prince.</blockquote>|
-|乙|是。<blockquote>shì 。<br />Yes.</blockquote>|
-|甲|在森林里？<blockquote>zài sēnlín lǐ ？<br />In the forest?</blockquote>|
-|乙|在森林的城堡里。<blockquote>zài sēnlín de chéngbǎo lǐ 。<br />In the castle in the forest.</blockquote>|
-|甲|这王子不是本地人吧？<blockquote>zhè wángzǐ bù shì běndìrén ba ？<br />This prince isn't a local resident, is he?</blockquote>|
-|乙|好像不是吧。<blockquote>hǎoxiàng bù shì ba 。<br />I don't think so.</blockquote>|
-|甲|那这不是我的管辖范围，你需要到当地派出所报案。<blockquote>nà zhè bù shì wǒ de guǎnxiá fànwéi ， nǐ xūyào dào dāngdì pàichūsuǒ bàoàn 。<br />Then it doesn't fall into my area of jurisdiction. You need to report this to the station there.</blockquote>|
-|乙|可是，可是我一醒来他就在亲我！<blockquote>kěshì ， kěshì wǒ yī xǐnglái tā jiù zài qīn wǒ ！<br />But, but... he kissed me as I woke up!</blockquote>|
-|甲|好了，好了，停停停，你可以走了，我们要关门了。<blockquote>hǎo le ， hǎo le ， tíng tíng tíng ， nǐ kěyǐ zǒu le ， wǒmen yào guānmén le 。<br />That's enough. Stop it. You can go. We're closing.</blockquote>|
+|甲|没有证据表明这是连环杀手干的。<blockquote>méiyǒu zhèngju biǎomíng zhè shì liánhuánshāshǒu gàn de 。<br />There's no evidence to show this is the work of a serial killer.</blockquote>|
+|乙|两周内五起谋杀案，这只是一个开始。<blockquote>liǎng zhōu nèi wǔ qǐ móushāàn ， zhè zhǐ shì yī ge kāishǐ 。<br />Five killings in two weeks. This is just the beginning.</blockquote>|
+|甲|这个城市每年至少七百起恶性案件，贩毒仇杀，黑社会斗殴都有。<blockquote>zhège chéngshì měinián zhìshǎo qībǎi qǐ èxìng ànjiàn ， fàndú chóushā ， hēishèhuìdòuōu dōu yǒu 。<br />There are at least 700 cases of foul play a year in this city: between drug traffiking, vengeance killings and mob hits we see it all.</blockquote>|
+|乙|但有多少涉及到孩子？我们需要通知上级安全部门。<blockquote>dàn yǒu duōshao shèjí dào háizi ？ wǒmen xūyào tōngzhī shàngjíānquánbùmén 。<br />But how many of these involve children? We need to inform our higher-ups in law enforcement.</blockquote>|
+|甲|给FBI打电话之前我需要有力的证据。<blockquote>gěi FBI dǎ diànhuà zhīqián wǒ xūyào yǒu lì de zhèngju 。<br />I need compelling evidence before calling the FBI.</blockquote>|
+|乙|有力的？<blockquote>yǒu lì de ？<br />Compelling?</blockquote>|
+|甲|这些可能只是一个巧合。<blockquote>zhè xiē kěnéng zhǐ shì yī ge qiǎohé 。<br />These might just be a coincidence.</blockquote>|
+|丙|队长，刚才在城西通运河里又发现了一具尸体，十五岁。<blockquote>duìzhǎng ， gāngcái zài chéngxī tōngyùnhé lǐ yòu fāxiàn le yījùshītǐ ， shíwǔ suì 。<br />Captain, we just discovered another body in the Tongyun river in the western quarters. A fifteen year old.</blockquote>|
+|乙|你看，我说过，这只是一个开头。<blockquote>nǐ kàn ， wǒ shuō guò ， zhè zhǐ shì yī ge kāitóu 。<br />Look. I told you, this is only the start.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

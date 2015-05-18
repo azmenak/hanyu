@@ -1,38 +1,28 @@
 # Working All Night
 **Absolute Beginners** level
 ### Chinese Text
-他去.
-我爱中国.
-今天很热.
-我想去中国.
-你太忙！
-中文不难．
-爸爸爱吃串儿.
+女：你今天怎么样?<br />男：我不怎么样。
+女：为什么不怎么样?
+男：因为我熬夜了，很累。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||他去.<blockquote>tā qù .<br />He goes.</blockquote>|
-||我爱中国.<blockquote>wǒ ài Zhōngguó .<br />I love China.</blockquote>|
-||今天很热.<blockquote>jīntiān hěn rè .<br />It's hot today.</blockquote>|
-||我想去中国.<blockquote>wǒ xiǎng qù Zhōngguó .<br />I want to go to China.</blockquote>|
-||你太忙！<blockquote>nǐ tài máng ！<br />You're too busy!</blockquote>|
-||中文不难．<blockquote>zhōngwén bù nán ．<br />Chinese is not difficult.</blockquote>|
-||爸爸爱吃串儿.<blockquote>bàba ài chī chuànr .<br />Dad loves eating meat-on-a-stick.</blockquote>|
+|女|你今天怎么样?<blockquote>nǐ jīntiān zěnmeyàng ?<br />How are you today?</blockquote>|
+|男|我不怎么样。<blockquote>wǒ bù zěnmeyàng 。<br />I'm not too good.</blockquote>|
+|女|为什么不怎么样?<blockquote>wèishénme bù zěnmeyàng ?<br />Why aren't you feeling so good?</blockquote>|
+|男|因为我熬夜了，很累。<blockquote>yīnwèi wǒ áoyè le ， hěn lèi 。<br />Because I was up all night, I'm tired.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|这个|zhège|this one|phrase|
-|那个|nàge|that one|phrase|
-|块|kuài|Chinese dollar|noun|
-|好|hǎo|good, ok|adjective|
-|一|yī|one|number|
-|二|èr|two|number|
-|三|sān|three|number|
-|四|sì|four|number|
-|五|wǔ|five|number|
-|六|liù|six|number|
-|七|qī|seven|number|
-|八|bā|eight|number|
-|九|jiǔ|nine|number|
-|十|shí|ten|number|
+|你|nǐ|you|pronoun|
+|我|wǒ|I, me|pronoun|
+|今天|jīntiān|today|time, noun|
+|怎么样|zěnmeyàng|how is it like|phrase|
+|不|bù|not, no|adverb|
+|不怎么样|bù zěnmeyàng|not to be too good|phrase|
+|为什么|wèishénme|why|question|
+|因为|yīnwèi|because|conjunction|
+|熬夜|áoyè|to stay up really late|verb|
+|很|hěn|very|adverb|
+|累|lèi|physically exhausted|adjective|

@@ -1,25 +1,26 @@
 # Improving Staff Hygiene
 **Elementary** level
 ### Chinese Text
-甲：哎呀，坏了，老板在。
-乙：不许聊天，回去工作。
+甲：水费这么多！<br />乙：哦，多少？
+甲：六千多。
+乙：哦，我最近经常洗澡。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎呀，坏了，老板在。<blockquote>āiya ， huài le ， lǎobǎn zài 。<br />Oh no, dammit, the boss is here.</blockquote>|
-|乙|不许聊天，回去工作。<blockquote>bù xǔ liáotiān ， huíqu gōngzuò 。<br />No chatting allowed, get back to work.</blockquote>|
+|甲|水费这么多！<blockquote>shuǐfèi zhème duō ！<br />The water bill is so expensive!</blockquote>|
+|乙|哦，多少？<blockquote>o ， duōshǎo ？<br />Oh, how much?</blockquote>|
+|甲|六千多。<blockquote>liùqiān duō 。<br />More than six thousand.</blockquote>|
+|乙|哦，我最近经常洗澡。<blockquote>o ， wǒ zuìjìn jīngcháng xǐzǎo 。<br />Oh, I've been showering a lot these days.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|喂|wèi|to feed|verb|
-|昨天|zuótiān|yesterday|noun|
-|怪不得|guàibudé|no wonder|phrase|
-|老实|lǎoshi|affectionate|adjective|
-|猫粮|māoliáng|cat food|noun|
-|狗粮|gǒuliáng|dog food|noun|
-|罐头|guàntou|can|noun|
-|干的|gānde|dry|adjective|
-|湿的|shīde|wet|adjective|
-|猫砂|māoshā|cat litter|noun|
-|这么|zhème|so very|adverb|
+|哦|o|oh|onomatopoeia|
+|多|duō|many|adjective|
+|最近|zuìjìn|these days|adverb|
+|经常|jīngcháng|often|adverb|
+|洗澡|xǐzǎo|to take a shower|verb|
+|水费|shuǐfèi|water bill|noun|
+|电费|diànfèi|power bill|noun|
+|学费|xuéfèi|tuition|noun|
+|付费|fùfèi|to pay the bill|verb|

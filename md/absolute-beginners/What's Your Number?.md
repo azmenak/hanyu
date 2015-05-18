@@ -1,18 +1,19 @@
 # What's Your Number?
 **Absolute Beginners** level
 ### Chinese Text
-女：你今天怎么样?
-男：我不怎么样。
-女：为什么不怎么样?
-男：因为我熬夜了，很累。
+男的：美女，你好。<br />女的：什么?
+男的：美女，你好!
+女的：听不见。
+男的：留个电话吧。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|你今天怎么样?<blockquote>nǐ jīntiān zěnmeyàng ?<br />How are you today?</blockquote>|
-|男|我不怎么样。<blockquote>wǒ bù zěnmeyàng 。<br />I'm not too good.</blockquote>|
-|女|为什么不怎么样?<blockquote>wèishénme bù zěnmeyàng ?<br />Why aren't you feeling so good?</blockquote>|
-|男|因为我熬夜了，很累。<blockquote>yīnwèi wǒ áoyè le ， hěn lèi 。<br />Because I was up all night, I'm tired.</blockquote>|
+|男的|美女，你好。<blockquote>měinǚ ， nǐhǎo 。<br />Hello beautiful.</blockquote>|
+|女的|什么?<blockquote>shénme ?<br />What?</blockquote>|
+|男的|美女，你好!<blockquote>měinǚ ， nǐhǎo !<br />Hey beautiful!</blockquote>|
+|女的|听不见。<blockquote>tīngbùjiàn 。<br />I can't hear you.</blockquote>|
+|男的|留个电话吧。<blockquote>liú ge diànhuà ba 。<br />Give me your number.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,8 +1,7 @@
 # A Trip to the Orphanage
 **Elementary** level
 ### Chinese Text
-从前啊，有一只小白兔....
-嘿，不要说话！
+从前啊，有一只小白兔....<br />嘿，不要说话！
 这个小白兔呢....
 嘿，你，你让我说几遍，啊？
 这个小白兔啊，它....
@@ -22,14 +21,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|敢|gǎn|to dare|verb|
-|睡觉|shuìjiào|to sleep|verb|
-|打扰|dǎrǎo|to disturb|verb|
-|拉开|lākāi|to open|verb|
-|帮|bāng|to help|verb|
-|给|gěi|to give|verb|
-|窗帘儿|chuāngliánr|curtains|noun|
-|早餐|zǎocān|breakfast|noun|
-|起床气|qǐchuángqì|morning temper|noun|
-|最好|zuìhǎo|best|adverb|
-|马上|mǎshàng|at once|adverb|
+|习近平|Xí Jìnpíng|Xi Jinping|name|
+|从前|cóngqián|once upon a time|phrase|
+|兔子|tùzi|rabbit|noun|
+|知道|zhīdào|to know|verb|
+|让|ràng|to let|verb|
+|遍|biàn|times|measure word|
+|讲|jiǎng|to narrate|verb|
+|故事|gùshi|story|noun|
+|礼貌|lǐmào|manners|noun|
+|孤儿|gūér|orphan|noun|

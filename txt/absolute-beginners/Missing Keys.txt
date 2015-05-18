@@ -25,12 +25,15 @@
     o ， tiān na ！
     Oh, goodness gracious!
 ### Vocab
--字 (zì) [noun] character
--汉字 (hànzì) [noun] Chinese character
--认字 (rèn zì) [phrase] to recognize characters
--写字 (xiězì) [phrase] to write
--自己 (zìjǐ) [pronoun] oneself
--工资 (gōngzī) [noun] salary
--资本 (zīběn) [noun] capital
--次 (cì) [measure word] time
--词 (cí) [noun] word
+-门 (mén) [noun] door
+-锁 (suǒ) [verb] to lock up
+-钥匙 (yàoshi) [noun] key
+-有 (yǒu) [verb] to have
+-天哪 (tiān na) [phrase] dear God
+-新 (xīn) [adjective] new
+-旧 (jiù) [adjective] old
+-坏 (huài) [adjective] broken
+-二手 (èrshǒu) [adjective] second-hand
+-手机 (shǒujī) [noun] cellphone
+-汽车 (qìchē) [noun] car
+-自行车 (zìxíngchē) [noun] bicycle

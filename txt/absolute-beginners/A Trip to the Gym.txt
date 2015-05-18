@@ -2,28 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：师傅，醒醒，醒醒！
-乙：到了，到了。十块，十块....
-甲：你刚才睡着了。
-乙：没有，没有啊，我们去哪儿？
+甲：八，九，十....
+乙：好，加油！
+甲：看，肌肉。
+乙：嗯，好看，我来。
 
 ### Pinyin and Translation
 
-甲: 师傅，醒醒，醒醒！
-    shīfu ， xǐngxing ， xǐngxing ！
-    Driver, wake up, wake up!
+甲: 八，九，十....
+    bā ， jiǔ ， shí . . . .
+    Eight, nine, ten....
 
-乙: 到了，到了。十块，十块....
-    dào le ， dào le 。 shí kuài ， shí kuài . . . .
-    We're here, we're here.... That'll be ten kuai.
+乙: 好，加油！
+    hǎo ， jiāyóu ！
+    Great, way to go!
 
-甲: 你刚才睡着了。
-    nǐ gāngcái shuìzháo le 。
-    You were just sleeping.
+甲: 看，肌肉。
+    kàn ， jīròu 。
+    Look, muscles.
 
-乙: 没有，没有啊，我们去哪儿？
-    méiyǒu ， méiyǒu a ， wǒmen qù nǎr ？
-    No I wasn't.... Where are we going?
+乙: 嗯，好看，我来。
+    en ， hǎokàn ， wǒ lái 。
+    Hey, looking good. My turn.
 ### Vocab
 -八 (bā) [number] eight
 -九 (jiǔ) [number] nine

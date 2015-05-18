@@ -2,76 +2,70 @@
 ## *intermediate* level
 
 ### Chinese Text
-[电话铃响]
-甲：呃，我说....
-乙：不好意思，我接个电话....
-乙：嘿，谢尔盖.... 嗯，今天晚上在我家吃烤肉啊.... 哦，还有拉里和埃里克。哎，我听说你最近那个引擎做得很给力啊。哈哈，不不不不，我可没用过。你知道，我们这边儿大家都习惯百度一下。哎，行行行，我这边儿还有点儿事，咱们晚上喝酒的时候好好儿聊啊。
-乙：不好意思，咱们刚才说到哪儿了？
-甲：那个谢尔盖....
-乙：啊，就是个什么在线搜索引擎什么玩意儿。哦，我跟你说啊，咱们那个事....
-[电话铃响]
-乙：不好意思。
-乙：比尔.... 我最后一次警告你.... 别给我找这些狗屁借口！你试试！老子棺材都给你买好了。哼！
-甲：呃，这个....
-乙：不好意思，不好意思。家庭问题，家庭问题。
+甲：你告诉过我，不会有任何平民伤亡。
+乙：是的，总统先生，我们出现了计算失误。
+甲：计算失误？我们的导弹炸毁了一家医院！
+乙：先生，这是战争里可能出现的失误，我们没法....
+甲：你怎么可能瞄准一栋屋顶有红十字的建筑！
+乙：我很抱歉，总统先生。
+甲：抱歉有什么用？
+乙：我...我...我....
+甲：如果你想在我的任期里保住饭碗，最好不要有任何的计算失误！
+乙：是，先生。
 
 ### Pinyin and Translation
 
-[电话铃响]
-[ diànhuàlíng xiǎng ]
-[The telephone rings]
+甲: 你告诉过我，不会有任何平民伤亡。
+    nǐ gàosu guò wǒ ， bùhuì yǒu rènhé píngmín shāngwáng 。
+    You told me there wouldn't be any civilian casualties.
 
-甲: 呃，我说....
-    e ， wǒ shuō . . . .
-    Uh... I was saying....
+乙: 是的，总统先生，我们出现了计算失误。
+    shì de ， zǒngtǒng xiānsheng ， wǒmen chūxiàn le jìsuàn shīwù 。
+    Yes, Mr. President. We had an error in our calculations.
 
-乙: 不好意思，我接个电话....
-    bùhǎoyìsi ， wǒ jiē ge diànhuà . . . .
-    Sorry, I have to take this call....
+甲: 计算失误？我们的导弹炸毁了一家医院！
+    jìsuàn shīwù ？ wǒmen de dǎodàn zhàhuǐ le yī jiā yīyuàn ！
+    An error in calculations? Our guided missile blew up a hospital!
 
-乙: 嘿，谢尔盖.... 嗯，今天晚上在我家吃烤肉啊.... 哦，还有拉里和埃里克。哎，我听说你最近那个引擎做得很给力啊。哈哈，不不不不，我可没用过。你知道，我们这边儿大家都习惯百度一下。哎，行行行，我这边儿还有点儿事，咱们晚上喝酒的时候好好儿聊啊。
-    hei ， Xièěrgài . . . .  en ， jīntiān wǎnshang zài wǒ jiā chī kǎoròu ā . . . .  ò ， hái yǒu Lālǐ hé Aīlǐkè 。 āi ， wǒ tīngshuō nǐ zuìjìn nàge yǐnqíng zuòde hěn gěilì ā 。 hāhā ， bù bù bù bù ， wǒ kě méi yòngguò 。 nǐ zhīdào ， wǒmen zhèbiānr dàjiā dōu xíguàn Bǎidù yīxià 。 āi ， xíng xíng xíng ， wǒ zhèbiānr hái yǒu diǎnr shì ， zánmen wǎnshang hējiǔ de shíhou hǎohāor liáo ā 。
-    Hey, Sergey.... It's a barbeque tonight at my place. Larry and Eric will be there too. Hey, I hear that search engine of yours is doing well lately. (laughs). No, I haven't used it.... You know we're all used to "Baiduing" over here. Yeah, that's fine. Oh, I've still got something over here. We can have a good chat about it tonight over drinks.
+乙: 先生，这是战争里可能出现的失误，我们没法....
+    Xiānsheng ， zhè shì zhànzhēng lǐ kěnéng chūxiàn de shīwù ， wǒmen méifǎ . . . .
+    Sir, this is the sort of error that can happen in war, we had no way of....
 
-乙: 不好意思，咱们刚才说到哪儿了？
-    bùhǎoyìsi ， zánmen gāngcái shuōdào nǎr le ？
-    Sorry, where had we got to just now?
+甲: 你怎么可能瞄准一栋屋顶有红十字的建筑！
+    nǐ zěnme kěnéng miáozhǔn yī dòng wūdǐng yǒu hóng shízì de jiànzhù ！
+    How could you target a building with a red cross on the roof!
 
-甲: 那个谢尔盖....
-    nàge Xièěrgài . . . .
-    That Sergey....
+乙: 我很抱歉，总统先生。
+    wǒ hěn bàoqiàn ， zǒngtǒng xiānsheng 。
+    I'm sorry Mr. President.
 
-乙: 啊，就是个什么在线搜索引擎什么玩意儿。哦，我跟你说啊，咱们那个事....
-    ā ， jiùshì ge shénme zàixiàn sōusuǒyǐnqíng shénme wányìr 。 ò ， wǒ gēn nǐ shuō ā ， zánmen nà ge shì . . . .
-    Ah... just something to do with an online search engine. Hey, let me tell you, about that thing we're....
+甲: 抱歉有什么用？
+    bàoqiàn yǒu shénme yòng ？
+    What use is being sorry?
 
-[电话铃响]
-[ diànhuàlíng xiǎng ]
-[The telephone rings]
+乙: 我...我...我....
+    wǒ . . . wǒ . . . wǒ . . . .
+    I... I... I....
 
-乙: 不好意思。
-    bùhǎoyìsi 。
-    Excuse me.
+甲: 如果你想在我的任期里保住饭碗，最好不要有任何的计算失误！
+    rúguǒ nǐ xiǎng zài wǒ de rènqī lǐ bǎozhù fànwǎn ， zuì hǎo bù yào yǒu rènhé de jìsuàn shīwù ！
+    If you want to keep your job during my term of office, you'd best not have any errors in calculation.
 
-乙: 比尔.... 我最后一次警告你.... 别给我找这些狗屁借口！你试试！老子棺材都给你买好了。哼！
-    Bǐěr ....  wǒ zuìhòu yī cì jǐnggào nǐ ....  bié gěi wǒ zhǎo zhèxiē gǒupì jièkǒu ！ nǐ shìshi ！ lǎozi guāncai dōu gěi nǐ mǎi hǎo le 。 heng ！
-    Bill.... This is the last time I'll warn you.... Don't give me these damn excuses! Try it! I've already bought your coffin. Huh!
-
-甲: 呃，这个....
-    e ， zhège . . . .
-    Uh, this....
-
-乙: 不好意思，不好意思。家庭问题，家庭问题。
-    bùhǎoyìsi ， bùhǎoyìsi 。 jiātíng wèntí ， jiātíng wèntí 。
-    Sorry, sorry. Family problem, family problem.
+乙: 是，先生。
+    shì ， xiānsheng 。
+    Yes, Sir.
 ### Vocab
--傻冒儿 (shǎmàor) [noun] idiot
--大山 (Dàshān) [person] Dashan
--郁闷 (yùmèn) [adjective] depressed
--二锅头 (èrguōtóu) [noun] Erguotou
--下肚 (xiàdù) [verb] to eat
--竹板儿 (zhúbǎnr) [noun] clappers
--相声 (xiàngsheng) [noun] crosstalk
--了不起 (liǎobuqǐ) [other] incredible
--了不得 (liǎobudé) [other] amazing; very
--不得了 (bùdéliǎo) [other] extremely
+-任何 (rènhé) [adverb] any
+-平民 (píngmín) [noun] common people
+-伤亡 (shāngwáng) [noun] casualties
+-总统 (zǒngtǒng) [noun] president
+-计算 (jìsuàn) [verb] to calculate
+-失误 (shīwù) [noun] mistake
+-导弹 (dǎodàn) [noun] guided missile
+-炸毁 (zhàhuǐ) [verb] to blow up
+-瞄准 (miáozhǔn) [verb] to target
+-保住饭碗 (bǎozhù fànwǎn) [phrase] to keep your job
+-屋顶 (wūdǐng) [noun] roof
+-红十字 (hóng shízì) [noun] red cross
+-建筑 (jiànzhù) [noun] building
+-任期 (rènqī) [noun] term of office

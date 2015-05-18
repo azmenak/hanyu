@@ -2,57 +2,48 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-狗：汪... 汪....
-男人：怎么了，莱西？ 提米怎么了？
-狗：汪汪汪....
-男人：我的天哪，他掉到井里了？
-狗：汪汪汪汪汪汪汪....
-男人：马上要爆炸了？
-狗：汪。
-男人：快上车，我们赶快走。
+甲：我要买耳机。
+乙：苹果的还是普通的？
+甲：多少钱？
+乙：苹果的一百二，普通的三十。
+甲：给我普通的。
 
 ### Pinyin and Translation
 
-狗: 汪... 汪....
-    wàng ... wàng ....
-    Woof... woof....
+甲: 我要买耳机。
+    wǒ yào mǎi ěrjī 。
+    I want to buy earphones.
 
-男人: 怎么了，莱西？ 提米怎么了？
-      zěnme le ， Láixī ？  Tímǐ zěnme le ？
-      What's wrong Lassie? What happened to Timmy?
+乙: 苹果的还是普通的？
+    Píngguǒ de háishì pǔtōng de ？
+    Apple earphones or normal earphones?
 
-狗: 汪汪汪....
-    wàng wàng wàng . . . .
-    Bark, bark, bark....
+甲: 多少钱？
+    duōshǎo qián ？
+    How much money?
 
-男人: 我的天哪，他掉到井里了？
-      wǒ de tiān na ， tā diàodào jǐng lǐ le ？
-      My heavens, he fell into a well?
+乙: 苹果的一百二，普通的三十。
+    Píngguǒ de yībǎi èr ， pǔtōng de sānshí 。
+    Apple earphones are 120, normal earphones are 30.
 
-狗: 汪汪汪汪汪汪汪....
-    wàng wàng wàng wàng wàng wàng wàng . . . .
-    Bark bark bark bark bark bark....
-
-男人: 马上要爆炸了？
-      mǎshàng yào bàozhà le ？
-      And it's going to blow up right away?
-
-狗: 汪。
-    wàng 。
-    That's right.
-
-男人: 快上车，我们赶快走。
-      kuài shàngchē ， wǒmen gǎnkuài zǒu 。
-      Get in the car, we're going at once.
+甲: 给我普通的。
+    gěi wǒ pǔtōng de 。
+    Give me the normal ones.
 ### Vocab
--觉得 (juéde) [verb] to feel
--很 (hěn) [adverb] very
--非常 (fēicháng) [adverb] unusually
--笑声 (xiàoshēng) [noun] laughter
--别人 (biérén) [noun] other people
--特别 (tèbié) [adjective] special
--烦人 (fánrén) [adjective] annoying
--好听 (hǎotīng) [adjective] pleasant sounding
--刺耳 (cì'ěr) [adjective] harsh sounding
--幽默 (yōumò) [adjective] humorous
--无聊 (wúliáo) [adjective] boring
+-要 (yào) [verb] to want
+-买 (mǎi) [verb] to buy
+-钱 (qián) [noun] money
+-给 (gěi) [verb] to give
+-十 (shí) [number] ten
+-百 (bǎi) [number] hundred
+-耳机 (ěrjī) [noun] earpiece
+-苹果 (Píngguǒ) [noun] Apple
+-还是 (háishì) [conjunction] or
+-普通 (pǔtōng) [adjective] regular
+-多少 (duōshǎo) [other] how much
+-红的 (hóngde) [noun] red ones
+-黑的 (hēide) [noun] black ones
+-贵的 (guìde) [noun] expensive ones
+-冰的 (bīngde) [noun] iced ones
+-常温的 (chángwēnde) [noun] room temperature ones
+-便宜的 (piányide) [noun] cheap ones

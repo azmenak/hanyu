@@ -2,36 +2,61 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：我真羡慕你。
-乙：什么？
-甲：你这么有钱，还这么帅。
-乙：别拍马屁。
+甲：先生，您的菜上齐了。要点什么饮料吗？
+乙：啊，给我来瓶芬达吧。
+甲：哦，不好意思，我们这里没有芬达，只有果粒橙。
+乙：果粒橙？
+甲：对，就是山寨版的芬达。其实也还行。
+乙：你确定你没有芬达？
+甲：真的没有。果粒橙一样。山寨版芬达。中国出品。
+乙：那，来一瓶儿吧。
+甲：好嘞，一瓶果粒橙。
 
 ### Pinyin and Translation
 
-甲: 我真羡慕你。
-    wǒ zhēn xiànmu nǐ 。
-    I really envy you.
+甲: 先生，您的菜上齐了。要点什么饮料吗？
+    xiānsheng ， nín de cài shàngqí le 。 yào diǎn shénme yǐnliào ma ？
+    Mister, your food is all here. Did you want to order any drink?
 
-乙: 什么？
-    shénme ？
-    What?
+乙: 啊，给我来瓶芬达吧。
+    ā ， gěi wǒ lái píng fēndá ba 。
+    Ah, give me a bottle of Fanta.
 
-甲: 你这么有钱，还这么帅。
-    nǐ zhème yǒuqián ， hái zhème shuài 。
-    You're so rich and handsome too.
+甲: 哦，不好意思，我们这里没有芬达，只有果粒橙。
+    ò ， bùhǎoyìsi ， wǒmen zhèli méiyǒu fēndá ， zhǐ yǒu guǒlìchéng 。
+    Oh, sorry, we don't have Fanta here, just Guolicheng.
 
-乙: 别拍马屁。
-    bié pāimǎpì 。
-    Don't kiss my ass.
+乙: 果粒橙？
+    guǒlìchén ？
+    Guolicheng?
+
+甲: 对，就是山寨版的芬达。其实也还行。
+    duì ， jiùshì shānzhàibǎn de fēndá 。 qíshí yě hái xíng 。
+    Right, it's the shanzhai version of Fanta. It's actually ok.
+
+乙: 你确定你没有芬达？
+    nǐ quèdìng nǐ méiyǒu fēndá ？
+    Are you sure you don't have Fanta?
+
+甲: 真的没有。果粒橙一样。山寨版芬达。中国出品。
+    zhēnde méiyǒu 。 guǒlìchén yīyàng 。 shānzhàibǎn fēndá 。 Zhōngguó chūpǐn 。
+    We really don't. Guolicheng is the same. It's the shanzhai version. Made in China.
+
+乙: 那，来一瓶儿吧。
+    nà ， lái yī píngér ba 。
+    Ok, give me a bottle.
+
+甲: 好嘞，一瓶果粒橙。
+    hǎolei ， yī píng guǒlìchén 。
+    Great, one bottle of Guolicheng.
 ### Vocab
--汉堡 (hànbǎo) [noun] hamburger
+-饮料 (yǐnliào) [noun] beverage
+-山寨 (shānzhài) [adjective] knockoff
+-确定 (quèdìng) [verb] to be sure
+-出品 (chūpǐn) [verb] to produce
+-果粒橙 (Guǒlìchéng) [noun] Guolicheng
 -芬达 (Fēndá) [noun] Fanta
--岁数 (suìshu) [noun] age in years
--橙子 (chéngzi) [noun] orange
--味儿 (wèir) [noun] taste
--清爽 (qīngshuǎng) [adjective] fresh and cool
--成熟 (chéngshú) [adjective] mature
--听 (tīng) [measure word] tin
--瓶 (píng) [measure word] bottle
--罐 (guàn) [measure word] can
+-其实 (qíshí) [adverb] actually
+-果肉 (guǒròu) [noun] fruit pulp
+-好嘞 (hǎolei) [phrase] that's great
+-上齐 (shàngqí) [verb] to have all been served

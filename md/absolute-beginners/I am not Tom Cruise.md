@@ -1,8 +1,7 @@
 # I am not Tom Cruise
 **Absolute Beginners** level
 ### Chinese Text
-A：你是汤姆克鲁斯？
-B：不是。
+A：你是汤姆克鲁斯？<br />B：不是。
 A：你是谁？
 B：我不说....
 A：是！是！你是汤姆克鲁斯！
@@ -18,7 +17,10 @@ A：是！是！你是汤姆克鲁斯！
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|对不起|duìbuqǐ|sorry|phrase|
-|没关系|méiguānxi|don't worry about it|phrase|
-|真|zhēn|really|adverb|
-|真的|zhēnde|really|adverb|
+|你|nǐ|you|pronoun|
+|是|shì|to be|verb|
+|不|bù|not, no|adverb|
+|谁|shéi|who, whom|question|
+|我|wǒ|I, me|pronoun|
+|说|shuō|to say, to speak|verb|
+|汤姆克鲁斯|Tāngmǔ Kèlǔsī|Tom Cruise|proper noun|

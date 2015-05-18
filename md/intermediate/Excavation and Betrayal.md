@@ -1,42 +1,55 @@
 # Excavation and Betrayal
 **Intermediate** level
 ### Chinese Text
-甲：哎，对了，那个皮搋子你放哪儿了？
-乙：皮搋子... 我想想啊，刚才掏完厕所... 然后... 放床上了。
-甲：啊？床上！
-乙：啊？
-甲：在卧室呢？
-乙：对啊。
-甲：我的天哪，你闻闻这个味儿，你看看这么大一滩，哎哟，又黄又黑....
-乙：没事，没事，我给你拿点儿手纸擦擦就行了，你看这，这也拿手纸擦一擦就行了。
-乙：哎，我给你倒点儿水，倒点儿水就好了，你看和开了就好了，颜色淡多了吧？
+[第一个版本]<br />甲：你永远也不会得逞的。
+乙：但是我已经成功了。
+甲：开罗不只我一个人。如果政府知道你们在挖什么，你们插翅也难逃。
+乙：不过我觉得他们根本不会在乎这些破铜烂铁。将军只关心钱，他是个现实的人，是个非常现实的生意人。
+[第二个版本]
+甲：你永远也不会得逞的。
+乙：但是我已经成功了。
+甲：开罗不只我一个人。
+乙：你是说那个教....
+丙：他的意思，是说我。
+甲：天啊。
+丙：我的名字是甜甜。
+甲：甜甜，你到底站在哪一边儿？如果政府知道你们在挖什么，你们插翅也难逃。
+丙：他们才不在乎这堆废铜烂铁呢。
+乙：我只在乎钱。
+丙：对，你是个现实的人，你是个现实的生意人。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，对了，那个皮搋子你放哪儿了？<blockquote>ai ， duìle ， nàge píchuāizi nǐ fàng nǎr le ？<br />Hey, that's right. Where did you put the plunger?</blockquote>|
-|乙|皮搋子... 我想想啊，刚才掏完厕所... 然后... 放床上了。<blockquote>píchuāizi ... wǒ xiǎngxiang a ， gāngcái tāowán cèsuǒ ... ránhòu ... fàng  chuáng shàng le 。<br />The plunger... let me think. We'd just finished cleaning out the toilet... and... I put it on the bed.</blockquote>|
-|甲|啊？床上！<blockquote>a ？  chuáng shàng ！<br />What? On the bed?</blockquote>|
-|乙|啊？<blockquote>a ？<br />Huh?</blockquote>|
-|甲|在卧室呢？<blockquote>zài wòshì ne ？<br />In the bedroom?</blockquote>|
-|乙|对啊。<blockquote>duì a 。<br />That's right.</blockquote>|
-|甲|我的天哪，你闻闻这个味儿，你看看这么大一滩，哎哟，又黄又黑....<blockquote>wǒ de tiān na ， nǐ wénwen zhège wèir ， nǐ kànkan zhème dà yī tān ， āiyo ， yòu huáng yòu hēi . . . .<br />Sweet heavens, will you smell this? Look at all this mess. It's all brown and black....</blockquote>|
-|乙|没事，没事，我给你拿点儿手纸擦擦就行了，你看这，这也拿手纸擦一擦就行了。<blockquote>méishì ， méishì ， wǒ gěi nǐ nádiǎnr shǒuzhǐ cāca jiù xíng le ， nǐ kàn zhè ， zhè yě ná shǒuzhǐ cā yī cā jiù xíng le 。<br />No problem, no problem. I'll get some toilet paper and wipe it and it'll be fine. Look, all it takes is a bit of wiping down and it's fine.</blockquote>|
-|乙|哎，我给你倒点儿水，倒点儿水就好了，你看和开了就好了，颜色淡多了吧？<blockquote>ai ， wǒ gěi nǐ dào diǎnr shuǐ ， dào diǎnr shuǐ jiù hǎo le ， nǐ kàn huòkāi le jiù hǎo le ， yánsè dàn duō le ba ？<br />Hey, I'll just pour some water, pour a bit of water and then it'll be fine. Look, it's fine when you spread it out a bit. Isn't it much less noticeable?</blockquote>|
+||[第一个版本]<blockquote>[ dì  yī ge bǎnběn ]<br />[First edition]</blockquote>|
+|甲|你永远也不会得逞的。<blockquote>nǐ yǒngyuǎn yě bù huì déchěng de 。<br />You'll never get away with this.</blockquote>|
+|乙|但是我已经成功了。<blockquote>dànshì wǒ yǐjīng chénggōng le 。<br />But I already have.</blockquote>|
+|甲|开罗不只我一个人。如果政府知道你们在挖什么，你们插翅也难逃。<blockquote>Kāiluó bùzhǐ wǒ yī ge rén 。 rúguǒ zhèngfǔ zhīdào nǐmen zài wā shénme ， nǐmen chāchì yě nántáo 。<br />I'm not the only one in Cairo. And if the government finds out what you're digging up, you'll have a hard time escaping.</blockquote>|
+|乙|不过我觉得他们根本不会在乎这些破铜烂铁。将军只关心钱，他是个现实的人，是个非常现实的生意人。<blockquote>bùguò wǒ juéde tāmen gēnběn bùhuì zàihu zhèxiē pòtónglàntiě 。 jiāngjūn zhǐ guānxīn qián ， tā shì ge xiànshí de rén ， shì ge fēicháng xiànshí de shēngyìrén 。<br />But I think they don't really care about these old scraps of broken metal. The General only cares about money. He's a practical man, a very practical business man.</blockquote>|
+||[第二个版本]<blockquote>[ dì  èr ge bǎnběn ]<br />[Second edition]</blockquote>|
+|甲|你永远也不会得逞的。<blockquote>nǐ yǒngyuǎn yě bù huì déchěng de 。<br />You'll never get away with this.</blockquote>|
+|乙|但是我已经成功了。<blockquote>dànshì wǒ yǐjīng chénggōng le 。<br />But I already have.</blockquote>|
+|甲|开罗不只我一个人。<blockquote>Kāiluó bùzhǐ wǒ yī ge rén 。<br />I'm not the only one in Cairo.</blockquote>|
+|乙|你是说那个教....<blockquote>nǐ shì shuō nàge jiào . . . .<br />Are you talking about the prof...</blockquote>|
+|丙|他的意思，是说我。<blockquote>tā de yìsi ， shì shuō wǒ 。<br />He's talking about me.</blockquote>|
+|甲|天啊。<blockquote>tiān’a 。<br />Heavens!</blockquote>|
+|丙|我的名字是甜甜。<blockquote>wǒde míngzi shì Tiántian 。<br />My name is Tiantian.</blockquote>|
+|甲|甜甜，你到底站在哪一边儿？如果政府知道你们在挖什么，你们插翅也难逃。<blockquote>Tiántian ， nǐ dàodǐ zhànzài nǎ yī biānr ？ rúguǒ zhèngfǔ zhīdào nǐmen zài wā shénme ， nǐmen chāchì yě nántáo 。<br />Tiantian, whose side are you on after all? If the government knows what you're digging up, you'll have no way to escape.</blockquote>|
+|丙|他们才不在乎这堆废铜烂铁呢。<blockquote>tāmen cái bù zàihu zhè duī fèitónglàntiě ne 。<br />They don't care about these old pieces of scrap.</blockquote>|
+|乙|我只在乎钱。<blockquote>wǒ zhǐ zàihu qián 。<br />I only care about money.</blockquote>|
+|丙|对，你是个现实的人，你是个现实的生意人。<blockquote>duì ， nǐ shì ge xiànshí de rén ， nǐ shì ge xiànshí de shēngyìrén 。<br />That's right. You're a practical man, a practical business man.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|滩|tān|expanse|measure word|
-|淡|dàn|light; pale|adjective|
-|掏|tāo|to scoop|verb|
-|闻|wén|to smell|verb|
-|擦|cā|to rub|verb|
-|抹|mǒ|to wipe|verb|
-|和开|huòkāi|to spread out|verb|
-|倒水|dào shuǐ|to pour water|verb|
-|拖地|tuōdì|to mop the floor|verb|
-|拖把|tuōbǎ|mop|noun|
-|皮搋子|píchuāizi|plunger|noun|
-|清洁剂|qīngjiéjì|cleaning detergent|noun|
-|漂白剂|piǎobáijì|bleach|noun|
-|消毒液|xiāodúyè|disinfectant|noun|
+|得逞|déchěng|to get away with|verb|
+|永远|yǒngyuǎn|forever|noun|
+|开罗|Kāiluó|Cairo|noun|
+|挖|wā|to dig|verb|
+|将军|jiāngjūn|general|noun|
+|太监|tàijian|eunuch|noun|
+|现实|xiànshí|realistic|adjective|
+|到底|dàodǐ|finally|adverb|
+|甚|shèn|very|adverb|
+|生意人|shēngyìrén|business person|noun|
+|插翅难逃|chāchìnántáo|to be unable to escape|phrase|
+|破铜烂铁|pòtónglàntiě|broken scraps of metal|phrase|

@@ -2,116 +2,62 @@
 ## *intermediate* level
 
 ### Chinese Text
-这个夏天北京缺水问题全线上映。
-老人：水价怎么又涨了？
-商人：你爱买不买，渴的人多着呢。
-老人：还是 200 块钱一桶吗？
-商人：写着 250 一桶。
-老人：这么贵。
-商人：你要买就赶快买。我老婆也渴着呢。
-随着情况愈演愈烈，北京的政治稳定也难以保障。
-代表：我们现在要什么？
-群众：水！
-代表：我们现在没有什么？
-群众：没有水！
-代表：谁抢走了我们的水？
-群众：政府，国家... 水主。
-代表：水主那帮混蛋我们怎么处置他们？
-群众：反干复水！
-代表：反干复水！
-群众：反干复水！
-2015年的夏天，让我们一起静静地期待... 最后一滴水。
+父亲：那，我们的小孩儿什么时候能上学？
+校长：这个秋天应该就...  等等，这上面写着你们孩子不是北京户口。
+母亲：哦，他不是，不是....
+父亲：这不是问题吧。
+校长：你们孩子是....
+母亲：我们都是美国人。
+校长：美国户口啊？
+父亲：这不是国际学校吗？
+校长：这个... 恐怕有点儿小问题。
 
 ### Pinyin and Translation
 
-这个夏天北京缺水问题全线上映。
-zhège xiàtiān Běijīng quē shuǐ  wèntí quánxiàn shàngyìng 。
-This summer, Beijing's water scarcity problem premieres nationwide.
+父亲: 那，我们的小孩儿什么时候能上学？
+      nà ， wǒmen de xiǎoháir shénme shíhòu néng shàngxué ？
+      So, when can our child start attending class?
 
-老人: 水价怎么又涨了？
-      shuǐjià zěnme yòu zhǎng le ？
-      How can the price of water have risen even further?
+校长: 这个秋天应该就...  等等，这上面写着你们孩子不是北京户口。
+      zhège qiūtiān yīnggāi jiù . . .   děngděng ， zhè shàngmian xiězhe nǐmen háizi bù shì Běijīng hùkǒu 。
+      This fall should be... wait a minute, it says here that your child isn't a legal Beijing resident.
 
-商人: 你爱买不买，渴的人多着呢。
-      nǐ àimǎibùmǎi ， kě de rén duōzhene 。
-      Are you going to buy or not? There are a lot of thirsty people here.
+母亲: 哦，他不是，不是....
+      ò ， tā bù shì ， bù shì . . . .
+      Oh, no he isn't....
 
-老人: 还是 200 块钱一桶吗？
-      hái shì èrbǎi kuài qián yī tǒng ma ？
-      Is it still 200 RMB per barrel?
+父亲: 这不是问题吧。
+      zhè bù shì wèntí ba 。
+      There's no way this can be a problem, can it?
 
-商人: 写着 250 一桶。
-      xiězhe èrbǎi wǔ yī tǒng 。
-      It says 250 RMB per barrel right there.
+校长: 你们孩子是....
+      nǐmen háizi shì . . . .
+      So, your child is....
 
-老人: 这么贵。
-      zhème guì 。
-      That's so expensive.
+母亲: 我们都是美国人。
+      wǒmen dōu shì Měiguórén 。
+      We're all American.
 
-商人: 你要买就赶快买。我老婆也渴着呢。
-      nǐ yào mǎi jiù gǎnkuài mǎi 。 wǒ lǎopo yě kězhene 。
-      If you want to buy hurry up with it. My wife is thirsty too.
+校长: 美国户口啊？
+      Měiguó hùkǒu ā ？
+      American residence permit?
 
-随着情况愈演愈烈，北京的政治稳定也难以保障。
-suízhe qíngkuàng yù yǎn  yù liè ， Běijīng de zhèngzhì wěndìng yě nányǐ bǎozhàng 。
-As the situation worsens, Beijing's political situation also gets harder and harder to control.
+父亲: 这不是国际学校吗？
+      zhè bù shì guójì xuéxiào ma ？
+      Isn't this an international school?
 
-代表: 我们现在要什么？
-      wǒmen xiànzài yào shénme ？
-      What do we want?
-
-群众: 水！
-      shuǐ ！
-      Water!
-
-代表: 我们现在没有什么？
-      wǒmen xiànzài méiyǒu shénme ？
-      What don't we have?
-
-群众: 没有水！
-      méiyǒu shuǐ ！
-      We don't have water!
-
-代表: 谁抢走了我们的水？
-      shéi qiāngzǒule wǒmen de shuǐ ？
-      Who stole our water?
-
-群众: 政府，国家... 水主。
-      zhèngfǔ ， guójiā . . .  shuǐ zhǔ 。
-      The government, the country... the water barons.
-
-代表: 水主那帮混蛋我们怎么处置他们？
-      shuǐ zhǔ nà bāng húndàn wǒmen zěnme chǔzhì tāmen ？
-      And how are we going to deal with these water barons?
-
-群众: 反干复水！
-      fǎn gàn fù shuǐ ！
-      Get rid of the drought and bring back our water!
-
-代表: 反干复水！
-      fǎn gàn fù shuǐ ！
-      Get rid of the drought and bring back our water!
-
-群众: 反干复水！
-      fǎn gàn fù shuǐ ！
-      Oppose the drought and bring back our water!
-
-2015年的夏天，让我们一起静静地期待... 最后一滴水。
-Er4qiān shíwǔ  nián de xiàtiān ， ràng wǒmen yīqǐ jìngjìngdi qīdài . . .  zuìhòu yīdī shuǐ 。
-In Summer 2015, let's wait with baited breath for... the last drop of water.
+校长: 这个... 恐怕有点儿小问题。
+      zhège . . .  kǒngpà yǒu diǎnr xiǎo wèntí 。
+      Well... it seems that there's a little problem.
 ### Vocab
--缺水 (quēshuǐ) [noun] water scarcity
--全线 (quánxiàn) [noun] everywhere
--上映 (shàngyìng) [verb] to screen
--着呢 (zhene) [other] (emphasizes adjectives)
--桶 (tǒng) [measure word] barrel
--滴 (dī) [measure word] drop
--地主 (dìzhǔ) [noun] land baron
--混蛋 (húndàn) [noun] bastards
--处置 (chǔzhì) [unknown] to deal with
--随着 (suízhe) [conjunction] along with
--抢走 (qiǎngzǒu) [verb] to steal away
--静静地 (jìngjìngde) [adverb] with great suspense
--期待 (qīdài) [verb] to look forward to
--愈演愈烈 (yù yǎn  yù liè) [phrase] to grow more intense
--难以保障 (nán yǐ bǎozhàng) [phrase] difficult to guarantee
+-挂 (guà) [verb] to hang
+-装 (zhuāng) [verb] to pack
+-贴 (tiē) [verb] to post
+-墙 (qiáng) [noun] wall
+-户口 (hùkǒu) [noun] registered residence
+-秋天 (qiūtiān) [noun] autumn
+-国际 (guójì) [adjective] international
+-恐怕 (kǒngpà) [adverb] unfortunately
+-校友 (xiàoyǒu) [noun] alumni
+-高脚杯 (gāojiǎobēi) [noun] wine glass
+-茶几 (chájī) [noun] coffee table

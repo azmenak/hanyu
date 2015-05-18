@@ -1,8 +1,7 @@
 # Vintage Science Fiction
 **Advanced** level
 ### Chinese Text
-甲：哦，我的天哪，我们的五号六号舱门都起火了！
-乙：我现在打开120毫米的光子炮。
+甲：哦，我的天哪，我们的五号六号舱门都起火了！<br />乙：我现在打开120毫米的光子炮。
 甲：好，亲爱的，让我们发射！
 乙：好的。
 甲：来吧，杂种们！
@@ -18,16 +17,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|冰山|bīngshān|to hit iceberg|noun|
-|撞上|zhuàngshàng|to hit iceberg|verb|
-|游泳衣|yóuyǒngyī|unknown|noun|
-|怪不得|guàibude|no wonder|phrase|
-|救生衣|jiùshēngyī|airjacket|noun|
-|狂欢|kuánghuān|spree|verb|
-|不可思议|bùkěsīyì|unknown|idiom|
-|演奏|yǎnzòu|to perform|verb|
-|英国佬|Yīngguólǎo|unknown|noun|
-|拖欠|tuōqiàn|debt|verb|
-|收拾|shōushi|to put in order|verb|
-|可|kě|used to express high degree|adverb|
-|要钱不要命|yào qián bùyào mìng|unknown|phrase|
+|舱门|cāngmén|cabin door|noun|
+|星际迷航|Xīngjì Míháng|Star Trek|noun|
+|起火|qǐhuǒ|to catch fire|verb|
+|毫米|háomǐ|millimeter|noun|
+|光子炮|guāngzǐpào|photon cannon|noun|
+|发射|fāshè|to shoot|verb|
+|杂种|zázhong|bastard|noun|
+|科幻片儿|kēhuànpiānr|science fiction film|noun|
+|星球大战|Xīngqiú Dàzhàn|Star Wars|noun|
+|丁丁|Dīngdīng|Tintin|noun|

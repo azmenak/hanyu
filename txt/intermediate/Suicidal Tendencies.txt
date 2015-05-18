@@ -35,24 +35,19 @@
     nǐ xiān cóng yángtái shàng xiàlai ， qù ná nǐ de yínhángkǎ 。
     Come down off the balcony, and go get your bank card.
 ### Vocab
--饥饿 (jī'è) [noun] hunger
--革命 (gémìng) [noun] revolution
--起义 (qǐyì) [noun] uprising
--暴乱 (bàoluàn) [noun] riot
--序曲 (xùqǔ) [noun] prelude
--养活 (yǎnghuo) [verb] to support
--贡献 (gòngxiàn) [noun] contribution
--收拾 (shōushi) [verb] to put in order
--财产 (cáichǎn) [noun] property
--阶级 (jiējí) [noun] class
--汉奸 (hànjiān) [noun] race traitor
--走狗 (zǒugǒu) [noun] running-dog
--卖国贼 (màiguózéi) [noun] traitor
--不安分 (bù ānfèn) [adjective] restless
--懒骨头 (lǎngǔtóu) [noun] lazy-bones
--反动派 (fǎndòngpài) [noun] reactionary force
--无产阶级 (wúchǎnjiējí) [noun] proletariat
--资产阶级 (zīchǎnjiējí) [noun] bourgeoisie
--游手好闲 (yóushǒuhàoxián) [adjective] to do nothing
--自然淘汰 (zìrán táotài) [phrase] natural selection
--首当其冲 (shǒudāngqíchōng) [verb] to bear the brunt first
+-管 (guǎn) [verb] to take care of
+-骗光 (piànguāng) [verb] to fraud
+-骗子 (piànzi) [noun] swindler
+-骗人 (piànrén) [verb] to cheat others
+-人生 (rénshēng) [noun] life
+-价值 (jiàzhí) [noun] value
+-大奖 (dàjiǎng) [noun] big prize
+-惊喜 (jīngxǐ) [adjective] surprise
+-转账 (zhuǎnzhàng) [verb] to transfer
+-安利 (ānlì) [noun] Amway
+-茶楼 (chálóu) [noun] tea house
+-传票 (chuánpiào) [verb] to send a subpoena
+-银行卡 (yínhángkǎ) [noun] bank card
+-联合国 (Liánhéguó) [noun] United Nations
+-尼日利亚 (Nírìlìyà) [noun] Nigeria
+-害人之心不可有，防人之心不可无 (hàirén zhī xīn bù kě yǒu, fángrén zhī xīn bù kě wú) [phrase] malice towards none, but defense towards all

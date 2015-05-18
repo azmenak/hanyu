@@ -1,8 +1,7 @@
 # Popup Chinese Crossover Madness
 **Elementary** level
 ### Chinese Text
-甲：我刚买了一大瓶芬达放在厨房里了。
-乙：是吗，我最喜欢喝芬达了。
+甲：我刚买了一大瓶芬达放在厨房里了。<br />乙：是吗，我最喜欢喝芬达了。
 甲：正好就着披萨一起喝，我们去吃吧。
 甲：啊？原始人在厨房里！
 乙：我的芬达。
@@ -20,14 +19,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|人家|rénjiā|someone|noun|
-|别人|biérén|other people|noun|
-|酱|jiàng|sauce|noun|
-|拿|ná|to take|verb|
-|送|sòng|to give; to present|verb|
-|把|bǎ|to take|verb|
-|远|yuǎn|far|adjective|
-|可|kě|(emphatic)|particle|
-|给|gěi|(emphatic)|particle|
-|才|cái|(conversely)|adverb|
-|过了这村儿没这店儿|guò le zhè cūnr méi zhè diànr|after this village there isn't this shop|idiom|
+|芬达|fēndá|Fanta|noun|
+|刚|gāng|just recently|adverb|
+|瓶|píng|bottle|measure word|
+|吧|ba|(suggestion)|particle|
+|正好|zhènghǎo|as it happens|adverb|
+|就着|jiùzhe|together with|verb|
+|就|jiù|along with|verb|
+|披萨|pīsà|pizza|noun|
+|一起|yīqǐ|together|adverb|
+|原始人|yuánshǐrén|caveman|noun|
+|厨房|chúfáng|kitchen|noun|
+|可|kě|(adds emphasis)|particle|
+|可是|kěshì|but|conjunction|

@@ -70,11 +70,14 @@
     méi guānxi ， wǒ de shuìdài lǐ hái yǒu diǎnr chīde 。
     Don't worry. There's still a little bit of food in my sleeping bag.
 ### Vocab
--健壮 (jiànzhuàng) [adjective] buff
--结实 (jiēshi) [adjective] solid
--英俊 (yīngjùn) [adjective] aristocratic
--俊美 (jùnměi) [adjective] princely
--儒雅 (rúyǎ) [adjective] refined
--文气 (wénqì) [adjective] bookish
--潇洒 (xiāosǎ) [adjective] carefree
--可 (kě) [adverb] (adds emphasis)
+-登顶 (dēngdǐng) [verb] to scale the summit
+-抛弃 (pāoqì) [verb] to toss out
+-挤一挤 (jǐyījǐ) [verb] to squeeze in
+-着想 (zháoxiǎng) [verb] to consider
+-生存 (shēngcún) [noun] survival
+-力气 (lìqi) [noun] strength
+-睡衣 (shuìyī) [noun] pajamas
+-睡袋 (shuìdài) [noun] sleeping bag
+-卡路里 (kǎlùlǐ) [noun] calorie
+-热量 (rèliàng) [noun] calorie (formal)
+-负荷 (fùhè) [noun] weight load

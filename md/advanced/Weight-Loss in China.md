@@ -4,19 +4,18 @@ No Transcript Available
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|大牌|dàpái|big brand|adjective|
-|内地|nèidì|mainland|noun|
-|贵|guì|your|adjective|
-|宝地|bǎodì|valuable place|noun|
-|款|kuǎn|(measure word)|measure word|
-|轧面机|yàmiànjī|pasta maker|noun|
-|双节棍|shuāngjiégùn|nunchucks|noun|
-|讲究|jiǎngjiū|to be particular about|verb|
-|顶|dǐng|to be as good as|verb|
-|擀面棍|gǎnmiàngùn|rolling stick|noun|
-|低碳|dītàn|low-carbon|adjective|
-|节能|jiénéng|fuel-efficient|adjective|
-|无敌|wúdí|without enemy; peerless|adjective|
-|得|dé|and there you go|other|
-|口水|kǒushuǐ|saliva|noun|
-|人间|rénjiān|the human world|noun|
+|最高峰|zuì gāofēng|highest peak|phrase|
+|适得其反|shìdéqífǎn|to get the opposite result|chengyu|
+|夜宵|yèxiāo|late-night snack|noun|
+|沉稳|chénwěn|stable|adjective|
+|瘦身|shòushēn|thin body|noun|
+|貌似|màosì|seems|adverb|
+|骨头架子|gǔtou jiàzi|bony frame|phrase|
+|食欲|shíyù|desire for food|noun|
+|豆制品|dòuzhipǐn|tofu product|noun|
+|人品|rénpǐn|personal character|noun|
+|极端|jíduān|extreme|adjective|
+|可劲儿|kějinr4|strenuously|adverb|
+|针灸|zhēnjiǔ|acupuncture|noun|
+|反弹|fǎntán|to spring back|verb|
+|一蹴而就|yīcùérjiù|to achieve one's goals in one move|chengyu|

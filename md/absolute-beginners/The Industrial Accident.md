@@ -1,8 +1,7 @@
 # The Industrial Accident
 **Absolute Beginners** level
 ### Chinese Text
-一：哦，我的胳膊。
-二：你的胳膊怎么了？
+一：哦，我的胳膊。<br />二：你的胳膊怎么了？
 一：折了。
 二：我们去医院吧。
 

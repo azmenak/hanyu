@@ -1,8 +1,7 @@
 # Global Warming
 **Intermediate** level
 ### Chinese Text
-甲：唉呀，上海可真热啊。这大戏院在哪儿啊？哎，师傅，麻烦问您一下，上海大戏院怎么走？
-乙：哦，你从这儿啊，坐118号公交船。
+甲：唉呀，上海可真热啊。这大戏院在哪儿啊？哎，师傅，麻烦问您一下，上海大戏院怎么走？<br />乙：哦，你从这儿啊，坐118号公交船。
 甲：船？
 乙：两站地，再倒112号公交船，三站地，再游一段，就到了。
 甲：呃，这样啊？我知道了，谢谢您。
@@ -20,13 +19,10 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|越来越|yuèláiyuè|more and more|phrase|
-|又……又|yòu ... yòu|both... and|phrase|
-|得|děi|must|adverb|
-|马桶|mǎtǒng|toilet|noun|
-|一边……一边|yībiān ... yībiān|on the one hand... on the other|phrase|
-|搞定|gǎodìng|to settle definitively|verb|
-|给|gěi|passive marker|other|
-|淋湿|lín shī|soaked|phrase|
-|淋浴|línyù|shower|noun|
-|手纸|shǒuzhǐ|toilet paper|noun|
+|全球气候变暖|quánqiú qìhòu biàn nuǎn|global warming|phrase|
+|站地|zhàndì|stops|noun|
+|好|hǎo|(perfective)|perfective|
+|泳裤|yǒngkù|swim trunks|noun|
+|麻烦|máfan|to bother|verb|
+|倒|dǎo|to switch to|verb|
+|公交船|gōngjiāo chuán|public ferry|noun|

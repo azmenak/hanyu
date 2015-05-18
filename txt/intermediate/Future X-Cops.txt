@@ -2,43 +2,73 @@
 ## *intermediate* level
 
 ### Chinese Text
-大夫：你的病历上说你好像没怎么打过预防针？
-病人：该打的差不多都打了呀。
-大夫：上边没写着打了艾滋病的呀？
-病人：艾滋病有预防针？
-大夫：看样子你也没打过性病预防针、癌症预防针、盲肠炎预防针、阑尾炎预防针。
-病人：没听说过。
-大夫：唉，你太危险了....
+甲：嘿，干嘛去了这么高兴？
+乙：看电影了。
+甲：什么电影啊？
+乙：未来警察。
+甲：哦，布拉德·皮特的新片儿啊。
+乙：哪儿有布拉德·皮特啊？
+甲：有，我看预告片儿了。布拉德·皮特和摩根·弗里曼主演的嘛。
+乙：这是一香港片儿，哪儿有布拉德·皮特和摩根·弗里曼啊？
+丙：哎，你们在谈什么呢？
+甲：不是在谈那个布拉德·皮特的新片儿嘛。
+丙：哦，未来警察吧！
+甲：是。
+丙：我特喜欢那片儿！
 
 ### Pinyin and Translation
 
-大夫: 你的病历上说你好像没怎么打过预防针？
-      nǐ de bìnglì shàng shuō nǐ hǎoxiàng méi zěnme dǎguò yùfáng zhēn ？
-      According to your medical history, you don't seem to have had any injections.
+甲: 嘿，干嘛去了这么高兴？
+    hei ， gànmá qù le zhème gāoxìng ？
+    Hey, why are you so excited?
 
-病人: 该打的差不多都打了呀。
-      gāi dǎ de chàbuduō dōu dǎ le ya 。
-      I've had pretty much all the ones I should have.
+乙: 看电影了。
+    kàn diànyǐng le 。
+    Just saw a movie.
 
-大夫: 上边没写着打了艾滋病的呀？
-      shàngbian méi xiězhe dǎ le àizībìng de ya ？
-      It doesn't say here that you've been vaccinated against AIDS.
+甲: 什么电影啊？
+    shénme diànyǐng a ？
+    What movie?
 
-病人: 艾滋病有预防针？
-      àizībìng yǒu yùfángzhēn ？
-      There's a vaccination against AIDS?
+乙: 未来警察。
+    wèilái jǐngchá 。
+    Future X-Cops.
 
-大夫: 看样子你也没打过性病预防针、癌症预防针、盲肠炎预防针、阑尾炎预防针。
-      kàn yàngzi nǐ yě méi dǎ guo xìngbìng yùfángzhēn 、 áizhēng yùfángzhēn 、 mángchángyán yùfángzhēn 、 lánwěiyán yùfángzhēn 。
-      From the looks of it, you also haven't been vaccinated against venereal disease, cancer, or either of the two words we have for appendicitis.
+甲: 哦，布拉德·皮特的新片儿啊。
+    o ， Bùlādé Pítè de xīn piānr a 。
+    Oh, the new film with Brad Pitt.
 
-病人: 没听说过。
-      méi tīngshuō guo 。
-      I've never heard of them.
+乙: 哪儿有布拉德·皮特啊？
+    nǎr yǒu Bùlādé Pítè a ？
+    Where on earth is Brad Pitt in it?
 
-大夫: 唉，你太危险了....
-      ai ， nǐ tài wēixiǎn le ....
-      Oh, you're too dangerous....
+甲: 有，我看预告片儿了。布拉德·皮特和摩根·弗里曼主演的嘛。
+    yǒu ， wǒ kàn yùgàopiānr le 。 Bùlādé Pítè hé Mógēn Fúlǐmàn zhǔyǎn de ma 。
+    Sure he is, I saw the trailer. It's the film starring Brad Pitt and Morgan Freeman.
+
+乙: 这是一香港片儿，哪儿有布拉德·皮特和摩根·弗里曼啊？
+    zhè shì yī Xiānggǎng piānr ， nǎr yǒu Bùlādé Pítè hé Mógēn Fúlǐmàn a ？
+    This is a Hong Kong film. Why on earth would Brad Pitt and Morgan Freeman be in it.
+
+丙: 哎，你们在谈什么呢？
+    ai ， nǐmen zài tán shénme ne ？
+    Hey, what are you guys talking about?
+
+甲: 不是在谈那个布拉德·皮特的新片儿嘛。
+    bù shì zài tán nà ge Bùlādé Pítè de xīn piānr ma 。
+    We're talking about the new Brad Pitt movie.
+
+丙: 哦，未来警察吧！
+    o ， wèilái jǐngchá ba ！
+    Oh, Future X-Cops!
+
+甲: 是。
+    shì 。
+    Yeah.
+
+丙: 我特喜欢那片儿！
+    wǒ tè xǐhuān nà piānr ！
+    I love that film!
 ### Vocab
 -未来警察 (wèiláijǐngchá) [name] Future X-Cops
 -布拉德·皮特 (Bùlādé Pítè) [person] Brad Pitt

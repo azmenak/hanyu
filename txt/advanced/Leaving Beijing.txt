@@ -6,15 +6,21 @@
 
 ### Pinyin and Translation
 ### Vocab
--指数 (zhǐshù) [noun] index
--爆表 (bàobiǎo) [verb] to go off the table
--刺鼻 (cìbí) [adjective] irritating to the nose
--自驾 (zìjià) [noun] self-driving
--牢骚 (láosao) [noun] complaint
--可吸入 (kěxīrù) [adjective] sniffable
--明眼人 (míngyǎnrén) [noun] person of good sense
--露天烧烤 (lùtiānshāokǎo) [noun] open-air barbecue
--防不胜防 (fángbùshèngfáng) [phrase] hard to guard against
--防毒面具 (fángdú miànjù) [noun] gas mask
--空气净化器 (kōngqì jìnghuàqì) [noun] air purifier
--空气加湿器 (kōngqì jiāshīqì) [noun] air humidifier
+-苟活 (gǒuhuó) [verb] to live on in degradation
+-逃离 (táolí) [verb] to escape
+-情怀 (qínghuái) [noun] feelings
+-菜肴 (càiyáo) [noun] dish
+-因素 (yīnsù) [noun] factor
+-言论 (yánlùn) [noun] expression of opinion
+-共鸣 (gòngmíng) [noun] resonance
+-舒心 (shūxīn) [adjective] comfortable
+-诉苦 (sùkǔ) [verb] to complain
+-公积金 (gōngjījīn) [noun] housing fund
+-苦行僧 (kǔxíngsēng) [noun] a monk who finds divinity in suffering
+-随遇而安 (suíyù'ér'ān) [verb] to feel at ease in all circumstances
+-陆陆续续 (lùlùxùxù) [adverb] in droves
+-五花八门 (wǔhuābāmén) [adjective] rich in variety
+-五险一金 (wǔxiǎnyījīn) [noun] insurance and housing fund
+-中外合璧 (zhōngwàihébì) [phrase] blending the east and the west
+-地域色彩 (dìyùsècǎi) [noun] geographical color
+-集思广益 (jísīguǎngyì) [verb] to pool the wisdom of the masses

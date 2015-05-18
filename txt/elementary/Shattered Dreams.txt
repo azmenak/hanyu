@@ -45,13 +45,16 @@
       shì ， nǐ de gēbo yě bèi yīshēng qiēchú le 。 nándào nǐ hái xiǎng dǎ yǔmáoqiú ma ？
       Yes, your arm was also amputated by the doctor. What? Can it be you still want to play badminton?
 ### Vocab
--旅游 (lǚyóu) [noun] travel
--指南 (zhǐnán) [noun] guide
--护照 (hùzhào) [noun] passport
--准备 (zhǔnbèi) [verb] to prepare
--机票 (jīpiào) [noun] airplane ticket
--行李 (xíngli) [noun] luggage
--旅行 (lǚxíng) [noun] tour; trip
--签证 (qiānzhèng) [noun] visa
--登记 (dēngjì) [verb] to register
--差不多 (chàbuduō) [phrase] that'll do
+-腿 (tuǐ) [noun] leg
+-胳膊 (gēbo) [noun] arm
+-医院 (yīyuàn) [noun] hospital
+-车祸 (chēhuò) [noun] car accident
+-傻 (shǎ) [adjective] foolish
+-烦扰 (fánrǎo) [verb] to disturb
+-打扰 (dǎrǎo) [verb] to bother
+-医生 (yīshēng) [noun] doctor
+-切除 (qiēchú) [verb] to cut away
+-跳舞 (tiàowǔ) [verb] to dance
+-天哪 (tiānna) [phrase] heavens
+-难道 (nándào) [other] can it be that
+-羽毛球 (yǔmáoqiú) [verb] badminton

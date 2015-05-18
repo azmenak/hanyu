@@ -32,12 +32,11 @@ Bunny: 我买了一堆玫瑰花。
 ### Vocab
 -你 (nǐ) [pronoun] you
 -我 (wǒ) [pronoun] I
--真 (zhēn) [adverb] really
--能吃 (néngchī) [adjective] gluttonous
--又 (yòu) [adverb] once again
--开玩笑 (kāiwánxiào) [phrase] you're kidding
--在 (zài) [preposition] currently
--减肥 (jiǎnféi) [verb] to diet
--还 (hái) [adverb] still
--米饭 (mǐfàn) [noun] cooked rice
--没了 (méi le) [verb phrase] to be gone
+-妈妈 (māma) [noun] mother
+-爸爸 (bàba) [noun] father
+-买 (mǎi) [verb] to buy
+-给 (gěi) [verb] to give
+-礼物 (lǐwù) [noun] gift
+-吗 (ma) [particle] question particle
+-为什么 (wèishénme) [question] why
+-因为 (yīnwèi) [conjunction] because

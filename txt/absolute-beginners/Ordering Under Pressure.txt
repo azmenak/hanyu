@@ -2,54 +2,41 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：谢谢您，谢谢，谢谢......
-乙：不客气。
-甲：谢谢，谢谢，谢谢您......
-乙：别客气。
-甲：谢谢您，谢谢您，谢谢......
-乙：不用客气。
-甲：谢谢，谢谢......
-乙：放手！放手！
+甲：给您菜单。
+乙：啊，谢谢。
+甲：您要什么？
+乙：呃，等一下儿，我先看看吧。
+甲：嗯，好的。
 
 ### Pinyin and Translation
 
-甲: 谢谢您，谢谢，谢谢......
-    xièxie nín ， xièxie ， xièxie ......
-    Thank you, thanks, thanks....
+甲: 给您菜单。
+    gěi nín càidān 。
+    Here is a menu.
 
-乙: 不客气。
-    bù kèqi 。
-    No thanks needed.
+乙: 啊，谢谢。
+    a ， xièxie 。
+    Ah, thank you.
 
-甲: 谢谢，谢谢，谢谢您......
-    xièxie ， xièxie ， xièxie nín ......
-    Thank you, thank you, thank you....
+甲: 您要什么？
+    nín yào shénme ？
+    What do you want?
 
-乙: 别客气。
-    bié kèqi 。
-    Don't be so polite.
+乙: 呃，等一下儿，我先看看吧。
+    e ， děng yīxiàr ， wǒ xiān kànkan ba 。
+    Wait a moment, I want to take a look.
 
-甲: 谢谢您，谢谢您，谢谢......
-    xièxie nín ， xièxie nín ， xièxie ......
-    Thank you, thank you, thank you....
-
-乙: 不用客气。
-    bù yòng kèqi 。
-    Cut it out.
-
-甲: 谢谢，谢谢......
-    xièxie ， xièxie ......
-    Thank you, thank you....
-
-乙: 放手！放手！
-    fàngshǒu ！ fàngshǒu ！
-    Let go! Let go!
+甲: 嗯，好的。
+    ng ， hǎo de 。
+    Oh, OK.
 ### Vocab
--祝 (zhù) [verb] to wish
--你 (nǐ) [pronoun] you
--快乐 (kuàilè) [adjective] happy
--生日 (shēngrì) [noun] birthday
+-给 (gěi) [verb] to give
+-您 (nín) [pronoun] you
+-菜单 (càidān) [noun] menu
 -谢谢 (xièxie) [phrase] thank you
--我的 (wǒ de) [phrase] mine
--也 (yě) [adverb] also
--祝你生日快乐 (zhù nǐ shēngrì kuàilè) [phrase] happy birthday to you
+-等一下儿 (děng yīxiàr) [phrase] wait a moment
+-什么 (shénme) [pronoun] what
+-要 (yào) [verb] to want
+-先 (xiān) [adverb] first
+-看看 (kànkan) [phrase] to look
+-好的 (hǎo de) [phrase] OK

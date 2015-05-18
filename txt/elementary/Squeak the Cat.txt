@@ -2,49 +2,47 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：被告，请问你什么时候第一次听说王大明杀了他舅舅？
-乙：法官大人，我反对。这是传闻。
-乙：反对无效？
-甲：谢谢您法官大人。
-乙：但这只是一个传闻。法庭不能把传闻作为证据！
-乙：是法官大人。我向法庭道歉。
+甲：哎，你喂猫了吗？
+乙：没有，你喂猫了吗？
+甲：没有。你昨天喂了吗？
+乙：没有，你呢？
+甲：我也没喂。
+乙：怪不得他今天这么老实。
 
 ### Pinyin and Translation
 
-甲: 被告，请问你什么时候第一次听说王大明杀了他舅舅？
-    bèigào ， qǐngwèn nǐ shénme shíhòu dì yī cì tīngshuō Wáng Dàmíng shā le tā jiùjiu ？
-    Defendent, when was the first time you heard that Wang Daming killed his uncle?
+甲: 哎，你喂猫了吗？
+    ai ， nǐ wèi māo le ma ？
+    Hey, you feed the cat?
 
-乙: 法官大人，我反对。这是传闻。
-    fǎguān dàren ， wǒ fǎnduì 。 zhè shì chuánwén 。
-    I object Your Honor. This is hearsay.
+乙: 没有，你喂猫了吗？
+    méiyǒu ， nǐ wèi māo le ma ？
+    No, you feed the cat?
 
-乙: 反对无效？
-    fǎnduì wúxiào ？
-    Objection overruled?
+甲: 没有。你昨天喂了吗？
+    méiyǒu 。 nǐ zuótiān wèi le ma ？
+    No. Did you feed it yesterday?
 
-甲: 谢谢您法官大人。
-    xièxiè nín fǎguān dàren 。
-    Thank you, Your Honor.
+乙: 没有，你呢？
+    méiyǒu ， nǐ ne ？
+    No, you?
 
-乙: 但这只是一个传闻。法庭不能把传闻作为证据！
-    dàn zhè zhǐ shì yī ge chuánwén 。 fǎtíng bù néng bǎ chuánwén zuòwéi zhèngju ！
-    But this is only hearsay. The court can't take hearsay as evidence!
+甲: 我也没喂。
+    wǒ yě méi wèi 。
+    I didn't either.
 
-乙: 是法官大人。我向法庭道歉。
-    shì fǎguān dàren 。 wǒ xiàng fǎtíng dàoqiàn 。
-    Yes, Your Honor. I apologize to the court.
+乙: 怪不得他今天这么老实。
+    guàibudé tā jīntiān zhème lǎoshi 。
+    No wonder he's being so good today.
 ### Vocab
--被告 (bèigào) [noun] defendant
--听说 (tīngshuō) [verb] to hear it said
--舅舅 (jiùjiu) [non] uncle
--法官大人 (fǎguān dàren) [phrase] Your Honor
--反对 (fǎnduì) [verb] to oppose
--传闻 (chuánwén) [noun] rumor; hearsay
--无效 (wúxiào) [adjective] to be ineffective
--法庭 (fǎtíng) [noun] court of law
--证据 (zhèngju) [noun] evidence
--道歉 (dàoqiàn) [verb] to apologize
--无聊 (wúliáo) [adjective] boring
--无语 (wúyǔ) [adjective] speechless
--无罪 (wúzuì) [adjective] innocent
+-喂 (wèi) [verb] to feed
+-昨天 (zuótiān) [noun] yesterday
+-怪不得 (guàibudé) [phrase] no wonder
+-老实 (lǎoshi) [adjective] affectionate
+-猫粮 (māoliáng) [noun] cat food
+-狗粮 (gǒuliáng) [noun] dog food
+-罐头 (guàntou) [noun] can
+-干的 (gānde) [adjective] dry
+-湿的 (shīde) [adjective] wet
+-猫砂 (māoshā) [noun] cat litter
+-这么 (zhème) [adverb] so very

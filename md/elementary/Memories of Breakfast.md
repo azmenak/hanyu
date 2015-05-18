@@ -1,8 +1,7 @@
 # Memories of Breakfast
 **Elementary** level
 ### Chinese Text
-甲：你头发里是什么？
-乙：头发里？
+甲：你头发里是什么？<br />乙：头发里？
 甲：对，就在这儿。
 乙：哦，很大一块。
 甲：对，是什么呀？
@@ -20,3 +19,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
+|里|lǐ|in|directional|
+|上|shàng|on|directional|
+|下|xià|under|directional|
+|就|jiù|exactly|adverb|
+|桌子|zhuōzi|table|noun|
+|书包|shūbāo|book bag|noun|
+|早餐|zǎocān|breakfast|noun|
+|头发|tóufa|hair|noun|

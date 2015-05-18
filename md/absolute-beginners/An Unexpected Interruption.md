@@ -1,8 +1,7 @@
 # An Unexpected Interruption
 **Absolute Beginners** level
 ### Chinese Text
-甲：你好。
-乙：你好。
+甲：你好。<br />乙：你好。
 丙：你好。
 甲：田森，9527，我还不知道你们俩在一起。
 乙、丙：呃....

@@ -2,34 +2,30 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：你认识弗兰克吗？
-乙：弗兰克？哪个弗兰克？
-甲：就是那个弗兰克·弗拉德拉。
-乙：哦，他不是住在河北了吗？
+甲：先生，请系好安全套。
+乙：啊？你说什么？
+甲：安全带，安全带。
 
 ### Pinyin and Translation
 
-甲: 你认识弗兰克吗？
-    nǐ rènshi Fúlánkè ma ？
-    Do you know Frank?
+甲: 先生，请系好安全套。
+    xiānsheng ， qǐng jìhǎo ānquántào 。
+    Mister. Please put on your condom.
 
-乙: 弗兰克？哪个弗兰克？
-    Fúlánkè ？ nǎge Fúlánkè ？
-    Frank, which Frank?
+乙: 啊？你说什么？
+    a ？ nǐ shuō shénme ？
+    What? What did you say?
 
-甲: 就是那个弗兰克·弗拉德拉。
-    jiùshì nàge Fúlánkè · Fúlādélā 。
-    Specifically, Frank Fradella.
-
-乙: 哦，他不是住在河北了吗？
-    o ， tā bù shì zhù zài Héběi le ma ？
-    Oh, isn't he in living in Hebei?
+甲: 安全带，安全带。
+    ānquándài ， ānquándài 。
+    Seatbelt, seatbelt....
 ### Vocab
--认识 (rènshi) [verb] to recognize
--吗 (ma) [particle] question marker
--哪个 (nǎ ge) [pronoun] which one
--就是 (jiùshì) [verb] to be exactly
--那个 (nà ge) [pronoun] that one
--住在 (zhù zài) [verb] to live in
--河北 (Héběi) [noun] Hebei
--弗兰克 (Fúlánkè) [name] Frank
+-先生 (xiānsheng) [noun] Mister
+-请 (qǐng) [verb] please
+-系好 (jìhǎo) [verb] to fasten
+-安全 (ānquán) [adjective] safe
+-安全套 (ānquántào) [noun] condom
+-安全带 (ānquándài) [noun] seat belt
+-你 (nǐ) [pronoun] you
+-说 (shuō) [verb] to say
+-什么 (shénme) [question] what

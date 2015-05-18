@@ -1,32 +1,30 @@
 # Squeak: Master and Companion....
 **Absolute Beginners** level
 ### Chinese Text
-甲：来一杯冰水。
-乙：白开水吗？
-甲：行，可以。
-乙：你要凉的还是热的？
-甲：冰的。
-乙：哦，对，不好意思。
+甲：猫又上你的椅子了。<br />乙：Squeak，下来，我得工作。
+甲：别动它，它很舒服。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|来一杯冰水。<blockquote>lái yī bēi bīngshuǐ 。<br />Bring me a glass of ice water.</blockquote>|
-|乙|白开水吗？<blockquote>báikāishuǐ ma ？<br />Is boiled tap water ok?</blockquote>|
-|甲|行，可以。<blockquote>xíng ， kěyǐ 。<br />Sure, that'll do.</blockquote>|
-|乙|你要凉的还是热的？<blockquote>nǐ yào liáng de háishì rè de ？<br />Do you want it cold or hot?</blockquote>|
-|甲|冰的。<blockquote>bīng de 。<br />Ice cold.</blockquote>|
-|乙|哦，对，不好意思。<blockquote>o ， duì ， bùhǎoyìsi 。<br />Oh, right, sorry.</blockquote>|
+|甲|猫又上你的椅子了。<blockquote>māo yòu shàng nǐ de yǐzi le 。<br />The cat's in your chair again.</blockquote>|
+|乙|Squeak，下来，我得工作。<blockquote>Squeak ， xiàlai ， wǒ děi gōngzuò 。<br />Get down Squeak. I need to work.</blockquote>|
+|甲|别动它，它很舒服。<blockquote>bié dòng tā ， tā hěn shūfu 。<br />Don't move him. He's comfortable.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|来|lái|to bring|verb|
-|对|duì|right|phrase|
-|杯|bēi|cup|measure word|
-|冰水|bīngshuǐ|ice water|noun|
-|凉水|liángshuǐ|cool water|noun|
-|热水|rèshuǐ|hot water|noun|
-|可以|kěyǐ|alright|phrase|
-|常温|chángwēn|room temperature|adjective|
-|白开水|báikāishuǐ|boiled water|noun|
-|不好意思|bùhǎoyìsi|sorry|phrase|
+|猫|māo|cat|noun|
+|又|yòu|once again|adverb|
+|上|shàng|to get on|verb|
+|椅子|yǐzi|chair|noun|
+|下来|xiàlai|to come down|verb|
+|得|děi|must|verb|
+|工作|gōngzuò|to work|verb|
+|别|bié|don't|conjunction|
+|动|dòng|to move|verb|
+|它|tā|it|pronoun|
+|舒服|shūfu|comfortable|adjective|
+|走|zǒu|to leave|verb|
+|吃饭|chīfàn|to eat|verb|
+|睡觉|shuìjiào|to sleep|verb|
+|上学|shàngxué|to go to school|verb|

@@ -1,8 +1,7 @@
 # The Ultimatum
 **Intermediate** level
 ### Chinese Text
-甲：你干嘛去？
-乙：和朋友吃午饭。
+甲：你干嘛去？<br />乙：和朋友吃午饭。
 甲：工作呢？
 乙：嗯....
 甲：你每天十点半才来，四点就走。
@@ -22,19 +21,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|卫星|wèixīng|satellite|noun|
-|轨道|guǐdào|orbit|noun|
-|干掉|gàndiào|to knock off|verb|
-|电工|diàngōng|electrician|noun|
-|电线|diànxiàn|electric cord|noun|
-|水管工|shuǐguǎngōng|plumber|noun|
-|发射|fāshè|to shoot|verb|
-|微波|wēibō|microwave|noun|
-|辐射|fúshè|radiation|noun|
-|造成|zàochéng|to cause|verb|
-|导致|dǎozhì|to lead to|verb|
-|引起|yǐnqǐ|to result in|verb|
-|长期|chángqī|long term|adjective|
-|癌症|áizhèng|cancer|noun|
-|得逞|déchěng|to gain unethically|verb|
-|枪毙|qiāngbì|to shoot|verb|
+|要不然|yàoburán|or else|conjunction|
+|否则|fǒuzé|otherwise|conjunction|
+|要么|yàome|either|conjunction|
+|雇|gù|to hire|verb|
+|干|gàn|to do|verb|
+|不管|bù guǎn|not to care|verb|
+|开除|kāichú|to fire|verb|
+|贿赂|huìlu|to bribe|verb|
+|交朋友|jiāo péngyou|to make friends|verb|
+|报告|bàogào|report|noun|
+|份|fèn|measure word|measure word|
+|按时|ànshí|on time|phrase|

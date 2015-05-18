@@ -1,38 +1,43 @@
 # Good Cop, Good Cop
 **Intermediate** level
 ### Chinese Text
-甲：哦，我的上帝！你居然把他给杀了。
-乙：我已经给过他最后警告了。
-甲：可是他是开玩笑的。
-乙：我清清楚楚地告诉他，如果你再出一声，我就弄死你。
-甲：哦，他死了！
-乙：我一向说话算话。
-甲：快，快叫警察！
-乙：我从来不跟任何人开玩笑。
+甲：现在马上回答我的问题， 要不然。<br />乙：要不然，怎么着？
+甲：要不然我就把我的拳头放在我的后边，让你猜猜里边有什么。
+乙：呃，你是在跟我开玩笑吧。
+甲：敬酒不吃吃罚酒？约翰，你来给他点儿颜色看看。
+丙：游戏时间已经结束了宝贝儿，乖乖地回答老子的问题，要不然....
+甲：要不然，你....
+丙：要不然我就把我的两只拳头都放在我的背后。
+甲：什么？
+丙：让你猜猜哪只手里有硬币。
+甲：左手。
+丙：妈的！
+甲：我觉得我们还要再给他一杯咖啡 。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哦，我的上帝！你居然把他给杀了。<blockquote>ò ， wǒ de shàngdì ！ nǐ jūrán bǎ tā gěi shā le 。<br />Oh my God! You actually killed him.</blockquote>|
-|乙|我已经给过他最后警告了。<blockquote>wǒ yǐjīng gěi guò tā zuì hòu jǐnggào le 。<br />I already gave him his last warning.</blockquote>|
-|甲|可是他是开玩笑的。<blockquote>kěshì tā shì kāi wánxiào de 。<br />But he was kidding.</blockquote>|
-|乙|我清清楚楚地告诉他，如果你再出一声，我就弄死你。<blockquote>wǒ qīngqīngchǔchǔ de gàosu tā ， rúguǒ nǐ zài chū yī shēng ， wǒ jiù nòngsǐ nǐ 。<br />I told him very clearly. If you make another sound, I'll kill you.</blockquote>|
-|甲|哦，他死了！<blockquote>ò ， tā sǐ le ！<br />Oh, he's dead!</blockquote>|
-|乙|我一向说话算话。<blockquote>wǒ yīxiàng shuōhuàsuànhuà 。<br />I always keep my word.</blockquote>|
-|甲|快，快叫警察！<blockquote>kuài ， kuài jiào jǐngchá ！<br />Quickly, quickly, call the police!</blockquote>|
-|乙|我从来不跟任何人开玩笑。<blockquote>wǒ cónglái bù gēn rènhé rén kāi wánxiào 。<br />I never joke around with anyone.</blockquote>|
+|甲|现在马上回答我的问题， 要不然。<blockquote>xiànzài mǎshàng huídá wǒ de wèntí ，  yàoburán 。<br />Answer my question right now or else....</blockquote>|
+|乙|要不然，怎么着？<blockquote>yàoburán ， zěnme zhao ？<br />Or else, what are you gonna do?</blockquote>|
+|甲|要不然我就把我的拳头放在我的后边，让你猜猜里边有什么。<blockquote>yàoburán wǒ jiù bǎ wǒ de quántou fàng zài wǒ de hòubiān ， ràng nǐ cāicai lǐbiān yǒu shénme 。<br />Otherwise, I'll take my fist and put it behind my back, and make you guess what's in it.</blockquote>|
+|乙|呃，你是在跟我开玩笑吧。<blockquote>e ， nǐ shì zài gēn wǒ kāi wánxiào ba 。<br />Uh, you're kidding with me, right?</blockquote>|
+|甲|敬酒不吃吃罚酒？约翰，你来给他点儿颜色看看。<blockquote>jìngjiǔ bù chī chī fájiǔ ？ Yuēhàn ， nǐ lái gěi tā diǎnr yánsè kànkan 。<br />If you won't do this the easy way, we'll do it the hard way. John, come and show this guy what is what.</blockquote>|
+|丙|游戏时间已经结束了宝贝儿，乖乖地回答老子的问题，要不然....<blockquote>yóuxì shíjiān yǐjīng jiéshù le bǎobèir ， guāiguāide huídá lǎozi de wèntí ， yàoburán ....<br />Game time is over baby, now be a good boy and answer Daddy's questions, or else....</blockquote>|
+|甲|要不然，你....<blockquote>yàoburán ， nǐ ....<br />Or else, you'll....</blockquote>|
+|丙|要不然我就把我的两只拳头都放在我的背后。<blockquote>yàoburán wǒ jiù bǎ wǒ de liǎng zhī quántou dōu fàng zài wǒ de bèihòu 。<br />Or else I'll take my two fists and put them behind my back.</blockquote>|
+|甲|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|丙|让你猜猜哪只手里有硬币。<blockquote>ràng nǐ cāicai nǎ zhǐ shǒu lǐ yǒu yìngbì 。<br />And make you guess which hand has the coin in it.</blockquote>|
+|甲|左手。<blockquote>zuǒshǒu 。<br />The left hand.</blockquote>|
+|丙|妈的！<blockquote>māde ！<br />Dammit!</blockquote>|
+|甲|我觉得我们还要再给他一杯咖啡 。<blockquote>wǒ juéde wǒmen hái yào zài gěi tā yī bēi kāfēi  。<br />I think we should get him another cup of coffee.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|百老汇|bǎilǎohuì|Broadway|noun|
-|歌剧|gējù|musical|noun|
-|回忆|huíyì|memory|verb|
-|绝妙|juémiào|exquisite|adjective|
-|享受|xiǎngshòu|to enjoy|verb|
-|欣赏|xīnshǎng|to appreciate|verb|
-|怪兽|guàishòu|beast|noun|
-|订购|dìnggòu|subscriber|verb|
-|监狱|jiānyù|prison|noun|
-|犹太人|yóutàirén|Jewish person|noun|
-|蹲|dūn|to crouch|verb|
-|顶级|dǐngjí|top-level|adjective|
+|要不然|yàoburán|otherwise|conjunction|
+|硬汉|yìnghàn|tough guy|noun|
+|怎么着|zěnme zhao|what you going to do about it|phrase|
+|敬酒不吃吃罚酒|jìngjiǔ bù chī chī fájiǔ|if you won't do this the easy way, we'll do it the hard way|phrase|
+|老子|lǎozi|I|noun|
+|拳头|quántou|fist|noun|
+|乖乖地|guāiguāide|in a well-behaved manner|adverb|
+|硬币|yìngbì|coin|noun|

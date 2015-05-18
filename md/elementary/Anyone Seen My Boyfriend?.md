@@ -1,8 +1,7 @@
 # Anyone Seen My Boyfriend?
 **Elementary** level
 ### Chinese Text
-女：你看见我男朋友了吗？
-男：你有男朋友？
+女：你看见我男朋友了吗？<br />男：你有男朋友？
 女：对呀，就是小王。
 男：小王！
 女：我们已经在一起两年了，难道你不知道吗？
@@ -18,14 +17,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|哎呀|āiya|good gracious|exclamation|
-|坏了|huài le|it's bad|phrase|
-|糟了|zāo le|it's awful|phrase|
-|完了|wán le|I'm done for|phrase|
-|老板|lǎobǎn|boss|noun|
-|在|zài|to be present|verb|
-|不许|bù xǔ|not to be allowed|verb|
-|聊天|liáotiān|to chat|verb|
-|工作|gōngzuò|to work|verb|
-|回去|huíqu|to return|verb|
-|磨蹭|móceng|to procrastinate|verb|
+|看见|kànjiàn|to see|verb|
+|对呀|duì ya|that's right|phrase|
+|男朋友|nánpéngyou|boyfriend|noun|
+|女朋友|nǚpéngyou|girlfriend|noun|
+|在一起|zài yīqǐ|to be together|verb|
+|就|jiù|precisely|adverb|
+|已经|yǐjīng|already|adverb|
+|难道|nándào|can it be that|conjunction|
+|不知道|bù zhīdào|not to know|verb|

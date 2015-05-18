@@ -1,36 +1,32 @@
 # Crossing the Border
 **Intermediate** level
 ### Chinese Text
-司机：从下边儿就蹿上来了。
-乘客：师傅，咱飞慢点儿吧。
-司机：你他妈，我，谁他妈教你飞的车啊？
-乘客：师傅，飞低点儿行吗？
-司机：找死呢？天是你们家开的？我....
-乘客：师傅，师傅，我要下车。
-司机：什么？咱还没到呢。
+甲：好，我们下一个问题，你打算带多少现金入境？<br />乙：好多。
+甲：超过一万了吗？
+乙：比那多多了。
+甲：你不能这么说。你要这么说的话，你，你去迪士尼你带那么多现金，他们会查你的你知道吗？算了，我给你写一万以下。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|司机|从下边儿就蹿上来了。<blockquote>cóng xiàbiānr jiù cuānshànglái le 。<br />You cut me off, charging up like this.</blockquote>|
-|乘客|师傅，咱飞慢点儿吧。<blockquote>shīfu ， zán fēi màn diǎnr ba 。<br />Driver, fly a little bit slower please.</blockquote>|
-|司机|你他妈，我，谁他妈教你飞的车啊？<blockquote>nǐ tāma ， wǒ ， shéi tāma jiāo nǐ fēi de chē a ？<br />Damn you, who the hell taught you to fly a car?</blockquote>|
-|乘客|师傅，飞低点儿行吗？<blockquote>shīfu ， fēi dī diǎnr xíng ma ？<br />Driver, can we fly a little lower?</blockquote>|
-|司机|找死呢？天是你们家开的？我....<blockquote>zhǎo sǐ ne ？ tiān shì nǐmen jiā kāi de ？ wǒ ....<br />Got a death wish? You think the whole sky is yours? I....</blockquote>|
-|乘客|师傅，师傅，我要下车。<blockquote>shīfu ， shīfu ， wǒ yào xiàchē 。<br />Driver, driver, I want to get out of the car.</blockquote>|
-|司机|什么？咱还没到呢。<blockquote>shénme ？ zán hái méi dào ne 。<br />What? We haven't arrived yet.</blockquote>|
+|甲|好，我们下一个问题，你打算带多少现金入境？<blockquote>hǎo ， wǒmen xià yī  ge wèntí ， nǐ dǎsuàn dài duōshao xiànjīn rùjìng ？<br />Ok, and our next question is... how much cash are you planning to bring into the country?</blockquote>|
+|乙|好多。<blockquote>hǎo duō 。<br />A lot.</blockquote>|
+|甲|超过一万了吗？<blockquote>chāoguò yīwàn le ma ？<br />More than ten thousand?</blockquote>|
+|乙|比那多多了。<blockquote>bǐ nà duō duō le 。<br />A lot more than that.</blockquote>|
+|甲|你不能这么说。你要这么说的话，你，你去迪士尼你带那么多现金，他们会查你的你知道吗？算了，我给你写一万以下。<blockquote>nǐ bù néng zhème shuō 。 nǐ yào zhème shuō dehuà ， nǐ ， nǐ qù Díshìní nǐ dài nàme duō xiànjīn ， tāmen huì chá nǐ de nǐ zhīdào ma ？ suànle ， wǒ gěi nǐ xiě yīwàn yǐxià 。<br />You can't say that, if you say that and you're going to Disneyland carrying that much cash they're going to look into it, you know? Forget it, I'll put down less than ten thousand.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|寂寞|jìmò|lonely|adjective|
-|需求|xūqiú|needs; requirements|noun|
-|健壮|jiànzhuàng|buff and muscular|adjective|
-|小伙|xiǎohuǒ|young man|noun|
-|强求|qiángqiú|to urge; to beseech|verb|
-|微妙|wēimiào|subtle; delicate|adjective|
-|委婉|wěiwǎn|circumspect|adjective|
-|续集|xùjí|sequel|noun|
-|保龄球|bǎolíngqiú|bowling|noun|
-|球友|qiúyǒu|teammate|noun|
-|勉强|miǎnqiǎng|to force someone to do something; to force; to make an effort|verb|
-|无能为力|wúnéngwéilì|nothing can be done|phrase|
+|现金|xiànjīn|cash|noun|
+|裸官|luǒguān|officials whose entire families have already naturalized in other countries|noun|
+|入境|rùjìng|to enter a country|verb|
+|签证|qiānzhèng|visa|noun|
+|游客|yóukè|tourists|noun|
+|通过率|tōngguòlǜ|passing rate|noun|
+|多多了|duō duō le|much more|phrase|
+|多得多|duō de duō|much more|phrase|
+|高多了|gāo duō le|much higher|phrase|
+|高得多|gāo de duō|much higher|phrase|
+|少多了|shǎo duō le|much less|phrase|
+|少得多|shǎo de duō|much less|phrase|
+|金融危机|jīnróngwēijī|financial crisis|noun|

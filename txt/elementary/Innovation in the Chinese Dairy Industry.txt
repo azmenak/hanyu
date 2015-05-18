@@ -2,39 +2,49 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：小姐，可以给我一支甜筒吗？
-乙：嗯，要什么口味的？
-甲：嗯，有巧克力味的吗？
-乙：嗯，啊？
-甲：啊，我一想到巧克力甜筒就会觉得热，不好意思。难道您不觉得我的身材很好吗？
+甲：这是你的内裤吗？
+乙：嗯....
+甲：你怎么放到冰箱里了？
+乙：那个....
+甲：我在酸奶瓶里找到的！
+乙：你喝酸奶了吗？
+甲：我受够了，我要分手！
 
 ### Pinyin and Translation
 
-甲: 小姐，可以给我一支甜筒吗？
-    xiǎojie ， kěyǐ gěi wǒ yī zhī tiántǒng ma ？
-    Miss, can you give me an ice cream cone?
+甲: 这是你的内裤吗？
+    zhè shì nǐ de nèikù ma ？
+    Is this your underwear?
 
-乙: 嗯，要什么口味的？
-    en ， yào shénme kǒuwèi de ？
-    Oh, what flavor do you want?
+乙: 嗯....
+    en . . . .
+    Um....
 
-甲: 嗯，有巧克力味的吗？
-    en ， yǒu qiǎokèlì wèi de ma ？
-    Oh, do you have chocolate?
+甲: 你怎么放到冰箱里了？
+    nǐ zěnme fàngdào bīngxiāng lǐ le ？
+    Why did you put it in the fridge?
 
-乙: 嗯，啊？
-    en ， ā ？
-    Oh, huh?
+乙: 那个....
+    nà ge . . . .
+    Well....
 
-甲: 啊，我一想到巧克力甜筒就会觉得热，不好意思。难道您不觉得我的身材很好吗？
-    ā ， wǒ yī xiǎngdào qiǎokèlì tiántǒng jiù huì juéde rè ， bùhǎoyìsi 。 nándào nín bù juéde wǒ de shēncái hěn hǎo ma ？
-    I'm sorry... whenever I think of chocolate ice cream cones I get all hot. Don't you think my body is sexy?
+甲: 我在酸奶瓶里找到的！
+    wǒ zài suānnǎi píng lǐ zhǎodào de ！
+    I found it in the bottle of yoghurt!
+
+乙: 你喝酸奶了吗？
+    nǐ hē suānnǎi le ma ？
+    Did you drink the yoghurt?
+
+甲: 我受够了，我要分手！
+    wǒ shòugòu le ， wǒ yào fēnshǒu ！
+    I've had it, I want to break up.
 ### Vocab
--叫 (jiào) [verb] to be called
--也 (yě) [adverb] also
--能 (néng) [verb] to be unable
--告诉 (gàosu) [verb] to tell
--秘密 (mìmì) [noun] secret
--名字 (míngzi) [noun] name
--海关 (hǎiguān) [noun] customs
--走私 (zǒusī) [verb] to smuggle
+-怎么 (zěnme) [question] how
+-内裤 (nèikù) [noun] underwear
+-冰箱 (bīngxiāng) [noun] refrigerator
+-酸奶 (suānnǎi) [noun] yoghurt
+-分手 (fēnshǒu) [verb] to split up
+-受不了 (shòubùliǎo) [verb] to be unable to take it
+-受够了 (shòugòu le) [verb] to have had enough
+-非要 (fēiyào) [verb] to really have to

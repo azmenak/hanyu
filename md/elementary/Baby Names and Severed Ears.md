@@ -1,8 +1,7 @@
 # Baby Names and Severed Ears
 **Elementary** level
 ### Chinese Text
-甲：你女儿真漂亮。
-乙：哦，谢谢。
+甲：你女儿真漂亮。<br />乙：哦，谢谢。
 甲：她叫什么名字？
 乙：没想好。
 甲：那，她多大了？
@@ -24,15 +23,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|哥们儿|gēmenr|dude|noun|
-|核扩散|hékuòsàn|nuclear proliferation|noun|
-|核武器|héwǔqì|nuclear weapon|noun|
-|介意|jièyì|to mind|verb|
-|在乎|zàihu|to care|verb|
-|管|guǎn|to manage|verb|
-|苹果店|Píngguǒ diàn|Apple store|noun|
-|货|huò|product|noun|
-|功能|gōngnéng|functionality|noun|
-|电池|diànchí|battery|noun|
-|倍儿|bèir|very|adverb|
-|棒|bàng|great|adjective|
+|沒想好|méixiǎnghǎo|not to have finished thinking|verb|
+|没做好|méizuòhǎo|not to have finished|verb|
+|没说好|méishuōhǎo|not to have agreed upon|verb|
+|没定好|méidìnghǎo|not to have set down|verb|
+|取|qǔ|to pick up|verb|
+|取名字|qǔ míngzi|to pick a name|verb|
+|取钱|qǔ qián|to take out money|verb|
+|取签证|qǔ qiānzhèng|to pick up a visa|verb|
+|两三|liǎng sān|two or three|other|
+|岁|suì|years|noun|
+|左右|zuǒyòu|more or less|suffix|
+|馘|guó|to cut off the left ear of a slain opponent|verb|

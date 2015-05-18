@@ -1,18 +1,17 @@
 # Where are you from?
 **Absolute Beginners** level
 ### Chinese Text
-甲：你属什么？
-乙：我属鸡。
-甲：你属鸡？哈⋯⋯咕咕咕咕⋯⋯
-乙：嘿！嘿！别笑了！
+刘：你是中国人吗？<br />秦：不，我是日本人。
+刘：你的汉语真好！
+秦：谢谢！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你属什么？<blockquote>nǐ shǔ shénme ？<br />What sign are you?</blockquote>|
-|乙|我属鸡。<blockquote>wǒ shǔ jī 。<br />I'm a chicken.</blockquote>|
-|甲|你属鸡？哈⋯⋯咕咕咕咕⋯⋯<blockquote>nǐ shǔ jī ？ hā ⋯⋯ gū gū gū gū ⋯⋯<br />You're a chicken. Ha! Cluck, cluck, cluck....</blockquote>|
-|乙|嘿！嘿！别笑了！<blockquote>hēi ！ hēi ！ bié xiào le ！<br />Hey! Hey! Don't laugh!</blockquote>|
+|刘|你是中国人吗？<blockquote>nǐ shì Zhōngguórén ma ？<br />Are you Chinese?</blockquote>|
+|秦|不，我是日本人。<blockquote>bù ， wǒ shì Rìběnrén 。<br />No, I'm Japanese.</blockquote>|
+|刘|你的汉语真好！<blockquote>nǐ de hànyǔ zhēn hǎo ！<br />Your Chinese is really good!</blockquote>|
+|秦|谢谢！<blockquote>xièxiè ！<br />Thank You!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

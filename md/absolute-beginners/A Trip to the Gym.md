@@ -1,18 +1,17 @@
 # A Trip to the Gym
 **Absolute Beginners** level
 ### Chinese Text
-甲：师傅，醒醒，醒醒！
-乙：到了，到了。十块，十块....
-甲：你刚才睡着了。
-乙：没有，没有啊，我们去哪儿？
+甲：八，九，十....<br />乙：好，加油！
+甲：看，肌肉。
+乙：嗯，好看，我来。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|师傅，醒醒，醒醒！<blockquote>shīfu ， xǐngxing ， xǐngxing ！<br />Driver, wake up, wake up!</blockquote>|
-|乙|到了，到了。十块，十块....<blockquote>dào le ， dào le 。 shí kuài ， shí kuài . . . .<br />We're here, we're here.... That'll be ten kuai.</blockquote>|
-|甲|你刚才睡着了。<blockquote>nǐ gāngcái shuìzháo le 。<br />You were just sleeping.</blockquote>|
-|乙|没有，没有啊，我们去哪儿？<blockquote>méiyǒu ， méiyǒu a ， wǒmen qù nǎr ？<br />No I wasn't.... Where are we going?</blockquote>|
+|甲|八，九，十....<blockquote>bā ， jiǔ ， shí . . . .<br />Eight, nine, ten....</blockquote>|
+|乙|好，加油！<blockquote>hǎo ， jiāyóu ！<br />Great, way to go!</blockquote>|
+|甲|看，肌肉。<blockquote>kàn ， jīròu 。<br />Look, muscles.</blockquote>|
+|乙|嗯，好看，我来。<blockquote>en ， hǎokàn ， wǒ lái 。<br />Hey, looking good. My turn.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,8 +1,7 @@
 # Classified Information
 **Elementary** level
 ### Chinese Text
-甲：哎，你叫什么名字？
-乙：我不能告诉你，这是个秘密。
+甲：哎，你叫什么名字？<br />乙：我不能告诉你，这是个秘密。
 甲：你的名字是秘密？
 乙：我的名字是不是秘密，这也是个秘密。
 
@@ -16,14 +15,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|咱们|zánmen|we; us|pronoun|
-|它|tā|it|pronoun|
-|一直|yīzhí|continuously|adverb|
-|不再|bù zài|no longer|adverb|
-|在|zài|currently|adverb|
-|写|xiě|to write|verb|
-|爱|ài|to love|verb|
-|训练|xùnliàn|to train|verb|
-|字儿|zìr|characters|noun|
-|猫|māo|cat|noun|
-|信|xìn|letter|noun|
+|叫|jiào|to be called|verb|
+|也|yě|also|adverb|
+|能|néng|to be unable|verb|
+|告诉|gàosu|to tell|verb|
+|秘密|mìmì|secret|noun|
+|名字|míngzi|name|noun|
+|海关|hǎiguān|customs|noun|
+|走私|zǒusī|to smuggle|verb|

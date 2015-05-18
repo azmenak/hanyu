@@ -1,8 +1,7 @@
 # Occupational Hazard
 **Intermediate** level
 ### Chinese Text
-甲：风速？
-乙：风速六十。
+甲：风速？<br />乙：风速六十。
 甲：高度？
 乙：高度八千。
 乙：机长，机长，你的癫痫病又要发了吗？

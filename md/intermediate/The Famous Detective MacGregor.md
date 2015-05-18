@@ -1,8 +1,7 @@
 # The Famous Detective MacGregor
 **Intermediate** level
 ### Chinese Text
-甲：麦格雷戈侦探，听说您破获了这次的连环杀人案。
-乙：是，是谁杀死了我的哥哥？
+甲：麦格雷戈侦探，听说您破获了这次的连环杀人案。<br />乙：是，是谁杀死了我的哥哥？
 甲：是他？
 乙：他，他当时不是在巴黎吗？
 甲：还有流浪汉的指纹怎么解释？
@@ -34,17 +33,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|五日游|wǔrìyóu|five-day trip|noun|
-|套餐|tàocān|package|noun|
-|内容|nèiróng|content|noun|
-|目的地|mùdìdì|destination|noun|
-|停留|tíngliú|to stop over|verb|
-|高速|gāosù|high speed|adjective|
-|普快|pǔkuài|normal speed|adjective|
-|动车|dòngchē|high-speed train|noun|
-|游览|yóulǎn|sight-seeing|verb|
-|慢车|mànchē|slow train|noun|
-|特快|tèkuài|express|noun|
-|高铁|gāotiě|high-speed train|noun|
-|和谐号|héxiéhào|Harmony line|noun|
-|四大发明|sìdàfāmíng|the four great Chinese inventions|phrase|
+|侦探|zhēntàn|detective|noun|
+|破获|pòhuò|to crack; to break|verb|
+|连环|liánhuán|serial|adjective|
+|杀人案|shārén‘àn|murder case|noun|
+|流浪汉|liúlànghàn|vagabond|noun|
+|指纹|zhǐwén|fingerprints|noun|
+|双胞胎|shuāngbāotāi|twins|noun|
+|尸体|shītǐ|corpse|noun|
+|定罪|dìngzuì|to pin a crime|verb|
+|被捕|bèibǔ|to be arrested|verb|
+|究竟|jiūjìng|exactly|adverb|

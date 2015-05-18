@@ -25,14 +25,11 @@
     wǒ de míngzi shì bù shì mìmì ， zhè yě shì ge mìmì 。
     Whether my name is a secret, that's a secret too.
 ### Vocab
--咱们 (zánmen) [pronoun] we; us
--它 (tā) [pronoun] it
--一直 (yīzhí) [adverb] continuously
--不再 (bù zài) [adverb] no longer
--在 (zài) [adverb] currently
--写 (xiě) [verb] to write
--爱 (ài) [verb] to love
--训练 (xùnliàn) [verb] to train
--字儿 (zìr) [noun] characters
--猫 (māo) [noun] cat
--信 (xìn) [noun] letter
+-叫 (jiào) [verb] to be called
+-也 (yě) [adverb] also
+-能 (néng) [verb] to be unable
+-告诉 (gàosu) [verb] to tell
+-秘密 (mìmì) [noun] secret
+-名字 (míngzi) [noun] name
+-海关 (hǎiguān) [noun] customs
+-走私 (zǒusī) [verb] to smuggle

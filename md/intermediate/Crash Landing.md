@@ -1,44 +1,45 @@
 # Crash Landing
 **Intermediate** level
 ### Chinese Text
-甲：你告诉过我，不会有任何平民伤亡。
-乙：是的，总统先生，我们出现了计算失误。
-甲：计算失误？我们的导弹炸毁了一家医院！
-乙：先生，这是战争里可能出现的失误，我们没法....
-甲：你怎么可能瞄准一栋屋顶有红十字的建筑！
-乙：我很抱歉，总统先生。
-甲：抱歉有什么用？
-乙：我...我...我....
-甲：如果你想在我的任期里保住饭碗，最好不要有任何的计算失误！
-乙：是，先生。
+甲：机长，我没法降落这架飞机。<br />乙：怎么了？这就是一个常规的夜间降落。
+甲：我们在飞行学院没学过这个。
+乙：你们没学过夜间降落？你只需要跟着仪表盘上的电脑操作。
+丙：机长，乘客已经开始恐慌啦！
+乙：什么？
+丙：我告诉他们保持飞机坠毁的姿势，但是他们....
+乙：嘿嘿嘿，谁说我们要坠毁了？
+甲：让我手动把轮子放下去，至少我们不会一着陆就爆炸。
+乙：这些事情电脑早就做好啦。
+丙：天哪，是电脑在开飞机！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你告诉过我，不会有任何平民伤亡。<blockquote>nǐ gàosu guò wǒ ， bùhuì yǒu rènhé píngmín shāngwáng 。<br />You told me there wouldn't be any civilian casualties.</blockquote>|
-|乙|是的，总统先生，我们出现了计算失误。<blockquote>shì de ， zǒngtǒng xiānsheng ， wǒmen chūxiàn le jìsuàn shīwù 。<br />Yes, Mr. President. We had an error in our calculations.</blockquote>|
-|甲|计算失误？我们的导弹炸毁了一家医院！<blockquote>jìsuàn shīwù ？ wǒmen de dǎodàn zhàhuǐ le yī jiā yīyuàn ！<br />An error in calculations? Our guided missile blew up a hospital!</blockquote>|
-|乙|先生，这是战争里可能出现的失误，我们没法....<blockquote>Xiānsheng ， zhè shì zhànzhēng lǐ kěnéng chūxiàn de shīwù ， wǒmen méifǎ . . . .<br />Sir, this is the sort of error that can happen in war, we had no way of....</blockquote>|
-|甲|你怎么可能瞄准一栋屋顶有红十字的建筑！<blockquote>nǐ zěnme kěnéng miáozhǔn yī dòng wūdǐng yǒu hóng shízì de jiànzhù ！<br />How could you target a building with a red cross on the roof!</blockquote>|
-|乙|我很抱歉，总统先生。<blockquote>wǒ hěn bàoqiàn ， zǒngtǒng xiānsheng 。<br />I'm sorry Mr. President.</blockquote>|
-|甲|抱歉有什么用？<blockquote>bàoqiàn yǒu shénme yòng ？<br />What use is being sorry?</blockquote>|
-|乙|我...我...我....<blockquote>wǒ . . . wǒ . . . wǒ . . . .<br />I... I... I....</blockquote>|
-|甲|如果你想在我的任期里保住饭碗，最好不要有任何的计算失误！<blockquote>rúguǒ nǐ xiǎng zài wǒ de rènqī lǐ bǎozhù fànwǎn ， zuì hǎo bù yào yǒu rènhé de jìsuàn shīwù ！<br />If you want to keep your job during my term of office, you'd best not have any errors in calculation.</blockquote>|
-|乙|是，先生。<blockquote>shì ， xiānsheng 。<br />Yes, Sir.</blockquote>|
+|甲|机长，我没法降落这架飞机。<blockquote>jīzhǎng ， wǒ méifǎ jiàngluò zhè jià fēijī 。<br />Captain, I don't have any way to land this plane.</blockquote>|
+|乙|怎么了？这就是一个常规的夜间降落。<blockquote>zěnme le ？ zhè jiùshì yī ge chángguī de yèjiān jiàngluò 。<br />What? This is a routine nighttime landing.</blockquote>|
+|甲|我们在飞行学院没学过这个。<blockquote>wǒmen zài fēixíng xuéyuàn méi xuéguò zhège 。<br />We never studied this in flight school.</blockquote>|
+|乙|你们没学过夜间降落？你只需要跟着仪表盘上的电脑操作。<blockquote>nǐmen méi xuéguò yèjiān jiàngluò ？ nǐ zhǐ xūyào gēnzhe yíbiǎopán shàng de diànnǎo cāozuò 。<br />You didn't study nighttime landings? You only need to follow the computer on the instrument panel.</blockquote>|
+|丙|机长，乘客已经开始恐慌啦！<blockquote>jīzhǎng ， chéngkè yǐjīng kāishǐ kǒnghuāng la ！<br />Captain, the passengers have already started to panic!</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|丙|我告诉他们保持飞机坠毁的姿势，但是他们....<blockquote>wǒ gàosu tāmen bǎochí fēijī zhuìhuǐ de zīshì ， dànshì tāmen . . . .<br />I told them to maintain crash position, but they....</blockquote>|
+|乙|嘿嘿嘿，谁说我们要坠毁了？<blockquote>hei hei hei ， shéi shuō wǒmen yào zhuìhuǐ le ？<br />Hey, who said we are going to crash?</blockquote>|
+|甲|让我手动把轮子放下去，至少我们不会一着陆就爆炸。<blockquote>ràng wǒ shǒudòng bǎ lúnzi fàngxiàqù ， zhìshǎo wǒmen bùhuì yī zhuólù jiù bàozhà 。<br />Let me lower the wheels manually. At least this way we won't explode on touchdown.</blockquote>|
+|乙|这些事情电脑早就做好啦。<blockquote>zhè xiē shìqing diànnǎo zǎo jiù zuò hǎo la 。<br />The computer took care of that ages ago.</blockquote>|
+|丙|天哪，是电脑在开飞机！<blockquote>tiānna ， shì diànnǎo zài kāi fēijī ！<br />My God, the computer is flying the plane!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|引擎|yǐnqíng|engine|noun|
-|借口|jièkǒu|excuse|noun|
-|玩意儿|wányìr|plaything|noun|
-|百度|Bǎidù|Baidu|noun|
-|棺材|guāncai|coffin|noun|
-|老子|lǎozi|I|pronoun|
-|在线|zàixiàn|online|adjective|
-|给力|gěilì|awesome|slang|
-|狗屁|gǒupì|damn|slang|
-|警告|jǐnggào|to warn|verb|
-|死死|sǐsǐ|firmly|adverb|
-|微微|wēiwēi|slightly|adverb|
-|乖乖|guāiguāi|obediently|adverb|
-|单单|dāndān|solely|adverb|
+|降落|jiàngluò|to land|verb|
+|常规|chángguī|routine|adjective|
+|夜间|yèjiān|nighttime|other|
+|白天|báitiān|daytime|other|
+|跟着|gēnzhe|to follow|verb|
+|操作|cāozuò|to manipulate|verb|
+|恐慌|kǒnghuāng|to panic|verb|
+|坠毁|zhuìhuǐ|to crash|verb|
+|姿势|zīshì|position|noun|
+|手动|shǒudòng|manually|adverb|
+|自动|zìdòng|automatically|adverb|
+|着陆|zhuólù|to touchdown|verb|
+|着地|zháodì|to touchdown|verb|
+|仪表盘|yíbiǎopán|instrument panel|noun|

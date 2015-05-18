@@ -2,28 +2,38 @@
 ## *elementary* level
 
 ### Chinese Text
-老公：亲爱的，你看，我给我们的儿子买了台游戏机！
-老婆：游戏机？他才两岁！
-老公：这个可以学嘛。
-老婆：可以学？你就是买给自己的！
+甲：你知道我为什么喜欢泡泡中文吗？
+乙：为什么呢？
+甲：因为我工作五个小时，他们给我面包吃。
+丙：还有水。
+乙：还有面包？
+丙：我想回家......
 
 ### Pinyin and Translation
 
-老公: 亲爱的，你看，我给我们的儿子买了台游戏机！
-      qīnàide ， nǐ kàn ， wǒ gěi wǒmen de érzi mǎi le tái yóuxìjī ！
-      Darling, look. I bought a video game console for our son!
+甲: 你知道我为什么喜欢泡泡中文吗？
+    nǐ zhīdào wǒ wèishénme xǐhuān Pàopào Zhōngwén ma ？
+    Do you know why I like Popup Chinese?
 
-老婆: 游戏机？他才两岁！
-      yóuxìjī ？ tā cái liǎng suì ！
-      A video game console? He's only two years old!
+乙: 为什么呢？
+    wèishénme ne ？
+    Why?
 
-老公: 这个可以学嘛。
-      zhège kěyǐ xué ma 。
-      He can learn to use it.
+甲: 因为我工作五个小时，他们给我面包吃。
+    yīnwèi wǒ gōngzuò wǔ ge xiǎoshí ， tāmen gěi wǒ miànbāo chī 。
+    Because if I work for five hours, they give me bread to eat.
 
-老婆: 可以学？你就是买给自己的！
-      kěyǐ xué ？ nǐ jiù shì mǎi gěi zìjǐ de ！
-      Study to use it? You just bought it for yourself!
+丙: 还有水。
+    hái yǒu shuǐ 。
+    There's also water.
+
+乙: 还有面包？
+    hái yǒu miànbāo ？
+    You get bread?
+
+丙: 我想回家......
+    wǒ xiǎng huíjiā ......
+    I want to go home....
 ### Vocab
 -知道 (zhīdào) [verb] to know
 -为什么 (wèishénme) [question] why

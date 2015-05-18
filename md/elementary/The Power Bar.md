@@ -1,22 +1,48 @@
 # The Power Bar
 **Elementary** level
 ### Chinese Text
-李雷有一只小猫，叫小虎。小虎的生活很忙。他需要睡觉和吃饭，有的时候，他也需要捉小老鼠。他觉得他应该找一个助手。小虎找到一只小狗，叫宝贝儿。小虎给宝贝儿工作面试，后来决定雇宝贝儿。李雷回家的时候，看见一只新来的小狗，不知道小狗是谁。他问小虎：“发生了什么事儿？小狗是谁？”小虎回答：“咪咪咪咪咪。”李雷回答：“嗯，你的新助手？下次，你应该先问我再雇佣新助手。”小虎说：“咪咪咪咪咪。”李雷说：“好的，我明白。”
+甲：你觉得小凤怎么样？<br />乙：人不错啊。
+甲：非常不错。
+乙：人挺好的，就是鼻子长得有点儿大。
+甲：是有点儿大，感觉像是......
+乙：就像是那个......
+甲：电插板。
+乙：对，电插板。
+甲：像电插板挂脸上了。
+乙：唉，我奶奶也这样。
+甲：嗯。还有他那嘴唇长得也有点儿过分。
+乙：是有点儿，就像是一块烂猪肉。
+甲：对。不过他人的确不错。
+乙：脾气挺好的。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||李雷有一只小猫，叫小虎。小虎的生活很忙。他需要睡觉和吃饭，有的时候，他也需要捉小老鼠。他觉得他应该找一个助手。小虎找到一只小狗，叫宝贝儿。小虎给宝贝儿工作面试，后来决定雇宝贝儿。李雷回家的时候，看见一只新来的小狗，不知道小狗是谁。他问小虎：“发生了什么事儿？小狗是谁？”小虎回答：“咪咪咪咪咪。”李雷回答：“嗯，你的新助手？下次，你应该先问我再雇佣新助手。”小虎说：“咪咪咪咪咪。”李雷说：“好的，我明白。”<blockquote>Lǐ Léi yǒu yī zhī xiǎomāo ， jiào Xiǎo Hǔ 。 Xiǎo Hǔ de shēnghuó hěn máng 。 tā xūyào shuìjiào hé chīfàn ， yǒude shíhou ， tā yě xūyào zhuō xiǎo lǎoshǔ 。 tā juéde tā yīnggāi zhǎo yī ge zhùshǒu 。 Xiǎo Hǔ zhǎodào yī zhī xiǎogǒu ， jiào bǎobèir 。 Xiǎohǔ gěi Bǎobèir gōngzuò miànshì ， hòulái juédìng gù Bǎobèir 。 Lǐ Léi huíjiā de shíhou ， kànjiàn yī zhī xīnláide xiǎogǒu ， bù zhīdào xiǎogǒu shì shéi 。 tā wèn Xiǎo Hǔ ： “ fāshēng le shénme shìr ？ xiǎogǒu shì shéi ？ ” Xiǎo Hǔ huídá ： “ mīmīmīmīmī 。 ” Lǐ Léi huídá ： “ en ， nǐ de xīn zhùshǒu ？ xiàcì ， nǐ yīnggāi xiān wèn wǒ zài gùyōng xīn zhùshǒu 。 ” Xiǎo Hǔ shuō ： “ mīmīmīmīmī 。 ” Lǐ Léi shuō ： “ hǎo de ， wǒ míngbai 。 ”<br />Li Lei had a kitten called Little Tiger, whose life was terribly busy. He always needed to sleep and eat, and sometimes also catch mice. Little Tiger felt he should have an assistant, so he found a puppy called Baby. He gave Baby an interview, and afterwards decided to hire him. When Li Lei returned home, he found a new puppy he didn't know. He asked the kitten, "What's happened? Who is the puppy?" And the kitten answered, "miao". Li Lei replied, "Oh, it's your new assistant? Next time, you should ask me before hiring an assistant." Little Tiger said "miao" and Li Lei replied, "It's ok, I understand."</blockquote>|
+|甲|你觉得小凤怎么样？<blockquote>nǐ juéde Xiǎo Fèng zěnmeyàng ？<br />What do you think of Xiao Feng?</blockquote>|
+|乙|人不错啊。<blockquote>rén bùcuò a 。<br />He's not bad.</blockquote>|
+|甲|非常不错。<blockquote>fēicháng bùcuò 。<br />Really pretty good.</blockquote>|
+|乙|人挺好的，就是鼻子长得有点儿大。<blockquote>rén tǐng hǎo de ， jiùshì bízi zhǎng de yǒu diǎnr dà 。<br />A good guy, but his nose is a bit big.</blockquote>|
+|甲|是有点儿大，感觉像是......<blockquote>shì yǒu diǎnr dà ， gǎnjué xiàng shì ......<br />It is a little bit, feels sort of like....</blockquote>|
+|乙|就像是那个......<blockquote>jiù xiàng shì nà ge ......<br />Just like that....</blockquote>|
+|甲|电插板。<blockquote>diànchābǎnr 。<br />Power bar.</blockquote>|
+|乙|对，电插板。<blockquote>duì ， diànchābǎnr 。<br />Right. A power bar.</blockquote>|
+|甲|像电插板挂脸上了。<blockquote>xiàng diànchābǎnr guà liǎn shàng le 。<br />Like a power bar hanging from his face.</blockquote>|
+|乙|唉，我奶奶也这样。<blockquote>ai ， wǒ nǎinai yě zhèyàng 。<br />My grandmother is also this way.</blockquote>|
+|甲|嗯。还有他那嘴唇长得也有点儿过分。<blockquote>en 。 hái yǒu tā nà zuǐchún zhǎng de yě yǒudiǎnr guòfèn 。<br />Oh, and then there's that thing with his lip.</blockquote>|
+|乙|是有点儿，就像是一块烂猪肉。<blockquote>shì yǒu diǎnr ， jiù xiàng shì yī kuài làn zhūròu 。<br />Yeah, a bit. It's like a piece of rotten pork.</blockquote>|
+|甲|对。不过他人的确不错。<blockquote>duì 。 bùguò tā rén díquè bùcuò 。<br />Yeah, but he's really not a bad guy.</blockquote>|
+|乙|脾气挺好的。<blockquote>píqì tǐng hǎo de 。<br />Great temperament.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|交|jiāo|to hand over|verb|
-|付|fù|to pay|verb|
-|电费|diànfèi|electricity bill|noun|
-|水费|shuǐfèi|water bill|noun|
-|电话费|diànhuàfèi|telephone bill|noun|
-|煤气费|méiqìfèi|gas bill|noun|
-|燃气费|ránqìfèi|fuel bill|noun|
-|物业费|wùyèfèi|management bill|noun|
-|暖气费|nuǎnqìfèi|heating bill|noun|
-|路费|lùfèi|travel fee|noun|
+|电插板|diànchābǎnr|power bar|noun|
+|接线板|jiēxiànbǎn|power cord|noun|
+|鼻子|bízi|nose|noun|
+|嘴唇|zuǐchún|lip|noun|
+|脾气|píqì|temper|noun|
+|像|xiàng|like|verb|
+|挂|guà|to hang|verb|
+|过分|guòfèn|excessive|adjective|
+|烂|làn|rotten|adjective|
+|的确|díquè|actually|adverb|
+|不过|bùguò|but|conjunction|

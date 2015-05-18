@@ -35,14 +35,13 @@
     méi shéi ！ nàge . . .  fàng kètīng ， duì ， fàng kètīng 。
     It's no-one. Umm... put it in the living room. Yeah, the living room.
 ### Vocab
--三里屯 (Sānlǐtún) [place] Sanlitun
--王府井 (Wángfǔjǐng) [place] Wangfujing
--天安门 (Tiān'ānmén) [place] Tiananmen
--怎么走 (zěnme zǒu) [phrase] what is the way
--一直走 (yīzhí zǒu) [phrase] go straight
--右转 (yòuzhuǎn) [phrase] turn right
--左转 (zuǒzhuǎn) [phrase] turn left
--去死 (qù sǐ) [phrase] drop dead
--滚 (gǔn) [slang] get lost
--然后 (ránhòu) [conjunction] afterwards
--出租车 (chūzūchē) [noun] taxi
+-盗用 (dàoyòng) [verb] to appropriate
+-没谁 (méi shéi) [phrase] it's no-one
+-没什么 (méi shénme) [phrase] it's nothing
+-沙发 (shāfā) [noun] sofa
+-把 (bǎ) [coverb] to take
+-放 (fàng) [verb] to put
+-客厅 (kètīng) [noun] living room
+-说谎 (shuōhuǎng) [verb] to lie
+-那个 (nàge) [phrase] that
+-这个 (zhège) [phrase] this

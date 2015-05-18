@@ -45,12 +45,15 @@
     kě yǎo rén gèng guì a ！
     Less expensive than biting people.
 ### Vocab
--五音不全 (wǔyīnbùquán) [phrase] tone-deaf
--五线谱 (wǔxiànpǔ) [noun] musical staff
--大调 (dàdiào) [noun] major tone
--小调 (xiǎodiào) [noun] minor tone
--演奏 (yǎnzòu) [verb] to perform
--和弦 (héxián) [noun] chord
--曲子 (qǔzi) [noun] song
--开除 (kāichú) [verb] to expel
--反复 (fǎnfù) [adverb] repeatedly
+-蔫儿 (niānr) [adjective] drowsy
+-两 (liǎng) [measurement] 50 grams
+-看起来 (kànqǐlái) [note: to seem to be, to appear to be] to seem
+-那得看 (nà děi kàn) [phrase] that depends on
+-威士忌 (wēishiji) [noun] whiskey
+-朗姆酒 (lǎngmǔ jiǔ) [noun] rum
+-白酒 (báijiǔ) [noun] Chinese white wine
+-人头马 (réntóumǎ) [noun] Remy Martin
+-苏格兰威士忌 (sūgelán wēishiji) [noun] scotch
+-龙舌兰 (lóngshélán) [noun] tequila
+-伏特加 (fútèjiā) [noun] vodka
+-金酒 (jīnjiǔ) [noun] gin

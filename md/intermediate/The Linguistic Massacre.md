@@ -1,8 +1,7 @@
 # The Linguistic Massacre
 **Intermediate** level
 ### Chinese Text
-甲：我已经把赎金打到你的瑞士账户了，你放了我女儿！
-乙：你是转账了，不过放人，没那么简单。
+甲：我已经把赎金打到你的瑞士账户了，你放了我女儿！<br />乙：你是转账了，不过放人，没那么简单。
 甲：你怎么出尔反尔？我已经按照你的要求做了。
 乙：还有我要求你别做的... 你报警了！
 甲：我，我....
@@ -36,19 +35,18 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|管|guǎn|to take care of|verb|
-|骗光|piànguāng|to fraud|verb|
-|骗子|piànzi|swindler|noun|
-|骗人|piànrén|to cheat others|verb|
-|人生|rénshēng|life|noun|
-|价值|jiàzhí|value|noun|
-|大奖|dàjiǎng|big prize|noun|
-|惊喜|jīngxǐ|surprise|adjective|
-|转账|zhuǎnzhàng|to transfer|verb|
-|安利|ānlì|Amway|noun|
-|茶楼|chálóu|tea house|noun|
-|传票|chuánpiào|to send a subpoena|verb|
-|银行卡|yínhángkǎ|bank card|noun|
-|联合国|Liánhéguó|United Nations|noun|
-|尼日利亚|Nírìlìyà|Nigeria|noun|
-|害人之心不可有，防人之心不可无|hàirén zhī xīn bù kě yǒu, fángrén zhī xīn bù kě wú|malice towards none, but defense towards all|phrase|
+|通|tòng|(telephone calls)|measure word|
+|汇|huì|to remit|verb|
+|赎金|shújīn|ransom|noun|
+|转账|zhuǎnzhàng|to transfer funds|verb|
+|监听|jiāntīng|to eavesdrop|verb|
+|否认|fǒurèn|to deny|verb|
+|惨案|cǎn'àn|disaster|noun|
+|翻倍|fānbèi|to double|verb|
+|不然|bùrán|otherwise|conjunction|
+|撕票|sīpiào|to kill the hostage|verb|
+|出尔反尔|chū’ěrfǎn‘ěr|to reap what one sows|chengyu|
+|万人空巷|wànrénkōngxiàng|mass spectacle|chengyu|
+|不以为然|bùyǐwéirán|to disapprove|chengyu|
+|空穴来风|kōngxuéláifēng|where there's smoke there's fire|chengyu|
+|七月流火|qīyuèliúhuǒ|the start of summer cooling|chengyu|

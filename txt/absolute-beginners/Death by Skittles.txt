@@ -25,14 +25,11 @@
     xièxiè ā ！
     Thanks!
 ### Vocab
--我 (wǒ) [pronoun] I
--我爱你 (wǒ ài nǐ) [phrase] I love you
--你 (nǐ) [pronoun] you
--他 (tā) [pronoun] he
--是 (shì) [verb] to be
--谁 (shéi) [question] who
--宝贝 (bǎobèi) [noun] baby
--不 (bù) [adverb] not
--认识 (rènshi) [verb] to recognize
--知道 (zhīdào) [verb] to know
--爱 (ài) [verb] to love
+-糖 (táng) [noun] sugar, candy
+-彩虹糖 (cǎihóngtáng) [noun] Skittles
+-巧克力 (qiǎokelì) [noun] chocolate
+-冰淇凌 (bīngqilíng) [noun] ice cream
+-蛋糕 (dàngāo) [noun] cake
+-圆筒 (yuántǒng) [noun] cone
+-奶昔 (nǎixī) [noun] milkshake
+-新地 (xīndì) [noun] sundae

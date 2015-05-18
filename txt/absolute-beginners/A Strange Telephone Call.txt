@@ -2,52 +2,51 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：Echo，祝你生日快乐！
-Echo：谢谢！
-乙：Echo，生日快乐！
-Echo：谢谢！
-丙：我的呢？
-甲：呃......，你也生日快乐。
-乙：嗯，快乐。
+甲：喂？喂？你是谁？
+乙：谁啊？你在跟谁说话呢？
+甲：电话里哇哇的，听不清楚。 喂，你听听。
+乙：喂？喂？说话。
+甲：听不清吧？
+乙：嗯。
+甲：挂了吧。
 
 ### Pinyin and Translation
 
-甲: Echo，祝你生日快乐！
-    Echo ， zhù nǐ shēngrì kuàilè ！
-    Happy Birthday, Echo!
+甲: 喂？喂？你是谁？
+    wéi ？ wéi ？ nǐ shì shéi ？
+    Hello? Hello? Who are you?
 
-Echo: 谢谢！
-          xièxie ！
-          Thanks!
+乙: 谁啊？你在跟谁说话呢？
+    shéi a ？ nǐ zài gēn shéi shuōhuà ne ？
+    Who? Who are you talking to?
 
-乙: Echo，生日快乐！
-    Echo ， shēngrì kuàilè ！
-    Happy Birthday, Echo!
+甲: 电话里哇哇的，听不清楚。 喂，你听听。
+    diànhuà lǐ wāwā de ， tīng bu qīngchu 。  wéi ， nǐ tīngting 。
+    It's a wa-wa sound. I can't hear it clearly. Hello, you listen.
 
-Echo: 谢谢！
-          xièxie ！
-          Thanks!
+乙: 喂？喂？说话。
+    wéi ？ wéi ？ shuōhuà 。
+    Hello? Hello? Say something.
 
-丙: 我的呢？
-    wǒ de ne ？
-    
+甲: 听不清吧？
+    tīngbùqīng ba ？
+    Can't make it out?
 
-甲: 呃......，你也生日快乐。
-    e ...... ， nǐ yě shēngrì kuàilè 。
-    Hmm.... happy birthday to you too.
+乙: 嗯。
+    ng 。
+    Yeah.
 
-乙: 嗯，快乐。
-    ng ， kuàilè 。
-    Yeah, happy birthday.
+甲: 挂了吧。
+    guà le ba 。
+    Hang up.
 ### Vocab
--天气 (tiānqì) [noun] weather
--生活 (shēnghuó) [noun] life
--生菜 (shēngcài) [noun] lettuce
--很 (hěn) [adverb] very
--真 (zhēn) [adverb] really
--好 (hǎo) [adjective] good
--也 (yě) [conjunction] also
--好吃 (hǎochī) [adjective] tasty
--兔子 (tùzi) [noun] rabbit
--累 (lèi) [adjective] tired
--饿 (è) [adjective] hungry
+-谁 (shéi) [pronoun] who
+-你是谁 (nǐ shì shéi) [phrase] who are you
+-跟 (gēn) [preposition] with
+-说话 (shuōhuà) [verb] to talk
+-电话 (diànhuà) [noun] telephone
+-听不清楚 (tīng bù qīngchu) [phrase] not to hear clearly
+-看不清楚 (kàn bù qīngchu) [phrase] not to see clearly
+-听不懂 (tīngbùdǒng) [phrase] not to understand audio
+-看不懂 (kànbùdǒng) [phrase] not to understand text
+-挂 (guà) [verb] to hang up

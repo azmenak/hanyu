@@ -1,8 +1,7 @@
 # A Visit to the Shanghai Subway
 **Elementary** level
 ### Chinese Text
-甲：你刚才踩到我了，讨厌！
-乙：是你踩到我了，讨厌！
+甲：你刚才踩到我了，讨厌！<br />乙：是你踩到我了，讨厌！
 甲：你讨厌！
 乙：你讨厌！
 甲：讨厌鬼，我要下车了，你别让我再看到你！
@@ -24,11 +23,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|里|lǐ|in|directional|
-|上|shàng|on|directional|
-|下|xià|under|directional|
-|就|jiù|exactly|adverb|
-|桌子|zhuōzi|table|noun|
-|书包|shūbāo|book bag|noun|
-|早餐|zǎocān|breakfast|noun|
-|头发|tóufa|hair|noun|
+|刚才|gāngcái|just now|adverb|
+|踩到|cǎi dào|to step on|verb|
+|讨厌|tǎoyàn|hateful|adjective|
+|上车|shàngchē|to board a train|verb|
+|下车|xiàchē|to get off a train|verb|
+|讨厌鬼|tǎoyànguǐ|hated person|noun|
+|懒鬼|lǎnguǐ|lazy person|noun|
+|自私鬼|zìsīguǐ|selfish person|noun|

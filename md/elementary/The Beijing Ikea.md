@@ -1,8 +1,7 @@
 # The Beijing Ikea
 **Elementary** level
 ### Chinese Text
-甲：王大明先生？
-乙：这儿没什么....
+甲：王大明先生？<br />乙：这儿没什么....
 甲：您想把沙发放哪儿？
 乙：沙发？噢... 那个... 王大明！是我，是我....
 丙：迈克，你在跟谁说话？
@@ -20,14 +19,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|三里屯|Sānlǐtún|Sanlitun|place|
-|王府井|Wángfǔjǐng|Wangfujing|place|
-|天安门|Tiān'ānmén|Tiananmen|place|
-|怎么走|zěnme zǒu|what is the way|phrase|
-|一直走|yīzhí zǒu|go straight|phrase|
-|右转|yòuzhuǎn|turn right|phrase|
-|左转|zuǒzhuǎn|turn left|phrase|
-|去死|qù sǐ|drop dead|phrase|
-|滚|gǔn|get lost|slang|
-|然后|ránhòu|afterwards|conjunction|
-|出租车|chūzūchē|taxi|noun|
+|盗用|dàoyòng|to appropriate|verb|
+|没谁|méi shéi|it's no-one|phrase|
+|没什么|méi shénme|it's nothing|phrase|
+|沙发|shāfā|sofa|noun|
+|把|bǎ|to take|coverb|
+|放|fàng|to put|verb|
+|客厅|kètīng|living room|noun|
+|说谎|shuōhuǎng|to lie|verb|
+|那个|nàge|that|phrase|
+|这个|zhège|this|phrase|

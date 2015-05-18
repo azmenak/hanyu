@@ -1,22 +1,15 @@
 # An Inclination to Casual Looting
 **Absolute Beginners** level
 ### Chinese Text
-甲：她没有邮箱？
-乙：没有。
-甲：也没有电话？
-乙：没有。
-甲：她是80后？
-乙：1880后。
+甲：你还有多少钱？<br />乙：五十。
+甲：那是我的钱！给我。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|她没有邮箱？<blockquote>tā méiyǒu yóuxiāng ？<br />She doesn't have email?</blockquote>|
-|乙|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
-|甲|也没有电话？<blockquote>yě méiyǒu diànhuà ？<br />She doesn't have a telephone either?</blockquote>|
-|乙|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
-|甲|她是80后？<blockquote>tā shì bā líng hòu ？<br />She was born in the 1980s?</blockquote>|
-|乙|1880后。<blockquote>yī bā bā líng hòu 。<br />The 1880s.</blockquote>|
+|甲|你还有多少钱？<blockquote>nǐ hái yǒu duōshǎo qián ？<br />How much money do you have?</blockquote>|
+|乙|五十。<blockquote>wǔshí 。<br />Fifty bucks.</blockquote>|
+|甲|那是我的钱！给我。<blockquote>nà shì wǒ de qián ！ gěi wǒ 。<br />That's my money! Give it to me.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

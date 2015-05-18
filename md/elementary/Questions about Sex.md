@@ -1,8 +1,7 @@
 # Questions about Sex
 **Elementary** level
 ### Chinese Text
-女的：你的狗真可爱。
-男的：谢谢。
+女的：你的狗真可爱。<br />男的：谢谢。
 女的：公的母的?
 男的：我怎么知道?
 女的：你怎么不知道?

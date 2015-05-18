@@ -4,18 +4,15 @@ No Transcript Available
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|旁白|pángbái|narrator|noun|
-|录制|lùzhì|to record|verb|
-|医疗|yīliáo|medical treatment|noun|
-|脊椎|jǐzhuī|spine|noun|
-|歪|wāi|skewed; crooked|adjective|
-|抽筋儿|chōujīnr|limb cramp|verb|
-|岔气儿|chàqìr|chest cramp|verb|
-|崴脚|wǎijiǎo|to sprain an ankle|verb|
-|戳了手指|chuō le shǒuzhǐ|to sprain a finger|verb|
-|扭了背|niǔ le bèi|to sprain one's back|verb|
-|闪了腰|shǎn le yāo|to sprain one's waist|verb|
-|脱臼|tuōjiù|to dislocate|verb|
-|抽风儿|chōufēngr|stroke|verb|
-|淤血|yūxiě|bruise|noun|
-|青了|qīng le|to bump against|verb|
+|重心|zhòngxīn|center of gravity|noun|
+|炸雷|zhàléi|clap of thunder|noun|
+|大忌|dàjì|taboo|noun|
+|裸奔|luǒbēn|streaking|noun|
+|奇葩|qípā|strange person/thing|noun|
+|口哨|kǒushào|whistle|noun|
+|搭茬儿|dāchár|to pick up the thread of a conversation and take part in it|verb|
+|醉醺醺|zuìxūnxūn|drunkenly|adverb|
+|敲竹杠|qiāozhúgàng|to rob by a trick|verb|
+|帝国主义|dìguózhǔyì|imperialism|noun|
+|种族歧视|zhǒngzúqíshì|racism|noun|
+|越描越黑|yuèmiáoyuèhēi|the more you explain it, the worse it gets|other|

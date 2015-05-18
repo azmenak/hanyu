@@ -1,8 +1,7 @@
 # The Insincere Apology
 **Absolute Beginners** level
 ### Chinese Text
-一：哎，怎么下雨了？
-二：哦，没下雨啊。
+一：哎，怎么下雨了？<br />二：哦，没下雨啊。
 一：那我怎么....
 三：哎，不好意思！
 
@@ -16,15 +15,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|我|wǒ|I, me|pronoun|
+|怎么|zěnme|how|unknown|
+|下雨|xiàyǔ|to rain|unknown|
+|没|méi|not to have|adverb|
+|我|wǒ|I|unknown|
 |你|nǐ|you|pronoun|
-|钥匙|yàoshi|key|noun|
-|手机|shǒujī|cellphone|noun|
-|钱包|qiánbāo|wallet|noun|
-|昨天|zuótiān|yesterday|noun|
-|在|zài|to be at|verb|
-|知道|zhīdào|to know|verb|
-|看|kàn|to look|verb|
-|见|jiàn|to see|verb|
-|哪儿|nǎr|where|question|
-|怎么|zěnme|how|question|
+|不|bù|not|adverb|
+|好|hǎo|good|adjective|
+|意思|yìsi|idea|noun|
+|不好意思|bùhǎoyìsi|sorry about that|phrase|

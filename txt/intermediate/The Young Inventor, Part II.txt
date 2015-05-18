@@ -2,72 +2,47 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：女儿，你已经长大了，有些事情也应该告诉你了。
-乙：什么，爸爸？
-甲：其实你妈妈不是你妈妈，她是一位演员。你还记得在墨西哥的时候......
-乙：什么？你为什么不告诉我？
-甲：因为你小时候就需要一个妈妈，况且，她演技非常不错。
-乙：不，我不相信，她那么疼爱我。
-甲：那只是她演技的一部分。
-乙：那......你们的关系呢？
-甲：我们的关系？呵呵，这些......那无非是来点儿灯光，一点儿音乐，都是特技做的。
-乙：那哥哥知道吗？
-甲：他当然知道，他也是演员。
+爸爸：亲爱的，我觉得是时候谈谈你的儿子了。
+妈妈：噢，你还在为那个小事故生气吗？
+爸爸：小事故？那可是五百伏电压！
+妈妈：噢，怪不得我们家电费这么贵！
+爸爸：我的心跳都停了！
+妈妈：啊，小孩子，真淘气！
 
 ### Pinyin and Translation
 
-甲: 女儿，你已经长大了，有些事情也应该告诉你了。
-    nǚér ， nǐ yǐjīng zhǎngdà le ， yǒuxiē shìqing yě yīnggāi gàosu nǐ le 。
-    Daughter, now that you've grown up there's something I need to tell you.
+爸爸: 亲爱的，我觉得是时候谈谈你的儿子了。
+      qīn`ài de ， wǒ juéde shìshíhou tántan nǐ de érzi le 。
+      Honey, I think it's about time we talked about your son.
 
-乙: 什么，爸爸？
-    shénme ， bàba ？
-    What is it Daddy?
+妈妈: 噢，你还在为那个小事故生气吗？
+      o ， nǐ hái zài wèi nà ge xiǎo shìgu shēngqì ma ？
+      Oh, you're still angry about that little accident?
 
-甲: 其实你妈妈不是你妈妈，她是一位演员。你还记得在墨西哥的时候......
-    qíshí nǐ māma bù shì nǐ māma ， tā shì yī wèi yǎnyuán 。 nǐ hái jìde zài Mòxīgē de shíhou ......
-    Well, your mother is not actually your mother. She's an actor. You remember that time in Mexico when....
+爸爸: 小事故？那可是五百伏电压！
+      xiǎo shìgu ？ nà kě shì wǔ bǎi fú diànyā ！
+      Little accident? That was 500 volts of electric current!
 
-乙: 什么？你为什么不告诉我？
-    shénme ？ nǐ wèishénme bù gàosu wǒ ？
-    What? Why didn't you tell me?
+妈妈: 噢，怪不得我们家电费这么贵！
+      o ， guàibudé wǒmen jiā diànfèi zhème guì ！
+      Really? No wonder our electric bill is so high.
 
-甲: 因为你小时候就需要一个妈妈，况且，她演技非常不错。
-    yīnwèi nǐ xiǎo shíhou jiù xūyào yī ge māma ， kuàngqiě ， tā yǎnjì fēicháng bùcuò 。
-    Because you needed a mother growing up. And also, she was a pretty good actress.
+爸爸: 我的心跳都停了！
+      wǒ de xīntiào dōu tíng le ！
+      It stopped my heart!
 
-乙: 不，我不相信，她那么疼爱我。
-    bù ， wǒ bù xiāngxìn ， tā nàme téngài wǒ 。
-    No, I don't believe it. She loved me so much.
-
-甲: 那只是她演技的一部分。
-    nà zhǐ shì tā yǎnjì de yībùfèn 。
-    That was just part of her act.
-
-乙: 那......你们的关系呢？
-    nà ...... nǐmen de guānxi ne ？
-    Then... what about your relationship with her?
-
-甲: 我们的关系？呵呵，这些......那无非是来点儿灯光，一点儿音乐，都是特技做的。
-    wǒmen de guānxi ？ hēhe ， zhè xiē ...... nà wúfēi shì lái diǎnr dēngguāng ， yīdiǎnr yīnyuè ， dōu shì tèjì zuò de 。
-    Our relationship? That... that was nothing more than a bit of lighting and some music. It was all special effects.
-
-乙: 那哥哥知道吗？
-    nà gēge zhīdào ma ？
-    Does my brother know?
-
-甲: 他当然知道，他也是演员。
-    tā dāngrán zhīdào ， tā yě shì yǎnyuán 。
-    Of course he does, he's an actor too.
+妈妈: 啊，小孩子，真淘气！
+      a ， xiǎo háizi ， zhēn táoqì ！
+      Oh, boys will be boys!
 ### Vocab
--按 (àn) [verb] to press
--按钮 (ànniǔ) [noun] button
--发明 (fāmíng) [verb] to invent
--激光 (jīguāng) [noun] laser
--发射器 (fāshèqì) [noun] launching device
--淘气 (táoqì) [verb] to act up
--电死 (diànsǐ) [verb] to electrocute
--熏死 (xūnsǐ) [verb] to asphyxiate
--扎死 (zhāsǐ) [verb] to impale
--掐死 (qiāsǐ) [verb] to throttle
--淹死 (yānsǐ) [verb] to drown
+-伏 (fú) [unit] volt
+-瓦 (wǎ) [unit] watt
+-千瓦 (qiānwǎ) [unit] kilowatt
+-千瓦时 (qiānwǎshí) [unit] kilowatt hour
+-度 (dù) [noun] point
+-升 (shēng) [unit] liter
+-毫升 (háoshēng) [unit] milliliter
+-厘米 (lǐmǐ) [unit] centimeter
+-毫米 (háomǐ) [unit] millimeter
+-华氏 (huáshì) [unit] fahrenheit
+-摄氏 (shèshì) [unit] celcius

@@ -2,46 +2,49 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：我觉得....
-乙：我觉得....
-甲：不好意思，你先说。
-乙：好。
-甲：我认为....
-乙：我觉得这个....
-甲：还是您先说吧。
-乙：不不不，你先说。
+甲：不行啊。
+乙：它太重了。
+甲：那... 我们怎么办？
+乙：没办法，再来一次。
+甲：好，一，二，三。加油，加油，加油... 好，成功啦！
+乙：好，干得好。
 
 ### Pinyin and Translation
 
-甲: 我觉得....
-    wǒ juéde . . . .
-    I feel....
+甲: 不行啊。
+    bù xíng a 。
+    It doesn't work.
 
-乙: 我觉得....
-    wǒ juéde . . . .
-    I think....
+乙: 它太重了。
+    tā tài zhòng le 。
+    It's too heavy.
 
-甲: 不好意思，你先说。
-    bùhǎoyìsi ， nǐ xiān shuō 。
-    I'm sorry, you speak first.
+甲: 那... 我们怎么办？
+    nà ... wǒmen zěnme bàn ？
+    Then... what should we do?
 
-乙: 好。
-    hǎo 。
-    OK.
+乙: 没办法，再来一次。
+    méi bànfǎ ， zài lái yī cì 。
+    No solution, let's try again.
 
-甲: 我认为....
-    wǒ rènwéi . . . .
-    I think....
+甲: 好，一，二，三。加油，加油，加油... 好，成功啦！
+    hǎo ， yī ， èr ， sān 。 jiāyóu ， jiāyóu ， jiāyóu . . .  hǎo ， chénggōng la ！
+    Okay, one, two, three... Come on, come on, come on... Good, we succeed!
 
-乙: 我觉得这个....
-    wǒ juéde zhège . . . .
-    I feel this....
-
-甲: 还是您先说吧。
-    hái shì nín xiān shuō ba 。
-    Let's still have you speak first.
-
-乙: 不不不，你先说。
-    bù bù bù ， nǐ xiān shuō 。
-    No no no, you speak first.
+乙: 好，干得好。
+    hǎo ， gàn de hǎo 。
+    Good, well done!
 ### Vocab
+-不 (bù) [adverb] not
+-行 (xíng) [adjective] ok
+-太 (tài) [adverb] too
+-重 (zhòng) [adjective] heavy
+-加油 (jiāyóu) [phrase] (encouraging cheer)
+-成功 (chénggōng) [verb] to succeed
+-怎么办 (zěnme bàn) [phrase] what can be done
+-没办法 (méi bànfǎ) [phrase] to have no way
+-有办法 (yǒu bànfǎ) [phrase] to have a way
+-再来一次 (zài lái yī cì) [phrase] do it one more time
+-干得好 (gàn de hǎo) [phrase] good job
+-去 (qù) [verb] to go
+-帮忙 (bāngmáng) [verb] to help

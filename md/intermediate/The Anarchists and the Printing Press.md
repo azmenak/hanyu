@@ -1,8 +1,7 @@
 # The Anarchists and the Printing Press
 **Intermediate** level
 ### Chinese Text
-[第一部]
-甲：我们在地下室发现了印刷机，还有这些....
+[第一部]<br />甲：我们在地下室发现了印刷机，还有这些....
 乙：《推翻政府》、《给人民力量》。胡扯！
 甲：更糟糕的是，我们还找到了这个海报。
 乙：地下诗社。
@@ -42,14 +41,23 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|挂|guà|to hang|verb|
-|装|zhuāng|to pack|verb|
-|贴|tiē|to post|verb|
-|墙|qiáng|wall|noun|
-|户口|hùkǒu|registered residence|noun|
-|秋天|qiūtiān|autumn|noun|
-|国际|guójì|international|adjective|
-|恐怕|kǒngpà|unfortunately|adverb|
-|校友|xiàoyǒu|alumni|noun|
-|高脚杯|gāojiǎobēi|wine glass|noun|
-|茶几|chájī|coffee table|noun|
+|推翻|tuīfān|to overturn|verb|
+|胡扯|húchě|baloney|noun|
+|海报|hǎibào|poster|noun|
+|地下|dìxià|underground|adjective|
+|诗社|shīshè|poetry society|noun|
+|杂志|zázhì|magazine|noun|
+|编辑|biānjí|editor|noun|
+|朝阳|zhāoyáng|rising sun|noun|
+|朝阳|cháoyáng|to face the sun|phrase|
+|标语|biāoyǔ|written slogan|noun|
+|口号|kǒuhào|oral slogan|noun|
+|特刊|tèkān|special edition|noun|
+|艺术|yìshù|art|noun|
+|自由|zìyóu|freedom|noun|
+|地下室|dìxiàshì|basement|noun|
+|印刷机|yìnshuājī|printing press|noun|
+|新浪潮|xīnlàngcháo|new wave|name|
+|朗诵会|lǎngsònghuì|reading|noun|
+|可持续发展|kěchíxù fāzhǎn|sustainable development|phrase|
+|无政府主义者|wú zhèngfǔ zhǔyìzhě|anarchist|noun|

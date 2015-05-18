@@ -2,36 +2,36 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-女的：洗手间在哪儿？
-男的：这儿没有。
-女的：那哪儿有？
-男的：这附近都没有洗手间呀。
+男的：你需要点儿什么？
+女的：啤酒。
+男的：一扎还是一瓶儿?
+女的：一瓶儿。
 
 ### Pinyin and Translation
 
-女的: 洗手间在哪儿？
-      xǐshǒujiān zài nǎr ？
-      Where is the washroom?
+男的: 你需要点儿什么？
+      nǐ xūyào diǎnr shénme ？
+      What would you like?
 
-男的: 这儿没有。
-      zhèr méiyǒu 。
-      There isn't any washroom here.
+女的: 啤酒。
+      píjiǔ 。
+      Beer.
 
-女的: 那哪儿有？
-      nà nǎr yǒu ？
-      So where is one?
+男的: 一扎还是一瓶儿?
+      yī zhā hái shì yī píngr ?
+      A draft or a bottle?
 
-男的: 这附近都没有洗手间呀。
-      zhè fùjìn dōu méiyǒu xǐshǒujiān ya 。
-      There aren't any washrooms anywhere around here.
+女的: 一瓶儿。
+      yī píngr 。
+      A bottle.
 ### Vocab
--买单 (mǎidān) [verb] to order the bill
--服务员 (fúwùyuán) [noun] waiter
--埋单 (máidān) [verb] to order the bill (variant)
--马上 (mǎshàng) [adverb] immediately
--付账 (fùzhàng) [verb] to get the bill
--付钱 (fùqián) [verb] to pay money
--结账 (jiézhàng) [verb] to settle the bill
--算账 (suànzhàng) [verb] to order the bill
--打包 (dǎbāo) [verb] to take away
--多少 (duōshǎo) [question] how much
+-你 (nǐ) [pronoun] you
+-需要 (xūyào) [verb] to need
+-什么 (shénme) [question] what
+-啤酒 (píjiǔ) [noun] beer
+-一 (yī) [number] one
+-扎 (zhā) [measure word] draft
+-还是 (hái shì) [conjunction] or
+-瓶 (píng) [measure word] bottle
+-水 (shuǐ) [noun] water
+-杯 (bēi) [measure word] glass

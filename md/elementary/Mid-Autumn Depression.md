@@ -1,31 +1,37 @@
 # Mid-Autumn Depression
 **Elementary** level
 ### Chinese Text
-僵尸：脑子... 脑子....
-甲：哦，你怎么还在这儿，僵尸已经来了，我们快走吧！
-乙：吃脑子....
-甲：都什么时候了，没时间给你做饭了，快走！
-甲：啊！
+甲：哎，你看到王子谦了吗？<br />乙：嗯，应该在他房间里。
+甲：他昨天不就在房间里吗？
+乙：对呀，他一星期没出来了。
+甲：他心情不好啊？
+乙：谁心情好？你心情好？
+甲：嗯，也是啊。
+乙：得了，我睡觉去了。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|僵尸|脑子... 脑子....<blockquote>nǎozi . . .  nǎozi . . . .<br />Brains... brains....</blockquote>|
-|甲|哦，你怎么还在这儿，僵尸已经来了，我们快走吧！<blockquote>o ， nǐ zěnme hái zài zhèr ， jiāngshī yǐjīng lái le ， wǒmen kuài zǒu ba ！<br />Hey, what are you still doing here. The zombies have come and we've got to leave quickly!</blockquote>|
-|乙|吃脑子....<blockquote>chī nǎozi . . . .<br />Eat brains....</blockquote>|
-|甲|都什么时候了，没时间给你做饭了，快走！<blockquote>dōu shénme shíhou le ， méi shíjiān gěi nǐ zuòfàn le ， kuài zǒu ！<br />It's too late for that, there's no time to make dinner. We have to go!</blockquote>|
-|甲|啊！<blockquote>a ！<br />Aargh!</blockquote>|
+|甲|哎，你看到王子谦了吗？<blockquote>āi ， nǐ kàndào Wáng Zǐqiān le ma ？<br />Hey, have you seen Wang Ziqian?</blockquote>|
+|乙|嗯，应该在他房间里。<blockquote>en ， yīnggāi zài tā fángjiān lǐ 。<br />Oh, he should be in his room.</blockquote>|
+|甲|他昨天不就在房间里吗？<blockquote>tā zuótiān bù jiù zài fángjiān lǐ ma ？<br />Wasn't he in his room yesterday?</blockquote>|
+|乙|对呀，他一星期没出来了。<blockquote>duìya ， tā yī xīngqī méi chūlai le 。<br />Yeah, he hasn't come out for a week.</blockquote>|
+|甲|他心情不好啊？<blockquote>tā xīnqíng bù hǎo a ？<br />Is he in a bad mood?</blockquote>|
+|乙|谁心情好？你心情好？<blockquote>shéi xīnqíng hǎo ？ nǐ xīnqíng hǎo ？<br />Is anyone in a good mood? You're in a good mood?</blockquote>|
+|甲|嗯，也是啊。<blockquote>en ， yě shì ā 。<br />Oh, right.</blockquote>|
+|乙|得了，我睡觉去了。<blockquote>dé le ， wǒ shuìjiàoqù le 。<br />That's it, I'm going to sleep.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|僵尸|jiāngshī|zombie|noun|
-|脑子|nǎozi|brain|noun|
-|帮忙|bāngmáng|to help|verb|
-|已经|yǐjīng|already|adverb|
-|做饭|zuòfàn|to cook food|verb|
-|看包|kānbāo|to watch a bag|verb|
-|打电话|dǎ diànhuà|to dial the telephone|verb|
-|发邮件|fā yóujiàn|to send an email|verb|
-|买东西|mǎi dōngxi|to buy things|verb|
-|给|gěi|for|preposition|
-|怎么|zěnme|how|question|
+|年|nián|year|noun|
+|月|yuè|month|noun|
+|天|tiān|day|noun|
+|星期|xīngqī|week|noun|
+|应该|yīnggāi|should|auxiliary verb|
+|房间|fángjiān|room|noun|
+|心情|xīnqíng|mood|noun|
+|也是|yě shì|that's right|phrase|
+|得了|dé le|fine|phrase|
+|休息|xiūxi|to rest|verb|
+|开车|kāichē|to drive a car|verb|
+|运动|yùndong|to exercise|verb|

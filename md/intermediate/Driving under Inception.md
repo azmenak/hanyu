@@ -1,36 +1,41 @@
 # Driving under Inception
 **Intermediate** level
 ### Chinese Text
-甲：我们...分手吧。
-乙：别把自己当回事，像你这种人，满大街都是。
-甲：呃...
-乙：哈，没了我的钱，你连一天都活不了。
-甲：我...我能靠自己！
-乙：好，你去靠，后面排着呢。
+甲：哎，高，你看了《盗梦空间》了吗？<br />乙：看了，我特喜欢他们那几个人开着车往河里冲那镜头。
+甲：哎，我也是。
+乙：是吗？
+甲：我跟你讲，刚才我跟西西说了，让他租了一辆吉普，然后买了好多安眠药。
+丙：哎，安眠药准备好了。
+甲：哎，马上马上。
+乙：什么准备好了？
+甲：哎，走吧，咱们俩一块儿。快点儿。
+丙：我都快困死了。
+乙：我可不想吃什么安眠药。
+甲：那你就开车呗。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我们...分手吧。<blockquote>wǒmen ... fēnshǒu ba 。<br />Let's break up.</blockquote>|
-|乙|别把自己当回事，像你这种人，满大街都是。<blockquote>bié bǎ zìjǐ dāng huíshì ， xiàng nǐ zhè 种 rén ， mǎn dàjiē dōu shì 。<br />Don't think you're anything special. The streets are full of people like you.</blockquote>|
-|甲|呃...<blockquote>e ...<br />Uh....</blockquote>|
-|乙|哈，没了我的钱，你连一天都活不了。<blockquote>hā ， méi le wǒ de qián ， nǐ lián yī tiān dōu huóbù liǎo 。<br />Ha! You wouldn't last a single day without my money.</blockquote>|
-|甲|我...我能靠自己！<blockquote>wǒ ... wǒ néng kào zìjǐ ！<br />I... I can support myself!</blockquote>|
-|乙|好，你去靠，后面排着呢。<blockquote>hǎo ， nǐ qù kào ， hòumian páizhe ne 。<br />Ok, go. There's a line forming behind you.</blockquote>|
+|甲|哎，高，你看了《盗梦空间》了吗？<blockquote>āi ， gāo ， nǐ kàn le 《 dàomèng kōngjiān 》 le ma ？<br />Hey Gao, have you seen Inception?</blockquote>|
+|乙|看了，我特喜欢他们那几个人开着车往河里冲那镜头。<blockquote>kàn le ， wǒ tè xǐhuān tāmen nà jǐ gè rén kāizhe chē wǎng hé lǐ chōng nà jìngtóu 。<br />Yeah. I especially liked the scene where they drove that van into the river.</blockquote>|
+|甲|哎，我也是。<blockquote>āi ， wǒ yě shì 。<br />Oh, me too.</blockquote>|
+|乙|是吗？<blockquote>shìma ？<br />Really?</blockquote>|
+|甲|我跟你讲，刚才我跟西西说了，让他租了一辆吉普，然后买了好多安眠药。<blockquote>wǒ gēn nǐ jiǎng ， gāngcái wǒ gēn xīxī shuō le ， ràng tā zū le yī liàng jípǔ ， ránhòu mǎi le hǎo duō ānmiányào 。<br />Let me tell you. I just spoke with Xixi and got him to rent a jeep and buy a bunch of sedatives.</blockquote>|
+|丙|哎，安眠药准备好了。<blockquote>āi ， ānmiányào zhǔnbèi hǎo le 。<br />Hey, the sedatives are ready.</blockquote>|
+|甲|哎，马上马上。<blockquote>āi ， mǎshàng mǎshàng 。<br />Sure, just a minute.</blockquote>|
+|乙|什么准备好了？<blockquote>shénme zhǔnbèi hǎo le ？<br />What's all ready?</blockquote>|
+|甲|哎，走吧，咱们俩一块儿。快点儿。<blockquote>āi ， zǒu ba ， zánmen liǎ yīkuàir 。 kuài diǎnr 。<br />Hey, let's go. You and me together. Hurry up.</blockquote>|
+|丙|我都快困死了。<blockquote>wǒ dōu kuài kūnsǐ le 。<br />I'm already really sleepy.</blockquote>|
+|乙|我可不想吃什么安眠药。<blockquote>wǒ kě bù xiǎng chī shénme ānmiányào 。<br />I don't want to take any sedatives.</blockquote>|
+|甲|那你就开车呗。<blockquote>nà nǐ jiù kāichē bei 。<br />Then you can drive.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|唐纳德|tángnàdé|Donald|person|
-|解雇|jiěgù|to fire|verb|
-|学徒|xuétú|apprentice|noun|
-|真人秀|zhēn rén xiù|reality show|noun|
-|集|jí|episode|noun|
-|尤其|yóuqí|especially|adverb|
-|格外|géwài|particularly|adverb|
-|吞|tūn|to swallow|verb|
-|恶心|ěxīn|disgusting|adjective|
-|现场|xiànchǎng|at the scene|location|
-|直播|zhíbō|to broadcast directly|verb|
-|房地产|fángdìchǎn|real estate|noun|
-|大鳄|dàè|magnate|noun|
-|太君|tàijūn|tycoon|noun|
+|盗梦空间|dàomèng kōngjiān|Inception|noun|
+|穿越|chuānyuè|the kick|noun|
+|面包车|miànbāochē|van|noun|
+|吉普|jípǔ|jeep|noun|
+|安眠药|ānmiányào|sedative|noun|
+|冲|chōng|to dart across|verb|
+|镜头|jìngtóu|shot; scene|noun|
+|模仿|mófǎng|to imitate|verb|

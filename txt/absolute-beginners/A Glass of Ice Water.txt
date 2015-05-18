@@ -2,41 +2,46 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：这是第一次吗？
-乙：不，第二次。
-甲：这个疫苗需要打三次。
-乙：我需要回来吗？
-甲：六个月以后，再来一次。
+甲：来一杯冰水。
+乙：白开水吗？
+甲：行，可以。
+乙：你要凉的还是热的？
+甲：冰的。
+乙：哦，对，不好意思。
 
 ### Pinyin and Translation
 
-甲: 这是第一次吗？
-    zhè shì dì yī cì ma ？
-    This is your first time?
+甲: 来一杯冰水。
+    lái yī bēi bīngshuǐ 。
+    Bring me a glass of ice water.
 
-乙: 不，第二次。
-    bù ， dì èr cì 。
-    No. The second time.
+乙: 白开水吗？
+    báikāishuǐ ma ？
+    Is boiled tap water ok?
 
-甲: 这个疫苗需要打三次。
-    zhège yìmiáo xūyào dǎ sān cì 。
-    This vaccine needs three injections.
+甲: 行，可以。
+    xíng ， kěyǐ 。
+    Sure, that'll do.
 
-乙: 我需要回来吗？
-    wǒ xūyào huílai ma ？
-    I need to come back?
+乙: 你要凉的还是热的？
+    nǐ yào liáng de háishì rè de ？
+    Do you want it cold or hot?
 
-甲: 六个月以后，再来一次。
-    liù  ge yuè yǐhòu ， zài lái yī cì 。
-    Come back once more after six months.
+甲: 冰的。
+    bīng de 。
+    Ice cold.
+
+乙: 哦，对，不好意思。
+    o ， duì ， bùhǎoyìsi 。
+    Oh, right, sorry.
 ### Vocab
--蛐蛐 (qūqur) [noun] cricket
--蝈蝈 (guōguor) [noun] grasshopper
--知道 (zhīdào) [verb] to know
--说话 (shuōhuà) [verb] to speak
--会 (huì) [verb] can
--还 (hái) [adverb] still
--不 (bù) [adverb] not
--没 (méi) [adverb] not
--真没辙 (zhēn méizhé) [phrase] there's nothing anyone can do about it
--没办法 (méibànfǎ) [phrase] there's no way
+-来 (lái) [verb] to bring
+-对 (duì) [phrase] right
+-杯 (bēi) [measure word] cup
+-冰水 (bīngshuǐ) [noun] ice water
+-凉水 (liángshuǐ) [noun] cool water
+-热水 (rèshuǐ) [noun] hot water
+-可以 (kěyǐ) [phrase] alright
+-常温 (chángwēn) [adjective] room temperature
+-白开水 (báikāishuǐ) [noun] boiled water
+-不好意思 (bùhǎoyìsi) [phrase] sorry

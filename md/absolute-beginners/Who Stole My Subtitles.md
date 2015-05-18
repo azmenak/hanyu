@@ -1,8 +1,7 @@
 # Who Stole My Subtitles
 **Absolute Beginners** level
 ### Chinese Text
-女：你听得懂吗？
-男：听不懂。
+女：你听得懂吗？<br />男：听不懂。
 女：它们有没有中文字幕？
 男：没有。
 女：妈的。
@@ -18,17 +17,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|一|yī|one|number|
-|十一|shí yī|eleven|number|
-|二十|èr shí|twenty|number|
-|三十|sān shí|thirty|number|
-|九十九|jiǔ shí jiǔ|ninty nine|number|
-|二|èr|two|number|
-|三|sān|three|number|
-|四|sì|four|number|
-|五|wǔ|five|number|
-|六|liù|six|number|
-|七|qī|seven|number|
-|八|bā|eight|number|
-|九|jiǔ|nine|number|
-|十|shí|ten|number|
+|你|nǐ|you|pronoun|
+|有|yǒu|to have|verb|
+|没有|méiyǒu|not to have|verb|
+|有没有|yǒu méiyǒu|to have or not to have|question|
+|中文字幕|zhōngwén zìmù|Chinese subtitles|noun|
+|吗|ma|(question particle)|question|
+|妈的|māde|damn|slang|
+|听得懂|tīngdedǒng|to understand|phrase|
+|听不懂|tīngbùdǒng|not to understand|phrase|

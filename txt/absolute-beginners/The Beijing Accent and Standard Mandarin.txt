@@ -2,38 +2,79 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：八，九，十....
-乙：好，加油！
-甲：看，肌肉。
-乙：嗯，好看，我来。
+能借我一根儿笔吗？
+我告儿你。
+别告儿他。
+一瓶水儿。
+他在那儿。
+我在这儿。
+你在哪儿？
+我要一点儿。
+他一会儿来。
+你有小孩儿吗？
+他有一个男孩儿，一个女孩儿。
+我们出去玩儿吧。
 
 ### Pinyin and Translation
 
-甲: 八，九，十....
-    bā ， jiǔ ， shí . . . .
-    Eight, nine, ten....
+能借我一根儿笔吗？
+néng jiè wǒ yī gēnr bǐ ma ？
+Can you lend me a pen?
 
-乙: 好，加油！
-    hǎo ， jiāyóu ！
-    Great, way to go!
+我告儿你。
+wǒ gàor nǐ 。
+I'll tell you.
 
-甲: 看，肌肉。
-    kàn ， jīròu 。
-    Look, muscles.
+别告儿他。
+bié gàor tā 。
+Don't tell him.
 
-乙: 嗯，好看，我来。
-    en ， hǎokàn ， wǒ lái 。
-    Hey, looking good. My turn.
+一瓶水儿。
+yī píng shuǐr 。
+A bottle of water.
+
+他在那儿。
+tā zài nàr 。
+He is there.
+
+我在这儿。
+wǒ zài zhèr 。
+I'm here.
+
+你在哪儿？
+nǐ zài nǎr ？
+Where are you?
+
+我要一点儿。
+wǒ yào yīdiǎnr 。
+I want a bit.
+
+他一会儿来。
+tā yīhuìr lái 。
+He'll be here in a while.
+
+你有小孩儿吗？
+nǐ yǒu xiǎoháir ma ？
+Do you have children?
+
+他有一个男孩儿，一个女孩儿。
+tā yǒu yī ge nánháir ， yī ge nǚháir 。
+He has a boy and a girl.
+
+我们出去玩儿吧。
+wǒmen chūqù wánr ba 。
+Let's go out and have fun.
 ### Vocab
--机器 (jīqì) [noun] machine
--卡 (kǎ) [noun] card
--信用卡 (xìnyòngkǎ) [noun] credit card
--银行卡 (yínhángkǎ) [noun] bank card
--电话卡 (diànhuàkǎ) [noun] telephone card
--电卡 (diànkǎ) [noun] power card
--密码 (mìmǎ) [noun] password
--服务员 (fúwùyuán) [noun] waiter
--坏 (huài) [verb] to break
--卡住 (kǎzhù) [verb] to stick
--输入 (shūrù) [verb] to enter
--行 (xíng) [adjective] ok
+-那儿 (nàr) [noun] there
+-这儿 (zhèr) [noun] here
+-哪儿 (nǎr) [question] where
+-玩儿 (wánr) [verb] to play
+-一点儿 (yīdiǎnr) [phrase] a bit
+-一会儿 (yīhuìr) [phrase] a while
+-小孩儿 (xiǎoháir) [noun] small child
+-男孩儿 (nánháir) [noun] boy
+-女孩儿 (nǚháir) [noun] girl
+-告儿 (gàor) [Beijing slang] to tell
+-根儿 (gēnr) [Beijing slang] (measure word)
+-水儿 (shuǐr) [northern slang] water
+-哪里 (nǎlǐ) [southern slang] where

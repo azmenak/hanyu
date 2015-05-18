@@ -55,10 +55,12 @@
     bùhǎo yìsi ， wǒmen de gōngzuò shíjiān jiézhǐ dào xiàwǔ liǎng diǎn zhěng ， fúwù gōngzuò yǐjīng qǔxiāo ， zàijiàn 。
     We're sorry. Our working hours last until two in the afternoon. Service is already closed for the day. Goodbye.
 ### Vocab
--全球气候变暖 (quánqiú qìhòu biàn nuǎn) [phrase] global warming
--站地 (zhàndì) [noun] stops
--好 (hǎo) [perfective] (perfective)
--泳裤 (yǒngkù) [noun] swim trunks
--麻烦 (máfan) [verb] to bother
--倒 (dǎo) [verb] to switch to
--公交船 (gōngjiāo chuán) [noun] public ferry
+-报案 (bàoàn) [verb] to file a report
+-拨打 (bōdǎ) [verb] to hit
+-抢 (qiǎng) [verb] to rob
+-报警 (bàojǐng) [verb] to report to the cops
+-会员 (huìyuán) [noun] member
+-会员卡 (huìyuánkǎ) [noun] membership card
+-办理 (bànlǐ) [verb] to handle
+-截止 (jiézhǐ) [verb] up until
+-取消 (qǔxiāo) [verb] to cancel

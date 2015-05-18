@@ -2,40 +2,61 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-女的：那是什么？
-男的：那是安全警报。
-女的：这里不安全吗？
-男的：不不不，意思是现在非常安全。
+女人：宝贝儿，干嘛呢？
+男人：看书呢。
+女人：什么书啊？
+男人：一本小说。
+女人：什么小说？能给我看看吗？
+男人：想看，哦？
+女人：嗯。
+女人：谢谢呀。
 
 ### Pinyin and Translation
 
-女的: 那是什么？
-      nà shì shénme ？
-      What is that?
+女人: 宝贝儿，干嘛呢？
+      bǎobèir ， gànmá ne ？
+      Hey baby, what are you doing?
 
-男的: 那是安全警报。
-      nà shì ānquán jǐngbào 。
-      That's the security alarm.
+男人: 看书呢。
+      kàn shū ne 。
+      I'm reading a book.
 
-女的: 这里不安全吗？
-      zhèli bù ānquán ma ？
-      It isn't safe here?
+女人: 什么书啊？
+      shénme shū ā ？
+      What book?
 
-男的: 不不不，意思是现在非常安全。
-      bù bù bù ， yìsi shì xiànzài fēicháng ānquán 。
-      Not at all, it means it's extremely safe now.
+男人: 一本小说。
+      yī běn xiǎoshuō 。
+      A novel.
+
+女人: 什么小说？能给我看看吗？
+      shénme xiǎoshuō ？ néng gěi wǒ kànkan ma ？
+      What novel? Can I take a look?
+
+男人: 想看，哦？
+      xiǎng kàn ， o ？
+      You want to see, huh?
+
+女人: 嗯。
+      en 。
+      Yeah.
+
+女人: 谢谢呀。
+      xièxiè ya 。
+      Thanks, eh.
 ### Vocab
--那 (nà) [pronoun] that
--这 (zhè) [pronoun] this
--是 (shì) [verb] to be
--不 (shénme) [particle] not
--吗 (ma) [question] yes/no
+-干嘛 (gànmá) [question] what are you doing
+-呢 (ne) [particle] (particle)
+-看 (kàn) [verb] to read; to see
+-书 (shū) [noun] book
+-小说 (xiǎoshuō) [noun] novel
 -什么 (shénme) [question] what
--这里 (zhèli) [pronoun] here
--这儿 (zhèer) [pronoun] here
--意思 (yìsi) [noun] meaning
--现在 (xiànzài) [time] right now
--非常 (fēicháng) [adverb] extremely
--安全 (ānquán) [adjective] safe
--警报 (jǐngbào) [noun] alarm
--不好意思 (bùhǎoyìsi) [phrase] sorry
+-能 (néng) [verb] can
+-给 (gěi) [verb] to give
+-我 (wǒ) [pronoun] me
+-想 (xiǎng) [verb] to wish
+-谢谢 (xièxiè) [phrase] thank you
+-人 (rén) [noun] people
+-车 (chē) [noun] car
+-钱包 (qiánbāo) [noun] wallet
+-宝贝儿 (bǎobèir) [noun] baby

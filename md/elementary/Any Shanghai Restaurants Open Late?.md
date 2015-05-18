@@ -1,24 +1,25 @@
 # Any Shanghai Restaurants Open Late?
 **Elementary** level
 ### Chinese Text
-甲：法官大人，我知道被告是无罪的，因为案发当晚... 我自己就在现场。
-乙：什么？
-丙：反对！这不可能。
-甲：是的，法官大人，被告律师想请自己出庭作证。
-乙：你是说案发当晚，你就在港口？
-甲：是的。
-乙：警方报告中，怎么没有记录？
+甲：服务员，我要点一个水煮牛肉。<br />乙：啊？
+甲：水煮牛肉，那个辣的，有牛肉的那个。
+乙：鱼香肉丝？
+甲：不不不不不，水煮牛肉片，菜单上28号。
+乙：哎，28号不是鱼香肉丝，那是水煮牛肉。
+甲：是，我要的就是这个。
+乙：我不清楚。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|法官大人，我知道被告是无罪的，因为案发当晚... 我自己就在现场。<blockquote>fǎguān dàren ， wǒ zhīdào bèigào shì wúzuì de ， yīnwèi ànfā dāngwǎn ... wǒ zìjǐ jiù zài xiànchǎng 。<br />Your Honour. I know that the defendant is innocent, because on the night of the crime, I was at the scene myself.</blockquote>|
-|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
-|丙|反对！这不可能。<blockquote>fǎnduì ！ zhè bù kěnéng 。<br />I object! This isn't possible.</blockquote>|
-|甲|是的，法官大人，被告律师想请自己出庭作证。<blockquote>shìde ， fǎguān dàren ， bèigào lǜshī xiǎng qǐng zìjǐ chūtíng zuòzhèng 。<br />That's right Your Honor. The lawyer for the defense calls himself to the stand.</blockquote>|
-|乙|你是说案发当晚，你就在港口？<blockquote>nǐ shì shuō ànfā dāngwǎn ， nǐ jiù zài gǎngkǒu ？<br />You're saying that the evening this all happened, you were at the harbour?</blockquote>|
-|甲|是的。<blockquote>shìde 。<br />That's right.</blockquote>|
-|乙|警方报告中，怎么没有记录？<blockquote>jǐngfāng bàogào zhōng ， zěnme méiyǒu jìlù ？<br />Why isn't there any mention of this in the police report?</blockquote>|
+|甲|服务员，我要点一个水煮牛肉。<blockquote>fúwùyuán ， wǒ yào diǎn yī ge shuǐzhǔniúròu 。<br />Waiter, I'd like a beef in chili broth.</blockquote>|
+|乙|啊？<blockquote>a ？<br />Huh?</blockquote>|
+|甲|水煮牛肉，那个辣的，有牛肉的那个。<blockquote>shuǐzhǔniúròu ， nàge là de ， yǒu niúròu de nàge 。<br />Beef in chili broth. It's the hot one, the one with beef.</blockquote>|
+|乙|鱼香肉丝？<blockquote>yúxiāngròusī ？<br />Fish-flavoured pork slices?</blockquote>|
+|甲|不不不不不，水煮牛肉片，菜单上28号。<blockquote>bù bù bù bù bù ， shuǐzhǔniúròupiàn ， càidān shàng èrshíbā hào 。<br />No! The beef in chili broth. Number 28 on the menu.</blockquote>|
+|乙|哎，28号不是鱼香肉丝，那是水煮牛肉。<blockquote>ai ， èrshíbā hào bù shì yúxiāngròusī ， nà shì shuǐzhǔniúròu 。<br />Hey. Number 28 isn't fish-flavored pork slices. It's beef in chili broth.</blockquote>|
+|甲|是，我要的就是这个。<blockquote>shì ， wǒ yào de jiùshì zhège 。<br />Yes. This is exactly the one I want.</blockquote>|
+|乙|我不清楚。<blockquote>wǒ bù  qīngchu 。<br />I don't get it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

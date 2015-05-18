@@ -1,8 +1,7 @@
 # Strange and Unusual Erhuaization
 **Intermediate** level
 ### Chinese Text
-[第一部]
-甲：能借我根儿笔吗？
+[第一部]<br />甲：能借我根儿笔吗？
 乙：哎，你怎么又来借笔？
 甲：我需要用。
 乙：可是上次那几根儿你还没还呢。
@@ -42,19 +41,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|决不能|juébù néng|absolutely cannot|verb|
-|倒霉|dǎoméi|unlucky|adjective|
-|击落|jīluò|to shoot down|verb|
+|根儿|gēnr|piece|measure word|
+|块儿|kuàir|piece|measure word|
+|本儿|běnr|volume|measure word|
+|片儿|piànr|slice|measure word|
+|勺儿|sháor|spoon|measure word|
+|保证|bǎozhèng|to guarantee|verb|
+|说到做到|shuōdào zuòdào|to do what one says|phrase|
+|明儿|míngr|tomorrow|noun|
 |今儿|jīnr|today|noun|
-|架|jià|(measure word for aircraft)|measure|
-|敌机|díjī|enemy aircraft|noun|
-|照|zhào|following|conjunction|
-|按照|ànzhào|according to|conjunction|
-|照着|zhàozhe|going by|conjunction|
-|消灭|xiāomiè|to perish|verb|
-|跳伞|tiàosǎn|to parachute|verb|
-|发射|fāshè|to launch|verb|
-|毒气弹|dúqìdàn|poison gas bomb|noun|
-|枚|méi|(measure word for bombs)|measure|
-|火箭弹|huǒjiàndàn|rocket mortar|noun|
-|手下留情|shǒuxiàliúqíng|to show mercy|idiom|
+|昨儿|zuór|yesterday|noun|

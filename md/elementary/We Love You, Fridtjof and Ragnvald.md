@@ -1,45 +1,32 @@
 # We Love You, Fridtjof and Ragnvald
 **Elementary** level
 ### Chinese Text
-老师：跟我读：透司特。
-学生：透司特。
-老师：透司特是面包的意思。例如，一杯橙汁，两片儿透司特。
-学生：一杯橙汁，两片儿透司特。
-老师：好。
-学生：一杯橙汁，两片儿透司特。
-老师：透司特。
-学生：这不是轻声吗？
-老师：你是老师吗？跟我读：透司特。还有罢特日。
+女人：要我跟你说多少次，你才明白？<br />男人：我是真不懂这个。
+女人：你个成年人，你看说明书呀。
+男人：说明书是瑞典语的。
+女人：这就是一个茶几的名字。你看图片就行了。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|老师|跟我读：透司特。<blockquote>gēn wǒ dú ： tòusītè 。<br />Read with me: toast.</blockquote>|
-|学生|透司特。<blockquote>tòusītè 。<br />Toast.</blockquote>|
-|老师|透司特是面包的意思。例如，一杯橙汁，两片儿透司特。<blockquote>tòusītè shì miànbāo de yìsi 。 lìrú ， yī bēi chéngzhī ， liǎng piānr tòusītè 。<br />Toast means bread. For example, a cup of orange juice and two pieces of toast.</blockquote>|
-|学生|一杯橙汁，两片儿透司特。<blockquote>yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.</blockquote>|
-|老师|好。<blockquote>hǎo 。<br />Good.</blockquote>|
-|学生|一杯橙汁，两片儿透司特。<blockquote>yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.</blockquote>|
-|老师|透司特。<blockquote>tòusītè 。<br />Toast.</blockquote>|
-|学生|这不是轻声吗？<blockquote>zhè bù shì qīngshēng ma ？<br />Isn't this a neutral tone?</blockquote>|
-|老师|你是老师吗？跟我读：透司特。还有罢特日。<blockquote>nǐ shì lǎoshī ma ？ gēn wǒ dú ： tòusītè 。 hái yǒu bàtèrì 。<br />Are you the teacher? Read with me: toast and butter.</blockquote>|
+|女人|要我跟你说多少次，你才明白？<blockquote>yào wǒ gēn nǐ shuō duōshao cì ， nǐ cái míngbai ？<br />How many times do I have to tell you before you understand?</blockquote>|
+|男人|我是真不懂这个。<blockquote>wǒ shì zhēn bù dǒng zhège 。<br />I just don't get it.</blockquote>|
+|女人|你个成年人，你看说明书呀。<blockquote>nǐ ge chéngniánrén ， nǐ kàn shuōmíngshū yā 。<br />You're a grown-up, just look at the instruction manual.</blockquote>|
+|男人|说明书是瑞典语的。<blockquote>shuōmíngshū shì Ruìdiǎnyǔ de 。<br />The instruction manual is in Swedish.</blockquote>|
+|女人|这就是一个茶几的名字。你看图片就行了。<blockquote>zhè jiù shì yī ge chájǐ de míngzi 。 nǐ kàn túpiàn jiù xíng le 。<br />That's the name of the coffee table. Just look at the pictures.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|用|yòng|to use|verb|
-|拿|ná|to take|verb|
-|调|tiáo|to adjust|verb|
-|骗|piàn|to cheat|verb|
-|激光|jīguāng|laser|noun|
-|打算|dǎsuàn|to plan|verb|
-|切开|qiēkāi|to cut open|verb|
-|金库|jīnkù|vault|noun|
-|告诉|gàosu|to tell|verb|
-|现在|xiànzài|now|adverb|
-|不过|búguò|but|adverb|
-|能量|néngliàng|energy|noun|
-|忍受|rěnshòu|to bear|verb|
-|钥匙|yàoshi|key|noun|
-|起子|qǐzi|bottle opener|noun|
-|受不了|shòubùliǎo|unable to bear it|phrase|
-|受得了|shòudeliǎo|able to bear it|phrase|
+|鹅|é|goose|noun|
+|瑞典|ruìdiǎn|Sweden|noun|
+|瑞士|ruìshì|Switzerland|noun|
+|明白|míngbai|to understand|verb|
+|茶几|chájī|coffee table|noun|
+|图片|túpiàn|image|noun|
+|宜家|yíjiā|Ikea|name|
+|隆德|Lòngdé|Lund|place|
+|白酒|báijiǔ|baijiu|noun|
+|商会|shānghuì|chamber of commerce|noun|
+|爱立信|àilìxìn|Ericsson|name|
+|成年人|chéngniánrén|adult person|noun|
+|说明书|shuōmíngshū|instruction manual|noun|

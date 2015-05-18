@@ -1,18 +1,21 @@
 # Beautiful and Mysterious
 **Absolute Beginners** level
 ### Chinese Text
-甲：你什么时候去中国？
-乙：我的票是... 昨天的？
-甲：啊？
-乙：奶奶的... 我错过飞机了。
+甲：她没有邮箱？<br />乙：没有。
+甲：也没有电话？
+乙：没有。
+甲：她是80后？
+乙：1880后。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你什么时候去中国？<blockquote>nǐ shénme shíhòu qù Zhōngguó ？<br />When are you going to China?</blockquote>|
-|乙|我的票是... 昨天的？<blockquote>wǒ de piào shì . . .  zuótiān de ？<br />My tickets are... yesterday?</blockquote>|
-|甲|啊？<blockquote>a ？<br />Huh?</blockquote>|
-|乙|奶奶的... 我错过飞机了。<blockquote>nǎinai de . . .  wǒ cuòguò fēijī le 。<br />Great grandmother... I missed my flight.</blockquote>|
+|甲|她没有邮箱？<blockquote>tā méiyǒu yóuxiāng ？<br />She doesn't have email?</blockquote>|
+|乙|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
+|甲|也没有电话？<blockquote>yě méiyǒu diànhuà ？<br />She doesn't have a telephone either?</blockquote>|
+|乙|没有。<blockquote>méiyǒu 。<br />No.</blockquote>|
+|甲|她是80后？<blockquote>tā shì bā líng hòu ？<br />She was born in the 1980s?</blockquote>|
+|乙|1880后。<blockquote>yī bā bā líng hòu 。<br />The 1880s.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

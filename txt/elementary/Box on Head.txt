@@ -2,42 +2,57 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：我不喜欢你们这个T 恤衫上的商标，有没有没有的？
-乙：哎哟，他们这儿就这一种。
-丙：哎，您看，我们这儿还有另一种。
-甲：这个好像就是logo小了一点儿，也不是完全没有啊。
-丙：那就没有了。
+甲：你头上怎么有个盒子？
+乙：盒子，什么盒子？
+甲：这个盒子。
+乙：别说盒子，他们看着呢。
+甲：他们是谁？警察吗？
+乙：警察？我不知道你在说什么。
+甲：我们在说你头上这个盒子。
+乙：我头上没有盒子....
 
 ### Pinyin and Translation
 
-甲: 我不喜欢你们这个T 恤衫上的商标，有没有没有的？
-    wǒ bù xǐhuān nǐmen zhège T xùshān shàng de shāngbiāo ， yǒu méiyǒu méiyǒu de ？
-    I don't like the logo on this t-shirt of yours. Don't you have one without any?
+甲: 你头上怎么有个盒子？
+    nǐ tóushàng zěnme yǒu ge hézi ？
+    Why do you have a box on your head?
 
-乙: 哎哟，他们这儿就这一种。
-    āiyo ， tāmen zhèr jiù zhè yī zhǒng 。
-    Goodness gracious, they only have this one type.
+乙: 盒子，什么盒子？
+    hézi ， shénme hézi ？
+    Box? What box?
 
-丙: 哎，您看，我们这儿还有另一种。
-    āi ， nín kàn ， wǒmen zhèr hái yǒu lìng yī zhǒng 。
-    Hey, look, we also have this other type here.
+甲: 这个盒子。
+    zhè ge hézi 。
+    This box.
 
-甲: 这个好像就是logo小了一点儿，也不是完全没有啊。
-    zhège hǎoxiàng jiùshì logo xiǎo le yīdiǎnr ， yě bù shì wánquán méiyǒu a 。
-    This just has a slightly smaller logo, it isn't completely without one.
+乙: 别说盒子，他们看着呢。
+    bié shuō hézi ， tāmen kànzhe ne 。
+    Don't talk about the box. They're watching.
 
-丙: 那就没有了。
-    nà jiù méiyǒu le 。
-    Then we don't have any.
+甲: 他们是谁？警察吗？
+    tāmen shì shéi ？ jǐngchá ma ？
+    Who are they? The police?
+
+乙: 警察？我不知道你在说什么。
+    jǐngchá ？ wǒ bù zhīdào nǐ zài shuō shénme 。
+    Police? I don't know what you're talking about.
+
+甲: 我们在说你头上这个盒子。
+    wǒmen zài shuō nǐ tóushàng zhè ge hézi 。
+    I'm talking about this box on your head.
+
+乙: 我头上没有盒子....
+    wǒ tóushàng méiyǒu hézi . . . .
+    I don't have a box on my head....
 ### Vocab
--之 (zhī) [particle] (particle)
--挺 (tǐng) [adverb] very
--首 (shǒu) [measure word] (measure word)
--跳舞 (tiàowǔ) [verb] to dance
--文化 (wénhuà) [noun] culture
--东西 (dōngxi) [noun] thing
--江南 (Jiāngnán) [noun] gangnam
--泰迪熊 (tàidíxióng) [noun] teddy bear
--美国之音 (měiguózhīyīn) [noun] the Voice of America
--上帝之手 (shàngdìzhīshǒu) [noun] the Hand of God
--音乐之声 (yīnyuèzhīshēng) [noun] the Sound of Music
+-在 (zài) [adverb] currently
+-别 (bié) [adverb] don't
+-怎么 (zěnme) [question] how
+-头上 (tóushàng) [phrase] on the head
+-盒子 (hézi) [noun] box
+-警察 (jǐngchá) [noun] police
+-看着 (kànzhe) [verb] to be watching
+-听着 (tīngzhe) [verb] to be listening
+-说着 (shuōzhe) [verb] to be talking
+-吃药 (chīyào) [verb] to take medicine
+-睡觉 (shuìjiào) [verb] to sleep

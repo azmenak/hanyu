@@ -1,18 +1,13 @@
 # Mamma Mia
 **Absolute Beginners** level
 ### Chinese Text
-甲：你手怎么了？
-乙：哦，是血。
-甲：血？那么多血？
-乙：哦，别担心，这不是我的。
+甲：姚葳，姚葳，你在吗？问你个问题！<br />乙：她今天很忙。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你手怎么了？<blockquote>nǐ shǒu zěnme le ？<br />What's wrong with your hands?</blockquote>|
-|乙|哦，是血。<blockquote>ò ， shì xiě 。<br />Oh, it's blood.</blockquote>|
-|甲|血？那么多血？<blockquote>xiě ？ nàme duō xiě ？<br />Blood? That much blood?</blockquote>|
-|乙|哦，别担心，这不是我的。<blockquote>ò ， bié dānxīn ， zhè bù shì wǒde 。<br />Oh, don't worry. This isn't mine.</blockquote>|
+|甲|姚葳，姚葳，你在吗？问你个问题！<blockquote>Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！<br />Echo, Echo, are you there? I've got a question to ask!</blockquote>|
+|乙|她今天很忙。<blockquote>tā jīntiān hěn máng 。<br />She's very busy today.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

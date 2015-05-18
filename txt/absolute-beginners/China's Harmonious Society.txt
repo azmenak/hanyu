@@ -2,33 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：你的手表在哪儿买的？
-乙：在网上。
-甲：什么网？
-乙：因特网。
-甲：哦，没听说过。
+一：你觉得_____怎么样？
+二：我觉得______不错。
+一：我同意。
+二：好，明天见！
 
 ### Pinyin and Translation
 
-甲: 你的手表在哪儿买的？
-    nǐ de shǒubiǎo zài nǎr mǎi de ？
-    Where did you buy your watch?
+一: 你觉得_____怎么样？
+    nǐ juéde _____ zěnmeyàng ？
+    How you you feel about _____?
 
-乙: 在网上。
-    zài wǎngshàng 。
-    On the Internet.
+二: 我觉得______不错。
+    wǒ juéde ______ bùcuò 。
+    I think _____ isn't bad.
 
-甲: 什么网？
-    shénme wǎng ？
-    Which website?
+一: 我同意。
+    wǒ tóngyì 。
+    I agree.
 
-乙: 因特网。
-    yīntèwǎng 。
-    The Internet.
-
-甲: 哦，没听说过。
-    ò ， méi tīngshuō guo 。
-    Oh, never heard of it.
+二: 好，明天见！
+    hǎo ， míng tiān jiàn ！
+    Ok, see you tomorrow!
 ### Vocab
 -我 (wǒ) [pronoun] I
 -你 (nǐ) [pronoun] you

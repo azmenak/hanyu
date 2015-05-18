@@ -1,26 +1,27 @@
 # A College Education
 **Intermediate** level
 ### Chinese Text
-甲：宝贝儿，快把这个包给我藏起来！
-乙：这么大的编织袋，这里面装的什么呀？
-甲：你别管了，千万别被人发现啊！
-乙：哎，老公，你知道吗？今天国家银行被抢啦，好恐怖的。
-甲：哎哟，我没时间跟你说那个，你把这些钱给我藏好了！
-乙：钱？今天就发工资了吗？哦，好重啊！
-甲：哎呀，没时间了，你给我塞到书架里啊，一定塞好，记住了！
-乙：让我来数一数。哇，天哪！
+秦：天气真热啊！<br />田：是啊，我还得穿着这个破浣熊的衣服在这儿发传单！
+秦：行啦，比昨天那身公鸡制服好看多了。
+田：这是什么破工作呀！
+秦：有比咱们还惨的呢！
+田：谁能比咱们还惨呢？
+秦：有的人上了大学还得来做这份工作呀。
+田：这，我就上过大学！
+秦：啊......那，至少你还上过大学啊。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|宝贝儿，快把这个包给我藏起来！<blockquote>bǎobèir ， kuài bǎ zhège bāo gěi wǒ cáng qǐlái ！<br />Baby, quickly hide this package for me.</blockquote>|
-|乙|这么大的编织袋，这里面装的什么呀？<blockquote>zhème dà de biānzhīdài ， zhè lǐmiàn zhuāng de shénme ya ？<br />What a large sack, what's inside it?</blockquote>|
-|甲|你别管了，千万别被人发现啊！<blockquote>nǐ bié guǎn le ， qiānwàn bié bèi rén fāxiàn a ！<br />Don't concern yourself with this, just don't let anyone find out about it.</blockquote>|
-|乙|哎，老公，你知道吗？今天国家银行被抢啦，好恐怖的。<blockquote>ái ， lǎogong ， nǐ zhīdào ma ？ jīntiān guójiāyínháng bèiqiǎng la ， hǎo kǒngbù de 。<br />Oh darling, did you hear? The National Bank was robbed today. How frightful.</blockquote>|
-|甲|哎哟，我没时间跟你说那个，你把这些钱给我藏好了！<blockquote>āiyo ， wǒ méi shíjiān gēn nǐ shuō nàge ， nǐ bǎ zhè xiē qián gěi wǒ cánghǎo le ！<br />There's no time for us to talk about that. Take this money and hide it now!</blockquote>|
-|乙|钱？今天就发工资了吗？哦，好重啊！<blockquote>qián ？ jīntiān jiù fā gōngzī le ma ？ o ， hǎo zhòng a ！<br />Money? They paid salary today already? My, this is really heavy.</blockquote>|
-|甲|哎呀，没时间了，你给我塞到书架里啊，一定塞好，记住了！<blockquote>āiya ， méi shíjiān le ， nǐ gěi wǒ sāi dào shūjià lǐ a ， yīdìng sāihǎo ， jìzhu le ！<br />There's no time left, stuff this into the bookshelf. And make sure to stick it in well and tight!</blockquote>|
-|乙|让我来数一数。哇，天哪！<blockquote>ràng wǒ lái shǔyīshǔ 。 wa ， tiānna ！<br />Let me count it... my heavens!</blockquote>|
+|秦|天气真热啊！<blockquote>tiānqì zhēn rè a ！<br />The weather is really hot!</blockquote>|
+|田|是啊，我还得穿着这个破浣熊的衣服在这儿发传单！<blockquote>shì a ， wǒ hái děi chuānzhe zhège pò huànxióng de yīfu zài zhèr fā chuándān ！<br />Yeah, and I've got to wear this stupid raccoon costume and hand out these fliers.</blockquote>|
+|秦|行啦，比昨天那身公鸡制服好看多了。<blockquote>xíng la ， bǐ zuótiān nà shēn gōngjī zhìfú hǎo kàn duō le 。<br />It's ok. It's a lot better looking than that rooster outfit yesterday.</blockquote>|
+|田|这是什么破工作呀！<blockquote>zhè shì shénme pò gōngzuò ya ！<br />What kind of stupid job is this!</blockquote>|
+|秦|有比咱们还惨的呢！<blockquote>yǒu bǐ zánmen hái cǎn de ne ！<br />There are people worse off than us!</blockquote>|
+|田|谁能比咱们还惨呢？<blockquote>shéi néng bǐ zánmen hái cǎn ne ？<br />Who on earth can be worse off than us?</blockquote>|
+|秦|有的人上了大学还得来做这份工作呀。<blockquote>yǒu de rén shàng le dàxué hái děi lái zuò zhè fèn gōngzuò ya 。<br />Some people went to university and still do this kind of work.</blockquote>|
+|田|这，我就上过大学！<blockquote>zhè ， wǒ jiù shàng guo dàxué ！<br />Hey, I went to university!</blockquote>|
+|秦|啊......那，至少你还上过大学啊。<blockquote>a ...... nà ， zhìshǎo nǐ hái shàng guo dàxué a 。<br />Well... at least you got to go to university.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,8 +1,7 @@
 # Captains of Finance
 **Intermediate** level
 ### Chinese Text
-甲：你以前在华尔街工作，是吗？
-乙：Errr...华尔街....
+甲：你以前在华尔街工作，是吗？<br />乙：Errr...华尔街....
 甲：我们问你的主要原因是....
 丙：这项并购涉及很高的利润。你的计划具体是什么？
 乙：杀...杀...errr...拿钱....
@@ -28,17 +27,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|任何|rènhé|any|adverb|
-|平民|píngmín|common people|noun|
-|伤亡|shāngwáng|casualties|noun|
-|总统|zǒngtǒng|president|noun|
-|计算|jìsuàn|to calculate|verb|
-|失误|shīwù|mistake|noun|
-|导弹|dǎodàn|guided missile|noun|
-|炸毁|zhàhuǐ|to blow up|verb|
-|瞄准|miáozhǔn|to target|verb|
-|保住饭碗|bǎozhù fànwǎn|to keep your job|phrase|
-|屋顶|wūdǐng|roof|noun|
-|红十字|hóng shízì|red cross|noun|
-|建筑|jiànzhù|building|noun|
-|任期|rènqī|term of office|noun|
+|华尔街|Huáěrjiē|Wall Street|noun|
+|主要|zhǔyào|main|adjective|
+|项|xiàng|(measure word)|measure word|
+|并购|bìnggòu|acquisition|noun|
+|涉及|shèjí|to involve|verb|
+|利润|lìrùn|profit|noun|
+|具体|jùtǐ|concretely|adverb|
+|独特|dútè|unique|adjective|
+|出色|chūsè|outstanding|adjective|
+|个别|gèbié|individual|adjective|
+|特殊|tèshū|special|adjective|
+|奇特|qítè|strange|adjective|

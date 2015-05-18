@@ -2,43 +2,51 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男：喂，我想点餐。
-女：什么?
-男：我想叫外卖。
-女：啊，行。你要什么?
-男：烤鸭。
+他去.
+我爱中国.
+今天很热.
+我想去中国.
+你太忙！
+中文不难．
+爸爸爱吃串儿.
 
 ### Pinyin and Translation
 
-男: 喂，我想点餐。
-    wéi ， wǒ xiǎng diǎncān 。
-    Hi, I'd like to order a meal.
+他去.
+tā qù .
+He goes.
 
-女: 什么?
-    shénme ?
-    What?
+我爱中国.
+wǒ ài Zhōngguó .
+I love China.
 
-男: 我想叫外卖。
-    wǒ xiǎng jiào wàimài 。
-    I want to order take-out.
+今天很热.
+jīntiān hěn rè .
+It's hot today.
 
-女: 啊，行。你要什么?
-    a ， xíng 。 nǐ yào shénme ?
-    Ah, OK. What do you want?
+我想去中国.
+wǒ xiǎng qù Zhōngguó .
+I want to go to China.
 
-男: 烤鸭。
-    kǎoyā 。
-    Roast duck.
+你太忙！
+nǐ tài máng ！
+You're too busy!
+
+中文不难．
+zhōngwén bù nán ．
+Chinese is not difficult.
+
+爸爸爱吃串儿.
+bàba ài chī chuànr .
+Dad loves eating meat-on-a-stick.
 ### Vocab
--人 (rén) [noun] person
--国 (guó) [noun] country
--瓶 (píng) [measure word] bottle
--钱 (qián) [noun] money
--忙 (máng) [adjective] busy
--烦 (fán) [adjective] bothersome
--烦人 (fánrén) [adjective] bothersome
--成 (chéng) [phrase] ok
--行 (xíng) [phrase] ok
--中国 (Zhōngguó) [noun] China
--中国人 (Zhōngguórén) [noun] Chinese person
--中文 (zhōngwén) [noun] Chinese
+-去 (qù) [verb] to go
+-不 (bù) [adverb] no, not
+-太 (tài) [adverb] too
+-坏 (huài) [adjective] bad
+-贵 (guì) [adjective] expensive
+-是 (shì) [verb] to be
+-爱 (ài) [verb] to love
+-爸爸 (bàba) [noun] father
+-串儿 (chuànr) [noun] kebab
+-热 (rè) [noun] hot

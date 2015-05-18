@@ -2,51 +2,61 @@
 ## *intermediate* level
 
 ### Chinese Text
-秦：天气真热啊！
-田：是啊，我还得穿着这个破浣熊的衣服在这儿发传单！
-秦：行啦，比昨天那身公鸡制服好看多了。
-田：这是什么破工作呀！
-秦：有比咱们还惨的呢！
-田：谁能比咱们还惨呢？
-秦：有的人上了大学还得来做这份工作呀。
-田：这，我就上过大学！
-秦：啊......那，至少你还上过大学啊。
+甲：我们已经在海上漂了几个星期了......
+乙：还没有看到陆地的影子......
+甲：我们会死吗？
+乙：根据“海上生存法则”，我们中间必须有一个人，为其他人牺牲！
+丙：终于啊......
+乙：什么？
+丙：我太饿了......我都快失去耐心了！
+甲：你疯了？！
+丙：不，我没有！我就是太饿了。你都不知道，我有几个星期都没有尝过肉的香味儿了。小胖子！
+甲：啊？！
+丙：今儿就你了！
 
 ### Pinyin and Translation
 
-秦: 天气真热啊！
-    tiānqì zhēn rè a ！
-    The weather is really hot!
+甲: 我们已经在海上漂了几个星期了......
+    wǒmen yǐjīng zài hǎi shàng piāo le jǐ ge xīngqī le ......
+    We've been drifting at sea for several weeks....
 
-田: 是啊，我还得穿着这个破浣熊的衣服在这儿发传单！
-    shì a ， wǒ hái děi chuānzhe zhège pò huànxióng de yīfu zài zhèr fā chuándān ！
-    Yeah, and I've got to wear this stupid raccoon costume and hand out these fliers.
+乙: 还没有看到陆地的影子......
+    hái méiyǒu kàn dào lùdì de yǐngzi ......
+    And there's still not a trace of land....
 
-秦: 行啦，比昨天那身公鸡制服好看多了。
-    xíng la ， bǐ zuótiān nà shēn gōngjī zhìfú hǎo kàn duō le 。
-    It's ok. It's a lot better looking than that rooster outfit yesterday.
+甲: 我们会死吗？
+    wǒmen huì sǐ ma ？
+    Are we going to die?
 
-田: 这是什么破工作呀！
-    zhè shì shénme pò gōngzuò ya ！
-    What kind of stupid job is this!
+乙: 根据“海上生存法则”，我们中间必须有一个人，为其他人牺牲！
+    gēnjù “ hǎishàng shēngcún fǎzé ” ， wǒmen zhōngjiān bìxū yǒu yī ge rén ， wèi qítārén xīshēng ！
+    According to the Law of the Sea, one of us must sacrifice himself for the others.
 
-秦: 有比咱们还惨的呢！
-    yǒu bǐ zánmen hái cǎn de ne ！
-    There are people worse off than us!
+丙: 终于啊......
+    zhōngyú a ......
+    Finally....
 
-田: 谁能比咱们还惨呢？
-    shéi néng bǐ zánmen hái cǎn ne ？
-    Who on earth can be worse off than us?
+乙: 什么？
+    shénme ？
+    What?
 
-秦: 有的人上了大学还得来做这份工作呀。
-    yǒu de rén shàng le dàxué hái děi lái zuò zhè fèn gōngzuò ya 。
-    Some people went to university and still do this kind of work.
+丙: 我太饿了......我都快失去耐心了！
+    wǒ tài è le ...... wǒ dōu kuài shīqù nàixīn le ！
+    I'm really hungry. I'm almost out of patience!
 
-田: 这，我就上过大学！
-    zhè ， wǒ jiù shàng guo dàxué ！
-    Hey, I went to university!
+甲: 你疯了？！
+    nǐ fēng le ？ ！
+    Are you crazy?
 
-秦: 啊......那，至少你还上过大学啊。
-    a ...... nà ， zhìshǎo nǐ hái shàng guo dàxué a 。
-    Well... at least you got to go to university.
+丙: 不，我没有！我就是太饿了。你都不知道，我有几个星期都没有尝过肉的香味儿了。小胖子！
+    bù ， wǒ méiyǒu ！ wǒ jiùshì tài è le 。 nǐ dōu bù zhīdào ， wǒ yǒu jǐ ge xīngqī dōu méiyǒu chángguò ròu de xiāngwèir le 。 xiǎo pàngzi ！
+    No, I'm not. I'm just too hungry. You don't know how many weeks I've gone without tasting meat. Fatty!
+
+甲: 啊？！
+    á ？ ！
+    Huh?
+
+丙: 今儿就你了！
+    jinr1 jiù nǐ le ！
+    Tonight you're up!
 ### Vocab

@@ -2,48 +2,38 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：先生，你今天需要一个什么样的发型？
-已：黄晓明那样的，顶上长两边短。
-甲：哦，黄晓明那样的。
-丙：那个，我也剪一个黄晓明那样的发型。
-甲：等一会儿，我先来的。
-丁：你们说黄晓明吗？你们这儿能剪黄晓明的发型？
-丙：你起开，我先来的。
-甲：好了。你们都会有黄晓明的发型。只不过是一个一个的来。
+甲：哎，哪位？
+乙：我是301的，能麻烦你帮我开下吗？
+甲：你门卡呢？
+乙：我门卡丢了，那个，物业还没给我新的呢。
+甲：哦，好的。
+乙：谢谢啊。
 
 ### Pinyin and Translation
 
-甲: 先生，你今天需要一个什么样的发型？
-    Xiānsheng ， nǐ jīntiān xūyào yī ge shénmeyàng de fàxíng ？
-    Sir, what kind of hairstyle do you want today?
+甲: 哎，哪位？
+    ái ， nǎ wèi ？
+    Hey, who is it?
 
-已: 黄晓明那样的，顶上长两边短。
-    Huáng Xiǎomíng nàyàngde ， dǐngshàng cháng liǎng biān duǎn 。
-    Long on top and short on both sides, like Huang Xiaoming.
+乙: 我是301的，能麻烦你帮我开下吗？
+    wǒ shì sānlíngyāo de ， néng máfan nǐ bāng wǒ kāixià ma ？
+    I'm from 301, can I bother you to open the door for me?
 
-甲: 哦，黄晓明那样的。
-    ò ， Huáng Xiǎomíng nàyàngde 。
-    Oh, like Huang Xiaoming.
+甲: 你门卡呢？
+    nǐ ménkǎ ne ？
+    What about your keycard?
 
-丙: 那个，我也剪一个黄晓明那样的发型。
-    那ge ， wǒ yě jiǎn yī ge Huáng Xiǎomíng nàyàngde fàxíng 。
-    Hey, I also want a haircut like Huang Xiaoming's.
+乙: 我门卡丢了，那个，物业还没给我新的呢。
+    wǒ ménkǎ diū le ， nà ge ， wùyè hái méi gěi wǒ xīnde ne 。
+    I lost my keycard and the property manager still hasn't given me a new one.
 
-甲: 等一会儿，我先来的。
-    děng  yīhuìr ， wǒ xiān lái de 。
-    Wait a minute, I came first.
+甲: 哦，好的。
+    ò ， hǎode 。
+    Oh, OK.
 
-丁: 你们说黄晓明吗？你们这儿能剪黄晓明的发型？
-    nǐmen shuō Huáng Xiǎomíng ma ？ nǐmen zhèr néng jiǎn Huáng Xiǎomíng de fàxíng ？
-    Are you talking about Huang Xiaoming? Can you style hair like Huang Xiaoming's here?
-
-丙: 你起开，我先来的。
-    nǐ qǐkāi ， wǒ xiān lái de 。
-    Get out of the way, I was here first.
-
-甲: 好了。你们都会有黄晓明的发型。只不过是一个一个的来。
-    hǎo le 。 nǐmen dōu huì yǒu Huáng Xiǎomíng de fàxíng 。 zhǐ bù guò shì yī ge yī ge de lái 。
-    Enough. You'll all get Huang Xiaoming's hairstyle. But we'll have to do it one at a time.
+乙: 谢谢啊。
+    xièxie ā 。
+    Thanks.
 ### Vocab
 -位 (wèi) [measure word] measure word for people
 -麻烦 (máfan) [verb] to bother

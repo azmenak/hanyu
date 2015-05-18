@@ -2,28 +2,23 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-一：你觉得_____怎么样？
-二：我觉得______不错。
-一：我同意。
-二：好，明天见！
+一：你舒服吗？
+二：我很舒服，为什么？啊！
+一：开玩笑。
 
 ### Pinyin and Translation
 
-一: 你觉得_____怎么样？
-    nǐ juéde _____ zěnmeyàng ？
-    How you you feel about _____?
+一: 你舒服吗？
+    nǐ shūfu ma ？
+    Are you comfortable?
 
-二: 我觉得______不错。
-    wǒ juéde ______ bùcuò 。
-    I think _____ isn't bad.
+二: 我很舒服，为什么？啊！
+    wǒ hěn shūfu ， wèishénme ？ a ！
+    I'm very comfortable, why? Arg!
 
-一: 我同意。
-    wǒ tóngyì 。
-    I agree.
-
-二: 好，明天见！
-    hǎo ， míng tiān jiàn ！
-    Ok, see you tomorrow!
+一: 开玩笑。
+    kāi wánxiào 。
+    Just kidding.
 ### Vocab
 -你 (nǐ) [pronoun] you
 -我 (wǒ) [pronoun] I

@@ -2,21 +2,41 @@
 ## *advanced* level
 
 ### Chinese Text
-
+甲：你去哪儿？
+乙：成都。你不就是成都的吗？
+甲：成都？我没听过。
+乙：什么？那是四川的省会。
+甲：四川？四川在哪儿？
+乙：别告诉我你没听过四川。
+甲：从来没听过，我是大栅栏的。
 
 ### Pinyin and Translation
+
+甲: 你去哪儿？
+    nǐ qù nǎr ？
+    Where are you going?
+
+乙: 成都。你不就是成都的吗？
+    Chéngdū 。 nǐ bù jiùshì Chéngdū de ma ？
+    Chengdu. Aren't you also from Chengdu?
+
+甲: 成都？我没听过。
+    Chéngdū ？ wǒ méi tīngguo 。
+    Chengdu? Never heard of it.
+
+乙: 什么？那是四川的省会。
+    shénme ？ nà shì Sìchuān de shěnghuì 。
+    What? It's the capital of Sichuan.
+
+甲: 四川？四川在哪儿？
+    Sìchuān ？ Sìchuān zài nǎr ？
+    Sichuan? Where is Sichuan?
+
+乙: 别告诉我你没听过四川。
+    bié gàosu wǒ nǐ méi tīngguo Sìchuān 。
+    Don't tell me you've never heard of Sichuan.
+
+甲: 从来没听过，我是大栅栏的。
+    cónglái méi tīngguo ， wǒ shì dàshílàr de 。
+    Never heard of it. I'm from Dashilar.
 ### Vocab
--演职人员 (yǎnzhí rényuán) [noun] cast and crew
--开拍 (kāipāi) [verb] to begin filming
--镜头 (jìngtóu) [noun] shot; lens
--灯光 (dēngguāng) [noun] lighting
--摄像 (shèxiàng) [verb] film camera
--道具 (dàojù) [noun] props
--侵犯 (qīnfàn) [verb] to violate
--投入 (tóurù) [verb] to pour into
--骚扰 (sāorǎo) [verb] to harass
--风骚 (fēngsāo) [adjective] literate
--风骚 (fēngsāo) [adjective] flirtatious
--风流 (fēngliú) [verb] to have talent
--风流 (fēngliú) [adjective] licentious
--剧务 (jùwù) [noun] stage manager

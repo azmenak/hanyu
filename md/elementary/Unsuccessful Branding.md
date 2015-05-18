@@ -1,26 +1,42 @@
 # Unsuccessful Branding
 **Elementary** level
 ### Chinese Text
-甲：Bunny, 你给你妈买礼物了吗？
-乙：为什么？
-甲：因为母亲节！
-乙：哦，我忘了！
+甲：嗨，Selina！<br />Selina：嗨！
+甲：你这件T恤衫真好看。
+Selina：好看吧？
+甲：是什么牌子的呢？
+Selina：是泡泡中文的。
+甲：哦，泡泡中文！
+Selina：嗯。
+甲：没听说过。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|Bunny, 你给你妈买礼物了吗？<blockquote>Bunny, nǐ gěi nǐ mā mǎi lǐwù le ma ？<br />Bunny, did you buy a present for your mom?</blockquote>|
-|乙|为什么？<blockquote>wèishénme ？<br />Why?</blockquote>|
-|甲|因为母亲节！<blockquote>yīnwèi mǔqīnjié ！<br />Because of Mother's Day!</blockquote>|
-|乙|哦，我忘了！<blockquote>o ， wǒ wàng le ！<br />Oh, I forgot!</blockquote>|
+|甲|嗨，Selina！<blockquote>hāi ， Selina ！<br />Hi,Selina!</blockquote>|
+|Selina|嗨！<blockquote>hāi ！<br />Hi!</blockquote>|
+|甲|你这件T恤衫真好看。<blockquote>nǐ zhè jiàn tīxùshān zhēn hǎokàn 。<br />Your t-shirt is really good looking.</blockquote>|
+|Selina|好看吧？<blockquote>hǎokàn ba ？<br />It's good looking?</blockquote>|
+|甲|是什么牌子的呢？<blockquote>shì shénme páizi de ne ？<br />What brand is it?</blockquote>|
+|Selina|是泡泡中文的。<blockquote>shì Pàopào Zhōngwén de 。<br />It's Popup Chinese.</blockquote>|
+|甲|哦，泡泡中文！<blockquote>ò ， Pàopào Zhōngwén ！<br />Oh, Popup Chinese.</blockquote>|
+|Selina|嗯。<blockquote>èn 。<br />Yeah.</blockquote>|
+|甲|没听说过。<blockquote>méi tīngshuō guo 。<br />Haven't heard of it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|必须|bìxū|must|adverb|
-|永远|yǒngyuǎn|forever|adverb|
-|成天|chéngtiān|all day long|adverb|
-|落|là|to leave behind|verb|
-|相信|xiāngxìn|to believe|verb|
-|离开|líkāi|to leave|verb|
-|钱包|qiánbāo|wallet|noun|
-|勾三搭四|gōusāndāsì|to fool around with undesirables|chengyu|
+|件|jiàn|measure word for clothes|measure word|
+|T恤衫|tìxùshān|T-shirt|noun|
+|衬衫|chènshān|shirt|noun|
+|夹克|jiákè|jacket|noun|
+|衣服|yīfu|clothes|noun|
+|条|tiáo|measure word for pants|measure word|
+|裤子|kùzi|pants|noun|
+|双|shuāng|measure word for socks and shoes|measure word|
+|鞋|xié|shoes|noun|
+|顶|dǐng|measure word for hats|measure word|
+|帽子|màozi|hat|noun|
+|过|guò|ever|particle|
+|没|méi|not yet|adverb|
+|牌子|páizi|brand|noun|
+|名牌|míngpái|name brand|noun|

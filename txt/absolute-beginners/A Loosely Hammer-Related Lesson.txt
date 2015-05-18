@@ -2,59 +2,38 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-女人：宝贝儿，干嘛呢？
-男人：看书呢。
-女人：什么书啊？
-男人：一本小说。
-女人：什么小说？能给我看看吗？
-男人：想看，哦？
-女人：嗯。
-女人：谢谢呀。
+甲：哎，你腿怎么青了？
+乙：在哪儿？
+甲：膝盖上。
+乙：哦，昨天摔的。
 
 ### Pinyin and Translation
 
-女人: 宝贝儿，干嘛呢？
-      bǎobèir ， gànmá ne ？
-      Hey baby, what are you doing?
+甲: 哎，你腿怎么青了？
+    āi ， nǐ tuǐ zěnme qīng le ？
+    Hey, why is your leg bruised?
 
-男人: 看书呢。
-      kàn shū ne 。
-      I'm reading a book.
+乙: 在哪儿？
+    zài nǎr ？
+    Where?
 
-女人: 什么书啊？
-      shénme shū ā ？
-      What book?
+甲: 膝盖上。
+    xīgài shàng 。
+    On the knee.
 
-男人: 一本小说。
-      yī běn xiǎoshuō 。
-      A novel.
-
-女人: 什么小说？能给我看看吗？
-      shénme xiǎoshuō ？ néng gěi wǒ kànkan ma ？
-      What novel? Can I take a look?
-
-男人: 想看，哦？
-      xiǎng kàn ， o ？
-      You want to see, huh?
-
-女人: 嗯。
-      en 。
-      Yeah.
-
-女人: 谢谢呀。
-      xièxiè ya 。
-      Thanks, eh.
+乙: 哦，昨天摔的。
+    ò ， zuótiān shuāi de 。
+    Oh，I fell yesterday.
 ### Vocab
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] me
--妹妹 (mèimei) [noun] younger sister
--爸爸 (bàba) [noun] father
--妈妈 (māma) [noun] mother
--有 (yǒu) [verb] to have
--用 (yòng) [verb] to use
--加 (jiā) [verb] to add
--微信 (wēixìn) [noun] wechat
--当然 (dāngrán) [conjunction] of course
--什么 (shénme) [question] what
--应该 (yīnggāi) [verb] should
--一家四口 (yījiā sì kǒu) [phrase] a family of four
+-头 (tóu) [noun] head
+-腿 (tuǐ) [noun] leg
+-胳膊 (gēbo) [noun] arm
+-肚子 (dùzi) [noun] stomach
+-膝盖 (xīgài) [noun] knee
+-疼 (téng) [adjective] painful
+-青 (qīng) [adjective] bruised
+-麻 (má) [adjective] numb
+-摔 (shuāi) [verb] to slip
+-哪儿 (nǎr) [question] where
+-昨天 (zuótiān) [noun] yesterday
+-锤子 (chuízi) [noun] hammer

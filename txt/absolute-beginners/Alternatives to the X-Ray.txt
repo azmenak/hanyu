@@ -2,37 +2,29 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：我生气了。
-乙：你生什么气呀？
-甲：我生你的气。
-乙：哦，这样啊。
+甲：疼，疼疼疼疼疼....
+乙：哪儿疼啊？这儿？
+甲：嗷！
 
 ### Pinyin and Translation
 
-甲: 我生气了。
-    wǒ shēngqì le 。
-    I'm angry.
+甲: 疼，疼疼疼疼疼....
+    téng ， téng téng téng téng téng . . . .
+    Oh, it hurts....
 
-乙: 你生什么气呀？
-    nǐ shēng shénme qì ya ？
-    What are you angry about?
+乙: 哪儿疼啊？这儿？
+    nǎr téng ā ？ zhèr ？
+    Where does it hurt, here?
 
-甲: 我生你的气。
-    wǒ shēng nǐ de qì 。
-    I'm angry at you.
-
-乙: 哦，这样啊。
-    o ， zhè yàng ā 。
-    Oh, it's like that.
+甲: 嗷！
+    ào ！
+    Ow!
 ### Vocab
--那 (nà) [pronoun] that
--这 (zhè) [pronoun] this
--是 (shì) [verb] to be
--女朋友 (nǚpéngyou) [noun] girlfriend
--不 (bù) [adverb] no
--猫 (māo) [noun] cat
--会 (huì) [verb] to be able to
--打 (dǎ) [verb phrase] to dial
--电话 (diànhuà) [noun] telephone
--对 (duì) [adjective] correct
--饿 (è) [verb] to be hungry
+-疼 (téng) [adjective] painful
+-舒服 (shūfu) [adjective] comfortable
+-好 (hǎo) [adjective] good
+-哪儿 (nǎr) [pronoun] where
+-那儿 (nàr) [pronoun] there
+-这儿 (zhèr) [pronoun] here
+-我 (wǒ) [pronoun] I; me
+-很 (hěn) [adverb] very

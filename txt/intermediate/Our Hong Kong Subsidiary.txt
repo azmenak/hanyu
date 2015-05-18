@@ -2,68 +2,64 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：看你的刀快，还是我的枪快。
-乙：当然是你的枪快，不过，今天我来这儿并不是为了逮捕你。
-甲：算你聪明，你再往前半步，我就会打爆你的脑袋。
-乙：如果你杀了我，你也不能从这儿活着走出去。
-甲：那就鱼死网破！
-乙：我的队友们五分钟以后会冲进来，留给我们的时间不多了。
-甲：你是指？
-乙：跟我合作，黄金分我一半。
-甲：你真是狮子大张口啊，为了这个案子，我整整策划了两年！
-乙：人不为己，天诛地灭。谁都有自己的利益，我也是。
+甲：喂，爱德华？
+乙：哦，老板。
+甲：我打电话是因为，有一些谣言。
+乙：谣言，什么谣言？
+甲：这个... 很荒唐。
+乙：你说吧。
+甲：我们的子公司会偶尔被用作鸦片馆儿？
+乙：不不不，很少，很少。
+丙：香港警署提醒您，密切关注您在港公司，遵纪守法，远离鸦片。
 
 ### Pinyin and Translation
 
-甲: 看你的刀快，还是我的枪快。
-    kàn nǐ de dāo kuài ， hái shì wǒ de qiāng kuài 。
-    Let's see which is faster, your knife or my gun.
+甲: 喂，爱德华？
+    wéi ， Aìdéhuá ？
+    Hello, Edward?
 
-乙: 当然是你的枪快，不过，今天我来这儿并不是为了逮捕你。
-    dāngrán shì nǐ de qiāng kuài ， bùguò ， jīntiān wǒ lái zhèr bìng  bù shì wèile dàibǔ nǐ 。
-    Of course it's your gun. But I really didn't come here today to arrest you.
+乙: 哦，老板。
+    o ， lǎobǎn 。
+    Oh, boss.
 
-甲: 算你聪明，你再往前半步，我就会打爆你的脑袋。
-    suàn nǐ cōngming ， nǐ zài wǎngqián bànbù ， wǒ jiù huì dǎbào nǐ de nǎodai 。
-    Looks like you've got some brains. Take another half step forward and I'll blow your brains out.
+甲: 我打电话是因为，有一些谣言。
+    wǒ dǎ diànhuà shì yīnwèi ， yǒu yīxiē yáoyán 。
+    The reason I'm calling is because there are some rumors.
 
-乙: 如果你杀了我，你也不能从这儿活着走出去。
-    rúguǒ nǐ shā le wǒ ， nǐ yě bù néng cóng zhèr huózhe zǒu  chūqù 。
-    If you kill me, you'll never leave here alive.
+乙: 谣言，什么谣言？
+    yáoyán ， shénme yáoyán ？
+    Rumors, what rumors?
 
-甲: 那就鱼死网破！
-    nà jiù yúsǐwǎngpò ！
-    Then it's a struggle to the death!
+甲: 这个... 很荒唐。
+    zhège . . .  hěn huāngtang 。
+    Well... it's ridiculous.
 
-乙: 我的队友们五分钟以后会冲进来，留给我们的时间不多了。
-    wǒ de duìyǒumen wǔ fēnzhōng yǐhòu huì chōngjìnlai ， liúgěi wǒmen de shíjiān bù duō le 。
-    My squadmates will burst in here in five minutes. This doesn't give us much time.
+乙: 你说吧。
+    nǐ shuō ba 。
+    Say it.
 
-甲: 你是指？
-    nǐ shì zhǐ ？
-    You mean...?
+甲: 我们的子公司会偶尔被用作鸦片馆儿？
+    wǒmen de zǐgōngsī huì ǒu‘ěr bèi yòngzuò yāpiànguǎnr ？
+    Is our subsidiary occasionally used as an opium den?
 
-乙: 跟我合作，黄金分我一半。
-    gēn wǒ hézuò ， huángjīn fēn wǒ yībàn 。
-    Work with me. Give me half the gold.
+乙: 不不不，很少，很少。
+    bù bù bù ， hěn shǎo ， hěn shǎo 。
+    Of course not. Very rarely.
 
-甲: 你真是狮子大张口啊，为了这个案子，我整整策划了两年！
-    nǐ zhēn shì shīzi dà zhāngkǒu a ， wèi le zhège ànzi ， wǒ zhěngzhěng cèhuà le liǎng nián ！
-    You're really a lion with a gaping mouth. I spent a whole two years plotting this case.
-
-乙: 人不为己，天诛地灭。谁都有自己的利益，我也是。
-    rénbùwèijǐ, tiānzhūdìmiè 。 shéi dōu yǒu zìjǐ de lìyi ， wǒ yě shì 。
-    If a man doesn't look out for himself, then heaven and earth will destroy him. Everyone has their own interests, and I'm no exception.
+丙: 香港警署提醒您，密切关注您在港公司，遵纪守法，远离鸦片。
+    Xiānggǎng jǐngshǔ tíxǐng nín ， mìqiè guānzhù nín zài gǎng gōngsī ， zūnjìshǒufǎ ， yuǎnlí yāpiàn 。
+    The Hong Kong police remind you to closely monitor your companies in Hong Kong. Remember to follow the law and stay far away from opium.
 ### Vocab
--半步 (bànbù) [noun] half a step
--逮捕 (dàibǔ) [verb] to arrest
--打爆 (dǎbào) [verb] to blow up
--脑袋 (nǎodai) [noun] brains
--队友 (duìyǒu) [noun] team members
--案子 (ànzi) [noun] case
--整整 (zhěngzhěng) [adverb] entirely
--策划 (cèhuà) [verb] to plan
--鱼死网破 (yúsǐwǎngpò) [chengyu] either the fish dies or the the net get torn
--同归于尽 (tóngguīyújìn) [chengyu] to perish together
--狮子大张口 (shīzi dà zhāngkǒu) [phrase] daylight robbery
--人不为己，天诛地灭 (rénbùwèijǐ, tiānzhūdìmiè) [phrase] unless a man looks out for himself, heaven and earth will destory him
+-谣言 (yáoyán) [noun] rumor
+-辟谣 (pìyáo) [verb] to refute a rumor
+-荒谬 (huāngmiù) [adjective] preposterous
+-荒唐 (huāngtang) [adjective] ridiculous
+-子公司 (zǐgōngsī) [noun] subsidiary
+-偶尔 (ǒu‘ěr) [adverb] occasionally
+-用作 (yòngzuò) [verb] to use as
+-鸦片 (yāpiàn) [noun] opium
+-警署 (jǐngshǔ) [noun] police department
+-关注 (guānzhù) [verb] to pay attention to
+-遵纪守法 (zūnjìshǒufǎ) [phrase] to observe an official code of conduct
+-远离 (yuǎnlí) [verb] to stay far away from
+-密切 (mìqiè) [adverb] intimately; closely

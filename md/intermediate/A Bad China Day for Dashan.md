@@ -1,8 +1,7 @@
 # A Bad China Day for Dashan
 **Intermediate** level
 ### Chinese Text
-大山：再来一杯....
-甲：我从来没见过大山这么郁闷。
+大山：再来一杯....<br />甲：我从来没见过大山这么郁闷。
 大山：快给我拿酒来，傻冒儿。
 乙：哇，他的中文可真了不起。
 甲：了不起的是他还活着，今天都五瓶二锅头下肚了。
@@ -22,16 +21,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|盛夏|shèngxià|late summer|noun|
-|古老|gǔlǎo|ancient|adjective|
-|灭亡|mièwáng|to go extinct|verb|
-|盯上|dīngshàng|to stare at|verb|
-|凶手|xiōngshǒu|murderer|noun|
-|死路一条|sǐlùyītiáo|certain death|idiom|
-|四大名著|sì dà míngzhù|The Four Classics|idiom|
-|不同寻常|bùtóng xúncháng|extraordinary|adjective|
-|尽请|jǐnqǐng|passionately|adverb|
-|与|yǔ|with|particle|
-|首播|shǒu bō|to broadcast for the first time|verb|
-|一切|yīqiè|everything|noun|
-|全球|quánqiú|worldwide|noun|
+|傻冒儿|shǎmàor|idiot|noun|
+|大山|Dàshān|Dashan|person|
+|郁闷|yùmèn|depressed|adjective|
+|二锅头|èrguōtóu|Erguotou|noun|
+|下肚|xiàdù|to eat|verb|
+|竹板儿|zhúbǎnr|clappers|noun|
+|相声|xiàngsheng|crosstalk|noun|
+|了不起|liǎobuqǐ|incredible|other|
+|了不得|liǎobudé|amazing; very|other|
+|不得了|bùdéliǎo|extremely|other|

@@ -1,20 +1,17 @@
 # Buried Under Work
 **Absolute Beginners** level
 ### Chinese Text
-甲：给您菜单。
-乙：啊，谢谢。
-甲：您要什么？
-乙：呃，等一下儿，我先看看吧。
-甲：嗯，好的。
+甲：累吗？<br />乙：嗯，我很累。
+甲：你该睡觉。
+乙：我还有工作。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|给您菜单。<blockquote>gěi nín càidān 。<br />Here is a menu.</blockquote>|
-|乙|啊，谢谢。<blockquote>a ， xièxie 。<br />Ah, thank you.</blockquote>|
-|甲|您要什么？<blockquote>nín yào shénme ？<br />What do you want?</blockquote>|
-|乙|呃，等一下儿，我先看看吧。<blockquote>e ， děng yīxiàr ， wǒ xiān kànkan ba 。<br />Wait a moment, I want to take a look.</blockquote>|
-|甲|嗯，好的。<blockquote>ng ， hǎo de 。<br />Oh, OK.</blockquote>|
+|甲|累吗？<blockquote>lèi ma ？<br />Are you tired?</blockquote>|
+|乙|嗯，我很累。<blockquote>ng ， wǒ hěn lèi 。<br />Yes, I'm very tired.</blockquote>|
+|甲|你该睡觉。<blockquote>nǐ gāi shuìjiào 。<br />You should go to sleep.</blockquote>|
+|乙|我还有工作。<blockquote>wǒ hái yǒu gōngzuò 。<br />I still have work to do.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

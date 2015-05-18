@@ -90,19 +90,13 @@
     ai ， bié qǐlai ， nǐmen máng ， wǒ bǎ bǐ fàng zhuō shàng le a ， míngr jiàn 。
     No, don't get up. Keep doing what you're doing. I'll put the pen on the table. See you tomorrow.
 ### Vocab
--决不能 (juébù néng) [verb] absolutely cannot
--倒霉 (dǎoméi) [adjective] unlucky
--击落 (jīluò) [verb] to shoot down
+-根儿 (gēnr) [measure word] piece
+-块儿 (kuàir) [measure word] piece
+-本儿 (běnr) [measure word] volume
+-片儿 (piànr) [measure word] slice
+-勺儿 (sháor) [measure word] spoon
+-保证 (bǎozhèng) [verb] to guarantee
+-说到做到 (shuōdào zuòdào) [phrase] to do what one says
+-明儿 (míngr) [noun] tomorrow
 -今儿 (jīnr) [noun] today
--架 (jià) [measure] (measure word for aircraft)
--敌机 (díjī) [noun] enemy aircraft
--照 (zhào) [conjunction] following
--按照 (ànzhào) [conjunction] according to
--照着 (zhàozhe) [conjunction] going by
--消灭 (xiāomiè) [verb] to perish
--跳伞 (tiàosǎn) [verb] to parachute
--发射 (fāshè) [verb] to launch
--毒气弹 (dúqìdàn) [noun] poison gas bomb
--枚 (méi) [measure] (measure word for bombs)
--火箭弹 (huǒjiàndàn) [noun] rocket mortar
--手下留情 (shǒuxiàliúqíng) [idiom] to show mercy
+-昨儿 (zuór) [noun] yesterday

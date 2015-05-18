@@ -1,8 +1,7 @@
 # The Police Hotline
 **Intermediate** level
 ### Chinese Text
-甲：警察局吗？有人抢银行，我要报案！
-乙：您好，欢迎您拨打北京报警服务中心，如果您需要帮助请按1。
+甲：警察局吗？有人抢银行，我要报案！<br />乙：您好，欢迎您拨打北京报警服务中心，如果您需要帮助请按1。
 甲：1，1。
 乙：您好，如果您需要中文服务请按1，需要英文服务请按2。
 甲：我们还得找个会英文的吗？1。
@@ -28,10 +27,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|全球气候变暖|quánqiú qìhòu biàn nuǎn|global warming|phrase|
-|站地|zhàndì|stops|noun|
-|好|hǎo|(perfective)|perfective|
-|泳裤|yǒngkù|swim trunks|noun|
-|麻烦|máfan|to bother|verb|
-|倒|dǎo|to switch to|verb|
-|公交船|gōngjiāo chuán|public ferry|noun|
+|报案|bàoàn|to file a report|verb|
+|拨打|bōdǎ|to hit|verb|
+|抢|qiǎng|to rob|verb|
+|报警|bàojǐng|to report to the cops|verb|
+|会员|huìyuán|member|noun|
+|会员卡|huìyuánkǎ|membership card|noun|
+|办理|bànlǐ|to handle|verb|
+|截止|jiézhǐ|up until|verb|
+|取消|qǔxiāo|to cancel|verb|

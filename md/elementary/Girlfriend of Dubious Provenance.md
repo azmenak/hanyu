@@ -1,8 +1,7 @@
 # Girlfriend of Dubious Provenance
 **Elementary** level
 ### Chinese Text
-甲：哎！ 你能帮我看一下这上面都写什么了？
-乙：不知道，西班牙语吧?
+甲：哎！ 你能帮我看一下这上面都写什么了？<br />乙：不知道，西班牙语吧?
 甲：这好像是希腊文。
 乙：你干嘛看这个？
 甲：这是我女朋友写给我的信啊。
@@ -26,15 +25,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|沒想好|méixiǎnghǎo|not to have finished thinking|verb|
-|没做好|méizuòhǎo|not to have finished|verb|
-|没说好|méishuōhǎo|not to have agreed upon|verb|
-|没定好|méidìnghǎo|not to have set down|verb|
-|取|qǔ|to pick up|verb|
-|取名字|qǔ míngzi|to pick a name|verb|
-|取钱|qǔ qián|to take out money|verb|
-|取签证|qǔ qiānzhèng|to pick up a visa|verb|
-|两三|liǎng sān|two or three|other|
-|岁|suì|years|noun|
-|左右|zuǒyòu|more or less|suffix|
-|馘|guó|to cut off the left ear of a slain opponent|verb|
+|一下|yīxià|for a bit|verb complement|
+|好像|hǎoxiàng|seems like|adverb|
+|西班牙语|xībānyáyǔ|Spanish|noun|
+|希腊文|xīlàwén|Greek|noun|
+|上面|shàngmian|on the top|phrase|
+|信|xìn|letter|noun|
+|干嘛|gànmá|for what possible reason|question|
+|对啊|duì a|yeah|phrase|
+|连...都...|lián ... dōu ...|even|conjunction|
+|甭|béng|not to need|slang|
+|翻译|fānyì|to translate|verb|
+|管|guǎn|to pay attention to; to manage|verb|
+|女朋友|nǚpéngyou|girlfriend|noun|

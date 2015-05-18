@@ -1,8 +1,7 @@
 # Buried in the Garden
 **Intermediate** level
 ### Chinese Text
-甲：在你花光了两任丈夫的全部资产后...
-乙：是他们自己破产了。
+甲：在你花光了两任丈夫的全部资产后...<br />乙：是他们自己破产了。
 甲：因为买珠宝和去欧洲度假？
 乙：他们喜欢给我买礼物，我有什么办法？
 甲：那这些照片呢，你怎么解释？
@@ -22,15 +21,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|油罐|yóuguàn|oil tank|noun|
-|汽油|qìyóu|gas|noun|
-|涨|zhǎng|to rise to|verb|
-|腰|yāo|waist|noun|
-|淹死|yān sǐ|to drown|verb|
-|逃跑|táopǎo|to escape|verb|
-|抽烟|chōuyān|to smoke a cigarette|verb|
-|脑子进水|nǎozi jìnshuǐ|to have water on the brain|verb|
-|爆炸|bàozhà|to explode|verb|
-|到底|dàodǐ|finally|adverb|
-|讨厌|tǎoyàn|disgusting|adjective|
-|刻薄|kèbó|fussy; hidebound|adjective|
+|花光|huāguāng|to spend everything|verb|
+|任|rèn|(successive)|measure word|
+|资产|zīchǎn|property|noun|
+|破产|pòchǎn|to go bankrupt|verb|
+|珠宝|zhūbǎo|jewellery|noun|
+|鬼话|guǐhuà|nonsense|noun|
+|陪审团|péishěntuán|jury|noun|
+|毒死|dúsǐ|kill with poison|noun|
+|尸体|shītǐ|corpse|noun|
+|掩埋|yǎnmái|to be buried|verb|
+|园丁|yuándīng|gardener|noun|
+|光|guāng|only with regards to|adverb|

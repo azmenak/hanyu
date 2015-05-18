@@ -6,23 +6,23 @@
 
 ### Pinyin and Translation
 ### Vocab
--收集 (shōují) [verb] to collect
--搜集 (sōují) [verb] to gather
--邮票 (yóupiào) [noun] stamp
--集邮 (jíyóu) [verb] to collect stamps
--作废 (zuòfèi) [verb] to void
--顾虑 (gùlǜ) [noun] concern
--上瘾 (shàngyǐn) [verb] to be addicted to
--炒作 (chǎozuò) [noun] speculation
--狂热 (kuángrè) [adjective] enthusiastic
--癖好 (pǐhào) [noun] obsession
--怪异 (guàiyì) [adjective] strange
--恋旧 (liànjiù) [adjective] nostalgia
--拾荒 (shíhuāng) [verb] to glean scraps
--神经质 (shénjīngzhì) [noun] nervosity
--数字化 (shùzìhuà) [noun] digitization
--满足感 (mǎnzúgǎn) [noun] satisfaction
--成就感 (chéngjiùgǎn) [noun] fulfillment
--不由自主 (bùyóuzìzhǔ) [adverb] involuntarily
--由来已久 (yóuláiyǐjiǔ) [adjective] long-standing
--暗箱操作 (ànxiāngcāozuò) [verb] to rig
+-香港 (xiānggǎng) [name] Hong Kong
+-内地 (nèidì) [noun] mainland
+-侵权 (qīnquán) [noun] tort
+-矛盾 (máodùn) [noun] contradiction
+-自治 (zìzhì) [adjective] autonomous
+-资源 (zīyuán) [noun] resource
+-蝗虫 (huángchóng) [noun] grasshopper
+-形象 (xíngxiàng) [noun] image
+-普遍 (pǔbiàn) [adjective] common
+-素质 (sùzhì) [noun] quality
+-文明 (wénmíng) [noun] civilization
+-争议 (zhēngyì) [noun] dispute
+-意识 (yìshí) [noun] awareness
+-尿不湿 (niàobùshī) [noun] diaper
+-民意调查 (mínyìdiàochá) [noun] poll
+-断章取义 (duànzhāngqǔyì) [set phrase] to interpret out of context
+-入乡随俗 (rùxiāngsuísú) [set phrase] when in Rome....
+-煽风点火 (shānfēngdiǎnhuǒ) [set phrase] to fan the flame
+-添油加醋 (tiānyóujiācù) [set phrase] to add oil and vinegar; to exaggerate
+-得不偿失 (débùchángshī) [set phrase] the loss outweighs the gain

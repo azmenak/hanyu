@@ -1,8 +1,7 @@
 # Meet the Neighbors, Part I
 **Intermediate** level
 ### Chinese Text
-老婆：亲爱的，我想跟你谈一谈隔壁邻居的事儿。
-老公：你还在生气呢？咱们只是帮人家看两天孩子罢了。
+老婆：亲爱的，我想跟你谈一谈隔壁邻居的事儿。<br />老公：你还在生气呢？咱们只是帮人家看两天孩子罢了。
 老婆：我不生气，只不过......
 老公：哎呀，远亲不如近邻！我们只是相互帮助，你说对吗？
 老婆：但是......
@@ -32,11 +31,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|有完没完|yǒuwánméiwán|are you done yet|phrase|
-|睁眼瞎|zhēngyǎnxiā|blind person|noun|
-|文盲|wénmáng|illiterate|noun|
-|认字儿|rènzìr|to be able to read|verb|
-|滚蛋|gǔndàn|get lost|phrase|
-|栋|dòng|(measure word)|measure word|
-|他妈的|tāmāde|damn|slang|
-|我操|wǒcào|fuck|slang|
+|亲爱的|qīn'ài de|darling|noun|
+|两天|liǎng tiān|a few days|phrase|
+|隔壁邻居|gébì línjū|neighbor|noun|
+|只不过|zhǐ bùguò|it's only that|conjunction|
+|难道|nándào|can it be that|conjunction|
+|相互|xiānghù|each other|adverb|
+|谈|tán|to discuss|verb|
+|照顾|zhàogu|to take care of|verb|
+|亲生的|qīnshēng de|to give birth oneself|verb|
+|人家|rénjia|them|pronoun|
+|远亲不如近邻|yuǎnqīn bùrú jìnlín|distant relatives are not as good as close neighbors|phrase|

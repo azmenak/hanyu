@@ -1,8 +1,7 @@
 # The Electrical Outlet
 **Absolute Beginners** level
 ### Chinese Text
-甲：插座儿在哪儿？
-乙：你说什么？
+甲：插座儿在哪儿？<br />乙：你说什么？
 甲：我想用笔记本儿。
 乙：哦，在这儿。
 

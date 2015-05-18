@@ -2,68 +2,68 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：零零七，救我！
-乙：动不了....
-丙：谁也帮不了你们，卫星马上就要进入轨道了....
-乙：到时，你就会干掉我们？
-丙：不不不，这不是一把电枪，它会发射微波。
-乙：让我们的大脑爆炸？
-丙：一般不会造成什么伤害，但是…长期辐射，会导致皮肤癌。
-甲：我的皮肤！
-乙：你不会得逞的。
-甲：零零七，救我！
+甲：我们手里的证据只够判他五个月的。
+乙：我告诉过你，我要他坐五年的牢。
+甲：他不在监控录像里，而且还有不在场证明。
+乙：你没有采访目击证人吗？
+甲：我们已经采访了停车场的收费人员...
+乙：嗯，干的好！
+甲：但他们什么都没看见。
+乙：你要用心去发现！
+甲：可是....
+乙：我不在乎你怎么找证据，要是判不了他五年，你走人。
 
 ### Pinyin and Translation
 
-甲: 零零七，救我！
-    líng líng qī ， jiù wǒ ！
-    Rescue me, 007!
+甲: 我们手里的证据只够判他五个月的。
+    wǒmen shǒulǐ de zhèngju zhǐ gòu pàn tā wǔ ge  yuè de 。
+    We only have enough evidence to get a five month conviction.
 
-乙: 动不了....
-    dòngbùliǎo . . . .
-    I can't move....
+乙: 我告诉过你，我要他坐五年的牢。
+    Wǒ gàosu guò nǐ ， wǒ yào tā zuò wǔ nián de láo 。
+    I told you, I want him to serve five years.
 
-丙: 谁也帮不了你们，卫星马上就要进入轨道了....
-    shéi yě bāngbùliǎo nǐmen ， wèixīng mǎshàng jiù yào jìnrù guǐdào le . . . .
-    No-one can help you. The satellite is just about to enter orbit.
+甲: 他不在监控录像里，而且还有不在场证明。
+    tā bù zài jiānkòng  lùxiàng lǐ ， érqiě hái yǒu bùzàichǎngzhèngmíng 。
+    He isn't in the security recordings, and has evidence he wasn't on the scene.
 
-乙: 到时，你就会干掉我们？
-    dàoshí ， nǐ jiù huì gāndiào wǒmen ？
-    When that happens, you'll kill us?
+乙: 你没有采访目击证人吗？
+    nǐ méiyǒu cǎifǎng mùjī  zhèngren ma ？
+    Haven't you interviewed the witnesses?
 
-丙: 不不不，这不是一把电枪，它会发射微波。
-    bù bù bù ， zhè bù shì yī bǎ diànqiāng ， tā huì fāshè wēibō 。
-    Oh no, this is no electric gun. It shoots out microwaves.
+甲: 我们已经采访了停车场的收费人员...
+    wǒmen yǐjīng cǎifǎng le tíngchēchǎng de shōufèi rényuán . . .
+    We've already interviewed the parking lot attendants...
 
-乙: 让我们的大脑爆炸？
-    ràng wǒmen de dànǎo bàozhà ？
-    It'll make our brains explode?
+乙: 嗯，干的好！
+    en ， gàn de hǎo ！
+    Hmm... that's the way to do it!
 
-丙: 一般不会造成什么伤害，但是…长期辐射，会导致皮肤癌。
-    yībān bùhuì zàochéng shénme shānghài ， dànshì … chángqī fúshè ， huì dǎozhì pífūái 。
-    In general it doesn't cause any damage, but... long term radiation can lead to skin cancer.
+甲: 但他们什么都没看见。
+    dàn tāmen shénme dōu méi kànjiàn 。
+    But they didn't see anything.
 
-甲: 我的皮肤！
-    wǒ de pífū ！
-    Oh, my skin!
+乙: 你要用心去发现！
+    nǐ yào yòngxīn qù fāxiàn ！
+    You've got to put some effort into investigating!
 
-乙: 你不会得逞的。
-    nǐ bùhuì déchěng de 。
-    You won't get away with this.
+甲: 可是....
+    kěshì . . . .
+    But....
 
-甲: 零零七，救我！
-    líng líng qī ， jiù wǒ ！
-    Save me, 007!
+乙: 我不在乎你怎么找证据，要是判不了他五年，你走人。
+    wǒ bù zàihu nǐ zěnme zhǎo zhèngju ， yàoshi pànbù liǎo tā wǔ nián ， nǐ zǒurén 。
+    I don't care how you find the evidence, but if you can't get five years you're no longer welcome here.
 ### Vocab
--要不然 (yàoburán) [conjunction] or else
--否则 (fǒuzé) [conjunction] otherwise
--要么 (yàome) [conjunction] either
--雇 (gù) [verb] to hire
--干 (gàn) [verb] to do
--不管 (bù guǎn) [verb] not to care
--开除 (kāichú) [verb] to fire
--贿赂 (huìlu) [verb] to bribe
--交朋友 (jiāo péngyou) [verb] to make friends
--报告 (bàogào) [noun] report
--份 (fèn) [measure word] measure word
--按时 (ànshí) [phrase] on time
+-判 (pàn) [verb] to judge; to sentence
+-证据 (zhèngju) [noun] evidence
+-坐牢 (zuòláo) [verb] to be in prison
+-监控 (jiānkòng) [verb] to monitor
+-录像 (lùxiàng) [noun] recording
+-用心 (yòngxīn) [adverb] vigorously; wholeheartedly
+-发现 (fāxiàn) [verb] to discover
+-走人 (zǒurén) [verb] to get lost
+-停车场 (tíngchēchǎng) [noun] parking lot
+-目击证人 (mùjī zhèngren) [noun] eyewitness
+-收费人员 (shōufèi rényuán) [noun] toll collector
+-不在场证明 (bù zài chǎng zhèngmíng) [noun] alibi

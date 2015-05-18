@@ -1,18 +1,25 @@
 # The Chef Sends His Regards
 **Elementary** level
 ### Chinese Text
-男的：手机没电了，怎么办？
-女的：买新的！
-男的：买新的手机？你疯了吗？
-女的：电池！电池！
+甲：服务员，这个筷子有点脏。<br />乙：哦，没事儿，我帮您换一双。
+甲：谢谢你啊。
+乙：不用谢。只不过就是厨师感冒了而已。
+甲：感冒？
+乙：对呀，他不是打喷嚏就是流鼻涕的，脏死了。
+甲：这是鼻涕？
+乙：祝您用餐愉快！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男的|手机没电了，怎么办？<blockquote>shǒujī méi diàn le ， zěnme bàn ？<br />The phone is out of power, what can we do?</blockquote>|
-|女的|买新的！<blockquote>mǎi xīn de ！<br />Buy a new one!</blockquote>|
-|男的|买新的手机？你疯了吗？<blockquote>mǎi xīn de shǒujī ？ nǐ fēng le ma ？<br />Buy a new cellphone? Are you crazy?</blockquote>|
-|女的|电池！电池！<blockquote>diànchí ！ diànchí ！<br />Battery, battery!</blockquote>|
+|甲|服务员，这个筷子有点脏。<blockquote>fúwùyuán ， zhège kuàizi yǒudiǎn zāng 。<br />Waiter, this pair of chopsticks is a little dirty.</blockquote>|
+|乙|哦，没事儿，我帮您换一双。<blockquote>ò ， méi shìr ， wǒ bāng nín huàn yī shuāng 。<br />Oh, no problem. I will help you get a new pair.</blockquote>|
+|甲|谢谢你啊。<blockquote>xièxie nǐ ā 。<br />Thanks a bunch.</blockquote>|
+|乙|不用谢。只不过就是厨师感冒了而已。<blockquote>bù yòng xiè 。 zhǐ bùguò jiùshì chúshī gǎnmào le éryǐ 。<br />Don't mention it. It's just that the chef has caught a cold, that's all.</blockquote>|
+|甲|感冒？<blockquote>gǎnmào ？<br />Cold?</blockquote>|
+|乙|对呀，他不是打喷嚏就是流鼻涕的，脏死了。<blockquote>duì ya ， tā bù shì dǎ pēnti jiùshì liú bíti de ， zāng sǐ le 。<br />That's right, he's not sneezing, just a runny nose, filthy.</blockquote>|
+|甲|这是鼻涕？<blockquote>zhè shì bíti ？<br />Is this snot?</blockquote>|
+|乙|祝您用餐愉快！<blockquote>zhù nín yòng cān yúkuài ！<br />Wish you happy eating!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

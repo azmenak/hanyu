@@ -2,28 +2,38 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：老板，这些文件都处理完了。
-乙：辛苦了，给你的咖啡。
-甲：不用了，我这就回去。喝了咖啡该睡不着觉了。
-乙：哦，你今天不会回家。
+甲：我知道你为什么睡不着觉了。
+乙：为什么？快！告诉我！
+甲：因为刚才你喝了三杯咖啡。
+乙：这有关系吗？
+甲：当然有关系，你开什么玩笑呀？
+乙：开玩笑？我喝咖啡的时候从不开玩笑！
 
 ### Pinyin and Translation
 
-甲: 老板，这些文件都处理完了。
-    lǎobǎn ， zhè xiē wénjiàn dōu chǔlǐwán le 。
-    Boss, these files are all finished.
+甲: 我知道你为什么睡不着觉了。
+    wǒ zhīdào nǐ wèishénme shuì bu zháo jiào le 。
+    I know why you can't sleep.
 
-乙: 辛苦了，给你的咖啡。
-    xīnkǔ le ， gěi nǐ de kāfēi 。
-    Good work, here's your coffee.
+乙: 为什么？快！告诉我！
+    wèishénme ？ kuài ！ gàosu wǒ ！
+    Why? Quickly! Tell me!
 
-甲: 不用了，我这就回去。喝了咖啡该睡不着觉了。
-    bùyòng le ， wǒ zhèjiù huíqu 。 hē le kāfēi gāi shuì bu zháo jiào le 。
-    No need, I'll be off in a second. If I drink coffee I won't be able to sleep.
+甲: 因为刚才你喝了三杯咖啡。
+    yīnwèi gāngcái nǐ hē le sān bēi kāfēi 。
+    Because you just drank three cups of coffee.
 
-乙: 哦，你今天不会回家。
-    ò ， nǐ jīntiān bùhuì huíjiā 。
-    Oh, you won't be going home tonight.
+乙: 这有关系吗？
+    zhè yǒu guānxi ma ？
+    What does that have to do with it?
+
+甲: 当然有关系，你开什么玩笑呀？
+    dāngrán yǒu guānxi ， nǐ kāi shénme wánxiào ya ？
+    Of course it matters, what are you joking about?
+
+乙: 开玩笑？我喝咖啡的时候从不开玩笑！
+    kāi wánxiào ？ wǒ hē kāfēi de shíhou cóng bù kāi wánxiào ！
+    Joking? I never joke when I drink coffee.
 ### Vocab
 -知道 (zhīdào) [verb] to know
 -睡觉 (shuìjiào) [verb] to sleep

@@ -1,31 +1,27 @@
 # How about Korean Food
 **Absolute Beginners** level
 ### Chinese Text
-我也有缺点。
-你觉得不好？
-我们学习中文。
-他虐待你了？
-这里省略“一”。
-他四月来。
+甲：我们吃什么？<br />乙：外卖吧。
+甲：外卖什么？
+乙：韩国菜吧。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||我也有缺点。<blockquote>wǒ yě yǒu quēdiǎn 。<br />I also have faults.</blockquote>|
-||你觉得不好？<blockquote>nǐ juéde bù hǎo ？<br />You don't feel this is fine?</blockquote>|
-||我们学习中文。<blockquote>wǒmen xuéxí Zhōngwén 。<br />We are studying Chinese.</blockquote>|
-||他虐待你了？<blockquote>tā nǜedài nǐ le ？<br />Does he abuse you?</blockquote>|
-||这里省略“一”。<blockquote>zhèlǐ shěnglǜe “ yī ” 。<br />There is a "one" missing here.</blockquote>|
-||他四月来。<blockquote>tā sìyuè lái 。<br />He will come in April.</blockquote>|
+|甲|我们吃什么？<blockquote>wǒmen chī shénme ？<br />What should we eat?</blockquote>|
+|乙|外卖吧。<blockquote>wàimài ba 。<br />How about take-out?</blockquote>|
+|甲|外卖什么？<blockquote>wàimài shénme ？<br />What kind of take-out?</blockquote>|
+|乙|韩国菜吧。<blockquote>Hánguó cài ba 。<br />How about Korean food?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|怎么了|zěnmele|what's wrong|phrase|
-|我|wǒ|I|pronoun|
-|不|bù|not|adverb|
-|很|hěn|very|adverb|
-|舒服|shūfu|comfortable|adjective|
-|哪儿|nǎr|where|question|
-|疼|téng|to hurt|verb|
-|这儿|zhèr|here|determiner|
-|那儿|nàr|there|determiner|
+|我们|wǒmen|we|pronoun|
+|吃|chī|to eat|verb|
+|什么|shénme|what|question|
+|外卖|wàimài|take-out|noun|
+|韩国|Hánguó|South Korea|noun|
+|韩国菜|Hánguó cài|Korean food|noun|
+|中国|Zhōngguó|China|noun|
+|中国菜|Zhōngguó cài|Chinese food|noun|
+|美国|Měiguó|America|noun|
+|美国菜|Měiguó cài|American food|noun|

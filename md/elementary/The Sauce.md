@@ -1,8 +1,7 @@
 # The Sauce
 **Elementary** level
 ### Chinese Text
-甲：给你五块钱，把这个给吃了。
-乙：这什么呀？
+甲：给你五块钱，把这个给吃了。<br />乙：这什么呀？
 甲：不知道，刚才吃饭人家送的一个酱。
 乙：我才不要呢。
 甲：十块钱？
@@ -26,12 +25,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|看见|kànjiàn|to see|verb|
-|对呀|duì ya|that's right|phrase|
-|男朋友|nánpéngyou|boyfriend|noun|
-|女朋友|nǚpéngyou|girlfriend|noun|
-|在一起|zài yīqǐ|to be together|verb|
-|就|jiù|precisely|adverb|
-|已经|yǐjīng|already|adverb|
-|难道|nándào|can it be that|conjunction|
-|不知道|bù zhīdào|not to know|verb|
+|人家|rénjiā|someone|noun|
+|别人|biérén|other people|noun|
+|酱|jiàng|sauce|noun|
+|拿|ná|to take|verb|
+|送|sòng|to give; to present|verb|
+|把|bǎ|to take|verb|
+|远|yuǎn|far|adjective|
+|可|kě|(emphatic)|particle|
+|给|gěi|(emphatic)|particle|
+|才|cái|(conversely)|adverb|
+|过了这村儿没这店儿|guò le zhè cūnr méi zhè diànr|after this village there isn't this shop|idiom|

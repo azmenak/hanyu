@@ -1,8 +1,7 @@
 # Apple's New Laptop
 **Elementary** level
 ### Chinese Text
-甲：呀！你买新笔记本啦？
-乙：是啊，苹果的。
+甲：呀！你买新笔记本啦？<br />乙：是啊，苹果的。
 甲：真薄呀！
 乙：还很轻呢。你试试。
 甲：好。嗯，一定很贵吧？

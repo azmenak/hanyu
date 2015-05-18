@@ -2,20 +2,91 @@
 ## *advanced* level
 
 ### Chinese Text
-
+甲：哦，安迪，大老远赶过来，真是太谢谢你了。很高兴见到你呀。
+乙：谢谢。
+甲：好，安迪，我们谈正事。这次我们请你来呢，是因为我们正在筹拍《画皮三》。我们想把它拍成好莱坞大片，国际大片的感觉，所以，我们想请你来演反派，咕噜。
+乙：您的意思是演一个像咕噜的角色？
+甲：不不不，我们就要咕噜。哦，我的宝贝儿！我们都已经请了好几个漫画家在做特效了。
+乙：但咕噜的产权是托尔金的。
+甲：不，我们不要托尔金。我们要咕噜，《指环王》里的咕噜。
+乙：我知道。你知道这牵扯到一个知识产权....
+甲：你知道《指环王》在中国赚了多少票房吗？一个亿呀！
+乙：不是几百万？
+甲：先不谈这个，我们先来看看剧本。你看我们第一个画面呢，是一条小溪，这个小溪上面有一条小船，小船上有两个小咕噜。其中一个咕噜跳进了小溪里，就是你，他找到了一个魔法戒指。这个魔法戒指呢，把他变成了画皮的厉鬼，画皮的咕噜。
+乙：一个亿呀....
+甲：你别再想《指环王》的事了，咱们现在说的是《画皮三》。这两个不是一码事。
 
 ### Pinyin and Translation
+
+甲: 哦，安迪，大老远赶过来，真是太谢谢你了。很高兴见到你呀。
+    o ， An1dí ， dàlǎoyuǎn gǎnguòlai ， zhēnshì tài xièxie nǐ le 。 hěn gāoxìng jiàndào nǐ ya 。
+    Andy, we're so grateful you've come to see us from such a distance. It's really fantastic to see you.
+
+乙: 谢谢。
+    xièxie 。
+    Thanks.
+
+甲: 好，安迪，我们谈正事。这次我们请你来呢，是因为我们正在筹拍《画皮三》。我们想把它拍成好莱坞大片，国际大片的感觉，所以，我们想请你来演反派，咕噜。
+    hǎo ， An1dí ， wǒmen tán zhèngshì 。 zhè cì wǒmen qǐng nǐ lái ne ， shì yīnwèi wǒmen zhèngzài chóupāi 《 Huàpí sān 》 。 wǒmen xiǎng bǎ tā pāi chéng Hǎoláiwū dàpiān ， guójì dàpiān de gǎnjué ， suǒyǐ ， wǒmen xiǎng qǐng nǐ lái yǎn fǎnpài ， Gūlu 。
+    Ok. Andy, let's talk business. The reason I invited you here today is that we're preparing to film Painted Skin III. And we want to film it as a Hollywood blockbuster, with that international epic feeling. So we want to invite you to act as the villain of the film... Gollum.
+
+乙: 您的意思是演一个像咕噜的角色？
+    nín de yìsi shì yǎn yī ge xiàng Gūlu de juésè ？
+    You mean you want me to play a role like Gollum?
+
+甲: 不不不，我们就要咕噜。哦，我的宝贝儿！我们都已经请了好几个漫画家在做特效了。
+    bù bù bù ， wǒmen jiù yào Gūlu 。 o ， wǒ de bǎobèir ！ wǒmen dōu yǐjīng qǐng le hǎo jǐ ge mànhuàjiā zài zuò tèxiào le 。
+    No, not at all. We want Gollum. My precious! We've already invited several animators to do the special effects.
+
+乙: 但咕噜的产权是托尔金的。
+    dàn Gūlu de chǎnquán shì Tuō_APOS_ěrjīn de 。
+    But the property rights for Gollum belong to Tolkien.
+
+甲: 不，我们不要托尔金。我们要咕噜，《指环王》里的咕噜。
+    bù ， wǒmen bù yào Tuō_APOS_ěrjīn 。 wǒmen yào Gūlu ， 《 Zhǐhuánwáng 》 lǐ de Gūlu 。
+    No. We don't want Tolkien. We want Gollum. The Gollum from Lord of the Rings.
+
+乙: 我知道。你知道这牵扯到一个知识产权....
+    wǒ zhīdào 。 nǐ zhīdào zhè qiānchědào yī ge zhīshichǎnquán . . . .
+    I know. But you know this involves a matter of intellectual property rights.
+
+甲: 你知道《指环王》在中国赚了多少票房吗？一个亿呀！
+    nǐ zhīdào 《 Zhǐhuánwáng 》 zài Zhōngguó zhuàn le duōshao piàofáng ma ？ yī ge yì ya ！
+    You know how much money Lord of the Rings made in China? A cool hundred million!
+
+乙: 不是几百万？
+    bù shì jǐ bǎiwàn ？
+    Not just a few million?
+
+甲: 先不谈这个，我们先来看看剧本。你看我们第一个画面呢，是一条小溪，这个小溪上面有一条小船，小船上有两个小咕噜。其中一个咕噜跳进了小溪里，就是你，他找到了一个魔法戒指。这个魔法戒指呢，把他变成了画皮的厉鬼，画皮的咕噜。
+    xiān bù tán zhège ， wǒmen xiān lái kànkan jùběn 。 nǐ kàn wǒmen dì  yī ge huàmiàn ne ， shì yī tiáo xiǎoxī ， zhège xiǎoxī shàngmian yǒu yī tiáo xiǎochuán ， xiǎochuán shàng yǒu liǎng ge xiǎo Gūlu 。 qízhōng yī ge Gūlu tiàojìn le xiǎoxī lǐ ， jiù shì nǐ ， tā zhǎodào le yī ge mófǎ jièzhi 。 zhège mófǎ jièzhi ne ， bǎ tā biànchéng le huàpí de lìguǐ ， huàpí de Gūlu 。
+    Let's not talk about this to start. Let's look at the script instead. See the first scene here. It's a small stream and on this stream is a small boat carrying two little Gollums. One of the Gollums jumps into the river -- that's you -- and he finds a magic ring. This magic ring... turns him into the Painted Skin Ghost, the Painted Skin Gollum.
+
+乙: 一个亿呀....
+    yī ge yì ya . . . .
+    A hundred million....
+
+甲: 你别再想《指环王》的事了，咱们现在说的是《画皮三》。这两个不是一码事。
+    nǐ bié zài xiǎng 《 Zhǐhuánwáng 》 de shì le ， zánmen xiànzài shuō de shì 《 Huàpí sān 》 。 zhè liǎng ge bù shì yīmǎshì 。
+    Don't think about Lord of the Rings. What we're talking about is Painted Skin III. They're totally different.
 ### Vocab
--吾 (wú) [pronoun] I
--则 (zé) [conjunction] then
--奚 (xī) [question word] why
--弗 (fú) [adverb] not
--顾 (gù) [verb] to look
--矣 (yǐ) [particle] (particle)
--曰 (yuē) [verb] to say
--且夫 (qiěfú) [conjunction] moreover
--逡巡 (qūnxún) [verb] to hesitate
--大夫 (dàfū) [noun] grandmaster
--东海之鳖 (Dōnghǎi zhī biē) [phrase] the turtle from the Eastern Seas
--埳井之蛙 (kǎnjǐng zhī wā) [phrase] the frog in the abandoned well
--莫吾能若 (mò wú néng ruò) [phrase] there is no-one like me
+-正事 (zhèngshì) [noun] business matters
+-筹拍 (chóupāi) [verb] to prepare to film
+-大片 (dàpiān) [noun] blockbuster
+-反派 (fǎnpài) [noun] villain
+-咕噜 (Gūlu) [name] Gollum
+-轱辘 (gúlu) [noun] wheel
+-特效 (tèxiào) [noun] special effects
+-牵扯 (qiānchě) [verb] to involve; to be entangled with
+-票房 (piàofáng) [noun] box office
+-剧本 (jùběn) [noun] script
+-小溪 (xiǎoxī) [noun] small river
+-厉鬼 (lìguǐ) [noun] evil spirit
+-聊斋 (Liáozhāi) [name] Strange Stories from a Chinese Studio
+-大老远 (dàlǎoyuǎn) [other] far off
+-漫画家 (mànhuàjiā) [noun] animator
+-一码事 (yīmǎshì) [phrase] the same thing
+-蒲松龄 (Pú Sōnglíng) [name] Pu Songling
+-好莱坞 (Hǎoláiwū) [name] Hollywood
+-指环王 (Zhǐhuánwáng) [name] Lord of the Rings
+-知识产权 (zhīshichǎnquán) [noun] intellectual property rights

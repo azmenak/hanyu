@@ -1,28 +1,29 @@
 # The Worst Joke in China
 **Absolute Beginners** level
 ### Chinese Text
-甲：哦，我好饿。
-乙：那吃吧。
-甲：吃什么？
-乙：笨蛋！吃饭！
+甲：哎呀，这服务太差了。这儿谁管呢？<br />乙：饺子。
+甲：谁？
+乙：饺子馆呢！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哦，我好饿。<blockquote>ò ， wǒ hǎo è 。<br />I'm really hungry.</blockquote>|
-|乙|那吃吧。<blockquote>nà chī ba 。<br />Eat then.</blockquote>|
-|甲|吃什么？<blockquote>chī shénme ？<br />Eat what?</blockquote>|
-|乙|笨蛋！吃饭！<blockquote>bèndàn ！ chīfàn ！<br />Idiot! Eat food!</blockquote>|
+|甲|哎呀，这服务太差了。这儿谁管呢？<blockquote>aiya ， zhè fúwù tài chà le 。 zhèr shéi guǎn ne ？<br />Great Scott! The service here is awful. Who is in charge!</blockquote>|
+|乙|饺子。<blockquote>jiǎozi 。<br />Dumplings.</blockquote>|
+|甲|谁？<blockquote>shéi ？<br />Who?</blockquote>|
+|乙|饺子馆呢！<blockquote>jiǎoziguǎn ne ！<br />The dumpling restaurant!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|你|nǐ|you|pronoun|
-|我|wǒ|I|pronoun|
-|妈妈|māma|mother|noun|
-|爸爸|bàba|father|noun|
-|买|mǎi|to buy|verb|
-|给|gěi|to give|verb|
-|礼物|lǐwù|gift|noun|
-|吗|ma|question particle|particle|
-|为什么|wèishénme|why|question|
-|因为|yīnwèi|because|conjunction|
+|谁|shéi|who|pronoun|
+|管|guǎn|to manage|verb|
+|饺子|jiǎozi|dumpling|noun|
+|馆|guǎn|establishment|noun|
+|饭馆|fànguǎn|restaurant|noun|
+|面馆|miànguǎn|noodle shop|noun|
+|饺子馆|jiǎoziguǎn|dumpling restaurant|noun|
+|宾馆|bīnguǎn|hotel|noun|
+|饭|fàn|rice|noun|
+|面|miàn|noodles|noun|
+|服务员|fúwùyuán|waitress|noun|
+|服务|fúwù|service|noun|

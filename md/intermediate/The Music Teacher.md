@@ -1,8 +1,7 @@
 # The Music Teacher
 **Intermediate** level
 ### Chinese Text
-甲：小波啊，你跟我学习钢琴一年多了吧？
-乙：是啊，老师。
+甲：小波啊，你跟我学习钢琴一年多了吧？<br />乙：是啊，老师。
 甲：今天钢琴学校决定把你开除。
 乙：嗯？为什么？
 甲：你基本上没有进步，连五线谱你都看不懂。
@@ -26,15 +25,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|蔫儿|niānr|drowsy|adjective|
-|两|liǎng|50 grams|measurement|
-|看起来|kànqǐlái|to seem|note: to seem to be, to appear to be|
-|那得看|nà děi kàn|that depends on|phrase|
-|威士忌|wēishiji|whiskey|noun|
-|朗姆酒|lǎngmǔ jiǔ|rum|noun|
-|白酒|báijiǔ|Chinese white wine|noun|
-|人头马|réntóumǎ|Remy Martin|noun|
-|苏格兰威士忌|sūgelán wēishiji|scotch|noun|
-|龙舌兰|lóngshélán|tequila|noun|
-|伏特加|fútèjiā|vodka|noun|
-|金酒|jīnjiǔ|gin|noun|
+|五音不全|wǔyīnbùquán|tone-deaf|phrase|
+|五线谱|wǔxiànpǔ|musical staff|noun|
+|大调|dàdiào|major tone|noun|
+|小调|xiǎodiào|minor tone|noun|
+|演奏|yǎnzòu|to perform|verb|
+|和弦|héxián|chord|noun|
+|曲子|qǔzi|song|noun|
+|开除|kāichú|to expel|verb|
+|反复|fǎnfù|repeatedly|adverb|

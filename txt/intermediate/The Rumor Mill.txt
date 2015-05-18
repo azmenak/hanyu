@@ -2,61 +2,64 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：嗨，你很眼熟，我们认识吗？
-乙：不，我是一个演员。
-甲：哦，你演过什么？
-乙：最著名的，是泰坦尼克号。
-甲：哦，你就是那个意大利人！
-乙：是的，Fabrizio! 我就是里奥的朋友。
-甲：被烟囱砸死的人！
-乙：怎么样？想跟我喝杯咖啡吗？
-甲：那片儿真是太烂了！你知道吗？就为了看那片儿，我排了四个小时的队呢，花了我整整一百二十块钱门票，根本没法看。
+甲：哎，哥们儿我告诉你一个特大的消息。
+乙：怎么了？
+甲：你知道小王他那女朋友居然是个男的！
+乙：不是吧，是个男的？
+甲：对呀，我也想不通。特漂亮，你知道那么漂亮一个女孩子居然是个男的。
+乙：你别听谁瞎说了吧。
+甲：真的，我不骗你。
+乙：谁跟你说的呀？
+甲：哎，就发现了。
+乙：我靠！
 
 ### Pinyin and Translation
 
-甲: 嗨，你很眼熟，我们认识吗？
-    hài ， nǐ hěn yǎnshóu ， wǒmen rènshi ma ？
-    Hey, you look familiar. Do we know each other?
+甲: 哎，哥们儿我告诉你一个特大的消息。
+    āi ， gēmenr wǒ gàosu nǐ yī ge tè dà de xiāoxi 。
+    Hey dude, I've got some really hot news to tell you.
 
-乙: 不，我是一个演员。
-    bù ， wǒ shì yī ge yǎnyuán 。
-    No, I'm an actor.
+乙: 怎么了？
+    zěnme le ？
+    What is it?
 
-甲: 哦，你演过什么？
-    ò ， nǐ yǎn guò shénme ？
-    Oh, what have you been in?
+甲: 你知道小王他那女朋友居然是个男的！
+    nǐ zhīdào Xiǎo Wáng tā nà nǚpéngyou jūrán shì ge nán de ！
+    Do you know that Xiao Wang's girlfriend is actually a guy?
 
-乙: 最著名的，是泰坦尼克号。
-    zuì zhùmíng de ， shì Tàitǎnníkè hào 。
-    The most famous one was Titanic.
+乙: 不是吧，是个男的？
+    bù shì ba ， shì ge nán de ？
+    No way. She's a guy?
 
-甲: 哦，你就是那个意大利人！
-    ò ， nǐ jiù shì nà ge Yìdàlì rén ！
-    Oh, you're the Italian!
+甲: 对呀，我也想不通。特漂亮，你知道那么漂亮一个女孩子居然是个男的。
+    duì ya ， wǒ yě xiǎng bu tōng 。 tè piàoliang ， nǐ zhīdào nàme piàoliang de yī ge nǚháizi jūrán shì ge nán de 。
+    Yeah. I can't put my mind around it, for such a beautiful girl, you know such a beautiful girl to be a guy.
 
-乙: 是的，Fabrizio! 我就是里奥的朋友。
-    shì de ， Fabrizio! wǒ jiùshì lǐào de péngyou 。
-    Yes, Fabrizio! I was Leo's friend.
+乙: 你别听谁瞎说了吧。
+    nǐ bié tīng shéi xiāshuō le ba 。
+    Don't listen to that sort of nonsense.
 
-甲: 被烟囱砸死的人！
-    bèi yāncong zásǐ de rén ！
-    The one crushed by the smokestack!
+甲: 真的，我不骗你。
+    zhēnde ， wǒ bù piàn nǐ 。
+    Really, I'm not kidding you.
 
-乙: 怎么样？想跟我喝杯咖啡吗？
-    zěnmeyàng ？ xiǎng gēn wǒ hē bēi kāfēi ma ？
-    How about it? Want to have a cup of coffee with me?
+乙: 谁跟你说的呀？
+    shéi gēn nǐ shuō de yā ？
+    Who told you?
 
-甲: 那片儿真是太烂了！你知道吗？就为了看那片儿，我排了四个小时的队呢，花了我整整一百二十块钱门票，根本没法看。
-    nà piànér zhēn shì tài làn le ！ nǐ zhīdào ma ？ jiù wéile kàn nà piànér ， wǒ páile sì ge xiǎoshí de duì ne ， huā le wǒ zhěngzhěng yībǎi èrshí kuài ménpiào ， gēnběn méifǎ kàn 。
-    That film was awful! Did you know I lined up for four hours to see it, and spent a whole 120 kuai on the tickets? And it wasn't even watchable!
+甲: 哎，就发现了。
+    āi ， jiù fāxiàn le 。
+    Oh, I just found out.
+
+乙: 我靠！
+    wǒ kào ！
+    Gosh!
 ### Vocab
--金字塔 (jīnzìtǎ) [noun] pyramid
--完工 (wángōng) [verb] to finish construction
--装死 (zhuāngsǐ) [verb] to play dead
--装病 (zhuāngbìng) [verb] to pretend to be sick
--装酷 (zhuāngkù) [verb] to act cool
--唠叨 (lāodao) [verb] to talk incessently
--鞭子 (biānzi) [noun] whip
--收拾 (shōushi) [verb] to clean up
--懒鬼 (lǎnguǐ) [noun] lazy bastard
--拖走 (tuōzǒu) [verb] to drag off
+-哥们儿 (gēmenr) [noun] dude
+-居然 (jūrán) [adverb] surprisingly
+-想不通 (xiǎng bu tōng) [verb] to be unable to comprehend
+-说不通 (shuō bù tōng) [verb] to be unable to convince
+-瞎说 (xiāshuō) [verb] to talk nonsense
+-我靠 (wǒ kào) [slang] darn
+-哎 (āi) [onomatopeia] hey
+-骗 (piàn) [verb] to cheat

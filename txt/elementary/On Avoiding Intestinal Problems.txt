@@ -45,14 +45,13 @@
     wǒ bù shì shuōle ma ， suíbiàn 。
     I already told you, whatever.
 ### Vocab
--筷子 (kuàizi) [noun] chopsticks
--杀人 (shārén) [verb] to kill a person
--开锁 (kāisuǒ) [verb] to open a lock
--吃饭 (chīfàn) [verb] to eat food
--不过 (búguò) [conjunction] but
--可是 (kěshì) [conjunction] but
--但是 (dànshì) [conjunction] but
--意思 (yìsi) [noun] idea
--不好意思 (bùhǎoyìsi) [phrase] sorry
--会 (huì) [verb] to be able
--理解 (lǐjiě) [verb] to understand
+-随便 (suíbiàn) [phrase] whatever
+-火锅 (huǒguō) [noun] hot pot
+-水煮鱼 (shuǐzhǔyú) [noun] boiled fish
+-上火 (shànghuǒ) [verb] to create internal heat
+-去火 (qùhuǒ) [verb] to diminish internal heat
+-辣 (là) [adjective] spicy
+-究竟 (jiūjìng) [adverb] (adds emphasis to questions)
+-什么 (shénme) [noun] anything
+-哪 (nǎ) [noun] anywhere
+-谁 (shéi) [noun] anyone

@@ -2,23 +2,53 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：疼，疼疼疼疼疼....
-乙：哪儿疼啊？这儿？
-甲：嗷！
+甲：有蚊子！
+乙：嗯？嗷！
+甲：死了。
+乙：你打我？
+甲：哎，等一下，没死呢。
+乙：你脸上也有蚊子。
+甲：喔！
+乙：嗷！
+乙：是没死呢。
 
 ### Pinyin and Translation
 
-甲: 疼，疼疼疼疼疼....
-    téng ， téng téng téng téng téng . . . .
-    Oh, it hurts....
+甲: 有蚊子！
+    yǒu wénzi ！
+    There's a mosquito!
 
-乙: 哪儿疼啊？这儿？
-    nǎr téng ā ？ zhèr ？
-    Where does it hurt, here?
+乙: 嗯？嗷！
+    en ？ ao ！
+    Oh? Oww!
 
-甲: 嗷！
-    ào ！
-    Ow!
+甲: 死了。
+    sǐ le 。
+    It's dead.
+
+乙: 你打我？
+    nǐ dǎ wǒ ？
+    You hit me?
+
+甲: 哎，等一下，没死呢。
+    ai ， děng yīxià ， méi sǐ ne 。
+    Hey, wait a sec, it isn't dead.
+
+乙: 你脸上也有蚊子。
+    nǐ liǎn shàng yě yǒu wénzi 。
+    There's also one on your face.
+
+甲: 喔！
+    o ！
+    Oh!
+
+乙: 嗷！
+    ao ！
+    Oww!
+
+乙: 是没死呢。
+    shì méi sǐ ne 。
+    It's not dead, right?
 ### Vocab
 -有 (yǒu) [verb] to have
 -死 (sǐ) [verb] to die

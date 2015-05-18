@@ -2,42 +2,42 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：你是学生吗？
-乙：是，你呢？
-甲：我是老师。
-乙：你可以教我中文吗？
-甲：可以。
+我也有缺点。
+你觉得不好？
+我们学习中文。
+他虐待你了？
+这里省略“一”。
+他四月来。
 
 ### Pinyin and Translation
 
-甲: 你是学生吗？
-    nǐ shì xuéshēng ma ？
-    Are you a student?
+我也有缺点。
+wǒ yě yǒu quēdiǎn 。
+I also have faults.
 
-乙: 是，你呢？
-    shì ， nǐ ne ？
-    Yes, I am. And you?
+你觉得不好？
+nǐ juéde bù hǎo ？
+You don't feel this is fine?
 
-甲: 我是老师。
-    wǒ shì lǎoshī 。
-    I am a teacher.
+我们学习中文。
+wǒmen xuéxí Zhōngwén 。
+We are studying Chinese.
 
-乙: 你可以教我中文吗？
-    nǐ kěyǐ jiāo wǒ Zhōngwén ma ？
-    Can you teach me Chinese?
+他虐待你了？
+tā nǜedài nǐ le ？
+Does he abuse you?
 
-甲: 可以。
-    kěyǐ 。
-    Yes, I can.
+这里省略“一”。
+zhèlǐ shěnglǜe “ yī ” 。
+There is a "one" missing here.
+
+他四月来。
+tā sìyuè lái 。
+He will come in April.
 ### Vocab
--你 (nǐ) [pronoun] you
--是 (shì) [verb] to be
--学生 (xuéshēng) [noun] student
--吗 (ma) [particle] (question marker)
--中国人 (Zhōngguórén) [noun] Chinese person
--我 (wǒ) [pronoun] I
--老师 (lǎoshī) [noun] teacher
--可以 (kěyǐ) [verb] can
--教 (jiāo) [verb] to teach
--中文 (Zhōngwén) [noun] Chinese language
--美国人 (Měiguórén) [noun] American person
+-月亮 (yuèliang) [noun] moon
+-缺点 (quēdiǎn) [noun] fault
+-觉得 (juéde) [verb] to feel
+-学习 (xuéxí) [verb] to study
+-虐待 (nuèdài) [verb] to abuse
+-省略 (shěngluè) [verb] to be missing

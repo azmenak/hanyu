@@ -1,8 +1,7 @@
 # Locked in the Studio
 **Intermediate** level
 ### Chinese Text
-甲：哎？外边怎么没动静了？
-乙：啊？是吗？我去看看，啊。哎？这俩人怎么没了？而且还把门锁上了。
+甲：哎？外边怎么没动静了？<br />乙：啊？是吗？我去看看，啊。哎？这俩人怎么没了？而且还把门锁上了。
 甲：啊？把门锁上了？
 丙：门锁上了？
 乙：对啊。
@@ -34,12 +33,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|报案|bàoàn|to file a report|verb|
-|拨打|bōdǎ|to hit|verb|
-|抢|qiǎng|to rob|verb|
-|报警|bàojǐng|to report to the cops|verb|
-|会员|huìyuán|member|noun|
-|会员卡|huìyuánkǎ|membership card|noun|
-|办理|bànlǐ|to handle|verb|
-|截止|jiézhǐ|up until|verb|
-|取消|qǔxiāo|to cancel|verb|
+|动静|dòngjing|sound of movement|noun|
+|得|děi|must|unknown|
+|把|bǎ|to take|verb|
+|锁上|suǒ shàng|to lock up|verb|
+|目的|mùdì|goal|noun|
+|王八蛋|wángbādàn|prick|noun|
+|干吗|gànmá|why|phrase|
+|嫌|xián|to suspect; to complain about|verb|
+|榨取|zhàqǔ|to squeeze out|verb|
+|剩余价值|shèngyú jiàzhí|surplus value|noun|
+|倒|dào|it doesn't really matter that|adverb|
+|无所谓|wúsuǒwèi|not to matter|phrase|
+|关键|guānjiàn|critical|noun|

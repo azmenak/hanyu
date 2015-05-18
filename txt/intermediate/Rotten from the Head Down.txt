@@ -2,73 +2,48 @@
 ## *intermediate* level
 
 ### Chinese Text
-男的：如果被发现，我们就再也找不到那个密室了。
-女的：刚刚不是我摔倒的。并且你还没有告诉我，密室里面到底有什么？
-男的：好吧，听说里面充满了尸骨。
-女的：尸骨？在我们孤儿院的阁楼里？
-男的：传说，是原校长的尸骨。但是我不信，我觉得里面充满了宝藏。
-女的：宝藏？
-男的：塞满了红宝石还有翡翠！
-女的：翡翠是什么？
-男的：那是一种钻石，但是它绿如玉....
-女的：玉？
-男的：很值钱。
-女的：那有了它，我们就可以离开这里....
-男的：远走高飞。
+女人：我不要把钱浪费在这种蠢事上。
+侦探：我是董事会聘来的，而且我的任务是摸清底细。
+女人：你在怀疑我吗？
+侦探：王林已经承认她挪用公款，不过会计的腐败问题更严重。
+女人：我雇你们侦探事务所....
+侦探：而且还直接牵连到你的总裁助理。
+女人：胡说！我的手下都很干净。
+侦探：也许吧，不过我还得看你的账目明细。记住，不是王林交给税务局的那些假账。
 
 ### Pinyin and Translation
 
-男的: 如果被发现，我们就再也找不到那个密室了。
-      rúguǒ bèi  fāxiàn ， wǒmen jiù zài yě zhǎobudào nà ge mìshì le 。
-      If we're caught, then we'll never find the secret room.
+女人: 我不要把钱浪费在这种蠢事上。
+      wǒ bù yào bǎ qián làngfèi zài zhèzhǒng chǔnshì shàng 。
+      I'm not going to waste money on this sort of foolishness.
 
-女的: 刚刚不是我摔倒的。并且你还没有告诉我，密室里面到底有什么？
-      gānggāng bú shì wǒ shuāidǎo de 。 bìngqiě nǐ hái méiyǒu gàosu wǒ ， mìshì lǐmiàn dàodǐ yǒu shénme ？
-      It wasn't me who stumbled just now. And besides, you still haven't told me, what is in this secret room anyway?
+侦探: 我是董事会聘来的，而且我的任务是摸清底细。
+      wǒ shì dǒngshìhuì pìnlái de ， érqiě wǒ de rènwu shì mōqīng dǐxì 。
+      I was hired by the board, and my job is to clean up this mess.
 
-男的: 好吧，听说里面充满了尸骨。
-      hǎo ba ， tīngshuō lǐmiàn chōngmǎn le shīgǔ 。
-      Ok, I've heard that it's full of human remains.
+女人: 你在怀疑我吗？
+      nǐ zài huáiyí wǒ ma ？
+      Are you accusing me?
 
-女的: 尸骨？在我们孤儿院的阁楼里？
-      shīgǔ ？ zài wǒmen gūéryuàn de gélóu lǐ ？
-      Human remains? In the attic of our orphanage?
+侦探: 王林已经承认她挪用公款，不过会计的腐败问题更严重。
+      wáng lín yǐjīng chéngrèn tā nuóyòng gōngkuǎn ， búguò kuàijì de fǔbài wèntí gèng yánzhòng 。
+      Wang Lin has already admitted she embezzled funds, but the accounting problems are more serious than that.
 
-男的: 传说，是原校长的尸骨。但是我不信，我觉得里面充满了宝藏。
-      chuánshuō ， shì yuán xiàozhǎng de shīgǔ 。 dànshì wǒ bú xìn ， wǒ juéde lǐmiàn chōngmǎn le bǎozàng 。
-      Legend has it that they're the former headmaster's. But I don't believe it. I think that it's full of treasure.
+女人: 我雇你们侦探事务所....
+      wǒ gù nǐmen zhēntàn shìwùsuǒ . . . .
+      I hired your detective agency to....
 
-女的: 宝藏？
-      bǎozàng ？
-      Secret treasure?
+侦探: 而且还直接牵连到你的总裁助理。
+      érqiě hái zhíjiē qiānlián dào nǐ de zǒngcái zhùlǐ 。
+      And they've already implicated your own assistant.
 
-男的: 塞满了红宝石还有翡翠！
-      sāimǎn le hóngbǎoshí háiyǒu fěicuì ！
-      Stuffed full of rubies and emeralds!
+女人: 胡说！我的手下都很干净。
+      húshuō ！ wǒ de shǒuxià dōu hěn gānjìng 。
+      Nonsense! My employees are totally clean.
 
-女的: 翡翠是什么？
-      fěicuì shì shénme ？
-      What are emeralds?
-
-男的: 那是一种钻石，但是它绿如玉....
-      nà shì yī zhǒng zuànshí ， dànshì tā lǜ rú yù ....
-      It's a type of diamond, but it's green like jade....
-
-女的: 玉？
-      yù ？
-      Jade?
-
-男的: 很值钱。
-      hěn zhí qián 。
-      It's worth a lot of money.
-
-女的: 那有了它，我们就可以离开这里....
-      nà yǒu le tā ， wǒmen jiù kěyǐ líkāi zhèli ....
-      Then once we have it, we can leave this place....
-
-男的: 远走高飞。
-      yuǎnzǒugāofēi 。
-      We'll get far, far away.
+侦探: 也许吧，不过我还得看你的账目明细。记住，不是王林交给税务局的那些假账。
+      yěxǔ ba ， búguò wǒ hái děi kàn nǐ de zhàngmù míngxì 。 jìzhu ， bù shì wáng lín jiāogěi shuìwùjú de nàxiē jiǎzhàng 。
+      Maybe, but I still need to see the detailed accounts. And remember, not the fake books Wang Lin sent to the tax bureau.
 ### Vocab
 -蠢事 (chǔnshì) [noun] foolish matter
 -浪费 (làngfèi) [verb] to waste

@@ -2,38 +2,28 @@
 ## *elementary* level
 
 ### Chinese Text
-护士：脱裤子。
-病人：啊？
-护士：脱裤子!
-护士：脱裤子！
-病人：干什么呀？
-护士：你脱不脱？不脱裤子怎么打针!
+女：啊，你会弹吉他。你学了多长时间了?
+男：我没学多长时间。。。 三个月吧。
+女：啊，弹得真不错。
+男：谢谢。
 
 ### Pinyin and Translation
 
-护士: 脱裤子。
-      tuō kùzi 。
-      Take off your pants.
+女: 啊，你会弹吉他。你学了多长时间了?
+    a ， nǐ huì tán jíta 。 nǐ xué le duōcháng shíjiān le ?
+    Hey, you can play the guitar. How long have you been learning?
 
-病人: 啊？
-      ā ？
-      Huh?
+男: 我没学多长时间。。。 三个月吧。
+    wǒ méi xué duōcháng shíjiān 。 。 。  sān ge yuè ba 。
+    I haven't studied long at all... about three months.
 
-护士: 脱裤子!
-      tuō kùzi !
-      Take off your pants!
+女: 啊，弹得真不错。
+    a ， tán de zhēn bùcuò 。
+    Ah, you play pretty well.
 
-护士: 脱裤子！
-      tuō kùzi ！
-      Take off your pants！
-
-病人: 干什么呀？
-      gàn shénme yā ？
-      What are you doing?
-
-护士: 你脱不脱？不脱裤子怎么打针!
-      nǐ tuō bù tuō ？ bù tuō kùzi zěnme dǎzhēn !
-      If you don't take off your pants, how can I give you a shot?
+男: 谢谢。
+    xièxie 。
+    Thanks.
 ### Vocab
 -弹 (tán) [verb] to play, to pluck
 -吉他 (jíta) [noun] guitar

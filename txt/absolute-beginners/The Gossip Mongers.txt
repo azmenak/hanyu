@@ -2,33 +2,38 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：我要买耳机。
-乙：苹果的还是普通的？
-甲：多少钱？
-乙：苹果的一百二，普通的三十。
-甲：给我普通的。
+女人：你知道吗？
+男人：你也知道了。
+女人：你什么时候知道的？
+男人：刚才。
+女人：我也是。
+男人：天哪！
 
 ### Pinyin and Translation
 
-甲: 我要买耳机。
-    wǒ yào mǎi ěrjī 。
-    I want to buy earphones.
+女人: 你知道吗？
+      nǐ zhīdào ma ？
+      Do you know?
 
-乙: 苹果的还是普通的？
-    Píngguǒ de háishì pǔtōng de ？
-    Apple earphones or normal earphones?
+男人: 你也知道了。
+      nǐ yě zhīdào le 。
+      You know now too?
 
-甲: 多少钱？
-    duōshǎo qián ？
-    How much money?
+女人: 你什么时候知道的？
+      nǐ shénme shíhou zhīdào de ？
+      When did you find out?
 
-乙: 苹果的一百二，普通的三十。
-    Píngguǒ de yībǎi èr ， pǔtōng de sānshí 。
-    Apple earphones are 120, normal earphones are 30.
+男人: 刚才。
+      gāngcái 。
+      Just now.
 
-甲: 给我普通的。
-    gěi wǒ pǔtōng de 。
-    Give me the normal ones.
+女人: 我也是。
+      wǒ yě shì 。
+      Me too.
+
+男人: 天哪！
+      tiānna ！
+      My heavens!
 ### Vocab
 -我 (wǒ) [pronoun] I
 -你 (nǐ) [pronoun] you

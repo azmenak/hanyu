@@ -2,38 +2,32 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-男：你真漂亮。
-女：你真帅。
-男：你真聪明。
-女：你真... 帅。
+甲：几点了？
+乙：两点。
+甲：天哪！晚了，晚了！
 
 ### Pinyin and Translation
 
-男: 你真漂亮。
-    nǐ zhēn piàoliang 。
-    You're really pretty.
+甲: 几点了？
+    jǐ diǎn le ？
+    What time is it?
 
-女: 你真帅。
-    nǐ zhēn shuài 。
-    You're really handsome.
+乙: 两点。
+    liǎng diǎn 。
+    Two o'clock.
 
-男: 你真聪明。
-    nǐ zhēn cōngming 。
-    You're really smart.
-
-女: 你真... 帅。
-    nǐ zhēn ... shuài 。
-    You're really... handsome.
+甲: 天哪！晚了，晚了！
+    tiānna ！ wǎn le ， wǎn le ！
+    Good heavens! It's late!
 ### Vocab
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] I
--真 (zhēn) [adverb] truly
--好 (hǎo) [adverb] really
--漂亮 (piàoliang) [adjective] pretty
--聪明 (cōngming) [adjective] intelligent
--帅 (shuài) [adjective] handsome
--傻 (shǎ) [adjective] foolish
--好 (hǎo) [adjective] good
--美 (měi) [adjective] beautiful
--性感 (xìnggǎn) [adjective] sexy
--幸福 (xìngfú) [adjective] fortunate
+-几点了 (jǐ diǎn le) [phrase] what time is it
+-几 (jǐ) [question] how many
+-点 (diǎn) [noun] hour
+-一 (yī) [number] one
+-二 (èr) [number] two
+-三 (sān) [number] three
+-五 (wǔ) [number] five
+-两 (liǎng) [number] two
+-四 (sì) [number] four
+-天哪 (tiānna) [exclamation] heavens
+-晚 (wǎn) [adjective] late

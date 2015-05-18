@@ -2,48 +2,28 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：田森，我走了，出去一趟。
-乙：好的，什么时候回来？
-甲：三四个小时吧，拜拜。
-乙：再见。
-甲：嘿，我回来了。
-乙：这么早？
-甲：你在干什么？那是我的内裤吗？你怎么把它放脸上了....
-乙：收拾收拾，我收拾收拾。
+甲：那个文件还没传完呀？
+乙：是啊，还在上传呢。
+甲：那得多久才能传完？
+乙：快了，三十分钟到四十分钟吧，等着吧。
 
 ### Pinyin and Translation
 
-甲: 田森，我走了，出去一趟。
-    Tián Sēn ， wǒ zǒu le ， chūqù yī tàng 。
-    Tian Sen, I'm going out for a while.
+甲: 那个文件还没传完呀？
+    nàge wénjiàn hái méi chuánwán ya ？
+    That file still hasn't finished transferring?
 
-乙: 好的，什么时候回来？
-    hǎode ， shénme shíhou huílai ？
-    Ok, when will you be back?
+乙: 是啊，还在上传呢。
+    shì a ， hái zài shàngchuán ne 。
+    Yeah, it's still uploading.
 
-甲: 三四个小时吧，拜拜。
-    sān sì ge xiǎoshí ba ， báibái 。
-    About three or four hours, bye.
+甲: 那得多久才能传完？
+    nà děi duōjiǔ cái néng chuánwán ？
+    So how long is it going to take to finish?
 
-乙: 再见。
-    zàijiàn 。
-    Bye.
-
-甲: 嘿，我回来了。
-    hei ， wǒ huílai le 。
-    Hey, I'm back.
-
-乙: 这么早？
-    zhème zǎo ？
-    So soon?
-
-甲: 你在干什么？那是我的内裤吗？你怎么把它放脸上了....
-    nǐ zài gàn shénme ？ nà shì wǒ de nèikù ma ？ nǐ zěnme bǎ tā fàng liǎnshàng le . . . .
-    What are you doing? Is that my underwear? What's it doing on your face?
-
-乙: 收拾收拾，我收拾收拾。
-    shōushi  shōushi ， wǒ shōushi  shōushi 。
-    I'm cleaning up... cleaning up.
+乙: 快了，三十分钟到四十分钟吧，等着吧。
+    kuàile ， sānshí fēnzhōng dào sìshí fēnzhōng ba ， děngzhe ba 。
+    It's almost done. Another thirty to forty minutes or so. Just wait.
 ### Vocab
 -文件 (wénjiàn) [noun] document
 -多久 (duōjiǔ) [question] how long

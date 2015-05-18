@@ -1,8 +1,7 @@
 # The Art of Email
 **Absolute Beginners** level
 ### Chinese Text
-[第一部]
-甲：你的邮箱地址是多少？
+[第一部]<br />甲：你的邮箱地址是多少？
 乙：zyxf419fczy@163.com
 [第二部]
 甲：我今天给你发的邮件你收到了吗？
@@ -26,15 +25,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
+|邮箱|yóuxiāng|email inbox|noun|
+|邮件|yóujiàn|email letter|noun|
+|地址|dìzhǐ|address|noun|
+|发|fā|to send|verb|
+|收|shōu|to receive|verb|
 |今天|jīntiān|today|noun|
-|阿姨|āyí|maid|noun|
-|擦|cā|to scrub|verb|
-|洗碗|xǐwǎn|to wash dishes|verb|
-|扫地|sǎodì|to sweep the floor|verb|
-|洗衣服|xǐ yīfu|to wash clothes|verb|
-|拖地|tuōdì|to mop the floor|verb|
-|用力|yònglì|to use force|verb|
-|不过|bùguò|but|conjunction|
-|首先|shǒuxiān|first of all|conjunction|
-|干|gàn|to do|verb|
-|先|xiān|first|adverb|
+|真的|zhēnde|really|adverb|
+|记错|jìcuò|to misremember|verb|
+|再发一遍|zài fā yībiàn|to send again|phrase|
+|再说一遍|zài shuō yībiàn|to say again|phrase|
+|邮箱地址|yóuxiāng dìzhǐ|email address|noun|

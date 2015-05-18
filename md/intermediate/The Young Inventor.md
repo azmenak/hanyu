@@ -1,8 +1,7 @@
 # The Young Inventor
 **Intermediate** level
 ### Chinese Text
-儿子：爸爸爸爸，我发明了一个激光发射器！
-爸爸：好的，让我们去看看吧。
+儿子：爸爸爸爸，我发明了一个激光发射器！<br />爸爸：好的，让我们去看看吧。
 儿子：按这个小按钮。
 爸爸：是这个吧......还真给电呀！哎，这儿还有个大的......
 儿子：爸爸......
@@ -22,14 +21,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|伏|fú|volt|unit|
-|瓦|wǎ|watt|unit|
-|千瓦|qiānwǎ|kilowatt|unit|
-|千瓦时|qiānwǎshí|kilowatt hour|unit|
-|度|dù|point|noun|
-|升|shēng|liter|unit|
-|毫升|háoshēng|milliliter|unit|
-|厘米|lǐmǐ|centimeter|unit|
-|毫米|háomǐ|millimeter|unit|
-|华氏|huáshì|fahrenheit|unit|
-|摄氏|shèshì|celcius|unit|
+|按|àn|to press|verb|
+|按钮|ànniǔ|button|noun|
+|发明|fāmíng|to invent|verb|
+|激光|jīguāng|laser|noun|
+|发射器|fāshèqì|launching device|noun|
+|淘气|táoqì|to act up|verb|
+|电死|diànsǐ|to electrocute|verb|
+|熏死|xūnsǐ|to asphyxiate|verb|
+|扎死|zhāsǐ|to impale|verb|
+|掐死|qiāsǐ|to throttle|verb|
+|淹死|yānsǐ|to drown|verb|

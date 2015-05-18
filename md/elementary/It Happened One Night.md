@@ -1,34 +1,21 @@
 # It Happened One Night
 **Elementary** level
 ### Chinese Text
-甲：嘿，你知道昨晚谁赢了奥斯卡吗？
-乙：我听说《盗梦空间》是大赢家。
-甲：没错。
-乙：它赢了最佳影片奖。
-甲：对。
-乙：最佳导演奖。
-甲：应该的。
-乙：最佳表演奖。
-甲：是。
-乙：还有最佳外语影片奖。
-甲：外语影片奖？
-乙：对，全都赢了。
+甲：你姐姐真性感。<br />乙：啊，不，她是我女朋友。
+甲：我一直以为她是你姐姐。
+乙：你以为我会和我姐姐住一起吗？
+甲：你们不是一起长大的吗？
+乙：啊，她以前是我姐姐，现在是我女朋友。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|嘿，你知道昨晚谁赢了奥斯卡吗？<blockquote>hei ， nǐ zhīdào zuówǎn shéi yíng le àosīkǎ ma ？<br />Hey, do you know who won the Oscars last night?</blockquote>|
-|乙|我听说《盗梦空间》是大赢家。<blockquote>wǒ tīngshuō 《 dàomèngkōngjiān 》 shì dà yíngjiā 。<br />I heard Inception was the big winner.</blockquote>|
-|甲|没错。<blockquote>méicuò 。<br />That's right.</blockquote>|
-|乙|它赢了最佳影片奖。<blockquote>tā yíng le zuìjiā yǐngpiàn jiǎng 。<br />It won the best picture award.</blockquote>|
-|甲|对。<blockquote>duì 。<br />Right.</blockquote>|
-|乙|最佳导演奖。<blockquote>zuìjiā dǎoyǎn jiǎng 。<br />Best director award.</blockquote>|
-|甲|应该的。<blockquote>yīnggāi de 。<br />It deserved it.</blockquote>|
-|乙|最佳表演奖。<blockquote>zuìjiā biǎoyǎn jiǎng 。<br />Best acting award.</blockquote>|
-|甲|是。<blockquote>shì 。<br />Yup.</blockquote>|
-|乙|还有最佳外语影片奖。<blockquote>hái yǒu zuìjiā wàiyǔ yǐngpiàn jiǎng 。<br />Andt the award for best foreign language film.</blockquote>|
-|甲|外语影片奖？<blockquote>wàiyǔ yǐngpiàn jiǎng ？<br />Foreign language film prize?</blockquote>|
-|乙|对，全都赢了。<blockquote>duì ， quán dōu yíng le 。<br />Yes. It won everything.</blockquote>|
+|甲|你姐姐真性感。<blockquote>nǐ jiějie zhēn xìnggǎn 。<br />Your sister is really sexy.</blockquote>|
+|乙|啊，不，她是我女朋友。<blockquote>ā ， bù ， tā shì wǒ nǚpéngyou 。<br />Oh... no... she's my girlfriend.</blockquote>|
+|甲|我一直以为她是你姐姐。<blockquote>wǒ yīzhí yǐwéi tā shì nǐ jiějie 。<br />I always thought she was your sister.</blockquote>|
+|乙|你以为我会和我姐姐住一起吗？<blockquote>nǐ yǐwéi wǒ huì hé wǒ jiějie zhù yīqǐ ma ？<br />You think I'd live together with my sister?</blockquote>|
+|甲|你们不是一起长大的吗？<blockquote>nǐmen bù shì yīqǐ zhǎngdà de ma ？<br />Didn't you grow up together?</blockquote>|
+|乙|啊，她以前是我姐姐，现在是我女朋友。<blockquote>ā ， tā yǐqián shì wǒ jiějie ， xiànzài shì wǒ nǚpéngyou 。<br />Oh, she was my sister before. Now she's my girlfriend.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

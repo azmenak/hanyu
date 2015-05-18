@@ -2,71 +2,97 @@
 ## *intermediate* level
 
 ### Chinese Text
-男：Apple，你能过来帮我搭把手吗?
-女：哎，我忙着呢!
-男：可是我觉得你的桌子放在卧室会比较好，或许你能亲自来把它搬一下。
-女：不用，放客厅就行了。
-男：不是说... 怎么就我一个人? 你不是说有很多人来帮忙的吗?
-女：有。他们一会儿肯定会来。这样，我现在有事，我要出去了。你就把所有东西全搁客厅就行啊。
-男：哎，可是门外还有那么多东西需要搬进来呢！
-女：谢谢你了!
-男：唉，我的周末。
+病人：大夫，大夫，救命！这手折了！
+大夫：我眼睛又不是X光，先去拍个片子回来再说吧。
+病人：在哪儿呢？
+大夫：给你开张单子，去放射科。
+大夫：哎，你回来了。
+病人：这片子您快瞅瞅！
+大夫：我看看。嗯，好像是骨折了...
+病人：呦，这您确定吗？
+大夫：那就是骨裂。
+病人：这哪儿裂了？
+大夫：我肯定了，是粉碎性骨折。
+病人：这越说越离谱儿了！您是医生吗？这儿是骨科吗？
+大夫：当然是了。我给你打个石膏，再给你根儿绷带，你回家躺着去吧。伤筋动骨一百天，不好再来看。
+病人：得了，我看你呀，就是一蒙古大夫，混饭的！
+大夫：不是，我是北京人儿！
 
 ### Pinyin and Translation
 
-男: Apple，你能过来帮我搭把手吗?
-    Apple ， nǐ néng guòlai bāng wǒ dābǎshǒu ma ?
-    Apple, can you give me a hand with this?
+病人: 大夫，大夫，救命！这手折了！
+      dàifu ， dàifu ， jiùmìng ！ zhè shǒu shé le ！
+      Help Doctor! My hand is broken!
 
-女: 哎，我忙着呢!
-    ai ， wǒ mángzhe ne !
-    Oh, I'm busy.
+大夫: 我眼睛又不是X光，先去拍个片子回来再说吧。
+      wǒ yǎnjing yòu bù shì X guāng ， xiān qù pāi ge piānzi huílai zài shuō ba 。
+      I don't have X-ray vision. Go get a film taken and then we'll talk.
 
-男: 可是我觉得你的桌子放在卧室会比较好，或许你能亲自来把它搬一下。
-    kěshì wǒ juéde nǐ de zhuōzi fàng zài wòshì huì bǐjiào hǎo ， huòxǔ nǐ néng qīnzì lái bǎ tā bān yixià 。
-    But I think the table would be better in the bedroom, and maybe you could come over and move it yourself.
+病人: 在哪儿呢？
+      zài nǎr ne ？
+      Where?
 
-女: 不用，放客厅就行了。
-    bùyòng ， fàng kètīng jiù xíng le 。
-    No need. Just put it in the living room.
+大夫: 给你开张单子，去放射科。
+      gěi nǐ kāi zhāng dānzi ， qù fàngshèkē 。
+      I'll write you a prescription, go to Radiology.
 
-男: 不是说... 怎么就我一个人? 你不是说有很多人来帮忙的吗?
-    bù shì shuō ... zěnme jiù wǒ yī gè rén ? nǐ bù shì shuō yǒu hěn duō rén lái bāngmáng de ma ?
-    I mean... why am I alone here? Didn't you say there were a lot of people coming to help you move?
+大夫: 哎，你回来了。
+      ai ， nǐ huílai le 。
+      Oh, you're back.
 
-女: 有。他们一会儿肯定会来。这样，我现在有事，我要出去了。你就把所有东西全搁客厅就行啊。
-    yǒu 。 tāmen yīhuìr kěndìng huì lái 。 zhèyàng ， wǒ xiànzài yǒushì ， wǒ yào chūqù le 。 nǐ jiù bǎ suǒyǒu dōngxi quán gē kètīng jiù xíng a 。
-    They'll be over in a bit for sure. Hey, I've got something to do and need to go out. Just put everything in the living room and it will be fine.
+病人: 这片子您快瞅瞅！
+      zhè piānzi nín kuài chǒuchǒu ！
+      Quickly, take a look at the X-ray!
 
-男: 哎，可是门外还有那么多东西需要搬进来呢！
-    ai ， kěshì ménwài hái yǒu nàme duō dōngxi xūyào bān jìnlái ne ！
-    Uh... but there's a lot of stuff outside that needs moving in.
+大夫: 我看看。嗯，好像是骨折了...
+      wǒ kànkan 。 en ， hǎoxiàng shì gǔzhé le ...
+      Hmmm, let me see. Seems to be a snapped bone.
 
-女: 谢谢你了!
-    xièxiè nǐ le !
-    Super thanks!
+病人: 呦，这您确定吗？
+      you ， zhè nín quèdìng ma ？
+      Are you sure about that?
 
-男: 唉，我的周末。
-    ai ， wǒ de zhōumò 。
-    Oh, my weekend....
+大夫: 那就是骨裂。
+      nà jiùshì gǔliè 。
+      Then it's a hairline fracture.
+
+病人: 这哪儿裂了？
+      zhè nǎr liè le ？
+      Where is the crack?
+
+大夫: 我肯定了，是粉碎性骨折。
+      wǒ kěndìng le ， shì fěnsuìxìng gǔzhé 。
+      It's a compound fracture, I'm sure of it.
+
+病人: 这越说越离谱儿了！您是医生吗？这儿是骨科吗？
+      zhè yuè shuō yuè lípǔr le ！ nín shì yīshēng ma ？ zhèr shì gǔkē ma ？
+      This is more and more ridiculous! Are you a doctor? Is this orthopedics?
+
+大夫: 当然是了。我给你打个石膏，再给你根儿绷带，你回家躺着去吧。伤筋动骨一百天，不好再来看。
+      dāngrán shì le 。 wǒ gěi nǐ dǎ ge shígāo ， zài gěi nǐ gēnr bēngdài ， nǐ huíjiā tǎngzhe qù ba 。 shāngjīndònggǔyībǎitiān ， bù hǎo zài lái kàn 。
+      Of course. I'll put on a cast and wrap it up nicely, then you can go home and rest. Wait it up for a hundred days so the arm has time to heal, then come in if there are problems.
+
+病人: 得了，我看你呀，就是一蒙古大夫，混饭的！
+      déle ， wǒ kàn nǐ ya ， jiùshì yī měnggǔ dàifu ， hùnfàn de ！
+      I've had enough. You're nothing more than a quack, scamming to make your way.
+
+大夫: 不是，我是北京人儿！
+      bù shì ， wǒ shì běijīngrénr ！
+      No, I'm from Beijing!
 ### Vocab
--年终奖 (niánzhōngjiǎng) [noun] annual bonus
--成绩 (chéngji) [noun] accomplishments
--乐观 (lèguān) [adjective] optimistic
--翻 (fān) [verb] to flip over
--奖励 (jiǎnglì) [verb] to reward
--营业额 (yíngyèé) [noun] amount of business
--盈利 (yínglì) [noun] profit
--扩大 (kuòdà) [verb] to expand
--市场影响力 (shìchǎng yǐngxiǎnglì) [noun] market influence
--点击率 (diǎnjī lǜ) [noun] clickthrough rate
--公关 (gōngguān) [noun] public relations
--危机 (wēijī) [noun] crisis
--处理 (chǔlǐ) [verb] to handle
--标准 (biāozhǔn) [noun] standard
--严 (yán) [adverb] strictly
--辞职 (cízhí) [verb] to resign
--谷歌 (gǔgē) [company] Google
--新浪 (xīnlàng) [company] Sina
--搜狐 (sōuhú) [company] Sohu
--百度 (bǎidù) [company] Baidu
+-大夫 (dàifu) [noun] doctor
+-救命 (jiùmìng) [verb] to save a life
+-折 (shé) [verb] to be frayed or broken
+-片子 (piānzi) [noun] sheet
+-单子 (dānzi) [noun] prescription
+-放射科 (fàngshèkē) [noun] radiology
+-瞅 (chǒu) [verb] to see
+-伤筋动骨一百天 (shāngjīndònggǔ yī bǎi tiān) [phrase] it takes a hundred days for the bone to knit and tendons to heal
+-骨折 (gǔzhé) [noun] bone fracture
+-骨裂 (gǔliè) [noun] hairline fracture
+-离谱儿 (lípǔr) [adjective] out of bounds
+-骨科 (gǔkē) [noun] orthopedics
+-石膏 (shígāo) [noun] plaster cast
+-绷带 (bēngdài) [noun] bandage
+-混饭的 (hùnfàn de) [noun] scammer
+-蒙古大夫 (měnggǔ dàifu) [noun] quack doctor

@@ -2,38 +2,48 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-女人：你知道吗？
-男人：你也知道了。
-女人：你什么时候知道的？
-男人：刚才。
-女人：我也是。
-男人：天哪！
+狗：汪... 汪....
+男人：怎么了，莱西？ 提米怎么了？
+狗：汪汪汪....
+男人：我的天哪，他掉到井里了？
+狗：汪汪汪汪汪汪汪....
+男人：马上要爆炸了？
+狗：汪。
+男人：快上车，我们赶快走。
 
 ### Pinyin and Translation
 
-女人: 你知道吗？
-      nǐ zhīdào ma ？
-      Do you know?
+狗: 汪... 汪....
+    wàng ... wàng ....
+    Woof... woof....
 
-男人: 你也知道了。
-      nǐ yě zhīdào le 。
-      You know now too?
+男人: 怎么了，莱西？ 提米怎么了？
+      zěnme le ， Láixī ？  Tímǐ zěnme le ？
+      What's wrong Lassie? What happened to Timmy?
 
-女人: 你什么时候知道的？
-      nǐ shénme shíhou zhīdào de ？
-      When did you find out?
+狗: 汪汪汪....
+    wàng wàng wàng . . . .
+    Bark, bark, bark....
 
-男人: 刚才。
-      gāngcái 。
-      Just now.
+男人: 我的天哪，他掉到井里了？
+      wǒ de tiān na ， tā diàodào jǐng lǐ le ？
+      My heavens, he fell into a well?
 
-女人: 我也是。
-      wǒ yě shì 。
-      Me too.
+狗: 汪汪汪汪汪汪汪....
+    wàng wàng wàng wàng wàng wàng wàng . . . .
+    Bark bark bark bark bark bark....
 
-男人: 天哪！
-      tiānna ！
-      My heavens!
+男人: 马上要爆炸了？
+      mǎshàng yào bàozhà le ？
+      And it's going to blow up right away?
+
+狗: 汪。
+    wàng 。
+    That's right.
+
+男人: 快上车，我们赶快走。
+      kuài shàngchē ， wǒmen gǎnkuài zǒu 。
+      Get in the car, we're going at once.
 ### Vocab
 -莱西 (Láixī) [name] Lassie
 -拉稀 (lāxī) [verb] to have diarrhea

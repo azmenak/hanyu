@@ -1,16 +1,19 @@
 # The Internet, never heard of it....
 **Absolute Beginners** level
 ### Chinese Text
-一：你舒服吗？
-二：我很舒服，为什么？啊！
-一：开玩笑。
+甲：你的手表在哪儿买的？<br />乙：在网上。
+甲：什么网？
+乙：因特网。
+甲：哦，没听说过。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|一|你舒服吗？<blockquote>nǐ shūfu ma ？<br />Are you comfortable?</blockquote>|
-|二|我很舒服，为什么？啊！<blockquote>wǒ hěn shūfu ， wèishénme ？ a ！<br />I'm very comfortable, why? Arg!</blockquote>|
-|一|开玩笑。<blockquote>kāi wánxiào 。<br />Just kidding.</blockquote>|
+|甲|你的手表在哪儿买的？<blockquote>nǐ de shǒubiǎo zài nǎr mǎi de ？<br />Where did you buy your watch?</blockquote>|
+|乙|在网上。<blockquote>zài wǎngshàng 。<br />On the Internet.</blockquote>|
+|甲|什么网？<blockquote>shénme wǎng ？<br />Which website?</blockquote>|
+|乙|因特网。<blockquote>yīntèwǎng 。<br />The Internet.</blockquote>|
+|甲|哦，没听说过。<blockquote>ò ， méi tīngshuō guo 。<br />Oh, never heard of it.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

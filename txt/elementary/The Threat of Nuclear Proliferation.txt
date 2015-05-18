@@ -2,39 +2,58 @@
 ## *elementary* level
 
 ### Chinese Text
-女的：你电话打不通。
-男的：是吗？
-女的：该付费了。
-男的：电话费是什么？
+甲：哥们儿，你对核扩散有什么看法？
+乙：我觉得很好。
+甲：很好？！你不介意伊朗有核武器吗？
+乙：伊朗？哥们儿，我自己刚买了一个。
+甲：啊！
+乙：苹果店有新货。
+甲：苹果？核武器？
+乙：就是这个，还带MP3功能。不需要电池，倍儿棒！
 
 ### Pinyin and Translation
 
-女的: 你电话打不通。
-      nǐ diànhuà dǎ bu tōng 。
-      Your phone won't connect.
+甲: 哥们儿，你对核扩散有什么看法？
+    gēmenr ， nǐ duì hékuòsàn yǒu shénme kànfǎ ？
+    Dude, what do you think about nuclear proliferation?
 
-男的: 是吗？
-      shìma ？
-      Is that so?
+乙: 我觉得很好。
+    wǒ juéde hěn hǎo 。
+    I think it's great.
 
-女的: 该付费了。
-      gāi fù fèi le 。
-      You should pay the bill.
+甲: 很好？！你不介意伊朗有核武器吗？
+    hěn hǎo ？ ！ nǐ bù jièyì yīlǎng yǒu héwǔqì ma ？
+    Great? You don't mind Iran having nuclear weapons?
 
-男的: 电话费是什么？
-      diànhuà fèi shì shénme ？
-      What's a telephone bill?
+乙: 伊朗？哥们儿，我自己刚买了一个。
+    yīlǎng ？ gēmenr ， wǒ zìjǐ gāng mǎi le yī ge 。
+    Iran? Dude, I just bought one myself.
+
+甲: 啊！
+    ā ！
+    Huh?
+
+乙: 苹果店有新货。
+    Píngguǒ diàn yǒu xīn huò 。
+    The Mac store has new stock in.
+
+甲: 苹果？核武器？
+    Píngguǒ ？ héwǔqì ？
+    Apple? Nuclear weapons?
+
+乙: 就是这个，还带MP3功能。不需要电池，倍儿棒！
+    jiùshì zhè ge ， hái dài MP sān gōngnéng 。 bù xūyào diànchí ， bèir bàng ！
+    This is it. It plays mp3s and doesn't need batteries. Fantastic!
 ### Vocab
--一下 (yīxià) [verb complement] for a bit
--好像 (hǎoxiàng) [adverb] seems like
--西班牙语 (xībānyáyǔ) [noun] Spanish
--希腊文 (xīlàwén) [noun] Greek
--上面 (shàngmian) [phrase] on the top
--信 (xìn) [noun] letter
--干嘛 (gànmá) [question] for what possible reason
--对啊 (duì a) [phrase] yeah
--连...都... (lián ... dōu ...) [conjunction] even
--甭 (béng) [slang] not to need
--翻译 (fānyì) [verb] to translate
--管 (guǎn) [verb] to pay attention to; to manage
--女朋友 (nǚpéngyou) [noun] girlfriend
+-哥们儿 (gēmenr) [noun] dude
+-核扩散 (hékuòsàn) [noun] nuclear proliferation
+-核武器 (héwǔqì) [noun] nuclear weapon
+-介意 (jièyì) [verb] to mind
+-在乎 (zàihu) [verb] to care
+-管 (guǎn) [verb] to manage
+-苹果店 (Píngguǒ diàn) [noun] Apple store
+-货 (huò) [noun] product
+-功能 (gōngnéng) [noun] functionality
+-电池 (diànchí) [noun] battery
+-倍儿 (bèir) [adverb] very
+-棒 (bàng) [adjective] great

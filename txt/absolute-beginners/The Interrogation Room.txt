@@ -25,15 +25,15 @@
     nǐ kàn ， tā dǒngshìr 。
     You see? He gets it.
 ### Vocab
--咱们 (zánmen) [pronoun] us
--朋友 (péngyou) [noun] friend
--我们 (wǒmen) [pronoun] we
--去 (qù) [verb] to go
--喝 (hē) [verb] to drink
--咖啡 (kāfēi) [noun] coffee
--咖啡厅 (kāfēitīng) [noun] coffee shop
--北京 (Běijīng) [noun] Beijing
--对 (duì) [phrase] that's right
--怎么样 (zěnmeyàng) [phrase] what's up
--嘿 (hei) [other] hey
--宝贝儿 (bǎobèir) [noun] baby
+-一 (yī) [number] one
+-二 (èr) [number] two
+-三 (sān) [number] three
+-停 (tíng) [verb] to stop
+-说 (shuō) [verb] to speak
+-告诉 (gàosu) [verb] to tell
+-都 (dōu) [adverb] all
+-别 (bié) [adverb] don't
+-懂事儿 (dǒngshìr) [phrase] to understand things
+-请 (qǐng) [phrase] please
+-中文 (zhōngwén) [noun] Chinese
+-英文 (yīngwén) [noun] English

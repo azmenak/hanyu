@@ -1,8 +1,7 @@
 # The Deaf Pickpocket Gang
 **Elementary** level
 ### Chinese Text
-甲：放下武器！
-乙：听不见。
+甲：放下武器！<br />乙：听不见。
 甲：放下武器，出来投降！
 乙：还是听不见。
 甲：我说，放下武器！
@@ -26,13 +25,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|泡泡中文|Pàopào Zhōngwén|Popup Chinese|noun|
-|滚蛋|gǔndàn|scram|phrase|
-|忙|máng|busy|adjective|
-|滚|gǔn|to roll|verb|
-|待见|dàijian|to pay attention to|verb|
-|理|lǐ|to pay mind to|verb|
-|在乎|zàihu|to care about|verb|
-|管|guǎn|to deal with|verb|
-|注意|zhùyì|to note|verb|
-|别管闲事|biéguǎnxiánshì|mind your own business|phrase|
+|放下|fàngxià|to put down|verb|
+|武器|wǔqì|weapon|noun|
+|投降|tóuxiáng|surrender|verb|
+|夫妻|fūqī|man and wife|noun|
+|打开|dǎkāi|to turn on|verb|
+|助听器|zhùtīngqì|hearing aid|noun|
+|盲|máng|blind|adjective|
+|盲人|mángrén|blind person|noun|
+|聋|lóng|deaf|adjective|
+|聋人|lóngrén|deaf person|noun|
+|残疾人|cánjirén|handicapped person|noun|
+|扒手|páshǒu|pickpocket|noun|

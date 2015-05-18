@@ -1,8 +1,7 @@
 # I am not a Spy
 **Elementary** level
 ### Chinese Text
-第一部
-甲：你做什么工作？
+第一部<br />甲：你做什么工作？
 乙：我是间谍，啊不，我做出口。
 第二部
 甲：你出口什么？
@@ -30,14 +29,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|老板|lǎobǎn|boss|noun|
-|来|lái|to bring|verb|
-|鲜橙多|Xiānchéngduō|orange tang|noun|
-|挣钱|zhèngqián|to make money|verb|
-|脉动|Màidòng|Mizone sports drink|noun|
-|抠门儿|kōuménr|stingy|adjective|
-|冰红茶|bīnghóngchá|iced red tea|noun|
-|冰绿茶|bīnglǜchá|iced green tea|noun|
-|茉莉清茶|mòlìqīngchá|jasmine tea|noun|
-|蜂蜜柚子茶|fēngmìyòuzichá|honey citron tea|noun|
-|非常可乐|fēicháng kělè|future cola|noun|
+|间谍|jiàndié|spy|noun|
+|工作|gōngzuò|work|noun|
+|出口|chūkǒu|export; to export|verb/noun|
+|进口|jìnkǒu|import; to import|verb/noun|
+|贸易|màoyì|trade|noun|
+|东西|dōngxi|thing|noun|
+|手机|shǒujī|cellphone|noun|
+|信号|xìnhào|signal|noun|
+|棒|bàng|great|adjective|
+|标准|biāozhǔn|standard|adjective|
+|流利|liúlì|fluent|adjective|

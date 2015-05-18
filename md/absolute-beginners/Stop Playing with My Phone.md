@@ -1,8 +1,7 @@
 # Stop Playing with My Phone
 **Absolute Beginners** level
 ### Chinese Text
-一：给我那个。
-二：什么？
+一：给我那个。<br />二：什么？
 一：那个，我的手机。
 二：哦，给你。
 
@@ -16,11 +15,10 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
+|给|gěi|to give|verb|
 |我|wǒ|me|pronoun|
 |你|nǐ|you|pronoun|
-|不|bù|not|adverb|
-|要|yào|to want|verb|
-|嫁|jià|to marry|verb|
-|求|qiú|to beseech|verb|
-|好吧|hǎo ba|alright|phrase|
-|我爱你|wǒ ài nǐ|I love you|phrase|
+|那个|nèi ge|that (one)|phrase|
+|这个|zhèi ge|this (one)|phrase|
+|什么|shénme|what|question|
+|手机|shǒujī|mobile phone|noun|

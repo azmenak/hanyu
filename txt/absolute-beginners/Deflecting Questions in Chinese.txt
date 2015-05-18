@@ -25,11 +25,15 @@
     wǒ zěnme zhīdào ？
     How do I know?
 ### Vocab
--糖 (táng) [noun] sugar, candy
--彩虹糖 (cǎihóngtáng) [noun] Skittles
--巧克力 (qiǎokelì) [noun] chocolate
--冰淇凌 (bīngqilíng) [noun] ice cream
--蛋糕 (dàngāo) [noun] cake
--圆筒 (yuántǒng) [noun] cone
--奶昔 (nǎixī) [noun] milkshake
--新地 (xīndì) [noun] sundae
+-我 (wǒ) [pronoun] I, me
+-你 (nǐ) [pronoun] you
+-钥匙 (yàoshi) [noun] key
+-手机 (shǒujī) [noun] cellphone
+-钱包 (qiánbāo) [noun] wallet
+-昨天 (zuótiān) [noun] yesterday
+-在 (zài) [verb] to be at
+-知道 (zhīdào) [verb] to know
+-看 (kàn) [verb] to look
+-见 (jiàn) [verb] to see
+-哪儿 (nǎr) [question] where
+-怎么 (zěnme) [question] how

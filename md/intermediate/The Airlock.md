@@ -1,8 +1,7 @@
 # The Airlock
 **Intermediate** level
 ### Chinese Text
-船长：小王，小张，现在告诉你们一个不幸的消息。我们飞船的氧气系统坏了，需要你们其中一个做出牺牲。
-小王：我妈还在家里等我呢......
+船长：小王，小张，现在告诉你们一个不幸的消息。我们飞船的氧气系统坏了，需要你们其中一个做出牺牲。<br />小王：我妈还在家里等我呢......
 小张：别哭了，别哭了。哎，船长，你看小王她已经决定自主牺牲了。
 船长：好！那打开舱门！
 小王：不，不，我是这里的唯一的技术人员，如果我出去了，飞船的故障谁来修？你们都活不了的！
@@ -28,11 +27,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|届|jiè|measure word for meetings|measure word|
-|诺贝尔|nuòbèiěr|Nobel|noun|
-|获奖者|huòjiǎngzhě|prizewinner|noun|
-|实至名归|shízhìmíngguī|at the point where reputation will come naturally|chengyu|
-|经济|jīngjì|economical|adjective|
-|凭什么|píng shénme|on what basis|question|
-|闭嘴|bìzuǐ|to shut the mouth|verb|
-|提名|tímíng|to nominate|verb|
+|不幸|bùxìng|unfortunate|adjective|
+|飞船|fēichuán|spaceship|noun|
+|氧气|yǎngqì|oxygen gas|noun|
+|牺牲|xīshēng|to sacrifice|verb|
+|自主|zìzhǔ|of her own accord|adverb|
+|舱门|cāngmén|cabin door|noun|
+|唯一|wéiyī|only|adjective|
+|故障|gùzhàng|technical problem|noun|
+|体格|tǐgé|body-style|noun|
+|耗氧量|hàoyǎngliàng|oxygen consumption amount|noun|
+|技术人员|jìshù rényuán|technical staff|noun|

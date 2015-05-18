@@ -2,50 +2,52 @@
 ## *elementary* level
 
 ### Chinese Text
-爸爸：一个字儿，没门儿！
-儿子：什么？
-爸爸：我跟你妈妈说好了，完全不可能！
-儿子：那是两个字儿！
-爸爸：什么？
-儿子：没门儿！
-爸爸：反正，你明白我的意思！
+甲：你怎么啦？
+乙：我不舒服。
+甲：哪儿不舒服？
+乙：有点儿头晕，也有点儿恶心。
+甲：你吃了什么？
+乙：没吃什么，就吃了妈妈做的饭。
+甲：咳，你还没习惯呢。
 
 ### Pinyin and Translation
 
-爸爸: 一个字儿，没门儿！
-      yī ge zìr ， méiménr ！
-      One word: no way!
+甲: 你怎么啦？
+    nǐ zěnme la ？
+    What's wrong with you?
 
-儿子: 什么？
-      shénme ？
-      What?
+乙: 我不舒服。
+    wǒ bù shūfu 。
+    I'm feeling ill.
 
-爸爸: 我跟你妈妈说好了，完全不可能！
-      wǒ gēn nǐ māma shuōhǎo le ， wánquán bù kěnéng ！
-      I've already talked it over with your mother. It's totally impossible.
+甲: 哪儿不舒服？
+    nǎr bù shūfu ？
+    Where are you uncomfortable?
 
-儿子: 那是两个字儿！
-      nà shì liǎng ge zìr ！
-      That's two characters!
+乙: 有点儿头晕，也有点儿恶心。
+    yǒu diǎnr tóuyūn ， yě yǒu diǎnr ěxīn 。
+    I feel a bit dizzy and a little nauseous.
 
-爸爸: 什么？
-      shénme ？
-      What?
+甲: 你吃了什么？
+    nǐ chī le shénme ？
+    What did you eat?
 
-儿子: 没门儿！
-      méiménr ！
-      No way!
+乙: 没吃什么，就吃了妈妈做的饭。
+    méi chī shénme ， jiù chī le māma zuò de fàn 。
+    I didn't eat anything, just the food mom made.
 
-爸爸: 反正，你明白我的意思！
-      fǎnzhèng ， nǐ míngbai wǒ de yìsi ！
-      You know what I mean, and that's it!
+甲: 咳，你还没习惯呢。
+    hai ， nǐ hái méi xíguàn ne 。
+    You're still not used to it?
 ### Vocab
--几 (jǐ) [question] how many
--看不出来 (kàn bù chūlái) [verb] to be unable to tell
--怎么 (zěnme) [question] how
--这么 (zhème) [adverb] so very
--糟糕 (zāogāo) [adjective] awful
--自己 (zìji) [noun] oneself
--觉得 (juéde) [verb] to feel
--好好 (hǎohāo) [adverb] very well
--差劲 (chàjìn) [adjective] poor; lacking
+-不好 (bù hǎo) [adjective] not good
+-不舒服 (bù shūfu) [adjective] uncomfortable
+-头晕 (tóuyūn) [adjective] dizzy
+-恶心 (ěxīn) [adjective] nauseous
+-疼 (téng) [adjective] painful
+-累 (lèi) [adjective] tired
+-困 (kùn) [adjective] sleepy
+-感觉 (gǎnjué) [verb] to feel
+-习惯 (xíguàn) [verb] to be accustomed
+-让 (ràng) [verb] to make
+-粥 (zhōu) [noun] rice gruel

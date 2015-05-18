@@ -2,53 +2,44 @@
 ## *intermediate* level
 
 ### Chinese Text
-司机：从下边儿就蹿上来了。
-乘客：师傅，咱飞慢点儿吧。
-司机：你他妈，我，谁他妈教你飞的车啊？
-乘客：师傅，飞低点儿行吗？
-司机：找死呢？天是你们家开的？我....
-乘客：师傅，师傅，我要下车。
-司机：什么？咱还没到呢。
+甲：好，我们下一个问题，你打算带多少现金入境？
+乙：好多。
+甲：超过一万了吗？
+乙：比那多多了。
+甲：你不能这么说。你要这么说的话，你，你去迪士尼你带那么多现金，他们会查你的你知道吗？算了，我给你写一万以下。
 
 ### Pinyin and Translation
 
-司机: 从下边儿就蹿上来了。
-      cóng xiàbiānr jiù cuānshànglái le 。
-      You cut me off, charging up like this.
+甲: 好，我们下一个问题，你打算带多少现金入境？
+    hǎo ， wǒmen xià yī  ge wèntí ， nǐ dǎsuàn dài duōshao xiànjīn rùjìng ？
+    Ok, and our next question is... how much cash are you planning to bring into the country?
 
-乘客: 师傅，咱飞慢点儿吧。
-      shīfu ， zán fēi màn diǎnr ba 。
-      Driver, fly a little bit slower please.
+乙: 好多。
+    hǎo duō 。
+    A lot.
 
-司机: 你他妈，我，谁他妈教你飞的车啊？
-      nǐ tāma ， wǒ ， shéi tāma jiāo nǐ fēi de chē a ？
-      Damn you, who the hell taught you to fly a car?
+甲: 超过一万了吗？
+    chāoguò yīwàn le ma ？
+    More than ten thousand?
 
-乘客: 师傅，飞低点儿行吗？
-      shīfu ， fēi dī diǎnr xíng ma ？
-      Driver, can we fly a little lower?
+乙: 比那多多了。
+    bǐ nà duō duō le 。
+    A lot more than that.
 
-司机: 找死呢？天是你们家开的？我....
-      zhǎo sǐ ne ？ tiān shì nǐmen jiā kāi de ？ wǒ ....
-      Got a death wish? You think the whole sky is yours? I....
-
-乘客: 师傅，师傅，我要下车。
-      shīfu ， shīfu ， wǒ yào xiàchē 。
-      Driver, driver, I want to get out of the car.
-
-司机: 什么？咱还没到呢。
-      shénme ？ zán hái méi dào ne 。
-      What? We haven't arrived yet.
+甲: 你不能这么说。你要这么说的话，你，你去迪士尼你带那么多现金，他们会查你的你知道吗？算了，我给你写一万以下。
+    nǐ bù néng zhème shuō 。 nǐ yào zhème shuō dehuà ， nǐ ， nǐ qù Díshìní nǐ dài nàme duō xiànjīn ， tāmen huì chá nǐ de nǐ zhīdào ma ？ suànle ， wǒ gěi nǐ xiě yīwàn yǐxià 。
+    You can't say that, if you say that and you're going to Disneyland carrying that much cash they're going to look into it, you know? Forget it, I'll put down less than ten thousand.
 ### Vocab
--寂寞 (jìmò) [adjective] lonely
--需求 (xūqiú) [noun] needs; requirements
--健壮 (jiànzhuàng) [adjective] buff and muscular
--小伙 (xiǎohuǒ) [noun] young man
--强求 (qiángqiú) [verb] to urge; to beseech
--微妙 (wēimiào) [adjective] subtle; delicate
--委婉 (wěiwǎn) [adjective] circumspect
--续集 (xùjí) [noun] sequel
--保龄球 (bǎolíngqiú) [noun] bowling
--球友 (qiúyǒu) [noun] teammate
--勉强 (miǎnqiǎng) [verb] to force someone to do something; to force; to make an effort
--无能为力 (wúnéngwéilì) [phrase] nothing can be done
+-现金 (xiànjīn) [noun] cash
+-裸官 (luǒguān) [noun] officials whose entire families have already naturalized in other countries
+-入境 (rùjìng) [verb] to enter a country
+-签证 (qiānzhèng) [noun] visa
+-游客 (yóukè) [noun] tourists
+-通过率 (tōngguòlǜ) [noun] passing rate
+-多多了 (duō duō le) [phrase] much more
+-多得多 (duō de duō) [phrase] much more
+-高多了 (gāo duō le) [phrase] much higher
+-高得多 (gāo de duō) [phrase] much higher
+-少多了 (shǎo duō le) [phrase] much less
+-少得多 (shǎo de duō) [phrase] much less
+-金融危机 (jīnróngwēijī) [noun] financial crisis

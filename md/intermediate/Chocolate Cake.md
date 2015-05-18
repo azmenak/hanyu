@@ -1,40 +1,33 @@
 # Chocolate Cake
 **Intermediate** level
 ### Chinese Text
-病人：大夫，大夫，救命！这手折了！
-大夫：我眼睛又不是X光，先去拍个片子回来再说吧。
-病人：在哪儿呢？
-大夫：给你开张单子，去放射科。
-大夫：哎，你回来了。
-病人：这片子您快瞅瞅！
-大夫：我看看。嗯，好像是骨折了...
-病人：呦，这您确定吗？
-大夫：那就是骨裂。
-病人：这哪儿裂了？
-大夫：我肯定了，是粉碎性骨折。
-病人：这越说越离谱儿了！您是医生吗？这儿是骨科吗？
-大夫：当然是了。我给你打个石膏，再给你根儿绷带，你回家躺着去吧。伤筋动骨一百天，不好再来看。
-病人：得了，我看你呀，就是一蒙古大夫，混饭的！
-大夫：不是，我是北京人儿！
+甲：哎，我有点儿饿了。<br />乙：饿了? 那我给你找点儿吃的吧。
+甲：行。
+乙：这啤酒....
+甲：哎，啤酒行。哎，你那旁边的面条也行了。
+乙：那是吃剩的。
+甲：饺子! 还有那个牛肉丸。哎，你们家那个微波炉在哪儿?
+乙：哎，你别找了。这样吧，我给你做三明治吧。
+甲：哇，你没告诉我冰箱里有那个巧克力蛋糕啊! 哦哟，这个挺香的！这个挺甜的嘛！
+乙：哎，你别吃啊！这是我给我男朋友买的，你说你......
+甲：呃......对不起啊。
+甲：反正都吃了，那就我吃了吧。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|病人|大夫，大夫，救命！这手折了！<blockquote>dàifu ， dàifu ， jiùmìng ！ zhè shǒu shé le ！<br />Help Doctor! My hand is broken!</blockquote>|
-|大夫|我眼睛又不是X光，先去拍个片子回来再说吧。<blockquote>wǒ yǎnjing yòu bù shì X guāng ， xiān qù pāi ge piānzi huílai zài shuō ba 。<br />I don't have X-ray vision. Go get a film taken and then we'll talk.</blockquote>|
-|病人|在哪儿呢？<blockquote>zài nǎr ne ？<br />Where?</blockquote>|
-|大夫|给你开张单子，去放射科。<blockquote>gěi nǐ kāi zhāng dānzi ， qù fàngshèkē 。<br />I'll write you a prescription, go to Radiology.</blockquote>|
-|大夫|哎，你回来了。<blockquote>ai ， nǐ huílai le 。<br />Oh, you're back.</blockquote>|
-|病人|这片子您快瞅瞅！<blockquote>zhè piānzi nín kuài chǒuchǒu ！<br />Quickly, take a look at the X-ray!</blockquote>|
-|大夫|我看看。嗯，好像是骨折了...<blockquote>wǒ kànkan 。 en ， hǎoxiàng shì gǔzhé le ...<br />Hmmm, let me see. Seems to be a snapped bone.</blockquote>|
-|病人|呦，这您确定吗？<blockquote>you ， zhè nín quèdìng ma ？<br />Are you sure about that?</blockquote>|
-|大夫|那就是骨裂。<blockquote>nà jiùshì gǔliè 。<br />Then it's a hairline fracture.</blockquote>|
-|病人|这哪儿裂了？<blockquote>zhè nǎr liè le ？<br />Where is the crack?</blockquote>|
-|大夫|我肯定了，是粉碎性骨折。<blockquote>wǒ kěndìng le ， shì fěnsuìxìng gǔzhé 。<br />It's a compound fracture, I'm sure of it.</blockquote>|
-|病人|这越说越离谱儿了！您是医生吗？这儿是骨科吗？<blockquote>zhè yuè shuō yuè lípǔr le ！ nín shì yīshēng ma ？ zhèr shì gǔkē ma ？<br />This is more and more ridiculous! Are you a doctor? Is this orthopedics?</blockquote>|
-|大夫|当然是了。我给你打个石膏，再给你根儿绷带，你回家躺着去吧。伤筋动骨一百天，不好再来看。<blockquote>dāngrán shì le 。 wǒ gěi nǐ dǎ ge shígāo ， zài gěi nǐ gēnr bēngdài ， nǐ huíjiā tǎngzhe qù ba 。 shāngjīndònggǔyībǎitiān ， bù hǎo zài lái kàn 。<br />Of course. I'll put on a cast and wrap it up nicely, then you can go home and rest. Wait it up for a hundred days so the arm has time to heal, then come in if there are problems.</blockquote>|
-|病人|得了，我看你呀，就是一蒙古大夫，混饭的！<blockquote>déle ， wǒ kàn nǐ ya ， jiùshì yī měnggǔ dàifu ， hùnfàn de ！<br />I've had enough. You're nothing more than a quack, scamming to make your way.</blockquote>|
-|大夫|不是，我是北京人儿！<blockquote>bù shì ， wǒ shì běijīngrénr ！<br />No, I'm from Beijing!</blockquote>|
+|甲|哎，我有点儿饿了。<blockquote>ai ， wǒ yǒu diǎnr è le 。<br />Hey, I'm a little bit hungry.</blockquote>|
+|乙|饿了? 那我给你找点儿吃的吧。<blockquote>è le ? nà wǒ gěi nǐ zhǎo diǎnr chī de ba 。<br />Hungry? Let me get you something to eat.</blockquote>|
+|甲|行。<blockquote>xíng 。<br />Ok.</blockquote>|
+|乙|这啤酒....<blockquote>zhè píjiǔ ....<br />We've got beer....</blockquote>|
+|甲|哎，啤酒行。哎，你那旁边的面条也行了。<blockquote>ai ， píjiǔ xíng 。 ai ， nǐ nà pángbiān de miàntiáo yě xíng le 。<br />Oh, beer is great. And those noodles over there would be good too.</blockquote>|
+|乙|那是吃剩的。<blockquote>nà shì chīshèng de 。<br />Those are leftovers.</blockquote>|
+|甲|饺子! 还有那个牛肉丸。哎，你们家那个微波炉在哪儿?<blockquote>jiǎozi ! hái yǒu nàge niúròuwán 。 ai ， nǐmen jiā nàge wēibōlú zài nǎr ?<br />Dumplings! And then those meatballs. Where's the microwave?</blockquote>|
+|乙|哎，你别找了。这样吧，我给你做三明治吧。<blockquote>ai ， nǐ bié zhǎo le 。 zhèyàng ba ， wǒ gěi nǐ zuò sānmíngzhì ba 。<br />Don't bother with that. Why don't I just make you a sandwich?</blockquote>|
+|甲|哇，你没告诉我冰箱里有那个巧克力蛋糕啊! 哦哟，这个挺香的！这个挺甜的嘛！<blockquote>wā ， nǐ méi gàosu wǒ bīngxiāng lǐ yǒu nàge qiǎokèlì dàngāo a ! oyo ， zhège tǐng xiāng de ！ zhège tǐng tián de ma ！<br />Woot! You didn't tell me there was a chocolate cake in the fridge. Smells delicious. This is really sweet!</blockquote>|
+|乙|哎，你别吃啊！这是我给我男朋友买的，你说你......<blockquote>ai ， nǐ bié chī a ！ zhè shì wǒ gěi wǒ nánpéngyou mǎi de ， nǐ shuō nǐ ......<br />No, don't eat it! I bought that for my boyfriend, look what you've done....</blockquote>|
+|甲|呃......对不起啊。<blockquote>e ...... duìbuqǐ a 。<br />Errr...I'm sorry.</blockquote>|
+|甲|反正都吃了，那就我吃了吧。<blockquote>fǎnzhèng dōu chī le ， nà jiù wǒ chī le ba 。<br />No harm in finishing it off now it's half eaten anyway.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

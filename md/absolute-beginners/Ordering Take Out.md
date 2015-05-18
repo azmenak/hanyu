@@ -1,20 +1,19 @@
 # Ordering Take Out
 **Absolute Beginners** level
 ### Chinese Text
-男的：美女，你好。
-女的：什么?
-男的：美女，你好!
-女的：听不见。
-男的：留个电话吧。
+男：喂，我想点餐。<br />女：什么?
+男：我想叫外卖。
+女：啊，行。你要什么?
+男：烤鸭。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男的|美女，你好。<blockquote>měinǚ ， nǐhǎo 。<br />Hello beautiful.</blockquote>|
-|女的|什么?<blockquote>shénme ?<br />What?</blockquote>|
-|男的|美女，你好!<blockquote>měinǚ ， nǐhǎo !<br />Hey beautiful!</blockquote>|
-|女的|听不见。<blockquote>tīngbùjiàn 。<br />I can't hear you.</blockquote>|
-|男的|留个电话吧。<blockquote>liú ge diànhuà ba 。<br />Give me your number.</blockquote>|
+|男|喂，我想点餐。<blockquote>wéi ， wǒ xiǎng diǎncān 。<br />Hi, I'd like to order a meal.</blockquote>|
+|女|什么?<blockquote>shénme ?<br />What?</blockquote>|
+|男|我想叫外卖。<blockquote>wǒ xiǎng jiào wàimài 。<br />I want to order take-out.</blockquote>|
+|女|啊，行。你要什么?<blockquote>a ， xíng 。 nǐ yào shénme ?<br />Ah, OK. What do you want?</blockquote>|
+|男|烤鸭。<blockquote>kǎoyā 。<br />Roast duck.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

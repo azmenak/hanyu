@@ -1,8 +1,7 @@
 # Book Club
 **Intermediate** level
 ### Chinese Text
-甲：今天我们来了很多的新面孔。
-甲：但是这也给我们带来了很多的不便。
+甲：今天我们来了很多的新面孔。<br />甲：但是这也给我们带来了很多的不便。
 甲：图书馆里所有的海明威都被借光了。
 乙：图书大厦里的也都卖完了。
 甲：对。这意味着你们中的很多人坏了读书俱乐部的头两条规矩。
@@ -22,21 +21,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|书房|shūfáng|private study|noun|
-|改锥|gǎizhuī|screwdriver|noun|
-|绝对|juéduì|absolutely|adverb|
-|搏斗|bódòu|to fight|verb|
-|血迹|xuèjì|bloodstain|noun|
-|清理|qīnglǐ|to clean up|verb|
-|浴室|yùshì|bathing room|noun|
-|地毯|dìtǎn|carpet|noun|
-|窗帘|chuānglián|window curtains|noun|
-|利器|lìqì|sharp instrument|noun|
-|行凶|xíngxiōng|to do violence|verb|
-|钝的|dùnde|blunt|adjective|
-|扳手|bānshǒu|wrench|noun|
-|木棍|mùgùn|wooden stick|noun|
-|毒药|dúyào|poison|noun|
-|螺丝刀|luósīdāo|screwdriver|noun|
-|活口儿|huókǒur|survivor of a murder attempt|noun|
-|出庭作证|chūtíng  zuòzhèng|to appear in court as a witness|verb|
+|头|tóu|first; head|determiner|
+|条|tiáo|(measure word)|measure word|
+|读书|dúshū|to read|verb|
+|面孔|miànkǒng|faces|noun|
+|探讨|tàntǎo|to investigate|verb|
+|主题|zhǔtí|main theme|noun|
+|象征|xiàngzhēng|symbolism|noun|
+|规矩|guīju|rule|noun|
+|不便|bùbiàn|inconvenience|noun|
+|俱乐部|jùlèbù|club|noun|
+|海明威|Hǎimíngwēi|Hemingway|person|
+|意味着|yìwèizhe|to suggest|verb|
+|坏了规矩|huài le ... guīju|to have broken rules|slang|

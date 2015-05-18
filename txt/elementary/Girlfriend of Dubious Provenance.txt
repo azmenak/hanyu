@@ -50,15 +50,16 @@
     āi ， nǐ béng guǎn zhège 。 wǒ zhǐ shì xiǎng zhǎo rén bāng wǒ fānyì yīxià 。
     Hey, don't worry about that. I only want to find someone to help me translate it.
 ### Vocab
--沒想好 (méixiǎnghǎo) [verb] not to have finished thinking
--没做好 (méizuòhǎo) [verb] not to have finished
--没说好 (méishuōhǎo) [verb] not to have agreed upon
--没定好 (méidìnghǎo) [verb] not to have set down
--取 (qǔ) [verb] to pick up
--取名字 (qǔ míngzi) [verb] to pick a name
--取钱 (qǔ qián) [verb] to take out money
--取签证 (qǔ qiānzhèng) [verb] to pick up a visa
--两三 (liǎng sān) [other] two or three
--岁 (suì) [noun] years
--左右 (zuǒyòu) [suffix] more or less
--馘 (guó) [verb] to cut off the left ear of a slain opponent
+-一下 (yīxià) [verb complement] for a bit
+-好像 (hǎoxiàng) [adverb] seems like
+-西班牙语 (xībānyáyǔ) [noun] Spanish
+-希腊文 (xīlàwén) [noun] Greek
+-上面 (shàngmian) [phrase] on the top
+-信 (xìn) [noun] letter
+-干嘛 (gànmá) [question] for what possible reason
+-对啊 (duì a) [phrase] yeah
+-连...都... (lián ... dōu ...) [conjunction] even
+-甭 (béng) [slang] not to need
+-翻译 (fānyì) [verb] to translate
+-管 (guǎn) [verb] to pay attention to; to manage
+-女朋友 (nǚpéngyou) [noun] girlfriend

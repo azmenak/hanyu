@@ -1,8 +1,7 @@
 # Murder in the Red Chamber
 **Intermediate** level
 ### Chinese Text
-旁白：这个盛夏，古老的中国再次灭亡。
-宝玉：我们这里的每一个人都已经被盯上了，只有马上找到凶手，要不然就是死路一条。
+旁白：这个盛夏，古老的中国再次灭亡。<br />宝玉：我们这里的每一个人都已经被盯上了，只有马上找到凶手，要不然就是死路一条。
 旁白：中国古典四大名著之一，红楼梦。
 黛玉：宝玉，我害怕！
 宝玉：嘘，他们来了。
@@ -22,18 +21,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|躲|duǒ|to duck away|verb|
-|免|miǎn|to avoid|verb|
-|柜子|guìzi|closet|noun|
-|反正|fǎnzhèng|anyway; at any rate|adverb|
-|肯定|kěndìng|certainly|adverb|
-|遗传|yíchuán|to inherit genetically|verb|
-|难道|nándào|can it be that|conjunction|
-|民工|míngōng|worker|noun|
-|昂贵|ángguì|expensive|adjective|
-|悄悄|qiāoqiāo|quietly|adverb|
-|绝对|juéduì|absolutely|adverb|
-|确定|quèdìng|definitely|adverb|
-|望而兴叹|wàngérxīngtàn|to look upon and sigh|idiom|
-|外来务工人员|wàilái wùgōng rényuán|migrant worker|noun|
-|外来流动人员|wàilái liúdòng rényuán|migrant worker|noun|
+|盛夏|shèngxià|late summer|noun|
+|古老|gǔlǎo|ancient|adjective|
+|灭亡|mièwáng|to go extinct|verb|
+|盯上|dīngshàng|to stare at|verb|
+|凶手|xiōngshǒu|murderer|noun|
+|死路一条|sǐlùyītiáo|certain death|idiom|
+|四大名著|sì dà míngzhù|The Four Classics|idiom|
+|不同寻常|bùtóng xúncháng|extraordinary|adjective|
+|尽请|jǐnqǐng|passionately|adverb|
+|与|yǔ|with|particle|
+|首播|shǒu bō|to broadcast for the first time|verb|
+|一切|yīqiè|everything|noun|
+|全球|quánqiú|worldwide|noun|

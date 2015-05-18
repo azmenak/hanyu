@@ -1,26 +1,19 @@
 # Shopping with Naomi Klein
 **Elementary** level
 ### Chinese Text
-甲：服务员，我要点一个水煮牛肉。
-乙：啊？
-甲：水煮牛肉，那个辣的，有牛肉的那个。
-乙：鱼香肉丝？
-甲：不不不不不，水煮牛肉片，菜单上28号。
-乙：哎，28号不是鱼香肉丝，那是水煮牛肉。
-甲：是，我要的就是这个。
-乙：我不清楚。
+甲：我不喜欢你们这个T 恤衫上的商标，有没有没有的？<br />乙：哎哟，他们这儿就这一种。
+丙：哎，您看，我们这儿还有另一种。
+甲：这个好像就是logo小了一点儿，也不是完全没有啊。
+丙：那就没有了。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|服务员，我要点一个水煮牛肉。<blockquote>fúwùyuán ， wǒ yào diǎn yī ge shuǐzhǔniúròu 。<br />Waiter, I'd like a beef in chili broth.</blockquote>|
-|乙|啊？<blockquote>a ？<br />Huh?</blockquote>|
-|甲|水煮牛肉，那个辣的，有牛肉的那个。<blockquote>shuǐzhǔniúròu ， nàge là de ， yǒu niúròu de nàge 。<br />Beef in chili broth. It's the hot one, the one with beef.</blockquote>|
-|乙|鱼香肉丝？<blockquote>yúxiāngròusī ？<br />Fish-flavoured pork slices?</blockquote>|
-|甲|不不不不不，水煮牛肉片，菜单上28号。<blockquote>bù bù bù bù bù ， shuǐzhǔniúròupiàn ， càidān shàng èrshíbā hào 。<br />No! The beef in chili broth. Number 28 on the menu.</blockquote>|
-|乙|哎，28号不是鱼香肉丝，那是水煮牛肉。<blockquote>ai ， èrshíbā hào bù shì yúxiāngròusī ， nà shì shuǐzhǔniúròu 。<br />Hey. Number 28 isn't fish-flavored pork slices. It's beef in chili broth.</blockquote>|
-|甲|是，我要的就是这个。<blockquote>shì ， wǒ yào de jiùshì zhège 。<br />Yes. This is exactly the one I want.</blockquote>|
-|乙|我不清楚。<blockquote>wǒ bù  qīngchu 。<br />I don't get it.</blockquote>|
+|甲|我不喜欢你们这个T 恤衫上的商标，有没有没有的？<blockquote>wǒ bù xǐhuān nǐmen zhège T xùshān shàng de shāngbiāo ， yǒu méiyǒu méiyǒu de ？<br />I don't like the logo on this t-shirt of yours. Don't you have one without any?</blockquote>|
+|乙|哎哟，他们这儿就这一种。<blockquote>āiyo ， tāmen zhèr jiù zhè yī zhǒng 。<br />Goodness gracious, they only have this one type.</blockquote>|
+|丙|哎，您看，我们这儿还有另一种。<blockquote>āi ， nín kàn ， wǒmen zhèr hái yǒu lìng yī zhǒng 。<br />Hey, look, we also have this other type here.</blockquote>|
+|甲|这个好像就是logo小了一点儿，也不是完全没有啊。<blockquote>zhège hǎoxiàng jiùshì logo xiǎo le yīdiǎnr ， yě bù shì wánquán méiyǒu a 。<br />This just has a slightly smaller logo, it isn't completely without one.</blockquote>|
+|丙|那就没有了。<blockquote>nà jiù méiyǒu le 。<br />Then we don't have any.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

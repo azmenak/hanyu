@@ -25,11 +25,10 @@
     ò ， gěi nǐ 。
     Oh, here you are.
 ### Vocab
+-给 (gěi) [verb] to give
 -我 (wǒ) [pronoun] me
 -你 (nǐ) [pronoun] you
--不 (bù) [adverb] not
--要 (yào) [verb] to want
--嫁 (jià) [verb] to marry
--求 (qiú) [verb] to beseech
--好吧 (hǎo ba) [phrase] alright
--我爱你 (wǒ ài nǐ) [phrase] I love you
+-那个 (nèi ge) [phrase] that (one)
+-这个 (zhèi ge) [phrase] this (one)
+-什么 (shénme) [question] what
+-手机 (shǒujī) [noun] mobile phone

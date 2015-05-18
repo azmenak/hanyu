@@ -2,46 +2,99 @@
 ## *elementary* level
 
 ### Chinese Text
-女人：要我跟你说多少次，你才明白？
-男人：我是真不懂这个。
-女人：你个成年人，你看说明书呀。
-男人：说明书是瑞典语的。
-女人：这就是一个茶几的名字。你看图片就行了。
+［美国公司］
+甲：你不说要给我发邮件吗？
+乙：就是那个金融报告？
+甲：你明知故问，我等了你一下午了，你看这还没有呢，我一直在刷新。
+乙：明天吧。
+甲：什么？明天？你这叫工作啊？
+乙：我现在没时间，等我有时间再发给你啊。
+甲：你玩去吧你，我也歇一会儿。
+[德国公司]
+甲：你好，很感谢给我发这个邮件。
+乙：是的，我是八点四十一分二十三秒发过去的。
+甲：对，我是在八点四十二分三十四秒收到的。
+乙：八点四十二？
+甲：没错，今天网络有点慢。
 
 ### Pinyin and Translation
 
-女人: 要我跟你说多少次，你才明白？
-      yào wǒ gēn nǐ shuō duōshao cì ， nǐ cái míngbai ？
-      How many times do I have to tell you before you understand?
+［美国公司］
+［ Měiguó  gōngsī ］
+American company
 
-男人: 我是真不懂这个。
-      wǒ shì zhēn bù dǒng zhège 。
-      I just don't get it.
+甲: 你不说要给我发邮件吗？
+    nǐ bù shuō yào gěi wǒ fā yóujiàn ma ？
+    Didn't you say you were going to send me an email?
 
-女人: 你个成年人，你看说明书呀。
-      nǐ ge chéngniánrén ， nǐ kàn shuōmíngshū yā 。
-      You're a grown-up, just look at the instruction manual.
+乙: 就是那个金融报告？
+    jiùshì nà 个jīnróng bàogào ？
+    You mean the finance report?
 
-男人: 说明书是瑞典语的。
-      shuōmíngshū shì Ruìdiǎnyǔ de 。
-      The instruction manual is in Swedish.
+甲: 你明知故问，我等了你一下午了，你看这还没有呢，我一直在刷新。
+    nǐ míngzhīgùwèn ， wǒ děng le nǐ yīxiàwǔ le ， nǐ kàn zhè hái méiyǒu ne ， wǒ yīzhí zài shuāxīn 。
+    You already know the answer to that question. I've been waiting for you this whole afternoon.
 
-女人: 这就是一个茶几的名字。你看图片就行了。
-      zhè jiù shì yī ge chájǐ de míngzi 。 nǐ kàn túpiàn jiù xíng le 。
-      That's the name of the coffee table. Just look at the pictures.
+乙: 明天吧。
+    míngtiān ba 。
+    Maybe tomorrow.
+
+甲: 什么？明天？你这叫工作啊？
+    shénme ？ míngtiān ？ nǐ zhè jiào gōngzuò ā ？
+    What? Tomorrow? You call this working?
+
+乙: 我现在没时间，等我有时间再发给你啊。
+    wǒ xiànzài méi shíjiān ， děng wǒ yǒu  shíjiān zài fā gěi nǐ ā 。
+    I don't have time right now, I will send it to you when I've got time.
+
+甲: 你玩去吧你，我也歇一会儿。
+    nǐ wánqùba nǐ ， wǒ yě xiēyīhuìr 。
+    Get stuffed, I'm going to take a break, too.
+
+[德国公司]
+[ Déguógōngsī ]
+German company
+
+甲: 你好，很感谢给我发这个邮件。
+    nǐ hǎo ， hěn gǎnxiè gěi wǒ fā zhè ge yóujiàn 。
+    Hello, thank you very much for sending over this e-mail.
+
+乙: 是的，我是八点四十一分二十三秒发过去的。
+    shì de ， wǒ shì bā dián sìshíyī fēn èrshísǎn miǎo fāguòqu de 。
+    Yup, I sent it over at 8:41:23.
+
+甲: 对，我是在八点四十二分三十四秒收到的。
+    duì ， wǒ shì zài bā dián sìshí fēn sānshísì miǎo shōudào de 。
+    Yes, I received it at 8:42:34.
+
+乙: 八点四十二？
+    bā dián sìshíèr ？
+    8:42?
+
+甲: 没错，今天网络有点慢。
+    méicuò ， jīntiān wǎngluò yǒu diǎn màn 。
+    Correct, the Internet is a bit slow today.
 ### Vocab
--发型 (fàxíng) [noun] hairstyle
--头顶 (tóudǐng) [noun] top of the head
--两边 (liǎngbiān) [noun] the two sides
--长 (cháng) [adjective] long
--短 (duǎn) [adjective] short
--剪 (jiǎn) [verb] to cut
--吹 (chuī) [verb] to dry
--洗 (xǐ) [verb] to cut
--修 (xiū) [verb] to trim
--起开 (qǐkāi) [verb] to get up and out of the way
--让开 (ràngkāi) [verb] to get out of the way
--走开 (zǒukāi) [verb] to get out of the way
--只不过 (zhǐ bù guò) [phrase] it is just that
--等一会儿 (děng  yīhuìr) [phrase] wait a minute
--一个一个的 (yī ge yī ge de) [phrase] one at a time
+-发 (fā) [verb] to send
+-等 (děng) [verb] to wait
+-再 (zài) [adverb] again
+-歇 (xiē) [verb] to rest
+-邮件 (yóujiàn) [noun] email
+-金融 (jīnróng) [noun] finance
+-报告 (bàogào) [noun] report
+-一直 (yīzhí) [adverb] continuously
+-刷新 (shuāxīn) [verb] to reload
+-工作 (gōngzuò) [noun] work
+-玩去 (wánqù) [verb] to get stuffed
+-感谢 (gǎnxiè) [verb] to express thanks
+-收到 (shōudào) [verb] to receive
+-过去 (guòqù) [preposition] over
+-没错 (méicuò) [adjective] correct
+-网络 (wǎngluò) [noun] internet
+-睡过去 (shuìguòqù) [verb] to fall asleep
+-醒过来 (xǐngguòlái) [verb] to wake up
+-拿过去 (náguòqù) [verb] to take away
+-送过来 (sòngguòlái) [verb] to bring over
+-死过去 (sǐguòqù) [verb] to pass out
+-活过来 (huóguòlái) [verb] to come alive
+-明知故问 (míngzhīgùwèn) [phrase] already know the answer

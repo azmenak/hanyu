@@ -40,15 +40,13 @@
     yīnwèi wǒ lǎn 。
     Because I'm lazy.
 ### Vocab
--小猫 (xiǎomāo) [noun] kitten
--小狗 (xiǎogǒu) [noun] puppy
--老鼠 (lǎoshǔ) [noun] mouse
--需要 (xūyào) [verb] to need
--捉 (zhuō) [verb] to catch
--雇 (gù) [verb] to hire
--助手 (zhùshǒu) [noun] assistant
--工作 (gōngzuò) [noun] work
--面试 (miànshì) [noun] interview
--新来的 (xīnláide) [adjective] newly-arrived
--先 (xiān) [adverb] first
--再 (zài) [adverb] and then
+-交 (jiāo) [verb] to hand over
+-付 (fù) [verb] to pay
+-电费 (diànfèi) [noun] electricity bill
+-水费 (shuǐfèi) [noun] water bill
+-电话费 (diànhuàfèi) [noun] telephone bill
+-煤气费 (méiqìfèi) [noun] gas bill
+-燃气费 (ránqìfèi) [noun] fuel bill
+-物业费 (wùyèfèi) [noun] management bill
+-暖气费 (nuǎnqìfèi) [noun] heating bill
+-路费 (lùfèi) [noun] travel fee

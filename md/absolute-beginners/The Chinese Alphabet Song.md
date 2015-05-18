@@ -1,23 +1,26 @@
 # The Chinese Alphabet Song
 **Absolute Beginners** level
 ### Chinese Text
-甲：姚葳，姚葳，你在吗？问你个问题！
-乙：她今天很忙。
+一，二，三，四，五，六，七，八，九，十...
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|姚葳，姚葳，你在吗？问你个问题！<blockquote>Yáo Wēi ， Yáo Wēi ， nǐ zài ma ？ wèn nǐ ge wèntí ！<br />Echo, Echo, are you there? I've got a question to ask!</blockquote>|
-|乙|她今天很忙。<blockquote>tā jīntiān hěn máng 。<br />She's very busy today.</blockquote>|
+||一，二，三，四，五，六，七，八，九，十...<blockquote>yī ， èr ， sān ， sì ， wǔ ， liù ， qī ， bā ， jiǔ ， shí ...<br /></blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|你|nǐ|you|pronoun|
-|有|yǒu|to have|verb|
-|没有|méiyǒu|not to have|verb|
-|有没有|yǒu méiyǒu|to have or not to have|question|
-|中文字幕|zhōngwén zìmù|Chinese subtitles|noun|
-|吗|ma|(question particle)|question|
-|妈的|māde|damn|slang|
-|听得懂|tīngdedǒng|to understand|phrase|
-|听不懂|tīngbùdǒng|not to understand|phrase|
+|一|yī|one|number|
+|十一|shí yī|eleven|number|
+|二十|èr shí|twenty|number|
+|三十|sān shí|thirty|number|
+|九十九|jiǔ shí jiǔ|ninty nine|number|
+|二|èr|two|number|
+|三|sān|three|number|
+|四|sì|four|number|
+|五|wǔ|five|number|
+|六|liù|six|number|
+|七|qī|seven|number|
+|八|bā|eight|number|
+|九|jiǔ|nine|number|
+|十|shí|ten|number|

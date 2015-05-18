@@ -2,63 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：坏孩子。
-乙：坏孩子。
-甲：坏孩子。
-乙：坏孩子。
-甲：坏孩子。
-乙：坏孩子。
-甲：真坏。
-乙：你太坏了。
-甲：那是你妹妹的，给你妹妹。
-乙：你妹妹好，你不好。
-甲：唉，我要是有两个女孩就好了。
+甲：师傅，醒醒，醒醒！
+乙：到了，到了。十块，十块....
+甲：你刚才睡着了。
+乙：没有，没有啊，我们去哪儿？
 
 ### Pinyin and Translation
 
-甲: 坏孩子。
-    huài háizi 。
-    Bad child.
+甲: 师傅，醒醒，醒醒！
+    shīfu ， xǐngxing ， xǐngxing ！
+    Driver, wake up, wake up!
 
-乙: 坏孩子。
-    huài háizi 。
-    Bad child.
+乙: 到了，到了。十块，十块....
+    dào le ， dào le 。 shí kuài ， shí kuài . . . .
+    We're here, we're here.... That'll be ten kuai.
 
-甲: 坏孩子。
-    huài háizi 。
-    Bad child.
+甲: 你刚才睡着了。
+    nǐ gāngcái shuìzháo le 。
+    You were just sleeping.
 
-乙: 坏孩子。
-    huài háizi 。
-    Bad child.
-
-甲: 坏孩子。
-    huài háizi 。
-    Wicked child.
-
-乙: 坏孩子。
-    huài háizi 。
-    Bad child.
-
-甲: 真坏。
-    zhēn huài 。
-    Really wicked.
-
-乙: 你太坏了。
-    nǐ tài huài le 。
-    You're too wicked.
-
-甲: 那是你妹妹的，给你妹妹。
-    nà shì nǐ mèimei de ， gěi nǐ mèimei 。
-    That's your sister's. Give it to your sister.
-
-乙: 你妹妹好，你不好。
-    nǐ mèimei hǎo ， nǐ bù hǎo 。
-    Your sister is good. You're no good.
-
-甲: 唉，我要是有两个女孩就好了。
-    ai ， wǒ yàoshi yǒu liǎng ge nǚhái jiù hǎo le 。
-    Oh, if only I had two girls.
+乙: 没有，没有啊，我们去哪儿？
+    méiyǒu ， méiyǒu a ， wǒmen qù nǎr ？
+    No I wasn't.... Where are we going?
 ### Vocab
 -师傅 (shīfu) [noun] driver
 -到了 (dào le) [verb] to have arrived

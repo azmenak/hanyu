@@ -1,8 +1,7 @@
 # Buying a Train Ticket
 **Elementary** level
 ### Chinese Text
-甲：去天津的车票还有吗？
-乙：最后两张。
+甲：去天津的车票还有吗？<br />乙：最后两张。
 甲：软座还是硬座？
 乙：没坐儿。站票要不要?
 甲：啊。

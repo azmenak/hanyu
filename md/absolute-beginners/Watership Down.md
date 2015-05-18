@@ -1,8 +1,7 @@
 # Watership Down
 **Absolute Beginners** level
 ### Chinese Text
-甲：天气真好啊。
-乙：嗯。
+甲：天气真好啊。<br />乙：嗯。
 甲：生菜也很好吃。
 乙：生活真好。
 甲：生活真好。
@@ -20,13 +19,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|谁|shéi|who|pronoun|
-|你是谁|nǐ shì shéi|who are you|phrase|
-|跟|gēn|with|preposition|
-|说话|shuōhuà|to talk|verb|
-|电话|diànhuà|telephone|noun|
-|听不清楚|tīng bù qīngchu|not to hear clearly|phrase|
-|看不清楚|kàn bù qīngchu|not to see clearly|phrase|
-|听不懂|tīngbùdǒng|not to understand audio|phrase|
-|看不懂|kànbùdǒng|not to understand text|phrase|
-|挂|guà|to hang up|verb|
+|天气|tiānqì|weather|noun|
+|生活|shēnghuó|life|noun|
+|生菜|shēngcài|lettuce|noun|
+|很|hěn|very|adverb|
+|真|zhēn|really|adverb|
+|好|hǎo|good|adjective|
+|也|yě|also|conjunction|
+|好吃|hǎochī|tasty|adjective|
+|兔子|tùzi|rabbit|noun|
+|累|lèi|tired|adjective|
+|饿|è|hungry|adjective|

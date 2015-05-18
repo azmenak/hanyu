@@ -1,8 +1,7 @@
 # Evolutionary Strategies of Household Pets
 **Absolute Beginners** level
 ### Chinese Text
-甲：那是你女朋友？
-乙：不，是我的猫。
+甲：那是你女朋友？<br />乙：不，是我的猫。
 甲：它会打电话？
 乙：嗯，对，它饿了。
 
@@ -16,11 +15,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|疼|téng|painful|adjective|
-|舒服|shūfu|comfortable|adjective|
-|好|hǎo|good|adjective|
-|哪儿|nǎr|where|pronoun|
-|那儿|nàr|there|pronoun|
-|这儿|zhèr|here|pronoun|
-|我|wǒ|I; me|pronoun|
-|很|hěn|very|adverb|
+|那|nà|that|pronoun|
+|这|zhè|this|pronoun|
+|是|shì|to be|verb|
+|女朋友|nǚpéngyou|girlfriend|noun|
+|不|bù|no|adverb|
+|猫|māo|cat|noun|
+|会|huì|to be able to|verb|
+|打|dǎ|to dial|verb phrase|
+|电话|diànhuà|telephone|noun|
+|对|duì|correct|adjective|
+|饿|è|to be hungry|verb|

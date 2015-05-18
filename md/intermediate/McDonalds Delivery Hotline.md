@@ -1,28 +1,17 @@
 # McDonalds Delivery Hotline
 **Intermediate** level
 ### Chinese Text
-甲：还记得我怕阳光的事情吗？还有，我很喜欢喝蕃茄汁儿。
-乙：知道。
-甲：不过那些都不是蕃茄汁儿。
-乙：什么？
-甲：我要告诉你的是：我是吸血鬼。
-乙：你不会吸我的血吧？
-甲：应该不会吧。
-乙：哦，那没关系，现在都二十一世纪了。
-甲：不过还有一件事儿。我也是个同性恋。
+与其走那么老远，不如打二十四小时麦乐送电话。<br />与其在电话里一直等待，我宁可过一会儿再打。
+我宁可再耐心地等一会儿，也不愿意出门。
+我宁愿饿死，也不想再听他们的音乐了。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|还记得我怕阳光的事情吗？还有，我很喜欢喝蕃茄汁儿。<blockquote>hái jìde wǒ pà yángguāng de shìqing ma ？ háiyǒu ， wǒ hěn xǐhuan hē fānqiézhīr 。<br />Remember that thing about my fear of sunlight? And about how much I like tomato juice?</blockquote>|
-|乙|知道。<blockquote>zhīdào 。<br />Yeah.</blockquote>|
-|甲|不过那些都不是蕃茄汁儿。<blockquote>bùguò nà xiē dōu bù shì fānqiézhīr 。<br />Well, it wasn't tomato juice.</blockquote>|
-|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
-|甲|我要告诉你的是：我是吸血鬼。<blockquote>wǒ yào gàosu nǐ de shì ： wǒ shì xīxuèguǐ 。<br />What I want to tell you is, I'm a vampire.</blockquote>|
-|乙|你不会吸我的血吧？<blockquote>nǐ bù huì xī wǒ de xiě ba ？<br />You won't suck my blood, will you?</blockquote>|
-|甲|应该不会吧。<blockquote>yīnggāi bù huì ba 。<br />Probably not.</blockquote>|
-|乙|哦，那没关系，现在都二十一世纪了。<blockquote>ò ， nà méi guānxi ， xiànzài dōu èrshí yī shìjì le 。<br />Oh, then no worries. It's the 21st century now.</blockquote>|
-|甲|不过还有一件事儿。我也是个同性恋。<blockquote>búguò hái yǒu yī jiàn shìr 。 wǒ yě shì ge tóngxìngliàn 。<br />But there's one more thing. I'm also a homosexual.</blockquote>|
+||与其走那么老远，不如打二十四小时麦乐送电话。<blockquote>yǔqí zǒu nàme lǎo yuǎn ， bùrú dǎ èrshísì xiǎoshí Màilèsòng diànhuà 。<br />Rather than walk so far, I'd rather dial the 24-hour McDonalds delivery hotline.</blockquote>|
+||与其在电话里一直等待，我宁可过一会儿再打。<blockquote>yǔqí zài diànhuà lǐ yīzhí děngdài ， wǒ nìngkě guò yīhuìr zài dǎ 。<br />Rather than keep waiting on the line, I'd rather dial back in a while.</blockquote>|
+||我宁可再耐心地等一会儿，也不愿意出门。<blockquote>wǒ nìngkě zài nàixīn de děng yīhuìr ， yě bù yuànyì chūmén 。<br />I'd rather wait patiently a while than go out.</blockquote>|
+||我宁愿饿死，也不想再听他们的音乐了。<blockquote>wǒ nìngyuàn è sǐ ， yě bù xiǎng zài tīng tāmen de yīnyuè le 。<br />I'd rather starve to death than listen to more of their music.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

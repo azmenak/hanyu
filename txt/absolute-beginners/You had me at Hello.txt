@@ -27,11 +27,9 @@ A: 再见！
 ### Vocab
 -你 (nǐ) [pronoun] you
 -我 (wǒ) [pronoun] I
--好 (hǎo) [adjective] good
--少 (shǎo) [adjective] few
--有 (yǒu) [verb] to have
--水 (shuǐ) [noun] water
--酒 (jiǔ) [noun] alcohol
+-你好 (nǐhǎo) [phrase] hello
+-你好吗 (nǐhǎo ma) [phrase] how are you
 -很 (hěn) [adverb] very
--美 (měi) [adjective] beautiful
--可爱 (kěài) [adjective] cute
+-好 (hǎo) [adjective] good
+-谢谢 (xièxie) [phrase] thank you
+-再见 (zàijiàn) [phrase] good bye

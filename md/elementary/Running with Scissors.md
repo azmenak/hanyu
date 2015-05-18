@@ -1,8 +1,7 @@
 # Running with Scissors
 **Elementary** level
 ### Chinese Text
-正常版本
-甲：给... 你的剪刀....
+正常版本<br />甲：给... 你的剪刀....
 乙：你... 你的脸怎么这么白？
 甲：没事....
 乙：你流了好多血呀，我去打120！
@@ -38,11 +37,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|怎么|zěnme|how|question|
-|内裤|nèikù|underwear|noun|
-|冰箱|bīngxiāng|refrigerator|noun|
-|酸奶|suānnǎi|yoghurt|noun|
-|分手|fēnshǒu|to split up|verb|
-|受不了|shòubùliǎo|to be unable to take it|verb|
-|受够了|shòugòu le|to have had enough|verb|
-|非要|fēiyào|to really have to|verb|
+|剪刀|jiǎndāo|scissors|noun|
+|血|xiě|blood|noun|
+|120|yāo èr líng|911|phrase|
+|公主|gōngzhǔ|princess|noun|
+|版本|bǎnběn|version|noun|
+|着急|zháojí|to be in a hurry|verb|
+|浪费|làngfèi|to waste|verb|
+|受伤|shòushāng|to be wounded|verb|
+|躺下|tǎngxià|to lie down|verb|
+|换|huàn|to exchange|verb|
+|起来|qǐlai|to get up|verb|

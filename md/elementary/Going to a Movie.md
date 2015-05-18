@@ -1,18 +1,17 @@
 # Going to a Movie
 **Elementary** level
 ### Chinese Text
-女的：给我一听王老吉。
-男的：冰的还是常温的?
-女的：冰的。
-男的：稍等。
+甲：今天晚上有事吗?<br />乙：没事。
+甲：那我们一起去看电影吧?
+乙：好呀。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|给我一听王老吉。<blockquote>gěi wǒ yī tīng Wánglǎojí 。<br />Give me a can of Wanglaoji.</blockquote>|
-|男的|冰的还是常温的?<blockquote>bīng de hái shì chángwēn de ?<br />You want that cold or warm?</blockquote>|
-|女的|冰的。<blockquote>bīng de 。<br />Cold.</blockquote>|
-|男的|稍等。<blockquote>shāoděng 。<br />Just a moment.</blockquote>|
+|甲|今天晚上有事吗?<blockquote>jīntiān wǎnshang yǒushì ma ?<br />Got anything tonight?</blockquote>|
+|乙|没事。<blockquote>méishì 。<br />Nope.</blockquote>|
+|甲|那我们一起去看电影吧?<blockquote>nà wǒmen yīqǐ qù kān diànyǐng ba ?<br />Let's go watch a movie then, ok?</blockquote>|
+|乙|好呀。<blockquote>hǎo ya 。<br />Ok.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,8 +1,7 @@
 # A Dangerous Chinese Lesson
 **Intermediate** level
 ### Chinese Text
-他很傲慢，见人总是一副爱理不理的样子。
-一会儿你热情点儿，别总是爱理不理的。
+他很傲慢，见人总是一副爱理不理的样子。<br />一会儿你热情点儿，别总是爱理不理的。
 他一直爱理不理地坐在旁边，让我们很尴尬。
 反正我已经跟你说了，你爱去不去。
 这都是真话，你爱信不信。
@@ -22,13 +21,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|书房|shūfáng|study|noun|
-|匕首|bǐshǒu|dagger|noun|
-|杀死|shāsǐ|to kill|verb|
-|尸体|shītǐ|corpse|noun|
-|输|shū|to lose|verb|
-|明明|míngmíng|clearly|adverb|
-|牌|pái|card|noun|
-|偷看|tōukàn|to sneak a look|verb|
-|偷听|tōutīng|to eavesdrop|verb|
-|妙探寻凶|miàotànxúnxiōng|Cluedo|noun|
+|傲慢|àomàn|arrogant|adjective|
+|爱累不累|àilèibùlèi|disregarding whether someone is tired|phrase|
+|爱理不理|àilǐbùlǐ|cold and indifferent|phrase|
+|热情|rèqíng|enthusiasm|adjective|
+|爱去不去|àiqùbùqù|disregarding whether one goes or not|phrase|
+|爱信不信|àixìnbùxìn|disregarding whether one believes or not|phrase|
+|爱好不好|àihǎobùhǎo|disregarding whether something is good or not|phrase|
+|爱饿不饿|àièbùè|disregarding whether one is hungry or not|phrase|
+|爱谁谁|àishéishéi|whatever|phrase|

@@ -1,28 +1,29 @@
 # Good Morning, Mr. Bond
 **Elementary** level
 ### Chinese Text
-甲：她不要我了。
-乙：哎哟，你别哭了。哭能解决问题吗？
-乙：我知道，你很难过，对吧？虽然我也同情你，但其实，我也理解她的感受。
-乙：你看看你这个样子。别哭了，我说.... 我说话你没听见啊？
-乙：像个男人点儿。丢不丢人？
+甲：邦德先生，你想要一杯咖啡吗？<br />乙：哦，是的，我觉得可以。黑咖啡，不加糖。
+甲：恐怕，恐怕我是跟你开玩笑的，邦德先生。这儿没有你的咖啡。看来只有一个人的，而且，那个人是我。不好意思....
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|她不要我了。<blockquote>tā bù yào wǒ le 。<br />She doesn't want me anymore.</blockquote>|
-|乙|哎哟，你别哭了。哭能解决问题吗？<blockquote>āiyo ， nǐ bié kū le 。 kū néng jiějué wèntí ma ？<br />Goodness gracious, stop crying. Can crying solve the problem?</blockquote>|
-|乙|我知道，你很难过，对吧？虽然我也同情你，但其实，我也理解她的感受。<blockquote>Wǒ zhīdào ， nǐ hěn nánguò ， duì ba ？ suīrán wǒ yě tóngqíng nǐ ， dàn qíshí ， wǒ yě lǐjiě tā de gǎnshòu 。<br />I know you're sad, right? And while it's true I sympathize with you, I also understand how she feels.</blockquote>|
-|乙|你看看你这个样子。别哭了，我说.... 我说话你没听见啊？<blockquote>nǐ kànkan nǐ zhège yàngzi 。 bié kū le ， wǒ shuō .... wǒ shuōhuà nǐ méi tīngjiàn a ？<br />Look at yourself. Stop crying, I said.... Didn't you hear what I said?</blockquote>|
-|乙|像个男人点儿。丢不丢人？<blockquote>xiàng ge nánrén diǎnr 。 diū bù diūrén ？<br />Man up a bit. Don't you think this is shameful?</blockquote>|
+|甲|邦德先生，你想要一杯咖啡吗？<blockquote>Bāngdé xiānsheng ， nǐ xiǎng yào yī bēi kāfēi ma ？<br />Mr. Bond, would you like a cup of coffee?</blockquote>|
+|乙|哦，是的，我觉得可以。黑咖啡，不加糖。<blockquote>o ， shì de ， wǒ juéde kěyǐ 。 hēi kāfēi ， bù jiātáng 。<br />Oh, yes. I think I would like one. Black with no sugar.</blockquote>|
+|甲|恐怕，恐怕我是跟你开玩笑的，邦德先生。这儿没有你的咖啡。看来只有一个人的，而且，那个人是我。不好意思....<blockquote>kǒngpà ， kǒngpà wǒ shì gēn nǐ kāi wánxiào de ， Bāngdé xiānsheng 。 zhèr méiyǒu nǐ de kāfēi 。 kànlái zhǐ yǒu yī ge rén de ， érqiě ， nà ge rén shì wǒ 。 bùhǎoyìsi . . . .<br />I'm afraid... I'm afraid I was joking with you, Mr. Bond. There is no coffee for you here. Looks like there is only enough coffee for one person, and that person is me. Sorry....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|楼下|lóuxià|downstairs|noun|
-|藏|cáng|to hide|verb|
-|永远|yǒngyuǎn|forever|adverb|
-|算了|suànle|forget it|phrase|
-|我是说|wǒ shì shuō|what I said was|phrase|
-|我是想|wǒ shì xiǎng|I was wondering|phrase|
-|我的意思是|wǒ de yìsi shì|what I meant was|phrase|
-|我的意思是说|wǒ de yìsi shì shuō|what i meant was|phrase|
+|觉得|juéde|to feel|verb|
+|加糖|jiātáng|to add sugar|verb|
+|恐怕|kǒngpà|unfortunately|adverb|
+|可怕|kěpà|terrible|adjective|
+|恐怖|kǒngbù|terrifying|adjective|
+|看来|kànlái|to seem|other|
+|只有|zhǐyǒu|only|adverb|
+|而且|érqiě|moreover|conjunction|
+|遗憾|yíhàn|regretable|adjective|
+|吃惊|chījīng|surprise|adjective|
+|难过|nánguò|troubling|adjective|
+|黑咖啡|hēikāfēi|black coffee|noun|
+|开玩笑|kāi wánxiào|to play a joke|verb|
+|让人 ... 的是|ràng rén ... de shì|what makes people ...|phrase|

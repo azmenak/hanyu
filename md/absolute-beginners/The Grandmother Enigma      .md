@@ -1,26 +1,30 @@
 # The Grandmother Enigma      
 **Absolute Beginners** level
 ### Chinese Text
-甲：你还有多少钱？
-乙：五十。
-甲：那是我的钱！给我。
+甲：你什么时候去中国？<br />乙：我的票是... 昨天的？
+甲：啊？
+乙：奶奶的... 我错过飞机了。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你还有多少钱？<blockquote>nǐ hái yǒu duōshǎo qián ？<br />How much money do you have?</blockquote>|
-|乙|五十。<blockquote>wǔshí 。<br />Fifty bucks.</blockquote>|
-|甲|那是我的钱！给我。<blockquote>nà shì wǒ de qián ！ gěi wǒ 。<br />That's my money! Give it to me.</blockquote>|
+|甲|你什么时候去中国？<blockquote>nǐ shénme shíhòu qù Zhōngguó ？<br />When are you going to China?</blockquote>|
+|乙|我的票是... 昨天的？<blockquote>wǒ de piào shì . . .  zuótiān de ？<br />My tickets are... yesterday?</blockquote>|
+|甲|啊？<blockquote>a ？<br />Huh?</blockquote>|
+|乙|奶奶的... 我错过飞机了。<blockquote>nǎinai de . . .  wǒ cuòguò fēijī le 。<br />Great grandmother... I missed my flight.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|请|qǐng|please|other|
-|停|tíng|to stop|verb|
-|停下|tíngxià|to stop|verb|
-|停车|tíngchē|stop the car|phrase|
-|不要|bù yào|not to want|verb|
-|松手|sōngshǒu|to let go|verb|
-|不用了|bù yòng le|there's no need|phrase|
-|够了|gòu le|enough|phrase|
-|住手|zhùshǒu|stop!|verb|
-|手|shǒu|hand|noun|
+|我|wǒ|me|pronoun|
+|你|nǐ|you|pronoun|
+|什么时候|shénme shíhòu|when|phrase|
+|什么|shénme|what|question|
+|时候|shíhòu|time|noun|
+|去|qù|to go|verb|
+|来|lái|to come|verb|
+|吃饭|chīfàn|to eat|verb|
+|中国|Zhōngguó|China|country|
+|昨天|zuótiān|yesterday|noun|
+|飞机|fēijī|airplane|noun|
+|奶奶|nǎinai|grandmother|noun|
+|奶奶的|nǎinai de|goodness gracious|phrase|

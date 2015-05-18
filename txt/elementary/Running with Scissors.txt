@@ -80,11 +80,14 @@ Shanghai Princess Edition
     zhè jiào wǒ zěnme yòng a ！ bié tǎngxià ， kuài gěi wǒ huàn jiǎndāo qù ！ ai ， qǐlai ya ， kuài qǐlai ！
     How am I supposed to use this? Don't lie down, go get me some new scissors! Hey, get up -- get up!
 ### Vocab
--怎么 (zěnme) [question] how
--内裤 (nèikù) [noun] underwear
--冰箱 (bīngxiāng) [noun] refrigerator
--酸奶 (suānnǎi) [noun] yoghurt
--分手 (fēnshǒu) [verb] to split up
--受不了 (shòubùliǎo) [verb] to be unable to take it
--受够了 (shòugòu le) [verb] to have had enough
--非要 (fēiyào) [verb] to really have to
+-剪刀 (jiǎndāo) [noun] scissors
+-血 (xiě) [noun] blood
+-120 (yāo èr líng) [phrase] 911
+-公主 (gōngzhǔ) [noun] princess
+-版本 (bǎnběn) [noun] version
+-着急 (zháojí) [verb] to be in a hurry
+-浪费 (làngfèi) [verb] to waste
+-受伤 (shòushāng) [verb] to be wounded
+-躺下 (tǎngxià) [verb] to lie down
+-换 (huàn) [verb] to exchange
+-起来 (qǐlai) [verb] to get up

@@ -1,8 +1,7 @@
 # Taking a Photo
 **Absolute Beginners** level
 ### Chinese Text
-甲：Apple，往左，对，往左边，左，左，对，好的。Echo再往右一点，往右一点，对对对对对，好的，别动。一、二、三。
-乙：茄子！
+甲：Apple，往左，对，往左边，左，左，对，好的。Echo再往右一点，往右一点，对对对对对，好的，别动。一、二、三。<br />乙：茄子！
 
 ### Pinyin and Translation
 |说人|句子|
@@ -12,11 +11,17 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|谢谢|xièxie|thanks|phrase|
-|您|nín|you|pronoun|
-|谢谢您|xièxie nín|thank you|phrase|
-|不|bù|no, not|adverb|
-|别|bié|do not|adverb|
-|不用|bù yòng|need not|co-verb|
-|客气|kèqi|polite|adjective|
-|放手|fàngshǒu|let go|verb|
+|往|wǎng|towards|preposition|
+|左|zuǒ|left|noun|
+|右|yòu|right|noun|
+|左边|zuǒbiān|left side|noun|
+|右边|yòubiān|right side|noun|
+|对|duì|correct|phrase|
+|再|zài|again|adverb|
+|一点|yīdiǎn|a bit|phrase|
+|好的|hǎo de|OK|phrase|
+|别|bié|don't|auxiliary verb|
+|动|dòng|to move|verb|
+|一|yī|one|number|
+|二|èr|two|number|
+|三|sān|three|number|

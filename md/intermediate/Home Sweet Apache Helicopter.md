@@ -1,8 +1,7 @@
 # Home Sweet Apache Helicopter
 **Intermediate** level
 ### Chinese Text
-男：宝贝儿，你快来看这儿是什么！
-女：哦？怎么会有直升机？从哪儿租的？
+男：宝贝儿，你快来看这儿是什么！<br />女：哦？怎么会有直升机？从哪儿租的？
 男：什么租的？我买的！
 女：买的？哪儿来的钱呀？
 男：咱们不是有你爸妈那遗产吗？
@@ -22,3 +21,12 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
+|宝贝儿|bǎobèir|baby|noun|
+|直升机|zhíshēngjī|helicopter|noun|
+|遗产|yíchǎn|inheritance|noun|
+|公寓|gōngyù|apartment|noun|
+|首付|shǒufù|first payment|noun|
+|着什么急|zháo shénme jí|what are you getting agitated about|phrase|
+|什么租的|shénme zū de|what do you mean, rent|phrase|
+|而且|érqiě|and moreover|conjunction|
+|泡沫|pàomò|bubbles|noun|

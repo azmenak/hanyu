@@ -2,36 +2,38 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：哦，我好饿。
-乙：那吃吧。
-甲：吃什么？
-乙：笨蛋！吃饭！
+甲：哎呀，这服务太差了。这儿谁管呢？
+乙：饺子。
+甲：谁？
+乙：饺子馆呢！
 
 ### Pinyin and Translation
 
-甲: 哦，我好饿。
-    ò ， wǒ hǎo è 。
-    I'm really hungry.
+甲: 哎呀，这服务太差了。这儿谁管呢？
+    aiya ， zhè fúwù tài chà le 。 zhèr shéi guǎn ne ？
+    Great Scott! The service here is awful. Who is in charge!
 
-乙: 那吃吧。
-    nà chī ba 。
-    Eat then.
+乙: 饺子。
+    jiǎozi 。
+    Dumplings.
 
-甲: 吃什么？
-    chī shénme ？
-    Eat what?
+甲: 谁？
+    shéi ？
+    Who?
 
-乙: 笨蛋！吃饭！
-    bèndàn ！ chīfàn ！
-    Idiot! Eat food!
+乙: 饺子馆呢！
+    jiǎoziguǎn ne ！
+    The dumpling restaurant!
 ### Vocab
--你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] I
--妈妈 (māma) [noun] mother
--爸爸 (bàba) [noun] father
--买 (mǎi) [verb] to buy
--给 (gěi) [verb] to give
--礼物 (lǐwù) [noun] gift
--吗 (ma) [particle] question particle
--为什么 (wèishénme) [question] why
--因为 (yīnwèi) [conjunction] because
+-谁 (shéi) [pronoun] who
+-管 (guǎn) [verb] to manage
+-饺子 (jiǎozi) [noun] dumpling
+-馆 (guǎn) [noun] establishment
+-饭馆 (fànguǎn) [noun] restaurant
+-面馆 (miànguǎn) [noun] noodle shop
+-饺子馆 (jiǎoziguǎn) [noun] dumpling restaurant
+-宾馆 (bīnguǎn) [noun] hotel
+-饭 (fàn) [noun] rice
+-面 (miàn) [noun] noodles
+-服务员 (fúwùyuán) [noun] waitress
+-服务 (fúwù) [noun] service

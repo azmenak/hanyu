@@ -1,8 +1,7 @@
 # Dwarf Net Epoch Park
 **Intermediate** level
 ### Chinese Text
-甲：你看，那两只迅猛龙失控了。
-乙：那我们的侏罗纪公园会完蛋的。
+甲：你看，那两只迅猛龙失控了。<br />乙：那我们的侏罗纪公园会完蛋的。
 甲：没关系，以我的黑客技术，把恐龙关在白垩纪不是问题。
 乙：谢天谢地，还好你会编程。
 甲：哈哈，进去啦，你看，我现在正通过终端，进入了公园的服务器... 妈的，掉线了！
@@ -28,17 +27,17 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|妹夫|mèifu|younger sister's husband|noun|
-|有些个|yǒuxiēge|some|phrase|
-|这些个|zhèxiēge|these|phrase|
-|那些个|nàxiēge|those|phrase|
-|倒霉|dǎoméi|unlucky|adjective|
-|蹲监狱|dūn jiānyù|to sit in jail|phrase|
-|拘捕|jūbǔ|to detain|verb|
-|搜|sōu|to search|verb|
-|可卡因|kěkǎyīn|cocaine|noun|
-|恐怖份子|kǒngbùfènzi|terrorist|noun|
-|行为|xíngwéi|behavior|noun|
-|气质|qìzhi|temperament|noun|
-|股|gǔ|(measure word for smells)|measure word|
-|怪味|guàiwèi|strange smell|noun|
+|迅猛龙|xùnměnglóng|velociraptors|noun|
+|侏罗纪|zhūluójì|Jurassic|noun|
+|白垩纪|báièjì|Cretaceous|noun|
+|失控|shīkòng|to be out of control|verb|
+|完蛋|wándàn|to be finished; to be screwed|verb|
+|黑客|hēikè|hacker|noun|
+|谢天谢地|xiètiānxièdì|thank heavens|phrase|
+|终端|zhōngduān|terminal|noun|
+|服务器|fúwùqì|server|noun|
+|被和谐|bèi héxié|to be censored|slang|
+|复活|fùhuó|to resurrect|verb|
+|可靠|kěkào|reliable|adjective|
+|翻墙|fānqiáng|to evade the firewall|verb|
+|防火墙|fánghuǒqiáng|firewall|noun|

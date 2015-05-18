@@ -1,63 +1,48 @@
 # The French Revolution
 **Intermediate** level
 ### Chinese Text
-一
-甲：它在哪儿？
-乙：关键是，你需要选择。
-甲：告诉我，他们在哪儿？
-乙：你只能救他们中的一个，你的女朋友在王府井大街75号。
-甲：那玉米呢？
-乙：它在南锣鼓巷38号的仓库里，但是你得动作快点儿。
-甲：Gordon，你去找Rachel，我去找玉米。
-二
-甲：警官，你来找我的目的是....
-乙：是Gordon警长，他需要你，他需要蝙蝠侠。
-甲：警长告诉你，我是....
-乙：哦，他不知道你的真实身份，但是我在玉米摊儿一见到你就知道了，任何孤儿都会知道的。
-甲：我....
-乙：Gordon进了下水道，出来的时候满嘴念叨着玉米。
-甲：玉米？
-乙：对，玉米，能够养一支军队的了。
-甲：你不该把这些都汇报给你的上级吗？
-乙：他们笑话了我，听着，我不知道你为什么给Dent的谋杀案背黑锅，但是，我还是相信蝙蝠侠。我们的城市需要你，我们的丰收需要你。
+甲：无产阶级开始变得不安分了。<br />乙：他们总是不安分，这帮懒骨头。
+甲：巴黎到处充满了饥饿，一场起义已经不远了。
+乙：你听起来像个反动派呀。
+甲：这是革命的序曲，我的朋友。
+乙：总是这套抱怨，穷人越来越穷，富人越来越富。
+甲：这次不同。
+乙：如果不是他们懒到整天在大街上游手好闲，就能养活他们自己。自然淘汰一些也是对巴黎做出的贡献。
+甲：你记住我的话，最好赶紧收拾好财产，尽快出城。虽然不会伤害到我，但你的阶级会首当其冲。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-||一<blockquote>yī<br />Part One</blockquote>|
-|甲|它在哪儿？<blockquote>tā zài nǎr ？<br />Where is it?</blockquote>|
-|乙|关键是，你需要选择。<blockquote>guānjiàn shì ， nǐ xūyào xuǎnzé 。<br />The important thing is, you have to choose.</blockquote>|
-|甲|告诉我，他们在哪儿？<blockquote>gàosu wǒ ， tāmen zài nǎr ？<br />Tell me, where are they?</blockquote>|
-|乙|你只能救他们中的一个，你的女朋友在王府井大街75号。<blockquote>nǐ zhǐ néng jiù tāmen zhōng de yī ge ， nǐ de nǚpéngyou zài Wángfǔjǐng dàjiē qīshíwǔ hào 。<br />You can only rescue one of them. Your girlfriend is at number 75 Wangfujing Street.</blockquote>|
-|甲|那玉米呢？<blockquote>nà yùmǐ ne ？<br />And the corn?</blockquote>|
-|乙|它在南锣鼓巷38号的仓库里，但是你得动作快点儿。<blockquote>tā zài Nánluógǔxiàng sānshíbā hào de cāngkù lǐ ， dànshì nǐ děi dòngzuò kuài  diǎnr 。<br />It's in the warehouse at 38 South Luogu lane. But you'll have to move quickly.</blockquote>|
-|甲|Gordon，你去找Rachel，我去找玉米。<blockquote>Gordon ， nǐ qù zhǎo Rachel ， wǒ qù zhǎo yùmǐ 。<br />Gordon, you go get Rachel, I'm getting the corn.</blockquote>|
-||二<blockquote>èr<br />Part Two</blockquote>|
-|甲|警官，你来找我的目的是....<blockquote>jǐngguān ， nǐ lái zhǎo wǒ de mùdi shì . . . .<br />So officer, why exactly are you here looking for me....</blockquote>|
-|乙|是Gordon警长，他需要你，他需要蝙蝠侠。<blockquote>shì Gordon jǐngzhǎng ， tā xūyào nǐ ， tā xūyào biānfúxiá 。<br />It's Commissioner Gordon. He needs you. He needs the Batman.</blockquote>|
-|甲|警长告诉你，我是....<blockquote>jǐngzhǎng gàosu nǐ ， wǒ shì . . . .<br />The commissioner told you that I'm....</blockquote>|
-|乙|哦，他不知道你的真实身份，但是我在玉米摊儿一见到你就知道了，任何孤儿都会知道的。<blockquote>o ， tā bù zhīdào nǐ de zhēnshí shēnfèn ， dànshì wǒ zài yùmǐ tānr yī jiàndào nǐ jiù zhīdao le ， rènhé gū_APOS_ér dōu huì zhīdao de 。<br />Oh, he doesn't know your true identity. But as soon as I saw you at the corn stand, I knew it. Any orphan would know.</blockquote>|
-|甲|我....<blockquote>wǒ . . . .<br />I....</blockquote>|
-|乙|Gordon进了下水道，出来的时候满嘴念叨着玉米。<blockquote>Gordon jìn le xiàshuǐdào ， chūlai de shíhou mǎnzuǐ niàndaozhe yùmǐ 。<br />Gorden went down into the sewers. And when he came out he was mumbling about corn.</blockquote>|
-|甲|玉米？<blockquote>yùmǐ ？<br />Corn?</blockquote>|
-|乙|对，玉米，能够养一支军队的了。<blockquote>duì ， yùmǐ ， nénggòu yǎng yī zhī jūnduì de le 。<br />That's right... corn. Enough to feed an army.</blockquote>|
-|甲|你不该把这些都汇报给你的上级吗？<blockquote>nǐ bù gāi bǎ zhèxiē dōu huìbào gěi nǐ de shàngjí ma ？<br />Shouldn't you be telling this to your superiors?</blockquote>|
-|乙|他们笑话了我，听着，我不知道你为什么给Dent的谋杀案背黑锅，但是，我还是相信蝙蝠侠。我们的城市需要你，我们的丰收需要你。<blockquote>tāmen xiàohua le wǒ ， tīngzhe ， wǒ bù zhīdào nǐ wèishénme gěi Dent de móushāàn bēihēiguō ， dànshì ， wǒ hái shì xiāngxìn biānfúxiá 。 wǒmen de chéngshì xūyào nǐ ， wǒmen de fēngshōu xūyào nǐ 。<br />They laughed at me. Listen. I don't know why you took the fall for Dent's murder, but I still believe in the Batman. Our city needs you. Our harvest needs you.</blockquote>|
+|甲|无产阶级开始变得不安分了。<blockquote>wúchǎnjiējí kāishǐ biànde bù ānfèn le 。<br />The proletariat is getting restless.</blockquote>|
+|乙|他们总是不安分，这帮懒骨头。<blockquote>tāmen zǒngshì bù ānfèn ， zhè bāng lǎngǔtóu 。<br />They're always restless, the lazy scoundrels.</blockquote>|
+|甲|巴黎到处充满了饥饿，一场起义已经不远了。<blockquote>Bālí dàochù chōngmǎn le jī_APOS_è ， yī chǎng qǐyì yǐjīng bù yuǎn le 。<br />Paris is wracked with famine... an uprising is not far off.</blockquote>|
+|乙|你听起来像个反动派呀。<blockquote>nǐ tīngqǐlai xiàng ge fǎndòngpài yā 。<br />You sound like a reactionary.</blockquote>|
+|甲|这是革命的序曲，我的朋友。<blockquote>zhè shì gémìng de xùqǔ ， wǒ de péngyou 。<br />This is the prelude to a revolution, my friend.</blockquote>|
+|乙|总是这套抱怨，穷人越来越穷，富人越来越富。<blockquote>zǒngshì zhè tào bàoyuan ， qióngrén yuèláiyuè qióng ， fùrén yuèláiyuè fù 。<br />It's always the same set of complaints. The poor get poorer and the rich get richer.</blockquote>|
+|甲|这次不同。<blockquote>zhè cì bùtóng 。<br />This time is different.</blockquote>|
+|乙|如果不是他们懒到整天在大街上游手好闲，就能养活他们自己。自然淘汰一些也是对巴黎做出的贡献。<blockquote>rúguǒ bùshì tāmen lǎndào zhěngtiān zài dàjiē shang yóushǒuhàoxián ， jiù néng yǎnghuo tāmenzìjǐ 。 zìrán táotài yīxiē yě shì duì Bālí zuòchū de gòngxiàn 。<br />If they weren't so shiftless as to spend all their time doing nothing in the street, then they'd be able to support themselves. Letting nature take its course with a few will be a service to Paris.</blockquote>|
+|甲|你记住我的话，最好赶紧收拾好财产，尽快出城。虽然不会伤害到我，但你的阶级会首当其冲。<blockquote>nǐ jìzhu wǒ de huà ， zuìhǎo gǎnjǐn shōushihǎo cáichǎn ， jǐnkuài chūchéng 。 suīrán bùhuì shānghàidào wǒ ， dàn nǐ de jiējí huì shǒudāngqíchōng 。<br />Mark my words. You'd best gather your property and get out of the city. Although the havoc won't harm me, you and yours will bear the brunt of its blow.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|通|tòng|(telephone calls)|measure word|
-|汇|huì|to remit|verb|
-|赎金|shújīn|ransom|noun|
-|转账|zhuǎnzhàng|to transfer funds|verb|
-|监听|jiāntīng|to eavesdrop|verb|
-|否认|fǒurèn|to deny|verb|
-|惨案|cǎn'àn|disaster|noun|
-|翻倍|fānbèi|to double|verb|
-|不然|bùrán|otherwise|conjunction|
-|撕票|sīpiào|to kill the hostage|verb|
-|出尔反尔|chū’ěrfǎn‘ěr|to reap what one sows|chengyu|
-|万人空巷|wànrénkōngxiàng|mass spectacle|chengyu|
-|不以为然|bùyǐwéirán|to disapprove|chengyu|
-|空穴来风|kōngxuéláifēng|where there's smoke there's fire|chengyu|
-|七月流火|qīyuèliúhuǒ|the start of summer cooling|chengyu|
+|饥饿|jī'è|hunger|noun|
+|革命|gémìng|revolution|noun|
+|起义|qǐyì|uprising|noun|
+|暴乱|bàoluàn|riot|noun|
+|序曲|xùqǔ|prelude|noun|
+|养活|yǎnghuo|to support|verb|
+|贡献|gòngxiàn|contribution|noun|
+|收拾|shōushi|to put in order|verb|
+|财产|cáichǎn|property|noun|
+|阶级|jiējí|class|noun|
+|汉奸|hànjiān|race traitor|noun|
+|走狗|zǒugǒu|running-dog|noun|
+|卖国贼|màiguózéi|traitor|noun|
+|不安分|bù ānfèn|restless|adjective|
+|懒骨头|lǎngǔtóu|lazy-bones|noun|
+|反动派|fǎndòngpài|reactionary force|noun|
+|无产阶级|wúchǎnjiējí|proletariat|noun|
+|资产阶级|zīchǎnjiējí|bourgeoisie|noun|
+|游手好闲|yóushǒuhàoxián|to do nothing|adjective|
+|自然淘汰|zìrán táotài|natural selection|phrase|
+|首当其冲|shǒudāngqíchōng|to bear the brunt first|verb|

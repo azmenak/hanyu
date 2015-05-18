@@ -2,48 +2,43 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：你头上怎么有个盒子？
-乙：盒子，什么盒子？
-甲：这个盒子。
-乙：别说盒子，他们看着呢。
-甲：他们是谁？警察吗？
-乙：警察？我不知道你在说什么。
-甲：我们在说你头上这个盒子。
-乙：我头上没有盒子....
+甲：法官大人，我知道被告是无罪的，因为案发当晚... 我自己就在现场。
+乙：什么？
+丙：反对！这不可能。
+甲：是的，法官大人，被告律师想请自己出庭作证。
+乙：你是说案发当晚，你就在港口？
+甲：是的。
+乙：警方报告中，怎么没有记录？
 
 ### Pinyin and Translation
 
-甲: 你头上怎么有个盒子？
-    nǐ tóushàng zěnme yǒu ge hézi ？
-    Why do you have a box on your head?
+甲: 法官大人，我知道被告是无罪的，因为案发当晚... 我自己就在现场。
+    fǎguān dàren ， wǒ zhīdào bèigào shì wúzuì de ， yīnwèi ànfā dāngwǎn ... wǒ zìjǐ jiù zài xiànchǎng 。
+    Your Honour. I know that the defendant is innocent, because on the night of the crime, I was at the scene myself.
 
-乙: 盒子，什么盒子？
-    hézi ， shénme hézi ？
-    Box? What box?
+乙: 什么？
+    shénme ？
+    What?
 
-甲: 这个盒子。
-    zhè ge hézi 。
-    This box.
+丙: 反对！这不可能。
+    fǎnduì ！ zhè bù kěnéng 。
+    I object! This isn't possible.
 
-乙: 别说盒子，他们看着呢。
-    bié shuō hézi ， tāmen kànzhe ne 。
-    Don't talk about the box. They're watching.
+甲: 是的，法官大人，被告律师想请自己出庭作证。
+    shìde ， fǎguān dàren ， bèigào lǜshī xiǎng qǐng zìjǐ chūtíng zuòzhèng 。
+    That's right Your Honor. The lawyer for the defense calls himself to the stand.
 
-甲: 他们是谁？警察吗？
-    tāmen shì shéi ？ jǐngchá ma ？
-    Who are they? The police?
+乙: 你是说案发当晚，你就在港口？
+    nǐ shì shuō ànfā dāngwǎn ， nǐ jiù zài gǎngkǒu ？
+    You're saying that the evening this all happened, you were at the harbour?
 
-乙: 警察？我不知道你在说什么。
-    jǐngchá ？ wǒ bù zhīdào nǐ zài shuō shénme 。
-    Police? I don't know what you're talking about.
+甲: 是的。
+    shìde 。
+    That's right.
 
-甲: 我们在说你头上这个盒子。
-    wǒmen zài shuō nǐ tóushàng zhè ge hézi 。
-    I'm talking about this box on your head.
-
-乙: 我头上没有盒子....
-    wǒ tóushàng méiyǒu hézi . . . .
-    I don't have a box on my head....
+乙: 警方报告中，怎么没有记录？
+    jǐngfāng bàogào zhōng ， zěnme méiyǒu jìlù ？
+    Why isn't there any mention of this in the police report?
 ### Vocab
 -被告 (bèigào) [noun] defendant
 -无罪 (wúzuì) [adjective] not guilty

@@ -1,30 +1,31 @@
 # A Glass of Ice Water
 **Absolute Beginners** level
 ### Chinese Text
-甲：这是第一次吗？
-乙：不，第二次。
-甲：这个疫苗需要打三次。
-乙：我需要回来吗？
-甲：六个月以后，再来一次。
+甲：来一杯冰水。<br />乙：白开水吗？
+甲：行，可以。
+乙：你要凉的还是热的？
+甲：冰的。
+乙：哦，对，不好意思。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|这是第一次吗？<blockquote>zhè shì dì yī cì ma ？<br />This is your first time?</blockquote>|
-|乙|不，第二次。<blockquote>bù ， dì èr cì 。<br />No. The second time.</blockquote>|
-|甲|这个疫苗需要打三次。<blockquote>zhège yìmiáo xūyào dǎ sān cì 。<br />This vaccine needs three injections.</blockquote>|
-|乙|我需要回来吗？<blockquote>wǒ xūyào huílai ma ？<br />I need to come back?</blockquote>|
-|甲|六个月以后，再来一次。<blockquote>liù  ge yuè yǐhòu ， zài lái yī cì 。<br />Come back once more after six months.</blockquote>|
+|甲|来一杯冰水。<blockquote>lái yī bēi bīngshuǐ 。<br />Bring me a glass of ice water.</blockquote>|
+|乙|白开水吗？<blockquote>báikāishuǐ ma ？<br />Is boiled tap water ok?</blockquote>|
+|甲|行，可以。<blockquote>xíng ， kěyǐ 。<br />Sure, that'll do.</blockquote>|
+|乙|你要凉的还是热的？<blockquote>nǐ yào liáng de háishì rè de ？<br />Do you want it cold or hot?</blockquote>|
+|甲|冰的。<blockquote>bīng de 。<br />Ice cold.</blockquote>|
+|乙|哦，对，不好意思。<blockquote>o ， duì ， bùhǎoyìsi 。<br />Oh, right, sorry.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|蛐蛐|qūqur|cricket|noun|
-|蝈蝈|guōguor|grasshopper|noun|
-|知道|zhīdào|to know|verb|
-|说话|shuōhuà|to speak|verb|
-|会|huì|can|verb|
-|还|hái|still|adverb|
-|不|bù|not|adverb|
-|没|méi|not|adverb|
-|真没辙|zhēn méizhé|there's nothing anyone can do about it|phrase|
-|没办法|méibànfǎ|there's no way|phrase|
+|来|lái|to bring|verb|
+|对|duì|right|phrase|
+|杯|bēi|cup|measure word|
+|冰水|bīngshuǐ|ice water|noun|
+|凉水|liángshuǐ|cool water|noun|
+|热水|rèshuǐ|hot water|noun|
+|可以|kěyǐ|alright|phrase|
+|常温|chángwēn|room temperature|adjective|
+|白开水|báikāishuǐ|boiled water|noun|
+|不好意思|bùhǎoyìsi|sorry|phrase|

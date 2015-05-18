@@ -2,38 +2,38 @@
 ## *elementary* level
 
 ### Chinese Text
-男：哎，你肚子又叫了哎。
-女：不可能，我今儿吃饭了。
-男：那还能是我的，很显然从你那儿来的声音。
-女：这今天呀，绝对不是我的。肯定是你。
-男：不可能，不可能，不可能。我肚子从来没叫过。
-女：你听，是你吧。
+男：请问你们这儿有WiFi吗？
+女：什么？
+男：有没有无线网络?
+女：哦，有。你有笔记本儿？
+男：我有。我想上网。
+女：好的。
 
 ### Pinyin and Translation
 
-男: 哎，你肚子又叫了哎。
-    ai ， nǐ dùzi yòu jiào le ai 。
-    Hey, your stomach is growling again.
+男: 请问你们这儿有WiFi吗？
+    qǐng wèn nǐmen zhèr yǒu WiFi ma ？
+    Excuse me, do you have WiFi?
 
-女: 不可能，我今儿吃饭了。
-    bù kěnéng ， wǒ jinr1 chīfàn le 。
-    That's not possible, I've already eaten today.
+女: 什么？
+    shénme ？
+    Huh?
 
-男: 那还能是我的，很显然从你那儿来的声音。
-    nà hái néng shì wǒde ， hěn xiǎnrán cóng nǐ nàr lái de shēngyīn 。
-    No way it's mine, the sound clearly came from over by you.
+男: 有没有无线网络?
+    yǒu méiyǒu wúxiàn wǎngluò ?
+    Do you have wireless Internet?
 
-女: 这今天呀，绝对不是我的。肯定是你。
-    zhè jīntiān ya ， juéduì bùshì wǒde 。 kěndìng shì nǐ 。
-    Today, it's absolutely not mine. It's definitely yours.
+女: 哦，有。你有笔记本儿？
+    ō ， yǒu 。 nǐ yǒu bǐjìběnr ？
+    Oh, yeah. You have a laptop?
 
-男: 不可能，不可能，不可能。我肚子从来没叫过。
-    bù kěnéng ， bù kěnéng ， bù kěnéng 。 wǒ dúzi cónglái méi jiàoguò 。
-    No way, no way, no way. My stomach never growls.
+男: 我有。我想上网。
+    wǒ yǒu 。 wǒ xiǎng shàngwǎng 。
+    I do. I want to get online.
 
-女: 你听，是你吧。
-    nǐ tīng ， shì nǐ ba 。
-    Hey listen, it is you!
+女: 好的。
+    hǎo de 。
+    OK.
 ### Vocab
 -请问 (qǐng wèn) [phrase] may I ask
 -什么 (shénme) [question] what

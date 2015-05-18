@@ -2,68 +2,44 @@
 ## *elementary* level
 
 ### Chinese Text
-老师：跟我读：透司特。
-学生：透司特。
-老师：透司特是面包的意思。例如，一杯橙汁，两片儿透司特。
-学生：一杯橙汁，两片儿透司特。
-老师：好。
-学生：一杯橙汁，两片儿透司特。
-老师：透司特。
-学生：这不是轻声吗？
-老师：你是老师吗？跟我读：透司特。还有罢特日。
+女人：要我跟你说多少次，你才明白？
+男人：我是真不懂这个。
+女人：你个成年人，你看说明书呀。
+男人：说明书是瑞典语的。
+女人：这就是一个茶几的名字。你看图片就行了。
 
 ### Pinyin and Translation
 
-老师: 跟我读：透司特。
-      gēn wǒ dú ： tòusītè 。
-      Read with me: toast.
+女人: 要我跟你说多少次，你才明白？
+      yào wǒ gēn nǐ shuō duōshao cì ， nǐ cái míngbai ？
+      How many times do I have to tell you before you understand?
 
-学生: 透司特。
-      tòusītè 。
-      Toast.
+男人: 我是真不懂这个。
+      wǒ shì zhēn bù dǒng zhège 。
+      I just don't get it.
 
-老师: 透司特是面包的意思。例如，一杯橙汁，两片儿透司特。
-      tòusītè shì miànbāo de yìsi 。 lìrú ， yī bēi chéngzhī ， liǎng piānr tòusītè 。
-      Toast means bread. For example, a cup of orange juice and two pieces of toast.
+女人: 你个成年人，你看说明书呀。
+      nǐ ge chéngniánrén ， nǐ kàn shuōmíngshū yā 。
+      You're a grown-up, just look at the instruction manual.
 
-学生: 一杯橙汁，两片儿透司特。
-      yī bēi chéngzhī ， liǎng piànr tòusītè 。
-      A cup of orange juice and two pieces of toast.
+男人: 说明书是瑞典语的。
+      shuōmíngshū shì Ruìdiǎnyǔ de 。
+      The instruction manual is in Swedish.
 
-老师: 好。
-      hǎo 。
-      Good.
-
-学生: 一杯橙汁，两片儿透司特。
-      yī bēi chéngzhī ， liǎng piànr tòusītè 。
-      A cup of orange juice and two pieces of toast.
-
-老师: 透司特。
-      tòusītè 。
-      Toast.
-
-学生: 这不是轻声吗？
-      zhè bù shì qīngshēng ma ？
-      Isn't this a neutral tone?
-
-老师: 你是老师吗？跟我读：透司特。还有罢特日。
-      nǐ shì lǎoshī ma ？ gēn wǒ dú ： tòusītè 。 hái yǒu bàtèrì 。
-      Are you the teacher? Read with me: toast and butter.
+女人: 这就是一个茶几的名字。你看图片就行了。
+      zhè jiù shì yī ge chájǐ de míngzi 。 nǐ kàn túpiàn jiù xíng le 。
+      That's the name of the coffee table. Just look at the pictures.
 ### Vocab
--用 (yòng) [verb] to use
--拿 (ná) [verb] to take
--调 (tiáo) [verb] to adjust
--骗 (piàn) [verb] to cheat
--激光 (jīguāng) [noun] laser
--打算 (dǎsuàn) [verb] to plan
--切开 (qiēkāi) [verb] to cut open
--金库 (jīnkù) [noun] vault
--告诉 (gàosu) [verb] to tell
--现在 (xiànzài) [adverb] now
--不过 (búguò) [adverb] but
--能量 (néngliàng) [noun] energy
--忍受 (rěnshòu) [verb] to bear
--钥匙 (yàoshi) [noun] key
--起子 (qǐzi) [noun] bottle opener
--受不了 (shòubùliǎo) [phrase] unable to bear it
--受得了 (shòudeliǎo) [phrase] able to bear it
+-鹅 (é) [noun] goose
+-瑞典 (ruìdiǎn) [noun] Sweden
+-瑞士 (ruìshì) [noun] Switzerland
+-明白 (míngbai) [verb] to understand
+-茶几 (chájī) [noun] coffee table
+-图片 (túpiàn) [noun] image
+-宜家 (yíjiā) [name] Ikea
+-隆德 (Lòngdé) [place] Lund
+-白酒 (báijiǔ) [noun] baijiu
+-商会 (shānghuì) [noun] chamber of commerce
+-爱立信 (àilìxìn) [name] Ericsson
+-成年人 (chéngniánrén) [noun] adult person
+-说明书 (shuōmíngshū) [noun] instruction manual

@@ -25,12 +25,14 @@
     wǒ méi chī mǐfàn 。
     I didn't have any rice.
 ### Vocab
--先生 (xiānsheng) [noun] Mister
--请 (qǐng) [verb] please
--系好 (jìhǎo) [verb] to fasten
--安全 (ānquán) [adjective] safe
--安全套 (ānquántào) [noun] condom
--安全带 (ānquándài) [noun] seat belt
 -你 (nǐ) [pronoun] you
--说 (shuō) [verb] to say
--什么 (shénme) [question] what
+-我 (wǒ) [pronoun] I
+-真 (zhēn) [adverb] really
+-能吃 (néngchī) [adjective] gluttonous
+-又 (yòu) [adverb] once again
+-开玩笑 (kāiwánxiào) [phrase] you're kidding
+-在 (zài) [preposition] currently
+-减肥 (jiǎnféi) [verb] to diet
+-还 (hái) [adverb] still
+-米饭 (mǐfàn) [noun] cooked rice
+-没了 (méi le) [verb phrase] to be gone

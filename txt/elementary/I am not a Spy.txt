@@ -60,14 +60,14 @@ The 4th part
     ái ， nǐ Zhōngwén shuō de bùcuò ya ！
     Hey, you speak Chinese pretty well!
 ### Vocab
--老板 (lǎobǎn) [noun] boss
--来 (lái) [verb] to bring
--鲜橙多 (Xiānchéngduō) [noun] orange tang
--挣钱 (zhèngqián) [verb] to make money
--脉动 (Màidòng) [noun] Mizone sports drink
--抠门儿 (kōuménr) [adjective] stingy
--冰红茶 (bīnghóngchá) [noun] iced red tea
--冰绿茶 (bīnglǜchá) [noun] iced green tea
--茉莉清茶 (mòlìqīngchá) [noun] jasmine tea
--蜂蜜柚子茶 (fēngmìyòuzichá) [noun] honey citron tea
--非常可乐 (fēicháng kělè) [noun] future cola
+-间谍 (jiàndié) [noun] spy
+-工作 (gōngzuò) [noun] work
+-出口 (chūkǒu) [verb/noun] export; to export
+-进口 (jìnkǒu) [verb/noun] import; to import
+-贸易 (màoyì) [noun] trade
+-东西 (dōngxi) [noun] thing
+-手机 (shǒujī) [noun] cellphone
+-信号 (xìnhào) [noun] signal
+-棒 (bàng) [adjective] great
+-标准 (biāozhǔn) [adjective] standard
+-流利 (liúlì) [adjective] fluent

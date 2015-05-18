@@ -1,39 +1,30 @@
 # An Evening of Romance and Laughter
 **Absolute Beginners** level
 ### Chinese Text
-甲：还有一百米。
-乙：我不行了....
-甲：坚持，坚持，一定要....
-乙：我太累了。
-甲：想想孩子。
-乙：别管我。我，对不起....
+甲：我觉得你很特别，非常特别。<br />乙：你不觉得我的笑声很烦人吗？
+甲：不不不，很好听。
+乙：可是别人都说很刺耳。
+甲：不不不不，那是他们没有幽默感，无聊，很无聊。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|还有一百米。<blockquote>hái yǒu yībǎi mǐ 。<br />There's still another hundred meters.</blockquote>|
-|乙|我不行了....<blockquote>wǒ bù xíng le . . . .<br />I can't do it....</blockquote>|
-|甲|坚持，坚持，一定要....<blockquote>jiānchí ， jiānchí ， yīdìng yào . . . .<br />Keep at it, you've got to....</blockquote>|
-|乙|我太累了。<blockquote>wǒ tài lèi le 。<br />I'm too tired.</blockquote>|
-|甲|想想孩子。<blockquote>xiǎngxiang háizi 。<br />Think of the children.</blockquote>|
-|乙|别管我。我，对不起....<blockquote>bié guǎn wǒ 。 wǒ ， duìbuqǐ . . . .<br />Leave me be. I'm... I'm sorry.</blockquote>|
+|甲|我觉得你很特别，非常特别。<blockquote>wǒ juéde nǐ hěn tèbié ， fēicháng tèbié 。<br />I think that you're very special... extremely special.</blockquote>|
+|乙|你不觉得我的笑声很烦人吗？<blockquote>nǐ bù juéde wǒ de xiàoshēng hěn fánrén ma ？<br />You don't find the sound of my laughter aggravating?</blockquote>|
+|甲|不不不，很好听。<blockquote>bù bù bù ， hěn hǎotīng 。<br />Not at all! It's very pleasant.</blockquote>|
+|乙|可是别人都说很刺耳。<blockquote>kěshì biérén dōu shuō hěn cì_APOS_ěr 。<br />But other people say it's irritating.</blockquote>|
+|甲|不不不不，那是他们没有幽默感，无聊，很无聊。<blockquote>bù bù bù bù ， nà shì tāmen méiyǒu yōumògǎn ， wúliáo ， hěn wúliáo 。<br />Oh no. The don't have a sense of humor, that's all. They're just boring, very boring.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|要|yào|to want|verb|
-|买|mǎi|to buy|verb|
-|钱|qián|money|noun|
-|给|gěi|to give|verb|
-|十|shí|ten|number|
-|百|bǎi|hundred|number|
-|耳机|ěrjī|earpiece|noun|
-|苹果|Píngguǒ|Apple|noun|
-|还是|háishì|or|conjunction|
-|普通|pǔtōng|regular|adjective|
-|多少|duōshǎo|how much|other|
-|红的|hóngde|red ones|noun|
-|黑的|hēide|black ones|noun|
-|贵的|guìde|expensive ones|noun|
-|冰的|bīngde|iced ones|noun|
-|常温的|chángwēnde|room temperature ones|noun|
-|便宜的|piányide|cheap ones|noun|
+|觉得|juéde|to feel|verb|
+|很|hěn|very|adverb|
+|非常|fēicháng|unusually|adverb|
+|笑声|xiàoshēng|laughter|noun|
+|别人|biérén|other people|noun|
+|特别|tèbié|special|adjective|
+|烦人|fánrén|annoying|adjective|
+|好听|hǎotīng|pleasant sounding|adjective|
+|刺耳|cì'ěr|harsh sounding|adjective|
+|幽默|yōumò|humorous|adjective|
+|无聊|wúliáo|boring|adjective|

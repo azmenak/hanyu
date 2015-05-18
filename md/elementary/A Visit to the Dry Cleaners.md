@@ -1,8 +1,7 @@
 # A Visit to the Dry Cleaners
 **Elementary** level
 ### Chinese Text
-小姐，你好，我来取衣服。给你我的票。
-这是您的衣服。
+小姐，你好，我来取衣服。给你我的票。<br />这是您的衣服。
 嗯？这是我的衣服吗？
 不是吗？
 颜色不对，大小也不对，款式都不对！我是女人。
@@ -22,12 +21,17 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|电脑|diànnǎo|computer|noun|
-|又|yòu|again|adverb|
-|安装|ānzhuāng|to install|verb|
-|软件|ruǎnjiàn|software|noun|
-|天哪|tiān na|goodness gracious|phrase|
-|担心|dānxīn|to worry|verb|
-|别|bié|don't|adverb|
-|免费|miǎnfèi|free|adjective|
-|弄坏|nòng huài|to break|verb phrase|
+|干洗店|gānxǐdiàn|dry-cleaning store|noun|
+|取|qǔ|to take|verb|
+|衣服|yīfu|clothing|noun|
+|票|piào|ticket|noun|
+|不是吗|bùshì ma|aren't they|phrase|
+|颜色|yánsè|color|noun|
+|大小|dàxiǎo|size|noun|
+|款式|kuǎnshì|style|noun|
+|号|hào|fit-size|noun|
+|裤子|kùzi|pants|noun|
+|衬衫|chènshān|shirt|noun|
+|裙子|qúnzi|skirt|noun|
+|连衣裙|liányīqún|dress|noun|
+|袜子|wàzi|socks|noun|

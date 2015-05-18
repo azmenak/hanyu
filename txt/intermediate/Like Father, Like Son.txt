@@ -35,25 +35,13 @@
     āi ， Wǒ jiù zhīdào 。 zhège bìng shì yíchuánxìng de 。 nǐ jiālǐ hái yǒu qítārén ？
     Oh, I should have known。 This disease is hereditary. Is there anyone else in your family I can speak to?
 ### Vocab
--万能 (wànnéng) [adjective] all-powerful
--信徒 (xìntú) [noun] disciple
--盛宴 (shèngyàn) [noun] feast
--命令 (mìnglìng) [verb] to order
--血腥 (xuèxīng) [adjective] bloody
--妖怪 (yāoguài) [noun] monster
--魔鬼 (móguǐ) [noun] demon
--魔法 (mófǎ) [noun] magic
--怨气 (yuànqì) [noun] resentment
--招财 (zhāocái) [verb] to bring fortune
--普及 (pǔjí) [verb] to educate
--典型 (diǎnxíng) [adjective] typical
--撒旦 (sàdàn) [noun] Satan
--蛇精 (shéjīng) [noun] snake spirit
--狐狸精 (húlíjīng) [noun] fox spirit
--五角星 (wǔjiǎoxīng) [noun] pentagram
--万能胶 (wànnéngjiāo) [noun] super glue
--万能钥匙 (wànnéngyàoshi) [noun] master key
--邪恶之神 (xiéèzhīshén) [noun] spirit of devil
--正义之神 (zhèngyìzhīshén) [noun] spirit of justice
--黑暗之神 (hēiànzhīshén) [noun] spirit of darkness
--山羊之肝 (shānyángzhīgān) [noun] liver of mountain goat
+-头部 (tóubù) [noun] head
+-同龄 (tónglíng) [noun] of the same age
+-天生 (tiānshēng) [adverb] natural-born
+-活泼 (huópō) [adjective] lively
+-礼貌 (lǐmào) [adjective] polite
+-粗鲁 (cūlǔ) [adjective] rude
+-体贴 (tǐtiē) [adjective] considerate
+-三星 (Sānxīng) [noun] Samsung
+-遗传性 (yíchuánxìng) [noun] inherited
+-比较级 (bǐjiàojí) [noun] comparatives

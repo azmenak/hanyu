@@ -25,14 +25,13 @@
     tā yǐjīng jiéguò yī cì la ？ wǒ zěnme shénme dōu bù zhīdào a 。
     He's already been married before? How do I not know anything about this?
 ### Vocab
--百科 (bǎikē) [noun] encyclopedia
--维基百科 (wéijī bǎikē) [noun] Wikipedia
--百度百科 (bǎidù bǎikē) [noun] Baidupedia
--早 (zǎo) [adverb] early
--在 (zài) [preposition] at
--从 (cóng) [preposition] from
--上 (shàng) [directional complement] on
--里 (lǐ) [directional complement] in
--抄 (chāo) [verb] to copy
--报告 (bàogào) [noun] report
--天下文章一大抄，看你会抄不会抄 (tiānxià wénzhāng yī dà chāo, kàn nǐ huì chāo būhuì chāo) [saying] writing articles is just a matter of copying, you just need to know how
+-过 (guò) [particle] completed aspect
+-了 (le) [particle] past aspect
+-前 (qián) [adjective] previous; former
+-妻子 (qīzi) [noun] wife
+-已经 (yǐjīng) [already] already
+-结婚 (jiéhūn) [verb] to marry
+-听说 (tīngshuō) [phrase] to hear told
+-穿鞋 (chuānxié) [verb] to put on shoes
+-开饭馆 (kāi fànguǎn) [verb] to open a restaurant
+-下雨 (xiàyǔ) [verb] to rain

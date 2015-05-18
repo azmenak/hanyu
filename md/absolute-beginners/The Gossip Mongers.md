@@ -1,20 +1,21 @@
 # The Gossip Mongers
 **Absolute Beginners** level
 ### Chinese Text
-甲：我要买耳机。
-乙：苹果的还是普通的？
-甲：多少钱？
-乙：苹果的一百二，普通的三十。
-甲：给我普通的。
+女人：你知道吗？<br />男人：你也知道了。
+女人：你什么时候知道的？
+男人：刚才。
+女人：我也是。
+男人：天哪！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我要买耳机。<blockquote>wǒ yào mǎi ěrjī 。<br />I want to buy earphones.</blockquote>|
-|乙|苹果的还是普通的？<blockquote>Píngguǒ de háishì pǔtōng de ？<br />Apple earphones or normal earphones?</blockquote>|
-|甲|多少钱？<blockquote>duōshǎo qián ？<br />How much money?</blockquote>|
-|乙|苹果的一百二，普通的三十。<blockquote>Píngguǒ de yībǎi èr ， pǔtōng de sānshí 。<br />Apple earphones are 120, normal earphones are 30.</blockquote>|
-|甲|给我普通的。<blockquote>gěi wǒ pǔtōng de 。<br />Give me the normal ones.</blockquote>|
+|女人|你知道吗？<blockquote>nǐ zhīdào ma ？<br />Do you know?</blockquote>|
+|男人|你也知道了。<blockquote>nǐ yě zhīdào le 。<br />You know now too?</blockquote>|
+|女人|你什么时候知道的？<blockquote>nǐ shénme shíhou zhīdào de ？<br />When did you find out?</blockquote>|
+|男人|刚才。<blockquote>gāngcái 。<br />Just now.</blockquote>|
+|女人|我也是。<blockquote>wǒ yě shì 。<br />Me too.</blockquote>|
+|男人|天哪！<blockquote>tiānna ！<br />My heavens!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

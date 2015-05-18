@@ -1,8 +1,7 @@
 # An Evening at the Rock and Roll Club
 **Elementary** level
 ### Chinese Text
-甲：你记得我昨天带回来的那个女孩儿？
-乙：谁？那个伪娘？
+甲：你记得我昨天带回来的那个女孩儿？<br />乙：谁？那个伪娘？
 甲：什么？你早知道她是男的？
 乙：你之前不知道啊？
 甲：我当然不知道，你怎么没告诉我？
@@ -22,14 +21,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|听说|tīngshuō|to hear told|verb|
-|泡泡中文|Pàopào Zhōngwén|Popup Chinese|noun|
-|收|shōu|to receive|verb|
-|比特币|bǐtèbì|bitcoin|noun|
-|邮|yóu|to mail|verb|
-|升级|shēngjí|to upgrade|verb|
-|帐户|zhànghù|account|noun|
-|在乎|zàihu|to care for|verb|
-|什么|shénme|anything|pronoun|
-|谁|shéi|anyone|pronoun|
-|怎么|zěnme|any way|pronoun|
+|记得|jìde|to remember|verb|
+|带回来|dài huílai|to take back|verb|
+|昨天|zuótiān|yesterday|noun|
+|伪娘|wěiniáng|transvestite|noun|
+|早|zǎo|early|adjective|
+|当然|dāngrán|of course|adverb|
+|以为|yǐwéi|to believe mistakenly|verb|
+|发现|fāxiàn|to discover|verb|
+|告诉|gàosu|to tell|verb|
+|呢|ne|(particle)|particle|
+|怎么|zěnme|how|question|

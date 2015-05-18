@@ -25,12 +25,13 @@
     shì a ， jiùshì nàge yǒu bōkè de wǎngzhàn 。 āi ， wǒ yàoshi zǎo zhīdào jiù hǎo le 。
     Yeah, it's the one with the podcasts. If only I knew of it sooner.
 ### Vocab
--脸 (liǎn) [noun] face
--别提了 (bié tí le) [phrase] don't get me started
--撞 (zhuàng) [verb] to smash into
--树 (shù) [noun] tree
--严重 (yánzhòng) [adjective] serious
--这样儿 (zhèyàngr) [phrase] this way
--嫁 (jià) [verb] to marry
--提 (tí) [verb] to raise
--难看 (nánkàn) [adjective] ugly
+-泡泡中文 (Pàopao Zhōngwén) [noun] Popup Chinese
+-减掉 (jiǎn diào) [verb] to lose
+-网站 (wǎngzhàn) [noun] website
+-斤 (jīn) [noun] half-kilogram
+-绝不 (jué bù) [adverb] absolutely not
+-同一个 (tóng yī ge) [phrase] the exact same
+-播客 (bōkè) [noun] podcast
+-上个月 (shàng ge yuè) [phrase] last month
+-咱 (zán) [pronoun] we
+-要是 (yàoshi) [conjunction] if only

@@ -30,17 +30,14 @@
     kàn shénme shū ？
     What book are you reading?
 ### Vocab
--你好 (nǐhǎo) [phrase] hello
--你好吗 (nǐhǎoma) [phrase] how do you do
--怎么样 (zěnmeyàng) [phrase] what is up
--最近怎么样 (zuìjìn zěnmeyàng) [phrase] how are things lately
--还好吗 (hái hǎo ma) [phrase] how are things
--还行 (hái xíng) [phrase] okay
--挺好的 (tǐng hǎo de) [phrase] pretty good
--嘿 (hei) [exclamation] hey
--嗨 (hai) [exclamation] hi
--哎 (ai) [exclamation] eh
--听 (tīng) [verb] to hear
--说 (shuō) [verb] to say
 -在 (zài) [adverb] currently
--没 (méi) [adverb] not
+-看 (kàn) [verb] to look
+-看书 (kànshū) [verb] to read
+-睡觉 (shuìjiào) [verb] to sleep
+-吃饭 (chīfàn) [verb] to eat
+-工作 (gōngzuò) [verb] to work
+-学 (xué) [verb] to study
+-中文 (zhōngwén) [noun] Chinese
+-问 (wèn) [verb] to ask
+-什么 (shénme) [question] what
+-本 (běn) [measure word] measure word for books

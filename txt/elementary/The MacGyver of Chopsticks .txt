@@ -35,15 +35,14 @@
     ò ， nǐ shuō yòng kuàizi chīfàn 。 bùhǎoyìsi ， wǒ lǐjiě cuò le 。
     Oh, you mean to eat. I'm sorry, I misunderstood.
 ### Vocab
--上班儿 (shàngbānr) [verb] to go to work
--迟到 (chídào) [verb] to be late
--告诉 (gàosu) [verb] to tell
--坐 (zuò) [verb] to ride
--挤 (jǐ) [verb] to squeeze
--地铁 (dìtiě) [noun] subway
--终点站 (zhōngdiǎnzhàn) [noun] terminus station
--起始站 (qǐshǐzhàn) [noun] first station
--傻 (shǎ) [adjective] idiotic
+-筷子 (kuàizi) [noun] chopsticks
+-杀人 (shārén) [verb] to kill a person
+-开锁 (kāisuǒ) [verb] to open a lock
+-吃饭 (chīfàn) [verb] to eat food
+-不过 (búguò) [conjunction] but
 -可是 (kěshì) [conjunction] but
--但是 (dànshì) [conjunction] however
--而且 (érqiě) [conjunction] moreover
+-但是 (dànshì) [conjunction] but
+-意思 (yìsi) [noun] idea
+-不好意思 (bùhǎoyìsi) [phrase] sorry
+-会 (huì) [verb] to be able
+-理解 (lǐjiě) [verb] to understand

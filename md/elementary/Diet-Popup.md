@@ -1,8 +1,7 @@
 # Diet-Popup
 **Elementary** level
 ### Chinese Text
-甲：唉，泡泡中文是我最喜欢的网站了。
-乙：就是，我上个月已经减掉了5斤了。这在以前绝不可能。
+甲：唉，泡泡中文是我最喜欢的网站了。<br />乙：就是，我上个月已经减掉了5斤了。这在以前绝不可能。
 甲：咱俩说的是同一个网站吗？
 乙：是啊，就是那个有播客的网站。唉，我要是早知道就好了。
 
@@ -16,12 +15,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|脸|liǎn|face|noun|
-|别提了|bié tí le|don't get me started|phrase|
-|撞|zhuàng|to smash into|verb|
-|树|shù|tree|noun|
-|严重|yánzhòng|serious|adjective|
-|这样儿|zhèyàngr|this way|phrase|
-|嫁|jià|to marry|verb|
-|提|tí|to raise|verb|
-|难看|nánkàn|ugly|adjective|
+|泡泡中文|Pàopao Zhōngwén|Popup Chinese|noun|
+|减掉|jiǎn diào|to lose|verb|
+|网站|wǎngzhàn|website|noun|
+|斤|jīn|half-kilogram|noun|
+|绝不|jué bù|absolutely not|adverb|
+|同一个|tóng yī ge|the exact same|phrase|
+|播客|bōkè|podcast|noun|
+|上个月|shàng ge yuè|last month|phrase|
+|咱|zán|we|pronoun|
+|要是|yàoshi|if only|conjunction|

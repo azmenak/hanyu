@@ -2,43 +2,34 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：可以用你的卫生间吗？
-乙：没问题。
-甲：手纸呢？
-乙：用完了。
-甲：哦。
+甲：你认识弗兰克吗？
+乙：弗兰克？哪个弗兰克？
+甲：就是那个弗兰克·弗拉德拉。
+乙：哦，他不是住在河北了吗？
 
 ### Pinyin and Translation
 
-甲: 可以用你的卫生间吗？
-    kěyǐ yòng nǐ de wèishēngjiān ma ？
-    Can I use your bathroom?
+甲: 你认识弗兰克吗？
+    nǐ rènshi Fúlánkè ma ？
+    Do you know Frank?
 
-乙: 没问题。
-    méiwèntí 。
-    No problem.
+乙: 弗兰克？哪个弗兰克？
+    Fúlánkè ？ nǎge Fúlánkè ？
+    Frank, which Frank?
 
-甲: 手纸呢？
-    shǒuzhǐ ne ？
-    What about toilet paper?
+甲: 就是那个弗兰克·弗拉德拉。
+    jiùshì nàge Fúlánkè · Fúlādélā 。
+    Specifically, Frank Fradella.
 
-乙: 用完了。
-    yòng wán le 。
-    It's used up.
-
-甲: 哦。
-    o 。
-    Oh.
+乙: 哦，他不是住在河北了吗？
+    o ， tā bù shì zhù zài Héběi le ma ？
+    Oh, isn't he in living in Hebei?
 ### Vocab
--谁 (shéi) [pronoun] who
--管 (guǎn) [verb] to manage
--饺子 (jiǎozi) [noun] dumpling
--馆 (guǎn) [noun] establishment
--饭馆 (fànguǎn) [noun] restaurant
--面馆 (miànguǎn) [noun] noodle shop
--饺子馆 (jiǎoziguǎn) [noun] dumpling restaurant
--宾馆 (bīnguǎn) [noun] hotel
--饭 (fàn) [noun] rice
--面 (miàn) [noun] noodles
--服务员 (fúwùyuán) [noun] waitress
--服务 (fúwù) [noun] service
+-认识 (rènshi) [verb] to recognize
+-吗 (ma) [particle] question marker
+-哪个 (nǎ ge) [pronoun] which one
+-就是 (jiùshì) [verb] to be exactly
+-那个 (nà ge) [pronoun] that one
+-住在 (zhù zài) [verb] to live in
+-河北 (Héběi) [noun] Hebei
+-弗兰克 (Fúlánkè) [name] Frank

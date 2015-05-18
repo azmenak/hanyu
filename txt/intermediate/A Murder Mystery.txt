@@ -55,12 +55,13 @@
     tōukàn de bei 。
     I snuck a peek.
 ### Vocab
--傲慢 (àomàn) [adjective] arrogant
--爱累不累 (àilèibùlèi) [phrase] disregarding whether someone is tired
--爱理不理 (àilǐbùlǐ) [phrase] cold and indifferent
--热情 (rèqíng) [adjective] enthusiasm
--爱去不去 (àiqùbùqù) [phrase] disregarding whether one goes or not
--爱信不信 (àixìnbùxìn) [phrase] disregarding whether one believes or not
--爱好不好 (àihǎobùhǎo) [phrase] disregarding whether something is good or not
--爱饿不饿 (àièbùè) [phrase] disregarding whether one is hungry or not
--爱谁谁 (àishéishéi) [phrase] whatever
+-书房 (shūfáng) [noun] study
+-匕首 (bǐshǒu) [noun] dagger
+-杀死 (shāsǐ) [verb] to kill
+-尸体 (shītǐ) [noun] corpse
+-输 (shū) [verb] to lose
+-明明 (míngmíng) [adverb] clearly
+-牌 (pái) [noun] card
+-偷看 (tōukàn) [verb] to sneak a look
+-偷听 (tōutīng) [verb] to eavesdrop
+-妙探寻凶 (miàotànxúnxiōng) [noun] Cluedo

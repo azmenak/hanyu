@@ -2,47 +2,45 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：喂，喂，喂，喂，喂....
-乙：一，二，三....
-甲：Echo, Echo....
-乙：这开了没啊？
-丙：啊，行，好！
-乙：妈的，我讨厌这份工作。
+甲：咳，我听说他....
+乙：嘿，怎么样？
+甲：呃....
+乙：你们在说什么？
+甲：没说什么，没说什么。
 
 ### Pinyin and Translation
 
-甲: 喂，喂，喂，喂，喂....
-    wéi ， wéi ， wéi ， wéi ， wéi . . . .
-    Hey, hey, testing, testing, testing....
+甲: 咳，我听说他....
+    hai ， wǒ tīngshuō tā . . . .
+    Hey, I heard he....
 
-乙: 一，二，三....
-    yī ， èr ， sān . . . .
-    One, two, three...
+乙: 嘿，怎么样？
+    hei ， zěnmeyàng ？
+    Hey, what's up?
 
-甲: Echo, Echo....
-    Echo ,  Echo . . . .
-    Echo, Echo....
+甲: 呃....
+    e . . . .
+    Uhhh....
 
-乙: 这开了没啊？
-    zhè kāi le méi a ？
-    Is this working or not?
+乙: 你们在说什么？
+    nǐmen zài shuō shénme ？
+    What are you guys saying?
 
-丙: 啊，行，好！
-    a ， xíng ， hǎo ！
-    Oh, ok... it's good!
-
-乙: 妈的，我讨厌这份工作。
-    māde ， wǒ tǎoyàn zhè fèn gōngzuò 。
-    Dammit, I hate this job.
+甲: 没说什么，没说什么。
+    méi shuō shénme ， méi shuō shénme 。
+    Nothing, nothing at all.
 ### Vocab
+-你好 (nǐhǎo) [phrase] hello
+-你好吗 (nǐhǎoma) [phrase] how do you do
+-怎么样 (zěnmeyàng) [phrase] what is up
+-最近怎么样 (zuìjìn zěnmeyàng) [phrase] how are things lately
+-还好吗 (hái hǎo ma) [phrase] how are things
+-还行 (hái xíng) [phrase] okay
+-挺好的 (tǐng hǎo de) [phrase] pretty good
+-嘿 (hei) [exclamation] hey
+-嗨 (hai) [exclamation] hi
+-哎 (ai) [exclamation] eh
+-听 (tīng) [verb] to hear
+-说 (shuō) [verb] to say
 -在 (zài) [adverb] currently
--看 (kàn) [verb] to look
--看书 (kànshū) [verb] to read
--睡觉 (shuìjiào) [verb] to sleep
--吃饭 (chīfàn) [verb] to eat
--工作 (gōngzuò) [verb] to work
--学 (xué) [verb] to study
--中文 (zhōngwén) [noun] Chinese
--问 (wèn) [verb] to ask
--什么 (shénme) [question] what
--本 (běn) [measure word] measure word for books
+-没 (méi) [adverb] not

@@ -1,37 +1,56 @@
 # The Northeasterner
 **Intermediate** level
 ### Chinese Text
-女的：亲爱的，咱们别再泡网吧了。
-男的：稍等一下，我先救了这盘人质。
-女的：你不是说要带我去一个见证我们伟大爱情的地方吗?
-男的：啊，你看这不就是吗?
-女的：原来你是带我来打CS，哼。
-女的：哎呀，快趴下，你后面有匪。
+甲：下一个，王翠花。<br />乙：到到到, 我就是王翠花。
+甲：啊，是您啊。
+乙：啊对。
+甲：您是哪儿的人。
+乙：我地道北京人。
+甲：可是我听您这口音？
+乙：啊，口音呢，我觉得，我觉得我说话很标准！
+甲：啊，是这样的，小姐，我们这儿需要的是一位能说地道北京话的女孩儿。
+乙：我说地道北京话啊，只不过就是身边儿东北朋友特多您知道吧，所以那个说话就带东北味儿。
+甲：我想您似乎不是太合适吧。
+乙：我合适，我土生土长北京人。
+甲：啊，那行，那您能给我介绍一下北京的景点吗？
+乙：北京，北京景点多啊！北京，北京不是那个什么天安门特出名吗？还有那个什么，那个叫，那叫什么玩意儿，那个黄鹤楼吗？那不是吗？
+甲：不好意思小姐，我想这份工作可能真的不是特别适合您。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女的|亲爱的，咱们别再泡网吧了。<blockquote>qīn`ài de ， zánmen bié zài pào wǎngbā le 。<br />Baby, let's stop wasting time at this Internet Cafe.</blockquote>|
-|男的|稍等一下，我先救了这盘人质。<blockquote>shāoděng yīxià ， wǒ xiān jiù le zhè pán rénzhì 。<br />Wait a sec, let me save this round of hostages first.</blockquote>|
-|女的|你不是说要带我去一个见证我们伟大爱情的地方吗?<blockquote>nǐ bù shì shuō yào dài wǒ qù yī ge jiànzhèng wǒmen wěidà àiqíng de dìfang ma ?<br />Didn't you say you'd take me to a place suited to our great love?</blockquote>|
-|男的|啊，你看这不就是吗?<blockquote>a ， nǐ kàn zhè bù jiùshì ma ?<br />Huh, what do you think this is?</blockquote>|
-|女的|原来你是带我来打CS，哼。<blockquote>yuánlái nǐ shì dài wǒ lái dǎ CS ， hèng 。<br />So, you brought me here to play Counterstrike? Humph.</blockquote>|
-|女的|哎呀，快趴下，你后面有匪。<blockquote>aiya ， kuài pāxià ， nǐ hòumian yǒu fěi 。<br />Get down quickly, there's a terrorist behind you.</blockquote>|
+|甲|下一个，王翠花。<blockquote>xià yī ge ， Wáng Cuìhuā 。<br />Next, Wang Cuihua.</blockquote>|
+|乙|到到到, 我就是王翠花。<blockquote>dào dào dào , wǒ jiùshì Wáng Cuìhuā 。<br />Here, here here. I'm Wang Cuihua.</blockquote>|
+|甲|啊，是您啊。<blockquote>a ， shì nín a 。<br />Oh, it's you.</blockquote>|
+|乙|啊对。<blockquote>a duì 。<br />Yes.</blockquote>|
+|甲|您是哪儿的人。<blockquote>nín shì nǎr de rén 。<br />Where are you from?</blockquote>|
+|乙|我地道北京人。<blockquote>wǒ dìdào běijīngrén 。<br />I'm a real Beijinger.</blockquote>|
+|甲|可是我听您这口音？<blockquote>kěshì wǒ tīng nín zhè kǒuyīn ？<br />But what about your accent?</blockquote>|
+|乙|啊，口音呢，我觉得，我觉得我说话很标准！<blockquote>a ， kǒuyīn ne ， wǒ juéde ， wǒ juéde wǒ shuōhuà hěn biāozhǔn ！<br />Accent? I think I speak pretty standard Chinese.</blockquote>|
+|甲|啊，是这样的，小姐，我们这儿需要的是一位能说地道北京话的女孩儿。<blockquote>a ， shì zhèyàng de ， xiǎojie ， wǒmen zhèr xūyào de shì yī wèi néng shuō dìdào Běijīng huà de nǚháir 。<br />It's this way. We need a girl here who can speak authentic Beijing mandarin.</blockquote>|
+|乙|我说地道北京话啊，只不过就是身边儿东北朋友特多您知道吧，所以那个说话就带东北味儿。<blockquote>wǒ shuō dìdào Běijīng huà a ， zhǐbùguò jiùshì shēnbiānr Dōngběi péngyou tèduō nín zhīdào ba ， suǒyǐ nàge shuōhuà jiù dài Dōngběi wèir 。<br />I speak the real Beijing dialect. It's just that I've got a lot of friends from the Northeast, so I've got a bit of a northeastern ring.</blockquote>|
+|甲|我想您似乎不是太合适吧。<blockquote>wǒ xiǎng nín sìhū bù shì tài héshì ba 。<br />I don't think you seem that suitable.</blockquote>|
+|乙|我合适，我土生土长北京人。<blockquote>wǒ héshì ， wǒ tǔshēngtǔzhǎng běijīngrén 。<br />I'm suitable, I've been born and bred here.</blockquote>|
+|甲|啊，那行，那您能给我介绍一下北京的景点吗？<blockquote>a ， nà xíng ， nà nín néng gěi wǒ jièshào yīxià Běijīng de jǐngdiǎn ma ？<br />Ok. Then can you tell me a bit about Beijing's tourist attractions?</blockquote>|
+|乙|北京，北京景点多啊！北京，北京不是那个什么天安门特出名吗？还有那个什么，那个叫，那叫什么玩意儿，那个黄鹤楼吗？那不是吗？<blockquote>Běijīng ， Běijīng jǐngdiǎn duō a ！ Běijīng ， Běijīng bùshì nàge shénme tiān`ānmén tè chūmíng ma ？ hái yǒu nàge shénme ， nàge jiào ， nà jiào shénme wányìr ， nàge Huánghèlóu ma ？ nà bùshì ma ？<br />Beijing hot spots? Well, there's Tian'anmen and then... uh... the Yellow Crane Tower, right?</blockquote>|
+|甲|不好意思小姐，我想这份工作可能真的不是特别适合您。<blockquote>bùhǎoyìsi xiǎojiě ， wǒ xiǎng zhè fèn gōngzuò kěnéng zhēnde bù shì tèbié shìhé nín 。<br />I'm sorry Miss, I think this job is really not suited for you.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|泰坦尼克号|Tàitǎnníkè hào|Titanic|noun|
-|咱们|zánmen|we|pronoun|
-|洗澡水|xǐ zǎo shuǐ|bathing water|noun|
-|海水|hǎishuǐ|seawater|noun|
-|冰川|bīngchuān|glacier (colloquially iceberg as well)|noun|
-|冰山|bīngshān|iceberg|noun|
-|座|zuò|measure word for large geographic objects|measure word|
-|逃生|táoshēng|to escape with one's life|verb|
-|头等舱|tóuděngcāng|first class|noun|
-|救生艇|jiùshēngtǐng|lifeboat|noun|
-|怪|guài|to blame|verb|
-|三等舱|sānděngcāng|third class cabin|noun|
-|抢|qiǎng|to steal by force without any pretense to stealth|verb|
-|渗水|shènshuǐ|to sink under water|verb|
-|次|cì|poor quality|adjective|
+|王翠花|Wáng Cuìhuā|Wang Cuihua|name|
+|地道|dìdào|authentic|adjt|
+|北京人|Běijīngrén|Beijing person|noun|
+|口音|kǒuyīn|accent|noun|
+|只不过|zhǐbùguò|it is only that|conjunction|
+|身边儿|shēnbiānr|side|noun|
+|带|dài|to carry|note that this verb is used with accents|
+|东北|Dōngběi|northeastern China|noun|
+|东北人|Dōngběirén|northeasterner|noun|
+|东北味儿|Dōngběi wèir|northeastern accent|noun|
+|味儿|wèir|accent, flavour|noun|
+|似乎|sìhū|to seem|verb|
+|合适|héshì|suitable|adjective|
+|土生土长|tǔshēngtǔzhǎng|local born and local bred|idiom|
+|景点|jǐngdiǎn|scenic spot|noun|
+|黄鹤楼|Huánghèlóu|Yellow Crane Tower|noun|
+|适合|shìhé|to fit, to be suited to|verb|

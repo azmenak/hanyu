@@ -2,47 +2,23 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：嗯，真香啊，今天晚上吃什么？
-乙：兔子。
-甲：兔子？
-乙：红烧兔子。哎，对了，下次记得买个肥点儿的。这身上都没什么肉。
-甲：那是我买给孩子的！
-乙：嗯，会给他的。
+李雷有一只小猫，叫小虎。小虎的生活很忙。他需要睡觉和吃饭，有的时候，他也需要捉小老鼠。他觉得他应该找一个助手。小虎找到一只小狗，叫宝贝儿。小虎给宝贝儿工作面试，后来决定雇宝贝儿。李雷回家的时候，看见一只新来的小狗，不知道小狗是谁。他问小虎：“发生了什么事儿？小狗是谁？”小虎回答：“咪咪咪咪咪。”李雷回答：“嗯，你的新助手？下次，你应该先问我再雇佣新助手。”小虎说：“咪咪咪咪咪。”李雷说：“好的，我明白。”
 
 ### Pinyin and Translation
 
-甲: 嗯，真香啊，今天晚上吃什么？
-    en ， zhēn xiāng a ， jīntiān wǎnshang chī shénme ？
-    Hey, that smells good. What's for dinner tonight?
-
-乙: 兔子。
-    tùzi 。
-    Rabbit.
-
-甲: 兔子？
-    tùzi ？
-    Rabbit?
-
-乙: 红烧兔子。哎，对了，下次记得买个肥点儿的。这身上都没什么肉。
-    hóngshāo tùzi 。 āi ， duìle ， xiàcì jìde mǎi ge féi diǎnr de 。 zhè shēn shàng dōu méi shénme ròu 。
-    Red braised rabbit. Oh, remember to buy a fatter one next time. There's no meat on this one.
-
-甲: 那是我买给孩子的！
-    nà shì wǒ mǎi gěi háizi de ！
-    I got that for our kid!
-
-乙: 嗯，会给他的。
-    en ， huì gěi tā de 。
-    Oh, he'll get some.
+李雷有一只小猫，叫小虎。小虎的生活很忙。他需要睡觉和吃饭，有的时候，他也需要捉小老鼠。他觉得他应该找一个助手。小虎找到一只小狗，叫宝贝儿。小虎给宝贝儿工作面试，后来决定雇宝贝儿。李雷回家的时候，看见一只新来的小狗，不知道小狗是谁。他问小虎：“发生了什么事儿？小狗是谁？”小虎回答：“咪咪咪咪咪。”李雷回答：“嗯，你的新助手？下次，你应该先问我再雇佣新助手。”小虎说：“咪咪咪咪咪。”李雷说：“好的，我明白。”
+Lǐ Léi yǒu yī zhī xiǎomāo ， jiào Xiǎo Hǔ 。 Xiǎo Hǔ de shēnghuó hěn máng 。 tā xūyào shuìjiào hé chīfàn ， yǒude shíhou ， tā yě xūyào zhuō xiǎo lǎoshǔ 。 tā juéde tā yīnggāi zhǎo yī ge zhùshǒu 。 Xiǎo Hǔ zhǎodào yī zhī xiǎogǒu ， jiào bǎobèir 。 Xiǎohǔ gěi Bǎobèir gōngzuò miànshì ， hòulái juédìng gù Bǎobèir 。 Lǐ Léi huíjiā de shíhou ， kànjiàn yī zhī xīnláide xiǎogǒu ， bù zhīdào xiǎogǒu shì shéi 。 tā wèn Xiǎo Hǔ ： “ fāshēng le shénme shìr ？ xiǎogǒu shì shéi ？ ” Xiǎo Hǔ huídá ： “ mīmīmīmīmī 。 ” Lǐ Léi huídá ： “ en ， nǐ de xīn zhùshǒu ？ xiàcì ， nǐ yīnggāi xiān wèn wǒ zài gùyōng xīn zhùshǒu 。 ” Xiǎo Hǔ shuō ： “ mīmīmīmīmī 。 ” Lǐ Léi shuō ： “ hǎo de ， wǒ míngbai 。 ”
+Li Lei had a kitten called Little Tiger, whose life was terribly busy. He always needed to sleep and eat, and sometimes also catch mice. Little Tiger felt he should have an assistant, so he found a puppy called Baby. He gave Baby an interview, and afterwards decided to hire him. When Li Lei returned home, he found a new puppy he didn't know. He asked the kitten, "What's happened? Who is the puppy?" And the kitten answered, "miao". Li Lei replied, "Oh, it's your new assistant? Next time, you should ask me before hiring an assistant." Little Tiger said "miao" and Li Lei replied, "It's ok, I understand."
 ### Vocab
--电插板 (diànchābǎnr) [noun] power bar
--接线板 (jiēxiànbǎn) [noun] power cord
--鼻子 (bízi) [noun] nose
--嘴唇 (zuǐchún) [noun] lip
--脾气 (píqì) [noun] temper
--像 (xiàng) [verb] like
--挂 (guà) [verb] to hang
--过分 (guòfèn) [adjective] excessive
--烂 (làn) [adjective] rotten
--的确 (díquè) [adverb] actually
--不过 (bùguò) [conjunction] but
+-小猫 (xiǎomāo) [noun] kitten
+-小狗 (xiǎogǒu) [noun] puppy
+-老鼠 (lǎoshǔ) [noun] mouse
+-需要 (xūyào) [verb] to need
+-捉 (zhuō) [verb] to catch
+-雇 (gù) [verb] to hire
+-助手 (zhùshǒu) [noun] assistant
+-工作 (gōngzuò) [noun] work
+-面试 (miànshì) [noun] interview
+-新来的 (xīnláide) [adjective] newly-arrived
+-先 (xiān) [adverb] first
+-再 (zài) [adverb] and then

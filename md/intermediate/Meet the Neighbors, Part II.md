@@ -1,8 +1,7 @@
 # Meet the Neighbors, Part II
 **Intermediate** level
 ### Chinese Text
-甲：亲爱的，我还是觉得我要跟你谈一谈我们隔壁邻居的事儿。
-乙：我现在没有时间，我要出去。
+甲：亲爱的，我还是觉得我要跟你谈一谈我们隔壁邻居的事儿。<br />乙：我现在没有时间，我要出去。
 甲：我觉得......
 乙：我现在要和小明去世博会。
 甲：这就是跟小明有关系。
@@ -30,15 +29,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|变化|biànhua|changes|noun|
-|幸福|xìngfú|fortunate|adjective|
-|鸟儿|niǎoér|birds|noun|
-|花儿|huār|flowers|noun|
-|清脆|qīngcuì|ringing; clear|adjective|
-|默契|mòqi|tacit understanding|noun|
-|气质|qìzhi|character|noun|
-|缘分|yuánfēn|destined connection|noun|
-|爱情药|àiqíngyào|love potion|noun|
-|屋子|wūzi|room|noun|
-|颗|kē|(measure word for round pills)|measure word|
-|片|piàn|(measure word for oval pills)|measure word|
+|忽略|hūlǜe|to ignore|verb|
+|所有的|suǒyǒu de|all|phrase|
+|偏爱|piānài|to favor|verb|
+|溺爱|nìài|to dote upon|verb|
+|宠爱|chǒngài|to spoil|verb|
+|博爱|bóài|universal love|noun|
+|兼爱|jiān'ài|impartial love|noun|
+|世博会|Shìbóhuì|World Fair|noun|

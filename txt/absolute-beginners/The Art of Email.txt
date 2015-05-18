@@ -50,15 +50,14 @@
     o ， nà wǒ zài gěi nǐ fā yībiàn 。
     Oh, I'll send it again then.
 ### Vocab
+-邮箱 (yóuxiāng) [noun] email inbox
+-邮件 (yóujiàn) [noun] email letter
+-地址 (dìzhǐ) [noun] address
+-发 (fā) [verb] to send
+-收 (shōu) [verb] to receive
 -今天 (jīntiān) [noun] today
--阿姨 (āyí) [noun] maid
--擦 (cā) [verb] to scrub
--洗碗 (xǐwǎn) [verb] to wash dishes
--扫地 (sǎodì) [verb] to sweep the floor
--洗衣服 (xǐ yīfu) [verb] to wash clothes
--拖地 (tuōdì) [verb] to mop the floor
--用力 (yònglì) [verb] to use force
--不过 (bùguò) [conjunction] but
--首先 (shǒuxiān) [conjunction] first of all
--干 (gàn) [verb] to do
--先 (xiān) [adverb] first
+-真的 (zhēnde) [adverb] really
+-记错 (jìcuò) [verb] to misremember
+-再发一遍 (zài fā yībiàn) [phrase] to send again
+-再说一遍 (zài shuō yībiàn) [phrase] to say again
+-邮箱地址 (yóuxiāng dìzhǐ) [noun] email address

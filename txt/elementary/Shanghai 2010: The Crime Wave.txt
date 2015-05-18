@@ -2,54 +2,51 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：服务员，这个筷子有点脏。
-乙：哦，没事儿，我帮您换一双。
-甲：谢谢你啊。
-乙：不用谢。只不过就是厨师感冒了而已。
-甲：感冒？
-乙：对呀，他不是打喷嚏就是流鼻涕的，脏死了。
-甲：这是鼻涕？
-乙：祝您用餐愉快！
+男人：警察！警察！偷东西了！偷东西了！我家被盗了！
+警察：请你冷静点。请问您亲眼看到了吗？
+男人：没有，我刚到家。他们肯定是在我上班的时候进来的。
+警察：那......丢的是什么东西？
+男人：手纸。
+警察：扑哧......（笑）
+男人：哎你笑什么呀？我说的是真的！我现在就在厕所里......
 
 ### Pinyin and Translation
 
-甲: 服务员，这个筷子有点脏。
-    fúwùyuán ， zhège kuàizi yǒudiǎn zāng 。
-    Waiter, this pair of chopsticks is a little dirty.
+男人: 警察！警察！偷东西了！偷东西了！我家被盗了！
+      jǐngchá ！ jǐngchá ！ tōu dōngxī le ！ tōu dōngxī le ！ wǒ jiā bèi dào le ！
+      Police! Police! A robbery! A robbery! My home has been burgled.
 
-乙: 哦，没事儿，我帮您换一双。
-    ò ， méi shìr ， wǒ bāng nín huàn yī shuāng 。
-    Oh, no problem. I will help you get a new pair.
+警察: 请你冷静点。请问您亲眼看到了吗？
+      qǐng nǐ lěngjìng diǎn 。 qǐngwèn nín qīnyǎn kàn dào le ma ？
+      Please calm down. Did you see it yourself?
 
-甲: 谢谢你啊。
-    xièxie nǐ ā 。
-    Thanks a bunch.
+男人: 没有，我刚到家。他们肯定是在我上班的时候进来的。
+      méiyǒu ， wǒ gāng dào jiā 。 tāmen kěndìng shì zài wǒ shàngbān de shíhou jìnlai de 。
+      No, I just got home. They must have come in while I was at work.
 
-乙: 不用谢。只不过就是厨师感冒了而已。
-    bù yòng xiè 。 zhǐ bùguò jiùshì chúshī gǎnmào le éryǐ 。
-    Don't mention it. It's just that the chef has caught a cold, that's all.
+警察: 那......丢的是什么东西？
+      nà ...... diū de shì shénme dōngxi ？
+      Then... what was lost?
 
-甲: 感冒？
-    gǎnmào ？
-    Cold?
+男人: 手纸。
+      shǒuzhǐ 。
+      Toilet paper.
 
-乙: 对呀，他不是打喷嚏就是流鼻涕的，脏死了。
-    duì ya ， tā bù shì dǎ pēnti jiùshì liú bíti de ， zāng sǐ le 。
-    That's right, he's not sneezing, just a runny nose, filthy.
+警察: 扑哧......（笑）
+      pūchī ...... （ xiào ）
+      *laughs*
 
-甲: 这是鼻涕？
-    zhè shì bíti ？
-    Is this snot?
-
-乙: 祝您用餐愉快！
-    zhù nín yòng cān yúkuài ！
-    Wish you happy eating!
+男人: 哎你笑什么呀？我说的是真的！我现在就在厕所里......
+      āi nǐ xiào shénme yā ？ wǒ shuō de shì zhēnde ！ wǒ xiànzài jiù zài cèsuǒ lǐ ......
+      Hey, what are you laughing at. I'm telling the truth. I'm in the washroom right now....
 ### Vocab
--呃 (e) [sound] uhhh
--哦 (ò) [sound] oh
--衣服 (yīfu) [noun] clothing
--怎么了 (zěnme le) [phrase] what's wrong
--哪儿去 (nǎr qù) [verb phrase] to get off to where
--去哪儿 (qù nǎr) [verb phrase] to go where
--丢人 (diūrén) [verb] to lose face
--真 (zhēn) [adverb] really
+-警察 (jǐngchá) [noun] police
+-小偷 (xiǎotōu) [noun] thief
+-厕所 (cèsuǒ) [noun] washroom
+-手纸 (shǒuzhǐ) [noun] toilet paper
+-我说的 (wǒ shuō de) [phrase] what I said
+-你吃的 (nǐ chī de) [phrase] what you ate
+-我学的 (wǒ xué de) [phrase] what I study
+-我丢的 (wǒ diū de) [phrase] what I lost
+-他问的 (tā wèn de) [phrase] what he asked
+-他指的 (tā zhǐ de) [phrase] what he referred to

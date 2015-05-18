@@ -1,18 +1,17 @@
 # The German Engineer
 **Absolute Beginners** level
 ### Chinese Text
-甲：嫁给我吧。
-乙：不要。
-甲：求求你了。
-乙：好吧。
+甲：你是哪国人？<br />乙：我是德国人。
+甲：你做什么工作？
+乙：我是工程师。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|嫁给我吧。<blockquote>jià gěi wǒ ba 。<br />Marry me.</blockquote>|
-|乙|不要。<blockquote>bù yào 。<br />No.</blockquote>|
-|甲|求求你了。<blockquote>qiú qiú nǐ le 。<br />I beg you.</blockquote>|
-|乙|好吧。<blockquote>hǎo ba 。<br />Ok.</blockquote>|
+|甲|你是哪国人？<blockquote>nǐ shì něi guó rén ？<br />Where are you from?</blockquote>|
+|乙|我是德国人。<blockquote>wǒ shì Déguó rén 。<br />I'm German.</blockquote>|
+|甲|你做什么工作？<blockquote>nǐ zuò shénme gōngzuò ？<br />What job do you do?</blockquote>|
+|乙|我是工程师。<blockquote>wǒ shì gōngchéngshī 。<br />I'm an engineer.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

@@ -1,32 +1,37 @@
 # You Never Told Me About Your Brother
 **Elementary** level
 ### Chinese Text
-妈妈：喂？
-小秦：妈妈，生日快乐，我爱你！
-妈妈：哎？小秦，我也爱你。
-小秦：妈妈，现在我必须通知你，我可能会为我们的电话录音。这是法律的要求。
-妈妈：啊？
-小秦：该死，他妈的机器。哎，妈妈。你等一下。我五分钟以后打过来。
+甲：你从没告诉我你哥哥这么帅。<br />乙：我哥哥？他不帅。
+甲：他长得像布拉德皮特。
+乙：他不像。
+甲：不，他像。
+乙：他不像！
+甲：他太帅了。他的电话是多少？
+乙：什么？
+甲：哦，等等。你的电话是多少来着？
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|妈妈|喂？<blockquote>wéi ？<br />Hello?</blockquote>|
-|小秦|妈妈，生日快乐，我爱你！<blockquote>māma ， shēngrì kuàilè ， wǒ ài nǐ ！<br />Happy birthday mom, I love you!</blockquote>|
-|妈妈|哎？小秦，我也爱你。<blockquote>ài ？ Xiǎo Qín ， wǒ yě ài nǐ 。<br />Hey? Little Qin, I love you too.</blockquote>|
-|小秦|妈妈，现在我必须通知你，我可能会为我们的电话录音。这是法律的要求。<blockquote>māma ， xiànzài wǒ bìxū tōngzhī nǐ ， wǒ kěnéng huì wèi wǒmen de diànhuà lùyīn 。 zhè shì fǎlǜ de yāoqiú 。<br />Mother, I have to inform you that I might be recording this telephone call. This is a legal requirement.</blockquote>|
-|妈妈|啊？<blockquote>a ？<br />Huh?</blockquote>|
-|小秦|该死，他妈的机器。哎，妈妈。你等一下。我五分钟以后打过来。<blockquote>gāisǐ ， tāmāde jīqì 。 āi ， māma 。 nǐ děng yīxià 。 wǒ wǔ fēnzhōng yǐhòu dǎ guòlai 。<br />Damn frigging machine. Hey Mom, wait a second. I'll call back in five minutes.</blockquote>|
+|甲|你从没告诉我你哥哥这么帅。<blockquote>nǐ cóngméi gàosu wǒ nǐ gēge zhème shuài 。<br />You never told me your brother was this handsome.</blockquote>|
+|乙|我哥哥？他不帅。<blockquote>wǒ gēge ？ tā bù shuài 。<br />My brother? He's not handsome.</blockquote>|
+|甲|他长得像布拉德皮特。<blockquote>tā zhǎng de xiàng Bùlādé Pítè 。<br />He looks like Brad Pitt.</blockquote>|
+|乙|他不像。<blockquote>tā bù xiàng 。<br />He's not at all like him.</blockquote>|
+|甲|不，他像。<blockquote>bù ， tā xiàng 。<br />No, he's like him.</blockquote>|
+|乙|他不像！<blockquote>tā bù xiàng ！<br />He's not like him!</blockquote>|
+|甲|他太帅了。他的电话是多少？<blockquote>tā tài shuài le 。 tā de diànhuà shì duōshǎo ？<br />He's gorgeous. What's his number?</blockquote>|
+|乙|什么？<blockquote>shénme ？<br />What?</blockquote>|
+|甲|哦，等等。你的电话是多少来着？<blockquote>ò ， děngděng 。 nǐ de diànhuà shì duōshao láizhe ？<br />Oh, wait. What's your number again?</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|必须|bìxū|must|adverb|
-|需要|xūyào|to need|verb|
-|快乐|kuàilè|happy|noun|
-|生日|shēngrì|birthday|noun|
-|通知|tōngzhī|to inform|verb|
-|为|wèi|for|preposition|
-|录音|lùyīn|sound recording|verb|
-|法律|fǎlǜ|legal|noun|
-|机器|jīqì|machine|noun|
-|该死|gāisǐ|should die|phrase|
+|从来|cónglái|ever before|adverb|
+|从没|cóngméi|never before|adverb|
+|帅|shuài|handsome|adjective|
+|告诉|gàosu|to tell|verb|
+|长得|zhǎng de|to look like|verb|
+|等|děng|to wait|verb|
+|像|xiàng|to resemble|verb|
+|来着|láizhe|just now|other|
+|哥哥|gēge|older brother|noun|
+|布拉德皮特|Bùlādé Pítè|Brad Pitt|person|

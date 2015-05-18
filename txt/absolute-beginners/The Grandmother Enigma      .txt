@@ -2,31 +2,39 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：你还有多少钱？
-乙：五十。
-甲：那是我的钱！给我。
+甲：你什么时候去中国？
+乙：我的票是... 昨天的？
+甲：啊？
+乙：奶奶的... 我错过飞机了。
 
 ### Pinyin and Translation
 
-甲: 你还有多少钱？
-    nǐ hái yǒu duōshǎo qián ？
-    How much money do you have?
+甲: 你什么时候去中国？
+    nǐ shénme shíhòu qù Zhōngguó ？
+    When are you going to China?
 
-乙: 五十。
-    wǔshí 。
-    Fifty bucks.
+乙: 我的票是... 昨天的？
+    wǒ de piào shì . . .  zuótiān de ？
+    My tickets are... yesterday?
 
-甲: 那是我的钱！给我。
-    nà shì wǒ de qián ！ gěi wǒ 。
-    That's my money! Give it to me.
+甲: 啊？
+    a ？
+    Huh?
+
+乙: 奶奶的... 我错过飞机了。
+    nǎinai de . . .  wǒ cuòguò fēijī le 。
+    Great grandmother... I missed my flight.
 ### Vocab
--请 (qǐng) [other] please
--停 (tíng) [verb] to stop
--停下 (tíngxià) [verb] to stop
--停车 (tíngchē) [phrase] stop the car
--不要 (bù yào) [verb] not to want
--松手 (sōngshǒu) [verb] to let go
--不用了 (bù yòng le) [phrase] there's no need
--够了 (gòu le) [phrase] enough
--住手 (zhùshǒu) [verb] stop!
--手 (shǒu) [noun] hand
+-我 (wǒ) [pronoun] me
+-你 (nǐ) [pronoun] you
+-什么时候 (shénme shíhòu) [phrase] when
+-什么 (shénme) [question] what
+-时候 (shíhòu) [noun] time
+-去 (qù) [verb] to go
+-来 (lái) [verb] to come
+-吃饭 (chīfàn) [verb] to eat
+-中国 (Zhōngguó) [country] China
+-昨天 (zuótiān) [noun] yesterday
+-飞机 (fēijī) [noun] airplane
+-奶奶 (nǎinai) [noun] grandmother
+-奶奶的 (nǎinai de) [phrase] goodness gracious

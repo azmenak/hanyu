@@ -1,24 +1,19 @@
 # A Simple Transaction
 **Absolute Beginners** level
 ### Chinese Text
-甲：警察！
-乙：警察！
-甲：开门！
-丙：我不在。
-甲：登记！登记！
-丙：出国了。
-乙：她出国了。
+女：把枪放下。<br />男：把钱放下。
+女：不，把枪放下。
+男：我有枪，把钱放下。
+女：好吧。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|警察！<blockquote>jǐngchá ！<br />Police!</blockquote>|
-|乙|警察！<blockquote>jǐngchá ！<br />Police!</blockquote>|
-|甲|开门！<blockquote>kāimén ！<br />Open the door!</blockquote>|
-|丙|我不在。<blockquote>wǒ bù zài 。<br />I'm not here.</blockquote>|
-|甲|登记！登记！<blockquote>dēngjì ！ dēngjì ！<br />Register! Register!</blockquote>|
-|丙|出国了。<blockquote>chūguó le 。<br />I've left the country.</blockquote>|
-|乙|她出国了。<blockquote>tā chūguó le 。<br />She's left the country.</blockquote>|
+|女|把枪放下。<blockquote>bǎ qiāng fàngxià .<br />Put down the gun.</blockquote>|
+|男|把钱放下。<blockquote>bǎ qián fàngxià 。<br />Put down the money.</blockquote>|
+|女|不，把枪放下。<blockquote>bù ， bǎ qiāng fàngxià 。<br />No, put the gun down.</blockquote>|
+|男|我有枪，把钱放下。<blockquote>wǒ yǒu qiāng ， bǎ qián fàngxià 。<br />I have a gun. Put down the money.</blockquote>|
+|女|好吧。<blockquote>hǎo ba 。<br />Ok.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

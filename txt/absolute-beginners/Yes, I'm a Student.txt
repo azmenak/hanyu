@@ -2,41 +2,42 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：嗯......
-乙：怎么了？
-甲：我不舒服。
-乙：哪儿不舒服？
-甲：我这儿疼。
+甲：你是学生吗？
+乙：是，你呢？
+甲：我是老师。
+乙：你可以教我中文吗？
+甲：可以。
 
 ### Pinyin and Translation
 
-甲: 嗯......
-    en ......
-    Ouch....
+甲: 你是学生吗？
+    nǐ shì xuéshēng ma ？
+    Are you a student?
 
-乙: 怎么了？
-    zěnmele ？
-    What's wrong?
+乙: 是，你呢？
+    shì ， nǐ ne ？
+    Yes, I am. And you?
 
-甲: 我不舒服。
-    wǒ bù shūfu 。
-    I'm not comfortable.
+甲: 我是老师。
+    wǒ shì lǎoshī 。
+    I am a teacher.
 
-乙: 哪儿不舒服？
-    nǎr bù shūfu ？
-    Where does it hurt?
+乙: 你可以教我中文吗？
+    nǐ kěyǐ jiāo wǒ Zhōngwén ma ？
+    Can you teach me Chinese?
 
-甲: 我这儿疼。
-    wǒ zhèr téng 。
-    I hurt here.
+甲: 可以。
+    kěyǐ 。
+    Yes, I can.
 ### Vocab
--我们 (wǒmen) [pronoun] we
--吃 (chī) [verb] to eat
--什么 (shénme) [question] what
--外卖 (wàimài) [noun] take-out
--韩国 (Hánguó) [noun] South Korea
--韩国菜 (Hánguó cài) [noun] Korean food
--中国 (Zhōngguó) [noun] China
--中国菜 (Zhōngguó cài) [noun] Chinese food
--美国 (Měiguó) [noun] America
--美国菜 (Měiguó cài) [noun] American food
+-你 (nǐ) [pronoun] you
+-是 (shì) [verb] to be
+-学生 (xuéshēng) [noun] student
+-吗 (ma) [particle] (question marker)
+-中国人 (Zhōngguórén) [noun] Chinese person
+-我 (wǒ) [pronoun] I
+-老师 (lǎoshī) [noun] teacher
+-可以 (kěyǐ) [verb] can
+-教 (jiāo) [verb] to teach
+-中文 (Zhōngwén) [noun] Chinese language
+-美国人 (Měiguórén) [noun] American person

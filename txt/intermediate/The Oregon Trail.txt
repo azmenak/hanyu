@@ -2,49 +2,58 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：瓦斯特洛维奇，沙皇看过这封电报了吗？
-乙：伊夫伊万诺维奇同志，沙皇陛下没有时间管这些鸡毛蒜皮的琐事。
-甲：我不明白，斯维尔德洛夫斯克州暴动，斯大林格勒也在水深火热之中。这些都是鸡毛蒜皮的琐事？
-乙：现在是下午茶时间。
-甲：我们的国家都要沦陷了，你们还只惦记着门球和点心？
-乙：你以为你在跟谁说话，伊夫伊万诺维奇同志，小心被当成激进分子。
+男：现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。
+女：但是亲爱的，我们真的要蹚过这条河吗？
+男：如果我是个银行家，当然我们就有钱坐摆渡过河了。但是嫁鸡随鸡嫁狗随狗，你嫁的是个农民。你爸爸说过四百美金不够坚持到加州。现在看来他可能确实有点儿对了。
+孩子：妈妈，我难受。
+女：哦，我的上帝啊。蒂米拉痢疾了。
+男：谁没拉痢疾？
 
 ### Pinyin and Translation
 
-甲: 瓦斯特洛维奇，沙皇看过这封电报了吗？
-    Wǎsītèluòwéiqí ， Shāhuáng kànguo zhè fēng diànbào le ma ？
-    [Improbable Russian Name], has the Tsar seen this telegram?
+男: 现在回想起来，当初在三月出发的确是一个错误。但是当时我们都迫不及待地想去加州。不管怎么样，最重要的是我们现在还有两头牛熬过了冬天。
+    xiànzài huíxiǎng qǐlái ， dāngchū zài sānyuè chūfā díquè shì yī ge cuòwu 。 dànshì dāngshí wǒmen dōu pòbùjídài de xiǎng qù Jiāzhōu 。 bùguǎn  zěnmeyàng ， zuì zhòngyào de shì wǒmen xiànzài hái yǒu liǎng tóu niú áoguò le dōngtiān 。
+    Thinking back on it now, it seems clear that starting our in March was a mistake. But at the time we were all eager to go to California. And regardless of this all, the most important thing is that we still have two oxen that survived the winter.
 
-乙: 伊夫伊万诺维奇同志，沙皇陛下没有时间管这些鸡毛蒜皮的琐事。
-    Yīfūyīwànnuòwéiqí tóngzhì ， Shāhuáng bìxià méiyǒu shíjiān guǎn zhèxiē jīmáosuànpí de suǒshì 。
-    [Improbably Russian Name], the Tsar has no time for such trifling matters as these.
+女: 但是亲爱的，我们真的要蹚过这条河吗？
+    dànshì qīn_APOS_àide ， wǒmen zhēnde yào tāngguò zhè tiáo hé ma ？
+    But darling, do we really need to ford this river?
 
-甲: 我不明白，斯维尔德洛夫斯克州暴动，斯大林格勒也在水深火热之中。这些都是鸡毛蒜皮的琐事？
-    wǒ bù míngbai ， Sīwéiěrdéluòfūsīkè zhōu bàodòng ， Sīdàlíngélè yě zài shuǐshēnhuǒrè zhīzhōng 。 zhèxiē dōu shì jīmáosuànpí de suǒshì ？
-    I don't understand, Sverdlovskaya is in open revolt and the situation is worsening in Stalingrad. Are these really such trifling matters?
+男: 如果我是个银行家，当然我们就有钱坐摆渡过河了。但是嫁鸡随鸡嫁狗随狗，你嫁的是个农民。你爸爸说过四百美金不够坚持到加州。现在看来他可能确实有点儿对了。
+    rúguǒ wǒ shì ge yínhángjiā ， dāngrán wǒmen jiù yǒu qián zuò bǎidù guòhé le 。 dànshì jiàjīsuíjī jiàgǒusuígǒu ， nǐ jià de shì ge nóngmín 。 nǐ bàba shuō guò sìbǎi měijīn bù gòu jiānchí dào Jiāzhōu 。 xiànzài kànlái tā kěnéng quèshí yǒudiǎnr duì le 。
+    If I were a banker, then of course we'd have the money to take a ferry. But you get what you married and you married a farmer, honey. Your father said that four hundred dollars wasn't enough to last us to California. And right now it looks like he might just be right.
 
-乙: 现在是下午茶时间。
-    xiànzài shì xiàwǔchá shíjiān 。
-    It is presently afternoon tea time.
+孩子: 妈妈，我难受。
+      māma ， wǒ nánshòu 。
+      Mother, I'm feeling ill.
 
-甲: 我们的国家都要沦陷了，你们还只惦记着门球和点心？
-    wǒmen de guójiā dōu yào lúnxiàn le ， nǐmen huán zhǐ diànjizhe ménqiú hé diǎnxīn ？
-    Our country is falling and all you can think about is croquet and crumpets?
+女: 哦，我的上帝啊。蒂米拉痢疾了。
+    ò ， wǒ de shàngdì a 。 Dìmǐ lā lìji le 。
+    Oh, my God. Timmy has dysentery.
 
-乙: 你以为你在跟谁说话，伊夫伊万诺维奇同志，小心被当成激进分子。
-    nǐ yǐwéi nǐ zài gēn shéi shuōhuà ， Yīfūyīwànnuòwéiqí tóngzhì ， xiǎoxīn bèi dāngchéng jījìnfènzǐ 。
-    Who do you think you are talking to, comrade [Improbable Russian Name]. Be careful not to be taken for a provocateur.
+男: 谁没拉痢疾？
+    shéi méi lā lìji ？
+    Who doesn't?
 ### Vocab
--瞧 (qiáo) [verb] to look at
--头 (tóu) [measure word] (measure word)
--精心 (jīngxīn) [adverb] meticulously
--准备 (zhǔnbèi) [verb] to prepare
--毒药 (dúyào) [noun] poison
--足够 (zúgòu) [adjective] enough
--足以 (zúyǐ) [adverb] enough
--痛苦 (tòngkǔ) [noun] pain
--用心 (yòngxīn) [adverb] cannily
--安排 (ānpái) [verb] to arrange
--布朗尼 (bùlǎngní) [noun] brownie
--非洲象 (fēizhōuxiàng) [noun] African elephant
--说曹操曹操到 (shuō Cáo Cāo Cáo Cāo dào) [phrase] speak of the devil
+-熬 (áo) [verb] to endure
+-蹚 (tāng) [verb] to ford
+-回想 (huíxiǎng) [verb] to think back
+-当初 (dāngchū) [noun] at that time
+-出发 (chūfā) [verb] to set out
+-的确 (díquè) [adverb] really
+-摆渡 (bǎidù) [noun] ferry
+-武侠 (wǔxiá) [noun] martial arts chivalry
+-手柄 (shǒubǐng) [noun] hand shank
+-拉痢疾 (lā lìji) [verb] to have dysentery
+-泡泡龙 (Pàopaolóng) [name] Bubble Shooter
+-神秘岛 (Shénmìdǎo) [name] Myst
+-魂斗罗 (Húndòuluó) [name] Contra
+-贪吃蛇 (Tānchīshé) [name] Snake
+-迫不及待 (pòbùjídài) [adverb] to be impatient to do something
+-超级玛丽 (Chāojí Mǎlì) [name] Super Mario
+-坦克大战 (Tǎnkè Dàzhàn) [name] Battle City
+-俄勒冈之旅 (E2lègāng zhī lǚ) [other] The Oregon Trail
+-俄罗斯方块 (E2luósī fāngkuài) [name] Tetris
+-仙剑奇侠传 (Xiānjiàn qíxiá zhuàn) [name] The Legend of Divine Sword and Wizardly Knight-errant
+-别蹚这滩浑水 (bié tāng zhè tān húnshuǐ) [phrase] don't step into the muddy water
+-嫁鸡随鸡嫁狗随狗 (jiàjīsuíjī jiàgǒusuígǒu) [phrase] you get what you married

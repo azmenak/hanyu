@@ -2,28 +2,28 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：今天晚上有事吗?
-乙：没事。
-甲：那我们一起去看电影吧?
-乙：好呀。
+女的：给我一听王老吉。
+男的：冰的还是常温的?
+女的：冰的。
+男的：稍等。
 
 ### Pinyin and Translation
 
-甲: 今天晚上有事吗?
-    jīntiān wǎnshang yǒushì ma ?
-    Got anything tonight?
+女的: 给我一听王老吉。
+      gěi wǒ yī tīng Wánglǎojí 。
+      Give me a can of Wanglaoji.
 
-乙: 没事。
-    méishì 。
-    Nope.
+男的: 冰的还是常温的?
+      bīng de hái shì chángwēn de ?
+      You want that cold or warm?
 
-甲: 那我们一起去看电影吧?
-    nà wǒmen yīqǐ qù kān diànyǐng ba ?
-    Let's go watch a movie then, ok?
+女的: 冰的。
+      bīng de 。
+      Cold.
 
-乙: 好呀。
-    hǎo ya 。
-    Ok.
+男的: 稍等。
+      shāoděng 。
+      Just a moment.
 ### Vocab
 -王老吉 (Wánglǎojí) [noun] Wanglaoji
 -听 (tīng) [(measure word)] can

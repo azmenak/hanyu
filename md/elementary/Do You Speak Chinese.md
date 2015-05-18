@@ -1,8 +1,7 @@
 # Do You Speak Chinese
 **Elementary** level
 ### Chinese Text
-甲：你会说中文吗？
-乙：当然了，我是中国人。
+甲：你会说中文吗？<br />乙：当然了，我是中国人。
 甲：噢，我原来以为你是韩国人呢！
 
 ### Pinyin and Translation
@@ -14,19 +13,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|被|bèi|by|preposition|
-|解雇|jiěgù|to be fired|verb|
-|开玩笑|kāiwánxiào|you're kidding|phrase|
-|老板|lǎobǎn|boss|noun|
-|儿子|érzi|son|noun|
-|咱们|zánmen|we|pronoun|
-|女儿|nǚér|daughter|noun|
-|这么说|zhème shuō|this is to say|unknown|
-|俩|liǎ|two|noun|
-|姐弟|jiědì|older sister and younger brother|noun phrase|
-|天哪|tiānna|good gracious|phrase|
-|公司|gōngsī|company|noun|
-|姐姐|jiějie|older sister|noun|
-|妹妹|mèimei|younger sister|noun|
-|哥哥|gēge|older brother|noun|
-|弟弟|dìdi|younger brother|noun|
+|会|huì|can|auxiliary verb|
+|当然|dāngrán|of course|conjunction|
+|中国人|zhōngguórén|Chinese person|noun|
+|噢|o|Oh!|particle|
+|原来|yuánlái|originally|adverb|
+|以为|yǐwéi|to think mistakenly|verb|
+|韩国人|hánguórén|Korean person|noun|
+|呢|ne|(sound indicates slight surprise)|particle|
+|会说话|huì shuōhuà|to be a smooth talker|verb phrase|
+|电脑|diànnǎo|computer|noun|

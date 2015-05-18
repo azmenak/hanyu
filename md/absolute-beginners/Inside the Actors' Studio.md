@@ -1,24 +1,31 @@
 # Inside the Actors' Studio
 **Absolute Beginners** level
 ### Chinese Text
-女：哦，Bradley Cooper!
-男：他是谁？
-女：Bradley，我在这儿！
-男：Bradley Cooper是谁？
-女：我的天啊，Bradley!
-女：Bradley，我爱你！
-男：他是谁？
+妈妈：喂？<br />小秦：妈妈，我爱你。
+妈妈：我也爱你。
+爸爸：是小秦吗？
+小秦：爸爸，我爱你。
+爸爸：我也爱你。
+小秦：我也爱你。
+爸爸：好。
+妈妈：好。
+小秦：好。
+爸爸：今天就到这吧。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女|哦，Bradley Cooper!<blockquote>ò ， Bradley Cooper!<br />Oh, Bradley Cooper!</blockquote>|
-|男|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
-|女|Bradley，我在这儿！<blockquote>Bradley ， wǒ zài zhèr ！<br />Bradley, I'm here!</blockquote>|
-|男|Bradley Cooper是谁？<blockquote>Bradley Cooper shì shéi ？<br />Who is Bradley Cooper?</blockquote>|
-|女|我的天啊，Bradley!<blockquote>wǒde tiānā ， Bradley!<br />My heavens, Bradley!</blockquote>|
-|女|Bradley，我爱你！<blockquote>Bradley ， wǒ ài nǐ ！<br />Bradley, I love you!</blockquote>|
-|男|他是谁？<blockquote>tā shì shéi ？<br />Who is he?</blockquote>|
+|妈妈|喂？<blockquote>wéi ？<br />Hello?</blockquote>|
+|小秦|妈妈，我爱你。<blockquote>māma ， wǒ ài nǐ 。<br />Mother, I love you.</blockquote>|
+|妈妈|我也爱你。<blockquote>wǒ yě ài nǐ 。<br />I love you too.</blockquote>|
+|爸爸|是小秦吗？<blockquote>shì Xiǎo Qín ma ？<br />Is that Little Qin?</blockquote>|
+|小秦|爸爸，我爱你。<blockquote>bàba ， wǒ ài nǐ 。<br />Daddy, I love you.</blockquote>|
+|爸爸|我也爱你。<blockquote>wǒ yě ài nǐ 。<br />I love you too.</blockquote>|
+|小秦|我也爱你。<blockquote>wǒ yě ài nǐ 。<br />I also love you.</blockquote>|
+|爸爸|好。<blockquote>hǎo 。<br />Alright.</blockquote>|
+|妈妈|好。<blockquote>hǎo 。<br />OK.</blockquote>|
+|小秦|好。<blockquote>hǎo 。<br />Good.</blockquote>|
+|爸爸|今天就到这吧。<blockquote>jīntiān jiù dào zhè ba 。<br />That's about it for today.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

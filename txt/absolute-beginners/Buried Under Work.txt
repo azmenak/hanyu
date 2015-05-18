@@ -2,33 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：给您菜单。
-乙：啊，谢谢。
-甲：您要什么？
-乙：呃，等一下儿，我先看看吧。
-甲：嗯，好的。
+甲：累吗？
+乙：嗯，我很累。
+甲：你该睡觉。
+乙：我还有工作。
 
 ### Pinyin and Translation
 
-甲: 给您菜单。
-    gěi nín càidān 。
-    Here is a menu.
+甲: 累吗？
+    lèi ma ？
+    Are you tired?
 
-乙: 啊，谢谢。
-    a ， xièxie 。
-    Ah, thank you.
+乙: 嗯，我很累。
+    ng ， wǒ hěn lèi 。
+    Yes, I'm very tired.
 
-甲: 您要什么？
-    nín yào shénme ？
-    What do you want?
+甲: 你该睡觉。
+    nǐ gāi shuìjiào 。
+    You should go to sleep.
 
-乙: 呃，等一下儿，我先看看吧。
-    e ， děng yīxiàr ， wǒ xiān kànkan ba 。
-    Wait a moment, I want to take a look.
-
-甲: 嗯，好的。
-    ng ， hǎo de 。
-    Oh, OK.
+乙: 我还有工作。
+    wǒ hái yǒu gōngzuò 。
+    I still have work to do.
 ### Vocab
 -很 (hěn) [adverb] very
 -累 (lèi) [adjective] tired

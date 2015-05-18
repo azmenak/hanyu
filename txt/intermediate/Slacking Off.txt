@@ -2,59 +2,44 @@
 ## *intermediate* level
 
 ### Chinese Text
-女：对不起，对不起，我迟到了。
-男：我都等了四个小时了。
-女：哎呀，我本来不会迟到的。遇上路上堵车嘛。真对不住你了。
-男：那你应该把手机开着啊。
-女：我都说对不起了。你还想怎么着？谁让你把时间定那么早啊。
-男：还早？六点钟还叫早啊？
-女：那你也有错啊。你要是来接我，我就不会迟到了。所以你也该给我道歉。
-男：对不起，对不起，对不起。
-女：没关系。
+女：咳，老板走了没?
+男：终于走了。
+女：哎呀，太好了。走。咱们吃饭去!
+男：你还没工作完呢?
+女：哎呀，老板都走了谁还要工作呢? 走吧, 走吧, 别假正经了!
+男：好，走吧。
 
 ### Pinyin and Translation
 
-女: 对不起，对不起，我迟到了。
-    duìbuqǐ ， duìbuqǐ ， wǒ chídào le 。
-    I'm sorry about being late.
+女: 咳，老板走了没?
+    hai ， lǎobǎn zǒu le méi ?
+    Hey, has the boss gone yet?
 
-男: 我都等了四个小时了。
-    wǒ dōu děng le sì ge xiǎoshí le 。
-    I've been waiting four hours.
+男: 终于走了。
+    zhōngyú zǒu le 。
+    He's finally gone.
 
-女: 哎呀，我本来不会迟到的。遇上路上堵车嘛。真对不住你了。
-    āiya ， wǒ běnlái bù huì chídào de 。 yùshàng lùshang dǔchē ma 。 zhēn duìbuzhù nǐ le 。
-    I wasn't late at the start, but then I ran into a traffic jam. I'm really sorry.
+女: 哎呀，太好了。走。咱们吃饭去!
+    āiya ， tài hǎo le 。 zǒu 。 zánmen chīfàn qù !
+    Great! Come on, let's go eat!
 
-男: 那你应该把手机开着啊。
-    nà nǐ yīnggāi bǎ shǒujī kāizhe a 。
-    Then you should have turned on your cellphone.
+男: 你还没工作完呢?
+    nǐ hái méi gōngzuò wán ne ?
+    Are you finished with work?
 
-女: 我都说对不起了。你还想怎么着？谁让你把时间定那么早啊。
-    wǒ dōu shuō duìbuqǐ le 。 nǐ hái xiǎng zěnme zhao ？ shéi ràng nǐ bǎ shíjiān dìng nàme zǎo a 。
-    I've already said sorry, what else do you want? And who made you set our date so early?
+女: 哎呀，老板都走了谁还要工作呢? 走吧, 走吧, 别假正经了!
+    āiya ， lǎobǎn dōu zǒu le shéi hái yào gōngzuò ne ? zǒu ba , zǒu ba , bié jiǎ zhèngjǐng le !
+    What are you thinking? Who keeps working once the boss leaves? Get moving, get moving, don't act all straightlaced!
 
-男: 还早？六点钟还叫早啊？
-    hái zǎo ？ liù diǎnzhōng hái jiào zǎo a ？
-    Early? Six o'clock still counts as early?
-
-女: 那你也有错啊。你要是来接我，我就不会迟到了。所以你也该给我道歉。
-    nà nǐ yě yǒu cuò a 。 nǐ yàoshì lái jiē wǒ ， wǒ jiù bù huì chídào le 。 suǒyǐ nǐ yě gāi gěi wǒ dàoqiàn 。
-    You're also at fault. If you'd come to pick me up I wouldn't have been late. So you should apologize too.
-
-男: 对不起，对不起，对不起。
-    duìbuqǐ ， duìbuqǐ ， duìbuqǐ 。
-    Sorry, sorry, sorry....
-
-女: 没关系。
-    méiguānxi 。
-    Don't worry about it.
+男: 好，走吧。
+    hǎo ， zǒu ba 。
+    Ok, let's go.
 ### Vocab
--嗓子 (sǎngzi) [noun] throat
--咽喉疼痛 (yānhóu téngtòng) [noun] sore throat
--干涩 (gānsè) [adjective] dry and painful
--金猴子 (jīnhóuzi) [noun] Golden Monkey
--宝 (bǎo) [noun] treasure
--药店 (yàodiàn) [noun] pharmacy
--均 (jūn) [adverb] all
--销售 (xiāoshòu) [verb] to sell
+-走了没 (zǒu le méi) [verb phrase] to have left or not
+-终于 (zhōngyú) [adverb] at last
+-哎呀 (āiyā) [exclamation] good gracious
+-咱们 (zánmen) [pronoun] we
+-都 (dōu) [adverb] (all)
+-别 (bié) [auxiliary verb] don't
+-正经 (zhèngjǐng) [adjective] proper
+-假正经 (jiǎ zhèngjǐng) [verb phrase] to pretend to be straight and narrow

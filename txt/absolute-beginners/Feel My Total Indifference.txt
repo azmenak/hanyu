@@ -2,28 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-刘：我不舒服。
-秦：怎么了？
-刘：我有点儿拉肚子。
-秦：你快回家吧。
+甲：要去吗？
+乙：无所谓。
+甲：不要去吗？
+乙：我说了，无所谓。
 
 ### Pinyin and Translation
 
-刘: 我不舒服。
-    wǒ bù shūfu 。
-    I'm not comfortable.
+甲: 要去吗？
+    yào qù ma ？
+    Want to go?
 
-秦: 怎么了？
-    zěnme le ？
-    What's wrong?
+乙: 无所谓。
+    wúsuǒwèi 。
+    It doesn't matter.
 
-刘: 我有点儿拉肚子。
-    wǒ yǒu diǎnr lādùzi 。
-    I've got a bit of diarrhea.
+甲: 不要去吗？
+    bù yào qù ma ？
+    Don't want to go?
 
-秦: 你快回家吧。
-    nǐ kuài huíjiā ba 。
-    Go home, quickly.
+乙: 我说了，无所谓。
+    wǒ shuō le ， wúsuǒwèi 。
+    I said, I don't care.
 ### Vocab
 -要 (yào) [verb] to want
 -去 (qù) [verb] to go

@@ -1,30 +1,30 @@
 # Yes, I'm a Student
 **Absolute Beginners** level
 ### Chinese Text
-甲：嗯......
-乙：怎么了？
-甲：我不舒服。
-乙：哪儿不舒服？
-甲：我这儿疼。
+甲：你是学生吗？<br />乙：是，你呢？
+甲：我是老师。
+乙：你可以教我中文吗？
+甲：可以。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|嗯......<blockquote>en ......<br />Ouch....</blockquote>|
-|乙|怎么了？<blockquote>zěnmele ？<br />What's wrong?</blockquote>|
-|甲|我不舒服。<blockquote>wǒ bù shūfu 。<br />I'm not comfortable.</blockquote>|
-|乙|哪儿不舒服？<blockquote>nǎr bù shūfu ？<br />Where does it hurt?</blockquote>|
-|甲|我这儿疼。<blockquote>wǒ zhèr téng 。<br />I hurt here.</blockquote>|
+|甲|你是学生吗？<blockquote>nǐ shì xuéshēng ma ？<br />Are you a student?</blockquote>|
+|乙|是，你呢？<blockquote>shì ， nǐ ne ？<br />Yes, I am. And you?</blockquote>|
+|甲|我是老师。<blockquote>wǒ shì lǎoshī 。<br />I am a teacher.</blockquote>|
+|乙|你可以教我中文吗？<blockquote>nǐ kěyǐ jiāo wǒ Zhōngwén ma ？<br />Can you teach me Chinese?</blockquote>|
+|甲|可以。<blockquote>kěyǐ 。<br />Yes, I can.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|我们|wǒmen|we|pronoun|
-|吃|chī|to eat|verb|
-|什么|shénme|what|question|
-|外卖|wàimài|take-out|noun|
-|韩国|Hánguó|South Korea|noun|
-|韩国菜|Hánguó cài|Korean food|noun|
-|中国|Zhōngguó|China|noun|
-|中国菜|Zhōngguó cài|Chinese food|noun|
-|美国|Měiguó|America|noun|
-|美国菜|Měiguó cài|American food|noun|
+|你|nǐ|you|pronoun|
+|是|shì|to be|verb|
+|学生|xuéshēng|student|noun|
+|吗|ma|(question marker)|particle|
+|中国人|Zhōngguórén|Chinese person|noun|
+|我|wǒ|I|pronoun|
+|老师|lǎoshī|teacher|noun|
+|可以|kěyǐ|can|verb|
+|教|jiāo|to teach|verb|
+|中文|Zhōngwén|Chinese language|noun|
+|美国人|Měiguórén|American person|noun|

@@ -2,34 +2,19 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-A：我爱你.
-B：你爱我,可是我爱他.
-A：他爱你吗?
-B：他爱你!
+
 
 ### Pinyin and Translation
-
-A: 我爱你.
-    wǒ ài nǐ .
-    I love you.
-
-B: 你爱我,可是我爱他.
-    nǐ ài wǒ , kěshì wǒ ài tā .
-    You love me, but I love him.
-
-A: 他爱你吗?
-    tā ài nǐ ma ?
-    Does he love you?
-
-B: 他爱你!
-    tā ài nǐ !
-    He loves you
 ### Vocab
+-生 (shēng) [verb] to be born
+-妈 (mā) [noun] mother
+-天 (tiān) [noun] sky
+-谁 (shéi) [question] who
+-您 (nín) [pronoun] you
+-人 (rén) [noun] person
 -你 (nǐ) [pronoun] you
--我 (wǒ) [pronoun] I
--你好 (nǐhǎo) [phrase] hello
--你好吗 (nǐhǎo ma) [phrase] how are you
--很 (hěn) [adverb] very
 -好 (hǎo) [adjective] good
--谢谢 (xièxie) [phrase] thank you
--再见 (zàijiàn) [phrase] good bye
+-买 (mǎi) [verb] to buy
+-卖 (mài) [verb] to sell
+-骂 (mà) [verb] to curse
+-去 (qù) [verb] to go

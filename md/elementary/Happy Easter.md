@@ -1,8 +1,7 @@
 # Happy Easter
 **Elementary** level
 ### Chinese Text
-甲：我给你买了一条围巾。
-乙：真好看。
+甲：我给你买了一条围巾。<br />乙：真好看。
 甲：是猫毛做的。你不是很喜欢猫吗？
 乙：我对猫过敏....
 
@@ -16,15 +15,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|电影|diànyǐng|movie|noun|
-|录像带|lùxiàngdài|video tape|noun|
-|DVD机|DVD jī|DVD player|noun|
-|版本|bǎnběn|version|noun|
-|剩下|shèngxià|to leave behind|verb|
-|由于|yóuyú|since|conjunction|
-|所以|suǒyǐ|therefore|conjunction|
-|虽然|suīrán|although|conjunction|
-|越来越|yuèláiyuè|more and more|pattern|
-|畅销|chàngxiāo|well-selling|adjective|
-|流行|liúxíng|popular|adjective|
-|欢迎光临|huānyíng guānglín|welcome customer|phrase|
+|条|tiáo|long stripe|measure word|
+|给|gěi|for; to|coverb|
+|对|duì|towards|coverb|
+|围巾|wéijīn|scarf|noun|
+|毛|máo|fur|noun|
+|过敏|guòmǐn|to be allergic|verb|
+|感兴趣|gǎn xìngqu|to be interested in|verb|
+|满意|mǎnyì|to be satisfied|verb|
+|失望|shīwàng|to be disappointed|verb|
+|生气|shēngqì|to be angry|verb|
+|有信心|yǒu xìnxīn|to have confidence|verb|

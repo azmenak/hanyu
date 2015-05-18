@@ -1,8 +1,7 @@
 # The MacGyver of Chopsticks 
 **Elementary** level
 ### Chinese Text
-甲：你会用筷子吗？
-乙：用筷子杀人？没问题。
+甲：你会用筷子吗？<br />乙：用筷子杀人？没问题。
 甲：哦，我的意思是....
 乙：用筷子开锁？有点儿难，不过也没问题。
 甲：哦，不不不....
@@ -20,15 +19,14 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|上班儿|shàngbānr|to go to work|verb|
-|迟到|chídào|to be late|verb|
-|告诉|gàosu|to tell|verb|
-|坐|zuò|to ride|verb|
-|挤|jǐ|to squeeze|verb|
-|地铁|dìtiě|subway|noun|
-|终点站|zhōngdiǎnzhàn|terminus station|noun|
-|起始站|qǐshǐzhàn|first station|noun|
-|傻|shǎ|idiotic|adjective|
+|筷子|kuàizi|chopsticks|noun|
+|杀人|shārén|to kill a person|verb|
+|开锁|kāisuǒ|to open a lock|verb|
+|吃饭|chīfàn|to eat food|verb|
+|不过|búguò|but|conjunction|
 |可是|kěshì|but|conjunction|
-|但是|dànshì|however|conjunction|
-|而且|érqiě|moreover|conjunction|
+|但是|dànshì|but|conjunction|
+|意思|yìsi|idea|noun|
+|不好意思|bùhǎoyìsi|sorry|phrase|
+|会|huì|to be able|verb|
+|理解|lǐjiě|to understand|verb|

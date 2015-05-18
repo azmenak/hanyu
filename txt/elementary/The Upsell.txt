@@ -2,42 +2,47 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：今天下午你去打扫鲨鱼池。
-乙：鲨鱼不吃人？
-甲：对，所以我们把你打扮成一只海豹。
-乙：那鲨鱼不吃海豹？
-甲：你是海豹吗？
+甲：老板，来瓶鲜橙多。
+乙：挣那么多钱，来瓶脉动呗。
+甲：不了，我就要鲜橙多。
+乙：哎呀，脉动比鲜橙多贵不了多少钱。
+甲：我就要鲜橙多。
+乙：好吧。抠门儿。
 
 ### Pinyin and Translation
 
-甲: 今天下午你去打扫鲨鱼池。
-    jīntiān xiàwǔ nǐ qù dǎsǎo shāyú chí 。
-    This afternoon you're going to clean the shark tank.
+甲: 老板，来瓶鲜橙多。
+    lǎobǎn ， lái píng Xiānchéngduō 。
+    Boss, give me a bottle of orange tang.
 
-乙: 鲨鱼不吃人？
-    shāyú bù chī rén ？
-    Don't sharks eat people?
+乙: 挣那么多钱，来瓶脉动呗。
+    zhèng nàme duō qián ， lái píng Màidòng bei 。
+    You earn so much money, how about a bottle of Mizone sports drink.
 
-甲: 对，所以我们把你打扮成一只海豹。
-    duì ， suǒyǐ wǒmen bǎ nǐ dǎbàn chéng yī zhī hǎibào 。
-    Yes, which is why we'll be dressing you up as a seal.
+甲: 不了，我就要鲜橙多。
+    bù le ， wǒ jiù yào Xiānchéngduō 。
+    Nah, I just want orange tang.
 
-乙: 那鲨鱼不吃海豹？
-    nà shāyú bù chī hǎibào ？
-    But, don't sharks eat seals?
+乙: 哎呀，脉动比鲜橙多贵不了多少钱。
+    aiya ， Màidòng bǐ Xiānchéngduō guì bù liǎo duōshǎo qián 。
+    Good gracious. Mizone sports drink isn't really that much more expensive than tang!
 
-甲: 你是海豹吗？
-    nǐ shì hǎibào ma ？
-    Are you a seal?
+甲: 我就要鲜橙多。
+    wǒ jiù yào Xiānchéngduō 。
+    I just want orange tang.
+
+乙: 好吧。抠门儿。
+    hǎoba 。 kōuménr 。
+    Alright, cheapskate.
 ### Vocab
--间谍 (jiàndié) [noun] spy
--工作 (gōngzuò) [noun] work
--出口 (chūkǒu) [verb/noun] export; to export
--进口 (jìnkǒu) [verb/noun] import; to import
--贸易 (màoyì) [noun] trade
--东西 (dōngxi) [noun] thing
--手机 (shǒujī) [noun] cellphone
--信号 (xìnhào) [noun] signal
--棒 (bàng) [adjective] great
--标准 (biāozhǔn) [adjective] standard
--流利 (liúlì) [adjective] fluent
+-老板 (lǎobǎn) [noun] boss
+-来 (lái) [verb] to bring
+-鲜橙多 (Xiānchéngduō) [noun] orange tang
+-挣钱 (zhèngqián) [verb] to make money
+-脉动 (Màidòng) [noun] Mizone sports drink
+-抠门儿 (kōuménr) [adjective] stingy
+-冰红茶 (bīnghóngchá) [noun] iced red tea
+-冰绿茶 (bīnglǜchá) [noun] iced green tea
+-茉莉清茶 (mòlìqīngchá) [noun] jasmine tea
+-蜂蜜柚子茶 (fēngmìyòuzichá) [noun] honey citron tea
+-非常可乐 (fēicháng kělè) [noun] future cola

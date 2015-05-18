@@ -1,8 +1,7 @@
 # The Third Tone
 **Absolute Beginners** level
 ### Chinese Text
-你好
-我很好
+你好<br />我很好
 酒很好
 我很忙
 没有水
@@ -25,12 +24,12 @@
 |汉子|拼音|英文|词类|
 |----|----|----|----|
 |你|nǐ|you|pronoun|
-|别|bié|don't|other|
-|动|dòng|to move|verb|
-|事|shì|problem|noun|
-|没事|méishì|there's no problem|phrase|
-|有事|yǒushì|there's a problem|phrase|
-|别管我|bié guǎn wǒ|don't nag me|phrase|
-|别说|bié shuō|don't talk|phrase|
-|别笑|bié xiào|don't laugh|phrase|
-|没|méi|not, there is not|adverb|
+|我|wǒ|I|pronoun|
+|好|hǎo|good|adjective|
+|少|shǎo|few|adjective|
+|有|yǒu|to have|verb|
+|水|shuǐ|water|noun|
+|酒|jiǔ|alcohol|noun|
+|很|hěn|very|adverb|
+|美|měi|beautiful|adjective|
+|可爱|kěài|cute|adjective|

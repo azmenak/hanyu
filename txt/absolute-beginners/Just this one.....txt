@@ -25,14 +25,13 @@
     bù ， jiù zhège 。
     No, exactly this one.
 ### Vocab
--妈妈 (māma) [noun] mother
--中文 (zhōngwén) [noun] Chinese language
--英文 (yīngwén) [noun] English language
--课 (kè) [noun] class
--是 (shì) [verb] to be
--学 (xué) [verb] to study
--吃 (chī) [verb] to eat
--的 (de) [particle] (subordinating particle)
--怎么样 (zěnmeyàng) [phrase] how is it
--汉堡 (hànbǎo) [noun] hamburger
--东西 (dōngxi) [noun] thing
+-我 (wǒ) [pronoun] I
+-你 (nǐ) [pronoun] you
+-她 (tā) [pronoun] she
+-他 (tā) [pronoun] he
+-想要 (xiǎng yào) [verb] to want
+-哪个 (nǎ ge) [phrase] which one
+-这个 (zhège) [phrase] this one
+-那个 (nàge) [phrase] that one
+-怎么样 (zěnmeyàng) [phrase] how about it
+-就 (jiù) [adverb] exactly

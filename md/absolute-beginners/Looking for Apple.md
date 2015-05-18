@@ -1,8 +1,7 @@
 # Looking for Apple
 **Absolute Beginners** level
 ### Chinese Text
-女的：喂?
-男的：喂? Apple 在吗?
+女的：喂?<br />男的：喂? Apple 在吗?
 女的：听不见，喂?
 男的：喂? 请问，Apple 在吗?
 女的：我听不见。

@@ -1,24 +1,31 @@
 # On the Road
 **Elementary** level
 ### Chinese Text
-甲：你刚才拿的是我的iPad.
-乙：没有，我没拿你iPad.
-甲：我看见你把它放包里了。
-乙：包里是我的iPad.
-甲：给我。你居然偷我的东西。
-乙：大姐，拜托。不是只是你一个人有iPad.
-甲：哎？这不是我的iPhone吗？
+甲：我们在哪儿啊？<br />乙：宝贝儿，睡醒了呀？
+甲：你干什么啦？
+乙：我什么都没干呀。
+甲：我睡觉的时候我们不是在新泽西吗？现在在哪儿啊？这是什么地方？
+乙：我就一直往前开。你说的，一直开就错不了。
+甲：这是第几个出口啊？四百四十八。嘿，我们要去的是四十八！这是哪儿啊？
+乙：我就没看见你说的那四十八出口啊....
+甲：那是清真寺吗？我们还在美国吗？清真寺？清真寺！
+乙：我就是听你的，一直往前开的....
+甲：靠，清真寺！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你刚才拿的是我的iPad.<blockquote>nǐ gāngcái ná de shì wǒ de iPad .<br />That's my iPad you just took.</blockquote>|
-|乙|没有，我没拿你iPad.<blockquote>méiyǒu ， wǒ méi ná nǐ iPad .<br />No. I didn't take your iPad.</blockquote>|
-|甲|我看见你把它放包里了。<blockquote>wǒ kànjiàn nǐ bǎ tā fàng bāo lǐ le 。<br />I saw you put it in the bag.</blockquote>|
-|乙|包里是我的iPad.<blockquote>bāo lǐ shì wǒ de iPad .<br />The one in the bag is my iPad.</blockquote>|
-|甲|给我。你居然偷我的东西。<blockquote>gěi wǒ 。 nǐ jūrán tōu wǒ de dōngxi 。<br />Give that to me. I can't believe you'd steal my things.</blockquote>|
-|乙|大姐，拜托。不是只是你一个人有iPad.<blockquote>dàjiě ， bàituō 。 bù shì zhǐ shì nǐ yī ge rén yǒu iPad .<br />Please, girl. It isn't as if you're the only one with an iPad.</blockquote>|
-|甲|哎？这不是我的iPhone吗？<blockquote>ai ？ zhè bù shì wǒ de iPhone ma ？<br />Hey! Isn't this my iPhone?</blockquote>|
+|甲|我们在哪儿啊？<blockquote>wǒmen zài nǎr a ？<br />Where are we?</blockquote>|
+|乙|宝贝儿，睡醒了呀？<blockquote>bǎobèir ， shuìxǐng le ya ？<br />Hey Baby, you're awake?</blockquote>|
+|甲|你干什么啦？<blockquote>nǐ gàn shénme la ？<br />What have you done?</blockquote>|
+|乙|我什么都没干呀。<blockquote>wǒ shénme dōu méi gàn ya 。<br />I'm haven't done anything.</blockquote>|
+|甲|我睡觉的时候我们不是在新泽西吗？现在在哪儿啊？这是什么地方？<blockquote>wǒ shuìjiào de shíhou wǒmen bù shì zài Xīnzéxī ma ？ xiànzài zài nǎr ā ？ zhè shì shénme dìfang ？<br />When I went to sleep weren't we in New Jersey? And where are we now? What is this place?</blockquote>|
+|乙|我就一直往前开。你说的，一直开就错不了。<blockquote>wǒ jiù yīzhí wǎngqián kāi 。 nǐ shuō de ， yīzhí kāi jiù cuòbùliǎo 。<br />I just drove straight. Like you said, "go straight and you can't go wrong."</blockquote>|
+|甲|这是第几个出口啊？四百四十八。嘿，我们要去的是四十八！这是哪儿啊？<blockquote>zhè shì dìjǐ ge chūkǒu a ？ sìbǎi sìshíbā 。 hei ， wǒmen yào qù de shì sìshíbā ！ zhè shì nǎr a ？<br />What exit is this? 448. Hey! We wanted exit 48! Where is this?</blockquote>|
+|乙|我就没看见你说的那四十八出口啊....<blockquote>wǒ jiù méi kànjiàn nǐ shuō de nà sìshíbā chūkǒu a . . . .<br />I didn't see the exit 48 you talked about.</blockquote>|
+|甲|那是清真寺吗？我们还在美国吗？清真寺？清真寺！<blockquote>nà shì qīngzhēnsì ma ？ wǒmen hái zài Měiguó ma ？ qīngzhēnsì ？ qīngzhēnsì ！<br />Is that a mosque? Are we even in the United States? A mosque? A mosque!</blockquote>|
+|乙|我就是听你的，一直往前开的....<blockquote>wǒ jiùshì tīng nǐ de ， yīzhí wǎngqián kāi de . . . .<br />I just did what you said, and drove straight....</blockquote>|
+|甲|靠，清真寺！<blockquote>kào ， qīngzhēnsì ！<br />Fuck, a mosque!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

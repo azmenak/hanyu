@@ -1,43 +1,60 @@
 # Mother's Secret Past
 **Intermediate** level
 ### Chinese Text
-甲：我的委托人说你威胁她了。
-乙：我没有。
-甲：让我引用你自己的话：“如果你再用擦马桶的抹布擦桌子，我就杀了你”。
-乙：那不是真的要杀她。是打个比喻。
-甲：嗯？
-乙：谁会用擦马桶的抹布擦桌子呀，都不带换水的。我都无语了。
-甲：所以你承认你威胁过她。
-乙：我想要干净的餐具有罪吗？她每次都是用口水擦的。
-甲：所以你威胁要炒了她。
-乙：这不是威胁。
+甲：亲爱的，一会儿见我妈之前有一件事我得告诉你。<br />乙：什么事？
+甲：就是我妈她在年轻的时候失去了一条腿，所以呢，她就对这件事特别敏感。一会儿你无论如何千万不要提到她那条木腿。
+乙：我保证不提。
+甲：行，那我敲门了啊。
+丙：迈克，终于见到你啦。
+乙：伯母，您好。
+丙：不好意思啊，让你久等了，都怪我这条该死的木腿。
+甲：妈，你怎么又提那腿....
+丙：不，迈克不是外人，他应该知道。文革那年，厂里出了事故....
+甲：哎，行了行了。
+丙：哦，哦，那你们俩怎么过来的？
+乙：我们走过来的。
+丙：哦，两个人，四条腿，走过来散散步挺好的哈。那进来吧。
+乙：你们家还是复式呢？
+丙：跟住单层一样，我都好久没上二楼啦。
+乙：为什么呀？
+甲：迈克！
+丙：因为我这条该死的木腿呀，混蛋！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我的委托人说你威胁她了。<blockquote>wǒ de wěituōrén shuō nǐ wēixié tā le 。<br />My client says you threatened her.</blockquote>|
-|乙|我没有。<blockquote>wǒ méiyǒu 。<br />No I didn't.</blockquote>|
-|甲|让我引用你自己的话：“如果你再用擦马桶的抹布擦桌子，我就杀了你”。<blockquote>ràng wǒ yǐnyòng nǐ zìjǐ de huà ： “ rúguǒ nǐ zài yòng cā mǎtǒng de mābù cā zhuōzi ， wǒ jiù shā le nǐ ” 。<br />Let me quote your own words: "if you use the cloth you use to wash the toilet to wipe down the table, I'm going to kill you."</blockquote>|
-|乙|那不是真的要杀她。是打个比喻。<blockquote>nà bù shì zhēnde yào shā tā 。 shì dǎ ge bǐyù 。<br />It wasn't really threatening her. It was making a metaphor.</blockquote>|
-|甲|嗯？<blockquote>en ？<br />Hmm?</blockquote>|
-|乙|谁会用擦马桶的抹布擦桌子呀，都不带换水的。我都无语了。<blockquote>shéi huì yòng cā mǎtǒng de mābù cā zhuōzi ya ， dōu bù dài huàn shuǐ de 。 wǒ dōu wúyǔ le 。<br />Who uses the toilet rag to wash the table? She didn't even change the water. I'm totally speechless.</blockquote>|
-|甲|所以你承认你威胁过她。<blockquote>suǒyǐ nǐ chéngrèn nǐ wēixié guò tā 。<br />So you admit that you threatened her.</blockquote>|
-|乙|我想要干净的餐具有罪吗？她每次都是用口水擦的。<blockquote>wǒ xiǎng yào gānjìng de cānjù yǒuzuì ma ？ tā měicì dōu shì yòng kǒushuǐ cā de 。<br />Is it a crime to want clean utensils? She was polishing them with saliva every single time.</blockquote>|
-|甲|所以你威胁要炒了她。<blockquote>suǒyǐ nǐ wēixié yào chǎo le tā 。<br />So you threatened to fire her.</blockquote>|
-|乙|这不是威胁。<blockquote>zhè bù shì wēixié 。<br />It wasn't a threat.</blockquote>|
+|甲|亲爱的，一会儿见我妈之前有一件事我得告诉你。<blockquote>qīn_APOS_àide ， yīhuìr jiàn wǒ mā zhīqián yǒu yī jiàn shì wǒ děi gàosu nǐ 。<br />Darling, before we see my mother in a moment there's something I need to tell you.</blockquote>|
+|乙|什么事？<blockquote>shénme shì ？<br />What's that?</blockquote>|
+|甲|就是我妈她在年轻的时候失去了一条腿，所以呢，她就对这件事特别敏感。一会儿你无论如何千万不要提到她那条木腿。<blockquote>jiùshì wǒ mā tā zài niánqīng de shíhou shīqù le yī tiáo tuǐ ， suǒyǐ ne ， tā jiù duì zhè jiàn shì tèbié mǐngǎn 。 yīhuìr nǐ wúlùnrúhé qiānwàn bù yào tídào tā nà tiáo mùtuǐ 。<br />It's that she lost a leg when she was younger. And so she's quite sensitive about this. So no matter what happens just don't bring up that leg of hers.</blockquote>|
+|乙|我保证不提。<blockquote>wǒ bǎozhèng bù tí 。<br />I promise I won't.</blockquote>|
+|甲|行，那我敲门了啊。<blockquote>xíng ， nà wǒ qiāomén le a 。<br />Ok, then I'll knock on the door.</blockquote>|
+|丙|迈克，终于见到你啦。<blockquote>Màikè ， zhōngyú jiàndào nǐ la 。<br />Michael, finally we meet.</blockquote>|
+|乙|伯母，您好。<blockquote>bómǔ ， nínhǎo 。<br />Hello, Auntie.</blockquote>|
+|丙|不好意思啊，让你久等了，都怪我这条该死的木腿。<blockquote>bùhǎoyìsi a ， ràng nǐ jiǔděng le ， dōu guài wǒ zhè tiáo gāisǐ de mùtuǐ 。<br />I'm sorry to have kept you waiting, it's all the fault of this damn pegleg of mine.</blockquote>|
+|甲|妈，你怎么又提那腿....<blockquote>mā ， nǐ zěnme yòu tí nà tuǐ ....<br />Mother, why are you bringing up your leg again....</blockquote>|
+|丙|不，迈克不是外人，他应该知道。文革那年，厂里出了事故....<blockquote>bù ， Màikè bù shì wàirén ， tā yīnggāi zhīdào 。 wéngé nà nián ， chǎng lǐ chū le shìgù . . . .<br />No, Michael isn't an outsider and he should know. It was that year during the Cultural Revolution, there was an accident in the factory....</blockquote>|
+|甲|哎，行了行了。<blockquote>ai ， xíng le xíng le 。<br />Hey, that's enough of this.</blockquote>|
+|丙|哦，哦，那你们俩怎么过来的？<blockquote>ò ， ò ， nà nǐmen liǎ zěnme guòlai de ？<br />Oh, fine. So how did you two come over?</blockquote>|
+|乙|我们走过来的。<blockquote>wǒmen zǒu guòlái de 。<br />We walked over.</blockquote>|
+|丙|哦，两个人，四条腿，走过来散散步挺好的哈。那进来吧。<blockquote>ò ， liǎng ge rén ， sì tiáo tuǐ ， zǒu guòlái sànsanbù tǐng hǎo de ha 。 nà jìnlai ba 。<br />Ah. Two people. Four legs. That's just right for a nice stroll, isn't it? Well, come in then.</blockquote>|
+|乙|你们家还是复式呢？<blockquote>nǐmen jiā hái shì fùshì ne ？<br />I didn't know your home was a duplex.</blockquote>|
+|丙|跟住单层一样，我都好久没上二楼啦。<blockquote>gēn zhù dāncéng yīyàng ， wǒ dōu hǎojiǔ méi shàng èrlóu la 。<br />It's the same as having one story to me. I haven't been upstairs in ages.</blockquote>|
+|乙|为什么呀？<blockquote>wèishénme ya ？<br />Why?</blockquote>|
+|甲|迈克！<blockquote>Màikè ！<br />Michael!</blockquote>|
+|丙|因为我这条该死的木腿呀，混蛋！<blockquote>yīnwèi wǒ zhè tiáo gāisǐ de mùtuǐ ya ， húndàn ！<br />Because of my damn wooden leg, you bastard!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|头|tóu|first; head|determiner|
-|条|tiáo|(measure word)|measure word|
-|读书|dúshū|to read|verb|
-|面孔|miànkǒng|faces|noun|
-|探讨|tàntǎo|to investigate|verb|
-|主题|zhǔtí|main theme|noun|
-|象征|xiàngzhēng|symbolism|noun|
-|规矩|guīju|rule|noun|
-|不便|bùbiàn|inconvenience|noun|
-|俱乐部|jùlèbù|club|noun|
-|海明威|Hǎimíngwēi|Hemingway|person|
-|意味着|yìwèizhe|to suggest|verb|
-|坏了规矩|huài le ... guīju|to have broken rules|slang|
+|失去|shīqù|to lose|verb|
+|敏感|mǐngǎn|sensitive|adjective|
+|千万|qiānwàn|absolutely|adverb|
+|木腿|mùtuǐ|wooden leg|noun|
+|久等|jiǔděng|so long|phrase|
+|外人|wàirén|outsider|noun|
+|文革|wéngé|cultural revolution|noun|
+|复式|fùshì|duplex|noun|
+|该死的|gāisǐ de|damnable|adjective|
+|一会儿|yīhuìr|in a while|noun|
+|等会儿|děnghuìr|wait a moment|noun|
+|呆会儿|dāihuìr|wait a moment|noun|
+|无论如何|wúlùnrúhé|no matter|phrase|

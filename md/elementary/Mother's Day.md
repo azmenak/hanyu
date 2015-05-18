@@ -1,35 +1,26 @@
 # Mother's Day
 **Elementary** level
 ### Chinese Text
-甲：哎，哥们儿，把空调打开。快！我朋友快热死了。
-乙：已经打开了。
-甲：那把温度再调低点儿。
-乙：已经是最低了。
-甲：哎，已经热死了。
-乙：啊？
+甲：Bunny, 你给你妈买礼物了吗？<br />乙：为什么？
+甲：因为母亲节！
+乙：哦，我忘了！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，哥们儿，把空调打开。快！我朋友快热死了。<blockquote>āi ， gēmenr ， bǎ kōngtiáo dǎkāi 。 kuài ！ wǒ péngyou kuài rè sǐ le 。<br />Hey dude, turn on the air conditioner. Quickly! My friend is dying of heat here.</blockquote>|
-|乙|已经打开了。<blockquote>yǐjīng dǎkāi le 。<br />It's already on.</blockquote>|
-|甲|那把温度再调低点儿。<blockquote>nà bǎ wēndù zài tiáo dī diǎnr 。<br />Then turn the temperature down a bit more.</blockquote>|
-|乙|已经是最低了。<blockquote>yǐjīng shì zuì dī le 。<br />It's already as low as it goes.</blockquote>|
-|甲|哎，已经热死了。<blockquote>āi ， yǐjīng rè sǐ le 。<br />Oh, he's already died.</blockquote>|
-|乙|啊？<blockquote>á ？<br />Huh?</blockquote>|
+|甲|Bunny, 你给你妈买礼物了吗？<blockquote>Bunny, nǐ gěi nǐ mā mǎi lǐwù le ma ？<br />Bunny, did you buy a present for your mom?</blockquote>|
+|乙|为什么？<blockquote>wèishénme ？<br />Why?</blockquote>|
+|甲|因为母亲节！<blockquote>yīnwèi mǔqīnjié ！<br />Because of Mother's Day!</blockquote>|
+|乙|哦，我忘了！<blockquote>o ， wǒ wàng le ！<br />Oh, I forgot!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|空调|kōngtiáo|air conditioner|noun|
-|暖气|nuǎnqì|heater|noun|
-|电扇|diànshàn|electric fan|noun|
-|电热毯|diànrètǎn|electric blanket|noun|
-|暖风机|nuǎnfēngjī|electric heat fan|noun|
-|冷|lěng|cold|adjective|
-|热|rè|hot|adjective|
-|冻|dòng|freezing|adjective|
-|烫|tàng|scalding|adjective|
-|打开|dǎkāi|to turn on|verb|
-|关上|guānshàng|to turn off|verb|
-|修好|xiūhǎo|to repair|verb|
-|插上|chāshàng|to plug in|verb|
+|给|gěi|for|preposition|
+|妈|mā|mom|noun|
+|爸|bà|dad|noun|
+|礼物|lǐwù|gift|noun|
+|买|mǎi|to buy|verb|
+|为什么|wèishénme|why|question|
+|因为|yīnwèi|because|conjunction|
+|母亲节|mǔqīnjié|Mothers Day|noun|
+|忘|wàng|to forget|verb|

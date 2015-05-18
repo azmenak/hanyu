@@ -1,8 +1,7 @@
 # Psychopathic Business Cards
 **Elementary** level
 ### Chinese Text
-甲：这是我的名片。
-乙：这是我的名片。
+甲：这是我的名片。<br />乙：这是我的名片。
 甲：怎么是空白的？
 乙：我刚失业。
 甲：真遗憾。

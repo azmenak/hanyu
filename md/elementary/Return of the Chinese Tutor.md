@@ -1,29 +1,45 @@
 # Return of the Chinese Tutor
 **Elementary** level
 ### Chinese Text
-甲：哎，车钥匙呢？
-乙：不是在你兜里吗？
-甲：没有。我给你了。是你开车来的。
-乙：妈的。
+老师：跟我读：透司特。<br />学生：透司特。
+老师：透司特是面包的意思。例如，一杯橙汁，两片儿透司特。
+学生：一杯橙汁，两片儿透司特。
+老师：好。
+学生：一杯橙汁，两片儿透司特。
+老师：透司特。
+学生：这不是轻声吗？
+老师：你是老师吗？跟我读：透司特。还有罢特日。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，车钥匙呢？<blockquote>āi ， chē yàoshi ne ？<br />Hey, where are the car keys?</blockquote>|
-|乙|不是在你兜里吗？<blockquote>bù shì zài nǐ dōu lǐ ma ？<br />Aren't they in your pocket?</blockquote>|
-|甲|没有。我给你了。是你开车来的。<blockquote>méiyǒu 。 wǒ gěi nǐ le 。 shì nǐ kāichē lái de 。<br />No. I gave them to you. It was you who drove here.</blockquote>|
-|乙|妈的。<blockquote>māde 。<br />Dammit.</blockquote>|
+|老师|跟我读：透司特。<blockquote>gēn wǒ dú ： tòusītè 。<br />Read with me: toast.</blockquote>|
+|学生|透司特。<blockquote>tòusītè 。<br />Toast.</blockquote>|
+|老师|透司特是面包的意思。例如，一杯橙汁，两片儿透司特。<blockquote>tòusītè shì miànbāo de yìsi 。 lìrú ， yī bēi chéngzhī ， liǎng piānr tòusītè 。<br />Toast means bread. For example, a cup of orange juice and two pieces of toast.</blockquote>|
+|学生|一杯橙汁，两片儿透司特。<blockquote>yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.</blockquote>|
+|老师|好。<blockquote>hǎo 。<br />Good.</blockquote>|
+|学生|一杯橙汁，两片儿透司特。<blockquote>yī bēi chéngzhī ， liǎng piànr tòusītè 。<br />A cup of orange juice and two pieces of toast.</blockquote>|
+|老师|透司特。<blockquote>tòusītè 。<br />Toast.</blockquote>|
+|学生|这不是轻声吗？<blockquote>zhè bù shì qīngshēng ma ？<br />Isn't this a neutral tone?</blockquote>|
+|老师|你是老师吗？跟我读：透司特。还有罢特日。<blockquote>nǐ shì lǎoshī ma ？ gēn wǒ dú ： tòusītè 。 hái yǒu bàtèrì 。<br />Are you the teacher? Read with me: toast and butter.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|丢|diū|to lose|verb|
-|钥匙|yàoshi|key|noun|
-|开车|kāichē|to drive a car|verb|
-|眼镜|yǎnjìng|glasses|noun|
-|妈的|māde|damn|phrase|
-|找到|zhǎodào|to find|verb|
-|插队|chāduì|to be sent to the countryside for work|verb|
-|在地上|zài dì shàng|on the ground|phrase|
-|在兜里|zài dōu lǐ|in one's pocket|phrase|
-|在手里|zài shǒu lǐ|in one's hand|phrase|
-|毛主席|Máo zhǔxí|Chairman Mao|person|
+|杯|bēi|cup|measure word|
+|片儿|piànr|piece|measure word|
+|笔|bǐ|pen|noun|
+|书|shū|book|noun|
+|吐司|tǔsī|toast|noun|
+|黄油|huángyōu|butter|noun|
+|橙汁|chéngzhī|orange juice|noun|
+|面包|miànbāo|bread|noun|
+|轻声|qīngshēng|neutral tone|noun|
+|老师|lǎoshī|teacher|noun|
+|铅笔|qiānbǐ|pencil|noun|
+|作业|zuòyè|homework|noun|
+|课本|kèběn|textbook|noun|
+|课文|kèwén|passage|noun|
+|听写|tīngxiě|to take dictation|verb|
+|跟我读|gēn wǒ dú|read with me|phrase|
+|跟我说|gēn wǒ shuō|say it with me|phrase|
+|再说一遍|zài shuō yī biàn|say it again|phrase|

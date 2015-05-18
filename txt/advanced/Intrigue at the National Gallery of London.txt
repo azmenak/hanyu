@@ -40,19 +40,27 @@
     wǒ zhǐ shì wèn wen 。
     I'm asking, that's all.
 ### Vocab
--专辑 (zhuānjí) [noun] album
--冲突 (chōngtū) [noun] conflict
--唱片 (chàngpiān) [noun] record
--欲望 (yùwàng) [noun] desire
--民谣 (mínyáo) [noun] folk music
--领域 (lǐngyù) [noun] field
--闺蜜 (guīmì) [noun] best friend
--混淆 (hùnxiáo) [verb] to confuse
--创作 (chuàngzuò) [verb] to create
--傣族 (dǎizú) [noun] Dai ethnicity
--迷幻 (míhuàn) [adjective] fantasy
--蒙古族 (měnggǔzú) [noun] Mongolian
--命中注定 (mìngzhōngzhùdìng) [phrase] predestined
--豁然开朗 (huòránkāilǎng) [phrase] suddenly become enlightened
--机缘巧合 (jīyuánqiǎohé) [phrase] lucky; by chance
--蓬荜生辉 (péngbìshēnghuī) [phrase] lightened up by someone's presence
+-赝品 (yànpǐn) [noun] forgery
+-伪造 (wěizào) [verb] to forge
+-拉菲尔 (Lāfēiěr) [name] Raphael
+-达·芬奇 (Dá Fēnqí) [name] DaVinci
+-莫內 (Mònèi) [name] Monet
+-炭鉴定 (tànjiàndìng) [noun] carbon testing
+-追溯 (zhuīsù) [verb] to trace back
+-内部人 (nèibùrén) [noun] insider
+-掉包 (diàobāo) [verb] to make a switch
+-主修 (zhǔxiū) [verb] to major in
+-辅修 (fǔxiū) [unknown] to minor in
+-文艺复兴 (wényì fùxīng) [noun] Renaissance
+-画作 (huàzuò) [noun] painting
+-画布 (huàbù) [noun] canvas
+-皇家 (huángjiā) [noun] royal family
+-珍藏 (zhēncáng) [noun] collection
+-安保系统 (ānbǎo xìtǒng) [noun] security system
+-移动探测器 (yídòng tàncèqì) [noun] motion detector
+-红外摄像头 (hóngwài shèxiàngtóu) [noun] infrared detector
+-压力传感器 (yālì chuángǎnqì) [noun] pressure-sensitive transmitter
+-索罗亚 (Suǒluóyà) [name] Sorolla
+-印象派 (yìnxiàngpài) [noun] impressionism
+-野兽派 (yěshǒupài) [noun] fauvism
+-新古典派 (xīngǔdiǎnpài) [noun] neoclassicism

@@ -2,30 +2,27 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：这个怎么说？
-甲：笑什么你？
-乙：你刚跑出东北味来了。
+甲：哎呀，坏了，老板在。
+乙：不许聊天，回去工作。
 
 ### Pinyin and Translation
 
-甲: 这个怎么说？
-    zhège zěnme shuō ？
-    How do you say this?
+甲: 哎呀，坏了，老板在。
+    āiya ， huài le ， lǎobǎn zài 。
+    Oh no, dammit, the boss is here.
 
-甲: 笑什么你？
-    xiào shénme nǐ ？
-    What are you laughing at?
-
-乙: 你刚跑出东北味来了。
-    nǐ gāng pǎochū dōngběiwèi lái le 。
-    You just let slip a Northeastern accent.
+乙: 不许聊天，回去工作。
+    bù xǔ liáotiān ， huíqu gōngzuò 。
+    No chatting allowed, get back to work.
 ### Vocab
--怎么说 (zěnme shuō) [phrase] how to say
--东北 (dōngběi) [noun] northeast
--刚 (gāng) [adverb] recently
--笑 (xiào) [verb] to laugh
--跑出 (pǎochū) [verb] to run
--说出 (shuōchū) [verb] to blurt out
--唱出 (chàngchū) [verb] to sing out
--想出 (xiǎngchū) [verb] to think of
--听出 (tīngchū) [verb] to hear
+-哎呀 (āiya) [exclamation] good gracious
+-坏了 (huài le) [phrase] it's bad
+-糟了 (zāo le) [phrase] it's awful
+-完了 (wán le) [phrase] I'm done for
+-老板 (lǎobǎn) [noun] boss
+-在 (zài) [verb] to be present
+-不许 (bù xǔ) [verb] not to be allowed
+-聊天 (liáotiān) [verb] to chat
+-工作 (gōngzuò) [verb] to work
+-回去 (huíqu) [verb] to return
+-磨蹭 (móceng) [verb] to procrastinate

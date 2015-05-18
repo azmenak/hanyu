@@ -2,33 +2,58 @@
 ## *elementary* level
 
 ### Chinese Text
-甲：又在看别的女人！
-乙：她是人妖。
-甲：少废话！昨天呢？前天呢？全是人妖吗？
-乙：这不是在泰国吗？
-甲：你就是个色鬼！
+甲：我们家马桶堵了。
+乙：马桶堵了？
+甲：刚拉了肚子，拉完就堵了。
+乙：那还不赶紧通通？
+甲：皮搋子丢了。
+乙：可以用手掏啊。
+甲：那咱俩一起掏吧。
+乙：掏完可得请我吃饭。
+甲：好，掏完咱就吃。
+乙：好嘞。
 
 ### Pinyin and Translation
 
-甲: 又在看别的女人！
-    yòu zài kàn bié de nǚrén ！
-    You're looking at other women again!
+甲: 我们家马桶堵了。
+    wǒmen jiā mǎtǒng dǔ le 。
+    Our toilet at home is clogged.
 
-乙: 她是人妖。
-    tā shì rényāo 。
-    She's a transsexual.
+乙: 马桶堵了？
+    mǎtǒng dǔ le ？
+    Your toilet's clogged?
 
-甲: 少废话！昨天呢？前天呢？全是人妖吗？
-    shǎo fèihuà ！ zuótiān ne ？ qiántiān ne ？ quán shì rényāo ma ？
-    Rubbish! What about yesterday and the day before? Were they all transsexuals too?
+甲: 刚拉了肚子，拉完就堵了。
+    gāng lā le dùzi ， lā wán jiù dǔ le 。
+    I just had diarrhea, and it backed up.
 
-乙: 这不是在泰国吗？
-    zhè bù shì zài Tàiguó ma ？
-    Aren't we in Thailand?
+乙: 那还不赶紧通通？
+    nà hái bù gǎnjǐn tōngtong ？
+    Then you should hurry up and unblock it, no?
 
-甲: 你就是个色鬼！
-    nǐ jiùshì ge sèguǐ ！
-    You're nothing but a pervert!
+甲: 皮搋子丢了。
+    pí chuāizi diū le 。
+    The plunger's gone missing.
+
+乙: 可以用手掏啊。
+    kěyǐ yòng shǒu tāo a 。
+    You can scoop it out with your hands.
+
+甲: 那咱俩一起掏吧。
+    nà zán liǎ yīqǐ tāo ba 。
+    Ok, let's scoop it out together.
+
+乙: 掏完可得请我吃饭。
+    tāo wán kě děi qǐng wǒ chī fàn 。
+    When we're done you've gotta treat me to dinner.
+
+甲: 好，掏完咱就吃。
+    hǎo ， tāo wán zán jiù chī 。
+    Great. We'll grab a bite when we're done scooping.
+
+乙: 好嘞。
+    hǎo lei 。
+    OK.
 ### Vocab
 -马桶 (mǎtǒng) [noun] toilet
 -堵 (dǔ) [adjective] clogged

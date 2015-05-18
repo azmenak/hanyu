@@ -2,79 +2,76 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-能借我一根儿笔吗？
-我告儿你。
-别告儿他。
-一瓶水儿。
-他在那儿。
-我在这儿。
-你在哪儿？
-我要一点儿。
-他一会儿来。
-你有小孩儿吗？
-他有一个男孩儿，一个女孩儿。
-我们出去玩儿吧。
+甲：坏孩子。
+乙：坏孩子。
+甲：坏孩子。
+乙：坏孩子。
+甲：坏孩子。
+乙：坏孩子。
+甲：真坏。
+乙：你太坏了。
+甲：那是你妹妹的，给你妹妹。
+乙：你妹妹好，你不好。
+甲：唉，我要是有两个女孩就好了。
 
 ### Pinyin and Translation
 
-能借我一根儿笔吗？
-néng jiè wǒ yī gēnr bǐ ma ？
-Can you lend me a pen?
+甲: 坏孩子。
+    huài háizi 。
+    Bad child.
 
-我告儿你。
-wǒ gàor nǐ 。
-I'll tell you.
+乙: 坏孩子。
+    huài háizi 。
+    Bad child.
 
-别告儿他。
-bié gàor tā 。
-Don't tell him.
+甲: 坏孩子。
+    huài háizi 。
+    Bad child.
 
-一瓶水儿。
-yī píng shuǐr 。
-A bottle of water.
+乙: 坏孩子。
+    huài háizi 。
+    Bad child.
 
-他在那儿。
-tā zài nàr 。
-He is there.
+甲: 坏孩子。
+    huài háizi 。
+    Wicked child.
 
-我在这儿。
-wǒ zài zhèr 。
-I'm here.
+乙: 坏孩子。
+    huài háizi 。
+    Bad child.
 
-你在哪儿？
-nǐ zài nǎr ？
-Where are you?
+甲: 真坏。
+    zhēn huài 。
+    Really wicked.
 
-我要一点儿。
-wǒ yào yīdiǎnr 。
-I want a bit.
+乙: 你太坏了。
+    nǐ tài huài le 。
+    You're too wicked.
 
-他一会儿来。
-tā yīhuìr lái 。
-He'll be here in a while.
+甲: 那是你妹妹的，给你妹妹。
+    nà shì nǐ mèimei de ， gěi nǐ mèimei 。
+    That's your sister's. Give it to your sister.
 
-你有小孩儿吗？
-nǐ yǒu xiǎoháir ma ？
-Do you have children?
+乙: 你妹妹好，你不好。
+    nǐ mèimei hǎo ， nǐ bù hǎo 。
+    Your sister is good. You're no good.
 
-他有一个男孩儿，一个女孩儿。
-tā yǒu yī ge nánháir ， yī ge nǚháir 。
-He has a boy and a girl.
-
-我们出去玩儿吧。
-wǒmen chūqù wánr ba 。
-Let's go out and have fun.
+甲: 唉，我要是有两个女孩就好了。
+    ai ， wǒ yàoshi yǒu liǎng ge nǚhái jiù hǎo le 。
+    Oh, if only I had two girls.
 ### Vocab
--那儿 (nàr) [noun] there
--这儿 (zhèr) [noun] here
--哪儿 (nǎr) [question] where
--玩儿 (wánr) [verb] to play
--一点儿 (yīdiǎnr) [phrase] a bit
--一会儿 (yīhuìr) [phrase] a while
--小孩儿 (xiǎoháir) [noun] small child
--男孩儿 (nánháir) [noun] boy
--女孩儿 (nǚháir) [noun] girl
--告儿 (gàor) [Beijing slang] to tell
--根儿 (gēnr) [Beijing slang] (measure word)
--水儿 (shuǐr) [northern slang] water
--哪里 (nǎlǐ) [southern slang] where
+-坏 (huài) [adjective] bad
+-好 (hǎo) [adjective] good
+-饿 (è) [adjective] hungry
+-累 (lèi) [adjective] tired
+-不 (bù) [adverb] not
+-真 (zhēn) [adverb] truely
+-太 (tài) [adverb] too
+-孩子 (háizi) [noun] child
+-妹妹 (mèimei) [noun] younger sister
+-姐姐 (jiějie) [noun] older sister
+-那 (nà) [pronoun] that
+-给 (gěi) [verb] to give
+-我的 (wǒde) [phrase] my
+-你的 (nǐde) [phrase] your
+-他的 (tāde) [phrase] his

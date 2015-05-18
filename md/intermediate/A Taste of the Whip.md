@@ -1,38 +1,27 @@
 # A Taste of the Whip
 **Intermediate** level
 ### Chinese Text
-甲：哎，哥们儿我告诉你一个特大的消息。
-乙：怎么了？
-甲：你知道小王他那女朋友居然是个男的！
-乙：不是吧，是个男的？
-甲：对呀，我也想不通。特漂亮，你知道那么漂亮一个女孩子居然是个男的。
-乙：你别听谁瞎说了吧。
-甲：真的，我不骗你。
-乙：谁跟你说的呀？
-甲：哎，就发现了。
-乙：我靠！
+监工：我告诉你们，泡泡中文金字塔这个星期就必须给我完工！今天晚上至少要盖出五层来！你，你，你，给我快点儿！抱怨什么呀，是不是吃饭吃多了！再唠叨给你尝尝鞭子的味道！<br />奴隶：怎么活呀！
+监工：有人装死，是吗？！士兵，过去，给我收拾收拾这个懒鬼！
+奴隶：又拖走了一个。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|哎，哥们儿我告诉你一个特大的消息。<blockquote>āi ， gēmenr wǒ gàosu nǐ yī ge tè dà de xiāoxi 。<br />Hey dude, I've got some really hot news to tell you.</blockquote>|
-|乙|怎么了？<blockquote>zěnme le ？<br />What is it?</blockquote>|
-|甲|你知道小王他那女朋友居然是个男的！<blockquote>nǐ zhīdào Xiǎo Wáng tā nà nǚpéngyou jūrán shì ge nán de ！<br />Do you know that Xiao Wang's girlfriend is actually a guy?</blockquote>|
-|乙|不是吧，是个男的？<blockquote>bù shì ba ， shì ge nán de ？<br />No way. She's a guy?</blockquote>|
-|甲|对呀，我也想不通。特漂亮，你知道那么漂亮一个女孩子居然是个男的。<blockquote>duì ya ， wǒ yě xiǎng bu tōng 。 tè piàoliang ， nǐ zhīdào nàme piàoliang de yī ge nǚháizi jūrán shì ge nán de 。<br />Yeah. I can't put my mind around it, for such a beautiful girl, you know such a beautiful girl to be a guy.</blockquote>|
-|乙|你别听谁瞎说了吧。<blockquote>nǐ bié tīng shéi xiāshuō le ba 。<br />Don't listen to that sort of nonsense.</blockquote>|
-|甲|真的，我不骗你。<blockquote>zhēnde ， wǒ bù piàn nǐ 。<br />Really, I'm not kidding you.</blockquote>|
-|乙|谁跟你说的呀？<blockquote>shéi gēn nǐ shuō de yā ？<br />Who told you?</blockquote>|
-|甲|哎，就发现了。<blockquote>āi ， jiù fāxiàn le 。<br />Oh, I just found out.</blockquote>|
-|乙|我靠！<blockquote>wǒ kào ！<br />Gosh!</blockquote>|
+|监工|我告诉你们，泡泡中文金字塔这个星期就必须给我完工！今天晚上至少要盖出五层来！你，你，你，给我快点儿！抱怨什么呀，是不是吃饭吃多了！再唠叨给你尝尝鞭子的味道！<blockquote>wǒ gàosu nǐmen ， Pàopao Zhōngwén jīnzìtǎ zhège xīngqī jiù bìxū gěi wǒ wángōng ！ jīntiān wǎnshang zhìshǎo yào gàichū wǔ céng lái ！ nǐ ， nǐ ， nǐ ， gěi wǒ kuài diǎnr ！ bàoyuàn shénme ya ， shì bù shì chīfàn chī duō le ！ zài lāodao gěi nǐ chángchang biānzǐ de wèidao ！<br />I'm telling you, the Popup Chinese pyramid needs to be completed this week! We must build at least five stories tonight. You, you and you work faster! What are you going on about, getting too much food? Complain more and I'll give you a taste of the whip!</blockquote>|
+|奴隶|怎么活呀！<blockquote>zěnme huó ya ！<br />How can we go on?</blockquote>|
+|监工|有人装死，是吗？！士兵，过去，给我收拾收拾这个懒鬼！<blockquote>yǒu rén zhuāngsǐ ， shìma ？ ！ shìbīng ， guòqù ， gěi wǒ shōushishōushi zhège lǎnguǐ ！<br />Playing dead, eh? Soldiers, get over and deal with that laggard!</blockquote>|
+|奴隶|又拖走了一个。<blockquote>yòu tuōzǒu le yī ge 。<br />They've dragged off another one....</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|哥们儿|gēmenr|dude|noun|
-|居然|jūrán|surprisingly|adverb|
-|想不通|xiǎng bu tōng|to be unable to comprehend|verb|
-|说不通|shuō bù tōng|to be unable to convince|verb|
-|瞎说|xiāshuō|to talk nonsense|verb|
-|我靠|wǒ kào|darn|slang|
-|哎|āi|hey|onomatopeia|
-|骗|piàn|to cheat|verb|
+|金字塔|jīnzìtǎ|pyramid|noun|
+|完工|wángōng|to finish construction|verb|
+|装死|zhuāngsǐ|to play dead|verb|
+|装病|zhuāngbìng|to pretend to be sick|verb|
+|装酷|zhuāngkù|to act cool|verb|
+|唠叨|lāodao|to talk incessently|verb|
+|鞭子|biānzi|whip|noun|
+|收拾|shōushi|to clean up|verb|
+|懒鬼|lǎnguǐ|lazy bastard|noun|
+|拖走|tuōzǒu|to drag off|verb|

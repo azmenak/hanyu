@@ -1,8 +1,7 @@
 # Giving Directions in Shanghai
 **Elementary** level
 ### Chinese Text
-甲：师傅，我想去复兴中路。
-乙：你想去复兴中路？
+甲：师傅，我想去复兴中路。<br />乙：你想去复兴中路？
 甲：对，复兴中路，靠近音乐学院那边的。
 乙：在淮海路南边那个？
 甲：对呀，只有一条复兴中路。

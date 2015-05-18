@@ -1,8 +1,7 @@
 # A Murder Mystery
 **Intermediate** level
 ### Chinese Text
-秦：我猜，就是白太太在书房用匕首杀死了尸体先生。
-9527：错了，你又输了！
+秦：我猜，就是白太太在书房用匕首杀死了尸体先生。<br />9527：错了，你又输了！
 秦：你明明说你没有白太太这张牌啊！
 9527：是，可我有书房的卡。
 刘：白太太在我这儿呢！
@@ -28,12 +27,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|傲慢|àomàn|arrogant|adjective|
-|爱累不累|àilèibùlèi|disregarding whether someone is tired|phrase|
-|爱理不理|àilǐbùlǐ|cold and indifferent|phrase|
-|热情|rèqíng|enthusiasm|adjective|
-|爱去不去|àiqùbùqù|disregarding whether one goes or not|phrase|
-|爱信不信|àixìnbùxìn|disregarding whether one believes or not|phrase|
-|爱好不好|àihǎobùhǎo|disregarding whether something is good or not|phrase|
-|爱饿不饿|àièbùè|disregarding whether one is hungry or not|phrase|
-|爱谁谁|àishéishéi|whatever|phrase|
+|书房|shūfáng|study|noun|
+|匕首|bǐshǒu|dagger|noun|
+|杀死|shāsǐ|to kill|verb|
+|尸体|shītǐ|corpse|noun|
+|输|shū|to lose|verb|
+|明明|míngmíng|clearly|adverb|
+|牌|pái|card|noun|
+|偷看|tōukàn|to sneak a look|verb|
+|偷听|tōutīng|to eavesdrop|verb|
+|妙探寻凶|miàotànxúnxiōng|Cluedo|noun|

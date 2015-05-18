@@ -1,8 +1,7 @@
 # Suicidal Tendencies
 **Intermediate** level
 ### Chinese Text
-甲：喂，别跳！
-乙：你们都别管我，我的钱全部都被骗光了。
+甲：喂，别跳！<br />乙：你们都别管我，我的钱全部都被骗光了。
 甲：你的人生是有价值的，而且你刚中了联合国大奖，四百万。
 乙：你们都是些骗子！
 甲：我是来救你的命，也给你带来一个惊喜，今天下午就可以转账给你。
@@ -20,24 +19,19 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|饥饿|jī'è|hunger|noun|
-|革命|gémìng|revolution|noun|
-|起义|qǐyì|uprising|noun|
-|暴乱|bàoluàn|riot|noun|
-|序曲|xùqǔ|prelude|noun|
-|养活|yǎnghuo|to support|verb|
-|贡献|gòngxiàn|contribution|noun|
-|收拾|shōushi|to put in order|verb|
-|财产|cáichǎn|property|noun|
-|阶级|jiējí|class|noun|
-|汉奸|hànjiān|race traitor|noun|
-|走狗|zǒugǒu|running-dog|noun|
-|卖国贼|màiguózéi|traitor|noun|
-|不安分|bù ānfèn|restless|adjective|
-|懒骨头|lǎngǔtóu|lazy-bones|noun|
-|反动派|fǎndòngpài|reactionary force|noun|
-|无产阶级|wúchǎnjiējí|proletariat|noun|
-|资产阶级|zīchǎnjiējí|bourgeoisie|noun|
-|游手好闲|yóushǒuhàoxián|to do nothing|adjective|
-|自然淘汰|zìrán táotài|natural selection|phrase|
-|首当其冲|shǒudāngqíchōng|to bear the brunt first|verb|
+|管|guǎn|to take care of|verb|
+|骗光|piànguāng|to fraud|verb|
+|骗子|piànzi|swindler|noun|
+|骗人|piànrén|to cheat others|verb|
+|人生|rénshēng|life|noun|
+|价值|jiàzhí|value|noun|
+|大奖|dàjiǎng|big prize|noun|
+|惊喜|jīngxǐ|surprise|adjective|
+|转账|zhuǎnzhàng|to transfer|verb|
+|安利|ānlì|Amway|noun|
+|茶楼|chálóu|tea house|noun|
+|传票|chuánpiào|to send a subpoena|verb|
+|银行卡|yínhángkǎ|bank card|noun|
+|联合国|Liánhéguó|United Nations|noun|
+|尼日利亚|Nírìlìyà|Nigeria|noun|
+|害人之心不可有，防人之心不可无|hàirén zhī xīn bù kě yǒu, fángrén zhī xīn bù kě wú|malice towards none, but defense towards all|phrase|

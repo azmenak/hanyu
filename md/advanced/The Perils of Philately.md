@@ -4,23 +4,23 @@ No Transcript Available
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|香港|xiānggǎng|Hong Kong|name|
-|内地|nèidì|mainland|noun|
-|侵权|qīnquán|tort|noun|
-|矛盾|máodùn|contradiction|noun|
-|自治|zìzhì|autonomous|adjective|
-|资源|zīyuán|resource|noun|
-|蝗虫|huángchóng|grasshopper|noun|
-|形象|xíngxiàng|image|noun|
-|普遍|pǔbiàn|common|adjective|
-|素质|sùzhì|quality|noun|
-|文明|wénmíng|civilization|noun|
-|争议|zhēngyì|dispute|noun|
-|意识|yìshí|awareness|noun|
-|尿不湿|niàobùshī|diaper|noun|
-|民意调查|mínyìdiàochá|poll|noun|
-|断章取义|duànzhāngqǔyì|to interpret out of context|set phrase|
-|入乡随俗|rùxiāngsuísú|when in Rome....|set phrase|
-|煽风点火|shānfēngdiǎnhuǒ|to fan the flame|set phrase|
-|添油加醋|tiānyóujiācù|to add oil and vinegar; to exaggerate|set phrase|
-|得不偿失|débùchángshī|the loss outweighs the gain|set phrase|
+|收集|shōují|to collect|verb|
+|搜集|sōují|to gather|verb|
+|邮票|yóupiào|stamp|noun|
+|集邮|jíyóu|to collect stamps|verb|
+|作废|zuòfèi|to void|verb|
+|顾虑|gùlǜ|concern|noun|
+|上瘾|shàngyǐn|to be addicted to|verb|
+|炒作|chǎozuò|speculation|noun|
+|狂热|kuángrè|enthusiastic|adjective|
+|癖好|pǐhào|obsession|noun|
+|怪异|guàiyì|strange|adjective|
+|恋旧|liànjiù|nostalgia|adjective|
+|拾荒|shíhuāng|to glean scraps|verb|
+|神经质|shénjīngzhì|nervosity|noun|
+|数字化|shùzìhuà|digitization|noun|
+|满足感|mǎnzúgǎn|satisfaction|noun|
+|成就感|chéngjiùgǎn|fulfillment|noun|
+|不由自主|bùyóuzìzhǔ|involuntarily|adverb|
+|由来已久|yóuláiyǐjiǔ|long-standing|adjective|
+|暗箱操作|ànxiāngcāozuò|to rig|verb|

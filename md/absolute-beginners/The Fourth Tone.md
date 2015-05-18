@@ -1,32 +1,33 @@
 # The Fourth Tone
 **Absolute Beginners** level
 ### Chinese Text
-男：喂，我想点餐。
-女：什么?
-男：我想叫外卖。
-女：啊，行。你要什么?
-男：烤鸭。
+他去.<br />我爱中国.
+今天很热.
+我想去中国.
+你太忙！
+中文不难．
+爸爸爱吃串儿.
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|喂，我想点餐。<blockquote>wéi ， wǒ xiǎng diǎncān 。<br />Hi, I'd like to order a meal.</blockquote>|
-|女|什么?<blockquote>shénme ?<br />What?</blockquote>|
-|男|我想叫外卖。<blockquote>wǒ xiǎng jiào wàimài 。<br />I want to order take-out.</blockquote>|
-|女|啊，行。你要什么?<blockquote>a ， xíng 。 nǐ yào shénme ?<br />Ah, OK. What do you want?</blockquote>|
-|男|烤鸭。<blockquote>kǎoyā 。<br />Roast duck.</blockquote>|
+||他去.<blockquote>tā qù .<br />He goes.</blockquote>|
+||我爱中国.<blockquote>wǒ ài Zhōngguó .<br />I love China.</blockquote>|
+||今天很热.<blockquote>jīntiān hěn rè .<br />It's hot today.</blockquote>|
+||我想去中国.<blockquote>wǒ xiǎng qù Zhōngguó .<br />I want to go to China.</blockquote>|
+||你太忙！<blockquote>nǐ tài máng ！<br />You're too busy!</blockquote>|
+||中文不难．<blockquote>zhōngwén bù nán ．<br />Chinese is not difficult.</blockquote>|
+||爸爸爱吃串儿.<blockquote>bàba ài chī chuànr .<br />Dad loves eating meat-on-a-stick.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|人|rén|person|noun|
-|国|guó|country|noun|
-|瓶|píng|bottle|measure word|
-|钱|qián|money|noun|
-|忙|máng|busy|adjective|
-|烦|fán|bothersome|adjective|
-|烦人|fánrén|bothersome|adjective|
-|成|chéng|ok|phrase|
-|行|xíng|ok|phrase|
-|中国|Zhōngguó|China|noun|
-|中国人|Zhōngguórén|Chinese person|noun|
-|中文|zhōngwén|Chinese|noun|
+|去|qù|to go|verb|
+|不|bù|no, not|adverb|
+|太|tài|too|adverb|
+|坏|huài|bad|adjective|
+|贵|guì|expensive|adjective|
+|是|shì|to be|verb|
+|爱|ài|to love|verb|
+|爸爸|bàba|father|noun|
+|串儿|chuànr|kebab|noun|
+|热|rè|hot|noun|

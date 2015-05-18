@@ -2,46 +2,61 @@
 ## *elementary* level
 
 ### Chinese Text
-妈妈：喂？
-小秦：妈妈，生日快乐，我爱你！
-妈妈：哎？小秦，我也爱你。
-小秦：妈妈，现在我必须通知你，我可能会为我们的电话录音。这是法律的要求。
-妈妈：啊？
-小秦：该死，他妈的机器。哎，妈妈。你等一下。我五分钟以后打过来。
+甲：你从没告诉我你哥哥这么帅。
+乙：我哥哥？他不帅。
+甲：他长得像布拉德皮特。
+乙：他不像。
+甲：不，他像。
+乙：他不像！
+甲：他太帅了。他的电话是多少？
+乙：什么？
+甲：哦，等等。你的电话是多少来着？
 
 ### Pinyin and Translation
 
-妈妈: 喂？
-      wéi ？
-      Hello?
+甲: 你从没告诉我你哥哥这么帅。
+    nǐ cóngméi gàosu wǒ nǐ gēge zhème shuài 。
+    You never told me your brother was this handsome.
 
-小秦: 妈妈，生日快乐，我爱你！
-      māma ， shēngrì kuàilè ， wǒ ài nǐ ！
-      Happy birthday mom, I love you!
+乙: 我哥哥？他不帅。
+    wǒ gēge ？ tā bù shuài 。
+    My brother? He's not handsome.
 
-妈妈: 哎？小秦，我也爱你。
-      ài ？ Xiǎo Qín ， wǒ yě ài nǐ 。
-      Hey? Little Qin, I love you too.
+甲: 他长得像布拉德皮特。
+    tā zhǎng de xiàng Bùlādé Pítè 。
+    He looks like Brad Pitt.
 
-小秦: 妈妈，现在我必须通知你，我可能会为我们的电话录音。这是法律的要求。
-      māma ， xiànzài wǒ bìxū tōngzhī nǐ ， wǒ kěnéng huì wèi wǒmen de diànhuà lùyīn 。 zhè shì fǎlǜ de yāoqiú 。
-      Mother, I have to inform you that I might be recording this telephone call. This is a legal requirement.
+乙: 他不像。
+    tā bù xiàng 。
+    He's not at all like him.
 
-妈妈: 啊？
-      a ？
-      Huh?
+甲: 不，他像。
+    bù ， tā xiàng 。
+    No, he's like him.
 
-小秦: 该死，他妈的机器。哎，妈妈。你等一下。我五分钟以后打过来。
-      gāisǐ ， tāmāde jīqì 。 āi ， māma 。 nǐ děng yīxià 。 wǒ wǔ fēnzhōng yǐhòu dǎ guòlai 。
-      Damn frigging machine. Hey Mom, wait a second. I'll call back in five minutes.
+乙: 他不像！
+    tā bù xiàng ！
+    He's not like him!
+
+甲: 他太帅了。他的电话是多少？
+    tā tài shuài le 。 tā de diànhuà shì duōshǎo ？
+    He's gorgeous. What's his number?
+
+乙: 什么？
+    shénme ？
+    What?
+
+甲: 哦，等等。你的电话是多少来着？
+    ò ， děngděng 。 nǐ de diànhuà shì duōshao láizhe ？
+    Oh, wait. What's your number again?
 ### Vocab
--必须 (bìxū) [adverb] must
--需要 (xūyào) [verb] to need
--快乐 (kuàilè) [noun] happy
--生日 (shēngrì) [noun] birthday
--通知 (tōngzhī) [verb] to inform
--为 (wèi) [preposition] for
--录音 (lùyīn) [verb] sound recording
--法律 (fǎlǜ) [noun] legal
--机器 (jīqì) [noun] machine
--该死 (gāisǐ) [phrase] should die
+-从来 (cónglái) [adverb] ever before
+-从没 (cóngméi) [adverb] never before
+-帅 (shuài) [adjective] handsome
+-告诉 (gàosu) [verb] to tell
+-长得 (zhǎng de) [verb] to look like
+-等 (děng) [verb] to wait
+-像 (xiàng) [verb] to resemble
+-来着 (láizhe) [other] just now
+-哥哥 (gēge) [noun] older brother
+-布拉德皮特 (Bùlādé Pítè) [person] Brad Pitt

@@ -1,8 +1,7 @@
 # How to Swear in Chinese
 **Intermediate** level
 ### Chinese Text
-甲：服务员。
-乙：哎，先生您好。
+甲：服务员。<br />乙：哎，先生您好。
 甲：您能再帮我催一下菜吗？
 乙：哎，好的。我去帮您催一下菜。
 甲：好，辛苦你了，啊。
@@ -22,11 +21,16 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|你干吗去了|nǐ gànmá qù le|what are you doing|phrase|
-|企鹅|qǐ'é|penguin|noun|
-|累成这样|lèi chéng zhèyàng|as tired as this|phrase|
-|饿成什么样|è chéng shénme yàng|as hungry as what|phrase|
-|堆|duī|a pile|measure word|
-|冰箱|bīngxiāng|refrigerator|noun|
-|全球气候变暖|quánqiú qìhòu biàn nuǎn|global warming|phrase|
-|养|yǎng|to raise|verb|
+|催|cuī|to urge|verb|
+|辛苦|xīnkǔ|to take the trouble|verb|
+|客气|kèqi|polite|verb|
+|当年|dāngnián|in those days|phrase|
+|满汉全席|mǎnhànquánxí|sumptuous Imperial dining|noun|
+|皇宫|huánggōng|palace|noun|
+|砸|zá|to smash|verb|
+|老子|lǎozi|father-me (I)|slang|
+|姑奶奶|gūnǎinai|auntie-me (I)|slang|
+|老娘|lǎoniáng|mother-me (I)|slang|
+|妈的|māde|damn|slang|
+|他妈的|tāmāde|dammit|slang|
+|你妈的|nǐmāde|damn you|slang|

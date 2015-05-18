@@ -1,37 +1,30 @@
 # Cthulhu visits the Wiltshire Bed and Breakfast
 **Elementary** level
 ### Chinese Text
-甲：三里屯怎么走？
-乙：去死。
-甲：怎么走？
-乙：一直走，然后死。
-甲：不是右转吗？
-乙：滚！
-甲：好，谢谢。
+甲：谁敢打扰我睡觉？<br />乙：早上好，您的早餐。
+甲：谁让你进来的？
+乙：哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。
+甲：你最好马上走！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|三里屯怎么走？<blockquote>Sānlǐtún zěnme zǒu ？<br />How do I get to Sanlitun?</blockquote>|
-|乙|去死。<blockquote>qùsǐ 。<br />Go to hell.</blockquote>|
-|甲|怎么走？<blockquote>zěnme zǒu ？<br />Which way?</blockquote>|
-|乙|一直走，然后死。<blockquote>yīzhí zǒu ， ránhòu sǐ 。<br />Go straight and drop dead.</blockquote>|
-|甲|不是右转吗？<blockquote>bù shì yòuzhuǎn ma ？<br />Isn't there a right turn somewhere?</blockquote>|
-|乙|滚！<blockquote>gǔn ！<br />Get lost!</blockquote>|
-|甲|好，谢谢。<blockquote>hǎo ， xièxie 。<br />OK, thanks.</blockquote>|
+|甲|谁敢打扰我睡觉？<blockquote>shéi gǎn dǎrǎo wǒ shuìjiào ？<br />Who dares disturb my slumber?</blockquote>|
+|乙|早上好，您的早餐。<blockquote>zǎoshang hǎo ， nín de zǎocān 。<br />Good morning, your breakfast.</blockquote>|
+|甲|谁让你进来的？<blockquote>shéi ràng nǐ jìnlai de ？<br />Who let you in?</blockquote>|
+|乙|哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。<blockquote>āiyo ， zhèr zěnme zhème hēi ya ， kuài qǐchuáng ba 。 wǒ bāng nín bǎ chuāngliánr lākāi a 。<br />Goodness gracious is it dark in here. Get up quickly now. I'll just open the curtains for you.</blockquote>|
+|甲|你最好马上走！<blockquote>nǐ zuìhǎo mǎshàng zǒu ！<br />It would be best for you to leave now!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|派对|pàiduì|party|noun|
-|聚会|jùhuì|gathering|noun|
-|咱们|zánmen|we|pronoun|
-|俩|liǎ|two people|other|
-|事|shì|matter|noun|
-|这就|zhèjiù|right away|adverb|
-|宝贝儿|bǎobèir|baby|noun|
-|这样儿|zhèyàngr|this way|phrase|
-|决定|juédìng|to decide|verb|
-|挂|guà|to hang|verb|
-|说一声|shuō yī shēng|to make a sound|verb|
-|别挂|bié guà|don't hang up|phrase|
-|差不多|chàbuduō|more or less|phrase|
+|敢|gǎn|to dare|verb|
+|睡觉|shuìjiào|to sleep|verb|
+|打扰|dǎrǎo|to disturb|verb|
+|拉开|lākāi|to open|verb|
+|帮|bāng|to help|verb|
+|给|gěi|to give|verb|
+|窗帘儿|chuāngliánr|curtains|noun|
+|早餐|zǎocān|breakfast|noun|
+|起床气|qǐchuángqì|morning temper|noun|
+|最好|zuìhǎo|best|adverb|
+|马上|mǎshàng|at once|adverb|

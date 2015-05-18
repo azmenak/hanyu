@@ -1,33 +1,32 @@
 # Lost in the Desert
 **Absolute Beginners** level
 ### Chinese Text
-甲：我觉得你很特别，非常特别。
-乙：你不觉得我的笑声很烦人吗？
-甲：不不不，很好听。
-乙：可是别人都说很刺耳。
-甲：不不不不，那是他们没有幽默感，无聊，很无聊。
+甲：还有一百米。<br />乙：我不行了....
+甲：坚持，坚持，一定要....
+乙：我太累了。
+甲：想想孩子。
+乙：别管我。我，对不起....
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|我觉得你很特别，非常特别。<blockquote>wǒ juéde nǐ hěn tèbié ， fēicháng tèbié 。<br />I think that you're very special... extremely special.</blockquote>|
-|乙|你不觉得我的笑声很烦人吗？<blockquote>nǐ bù juéde wǒ de xiàoshēng hěn fánrén ma ？<br />You don't find the sound of my laughter aggravating?</blockquote>|
-|甲|不不不，很好听。<blockquote>bù bù bù ， hěn hǎotīng 。<br />Not at all! It's very pleasant.</blockquote>|
-|乙|可是别人都说很刺耳。<blockquote>kěshì biérén dōu shuō hěn cì_APOS_ěr 。<br />But other people say it's irritating.</blockquote>|
-|甲|不不不不，那是他们没有幽默感，无聊，很无聊。<blockquote>bù bù bù bù ， nà shì tāmen méiyǒu yōumògǎn ， wúliáo ， hěn wúliáo 。<br />Oh no. The don't have a sense of humor, that's all. They're just boring, very boring.</blockquote>|
+|甲|还有一百米。<blockquote>hái yǒu yībǎi mǐ 。<br />There's still another hundred meters.</blockquote>|
+|乙|我不行了....<blockquote>wǒ bù xíng le . . . .<br />I can't do it....</blockquote>|
+|甲|坚持，坚持，一定要....<blockquote>jiānchí ， jiānchí ， yīdìng yào . . . .<br />Keep at it, you've got to....</blockquote>|
+|乙|我太累了。<blockquote>wǒ tài lèi le 。<br />I'm too tired.</blockquote>|
+|甲|想想孩子。<blockquote>xiǎngxiang háizi 。<br />Think of the children.</blockquote>|
+|乙|别管我。我，对不起....<blockquote>bié guǎn wǒ 。 wǒ ， duìbuqǐ . . . .<br />Leave me be. I'm... I'm sorry.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|不|bù|no|adverb|
-|次|cì|time|measure word|
-|再|zài|again|adverb|
-|月|yuè|month|noun|
-|需要|xūyào|to need|verb|
-|回来|huílai|to come back|verb|
-|疫苗|yìmiáo|vaccine|noun|
-|第一次|dì yī cì|1st time|phrase|
-|第二次|dì èr cì|2nd time|phrase|
-|第三次|dì sān cì|3rd time|phrase|
-|第四次|dì sì cì|4th time|phrase|
-|第五次|dì wǔ cì|5th time|phrase|
-|再来一次|zài lái yī cì|come once again|phrase|
+|还|hái|still|adverb|
+|有|yǒu|to have|verb|
+|米|mǐ|meter|unit|
+|累|lèi|tired|adjective|
+|想|xiǎng|to think|verb|
+|坚持|jiānchí|to persist|verb|
+|一百|yībǎi|one hundred|number|
+|一定|yīdìng|absolutely|adverb|
+|孩子|háizi|child|noun|
+|别管我|bié guǎn wǒ|leave me alone|phrase|
+|不行了|bù xíng le|it's not ok|phrase|

@@ -1,34 +1,39 @@
 # The Second Tone
 **Absolute Beginners** level
 ### Chinese Text
-甲：你别动!
-乙：没事!
-甲：别动!
-乙：没事!
-甲：别动!
-乙：没....
+中国行<br />十一人
+中国人说中文
+英国人说英文
+多花钱
+他行
+他很忙
+中国人花钱
+别烦人
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你别动!<blockquote>nǐ bié dòng !<br />Don't move, you!</blockquote>|
-|乙|没事!<blockquote>méishì !<br />Don't worry about it!</blockquote>|
-|甲|别动!<blockquote>bié dòng !<br />Don't move!</blockquote>|
-|乙|没事!<blockquote>méishì !<br />There's nothing wrong!</blockquote>|
-|甲|别动!<blockquote>bié dòng !<br />Don't move!</blockquote>|
-|乙|没....<blockquote>méi ....<br />There's no....</blockquote>|
+||中国行<blockquote>Zhōngguó xíng<br />China is ok.</blockquote>|
+||十一人<blockquote>shíyī rén<br />11 people</blockquote>|
+||中国人说中文<blockquote>Zhōngguórén shuō zhōngwén<br />Chinese people speak Chinese</blockquote>|
+||英国人说英文<blockquote>Yīngguórén shuō yīngwén<br />People from England speak English</blockquote>|
+||多花钱<blockquote>duō huāqián<br />Spend more money</blockquote>|
+||他行<blockquote>tā xíng<br />He is ok</blockquote>|
+||他很忙<blockquote>tā hěn máng<br />He is very busy</blockquote>|
+||中国人花钱<blockquote>Zhōngguórén huāqián<br />Chinese people spend money</blockquote>|
+||别烦人<blockquote>bié fánrén<br />Don't be such a nuisance</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|谁|shéi|who|question|
-|放屁|fàngpì|to fart|verb|
-|不|bù|not|adverb|
-|是|shì|to be|verb|
-|你|nǐ|you|pronoun|
-|我|wǒ|me|pronoun|
-|很|hěn|very|adverb|
-|臭|chòu|smelly|adjective|
-|吧|ba|(suggestion or guess)|particle|
-|放心|fàngxīn|to relax, be at ease|verb|
-|放手|fàngshòu|to release|verb|
-|屁话|pìhuà|nonsense|phrase|
+|人|rén|person|noun|
+|国|guó|country|noun|
+|瓶|píng|bottle|measure word|
+|钱|qián|money|noun|
+|忙|máng|busy|adjective|
+|烦|fán|bothersome|adjective|
+|烦人|fánrén|bothersome|adjective|
+|成|chéng|ok|phrase|
+|行|xíng|ok|phrase|
+|中国|Zhōngguó|China|noun|
+|中国人|Zhōngguórén|Chinese person|noun|
+|中文|zhōngwén|Chinese|noun|

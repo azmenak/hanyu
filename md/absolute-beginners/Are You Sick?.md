@@ -1,8 +1,7 @@
 # Are You Sick?
 **Absolute Beginners** level
 ### Chinese Text
-甲：你生病了吗？
-乙：是的。
+甲：你生病了吗？<br />乙：是的。
 甲：传染吗？
 乙：非常。
 

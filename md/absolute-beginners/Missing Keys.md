@@ -1,8 +1,7 @@
 # Missing Keys
 **Absolute Beginners** level
 ### Chinese Text
-甲：门锁了。
-乙：你有钥匙吗？
+甲：门锁了。<br />乙：你有钥匙吗？
 甲：没有。
 乙：哦，天哪！
 
@@ -16,12 +15,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|字|zì|character|noun|
-|汉字|hànzì|Chinese character|noun|
-|认字|rèn zì|to recognize characters|phrase|
-|写字|xiězì|to write|phrase|
-|自己|zìjǐ|oneself|pronoun|
-|工资|gōngzī|salary|noun|
-|资本|zīběn|capital|noun|
-|次|cì|time|measure word|
-|词|cí|word|noun|
+|门|mén|door|noun|
+|锁|suǒ|to lock up|verb|
+|钥匙|yàoshi|key|noun|
+|有|yǒu|to have|verb|
+|天哪|tiān na|dear God|phrase|
+|新|xīn|new|adjective|
+|旧|jiù|old|adjective|
+|坏|huài|broken|adjective|
+|二手|èrshǒu|second-hand|adjective|
+|手机|shǒujī|cellphone|noun|
+|汽车|qìchē|car|noun|
+|自行车|zìxíngchē|bicycle|noun|

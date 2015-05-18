@@ -2,46 +2,38 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-女人：这个十块。
-男人：五块。
-女人：十块。
-男人：七块。
-女人：十块。
-男人：好。十块。
+男：谁放屁啦？
+女：不是我。
+男：很臭啊。
+女：是你吧！
 
 ### Pinyin and Translation
 
-女人: 这个十块。
-      zhège shí kuài 。
-      This is ten dollars.
+男: 谁放屁啦？
+    shéi fàngpì la ？
+    Who farted?
 
-男人: 五块。
-      wǔ kuài 。
-      Five dollars.
+女: 不是我。
+    bù shì wǒ 。
+    It wasn't me.
 
-女人: 十块。
-      shí kuài 。
-      Ten dollars.
+男: 很臭啊。
+    hěn chòu a 。
+    That really smells.
 
-男人: 七块。
-      qī kuài 。
-      Seven dollars.
-
-女人: 十块。
-      shí kuài 。
-      Ten dollars.
-
-男人: 好。十块。
-      hǎo 。 shí kuài 。
-      Ok. Ten dollars.
+女: 是你吧！
+    shì nǐ ba ！
+    It was you!
 ### Vocab
--去 (qù) [verb] to go
--不 (bù) [adverb] no, not
--太 (tài) [adverb] too
--坏 (huài) [adjective] bad
--贵 (guì) [adjective] expensive
+-谁 (shéi) [question] who
+-放屁 (fàngpì) [verb] to fart
+-不 (bù) [adverb] not
 -是 (shì) [verb] to be
--爱 (ài) [verb] to love
--爸爸 (bàba) [noun] father
--串儿 (chuànr) [noun] kebab
--热 (rè) [noun] hot
+-你 (nǐ) [pronoun] you
+-我 (wǒ) [pronoun] me
+-很 (hěn) [adverb] very
+-臭 (chòu) [adjective] smelly
+-吧 (ba) [particle] (suggestion or guess)
+-放心 (fàngxīn) [verb] to relax, be at ease
+-放手 (fàngshòu) [verb] to release
+-屁话 (pìhuà) [phrase] nonsense

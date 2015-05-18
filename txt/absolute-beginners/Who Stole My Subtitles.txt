@@ -30,17 +30,12 @@
     māde 。
     Damn.
 ### Vocab
--一 (yī) [number] one
--十一 (shí yī) [number] eleven
--二十 (èr shí) [number] twenty
--三十 (sān shí) [number] thirty
--九十九 (jiǔ shí jiǔ) [number] ninty nine
--二 (èr) [number] two
--三 (sān) [number] three
--四 (sì) [number] four
--五 (wǔ) [number] five
--六 (liù) [number] six
--七 (qī) [number] seven
--八 (bā) [number] eight
--九 (jiǔ) [number] nine
--十 (shí) [number] ten
+-你 (nǐ) [pronoun] you
+-有 (yǒu) [verb] to have
+-没有 (méiyǒu) [verb] not to have
+-有没有 (yǒu méiyǒu) [question] to have or not to have
+-中文字幕 (zhōngwén zìmù) [noun] Chinese subtitles
+-吗 (ma) [question] (question particle)
+-妈的 (māde) [slang] damn
+-听得懂 (tīngdedǒng) [phrase] to understand
+-听不懂 (tīngbùdǒng) [phrase] not to understand

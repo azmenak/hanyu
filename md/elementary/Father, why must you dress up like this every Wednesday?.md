@@ -1,20 +1,21 @@
 # Father, why must you dress up like this every Wednesday?
 **Elementary** level
 ### Chinese Text
-甲：你怎么又爬进冰箱里啦？
-乙：什么？猫又进冰箱里啦？
-甲：你怎么进去的？
-乙：打它，打它！
-甲：快，快出来！
+儿子：爸爸，你为什么每个星期三都要穿成这样？<br />爸爸：去睡觉，麦克。
+儿子：但是....
+爸爸：没有但是。跟你无关，别管闲事。
+儿子：但是爸爸，我们....
+爸爸：闭嘴。跟你，跟警察，跟机场，都没有关系。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|你怎么又爬进冰箱里啦？<blockquote>nǐ zěnme yòu pájìn bīngxiāng lǐ la ？<br />How have you got into the fridge again?</blockquote>|
-|乙|什么？猫又进冰箱里啦？<blockquote>shénme ？ māo yòu jìn bīngxiāng lǐ la ？<br />What? The cat's in the fridge again?</blockquote>|
-|甲|你怎么进去的？<blockquote>nǐ zěnme jìnqù de ？<br />How did you get in?</blockquote>|
-|乙|打它，打它！<blockquote>dǎ tā ， dǎ tā ！<br />Beat it, beat it!</blockquote>|
-|甲|快，快出来！<blockquote>kuài ， kuài chūlai ！<br />Quick, get out!</blockquote>|
+|儿子|爸爸，你为什么每个星期三都要穿成这样？<blockquote>bàba ， nǐ wèishénme měige xīngqīsān dōu yào chuānchéng zhèyàng ？<br />Father, why must you dress up this way every Wednesday?</blockquote>|
+|爸爸|去睡觉，麦克。<blockquote>qù shuìjiào ， Màikè 。<br />Go to bed, Mike.</blockquote>|
+|儿子|但是....<blockquote>dànshì . . . .<br />But....</blockquote>|
+|爸爸|没有但是。跟你无关，别管闲事。<blockquote>méiyǒu dànshì 。 gēn nǐ wúguān ， bié guǎn xián shì 。<br />There are no buts. This has nothing to do with you, mind your own business.</blockquote>|
+|儿子|但是爸爸，我们....<blockquote>dànshì bàba ， wǒmen . . . .<br />But father, we....</blockquote>|
+|爸爸|闭嘴。跟你，跟警察，跟机场，都没有关系。<blockquote>bìzuǐ 。 gēn nǐ ， gēn jǐngchá ， gēn jīchǎng ， dōu méiyǒu guānxi 。<br />Shut up! This has nothing at all to do with you, the police or the airport.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

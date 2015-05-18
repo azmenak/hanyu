@@ -1,18 +1,17 @@
 # On Avoiding the Plague
 **Absolute Beginners** level
 ### Chinese Text
-甲：要去吗？
-乙：无所谓。
-甲：不要去吗？
-乙：我说了，无所谓。
+刘：我不舒服。<br />秦：怎么了？
+刘：我有点儿拉肚子。
+秦：你快回家吧。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|要去吗？<blockquote>yào qù ma ？<br />Want to go?</blockquote>|
-|乙|无所谓。<blockquote>wúsuǒwèi 。<br />It doesn't matter.</blockquote>|
-|甲|不要去吗？<blockquote>bù yào qù ma ？<br />Don't want to go?</blockquote>|
-|乙|我说了，无所谓。<blockquote>wǒ shuō le ， wúsuǒwèi 。<br />I said, I don't care.</blockquote>|
+|刘|我不舒服。<blockquote>wǒ bù shūfu 。<br />I'm not comfortable.</blockquote>|
+|秦|怎么了？<blockquote>zěnme le ？<br />What's wrong?</blockquote>|
+|刘|我有点儿拉肚子。<blockquote>wǒ yǒu diǎnr lādùzi 。<br />I've got a bit of diarrhea.</blockquote>|
+|秦|你快回家吧。<blockquote>nǐ kuài huíjiā ba 。<br />Go home, quickly.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

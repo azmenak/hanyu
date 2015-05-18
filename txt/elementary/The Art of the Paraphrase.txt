@@ -25,15 +25,14 @@
     wéijī bǎikē shàng chāo de 。
     Copied it from Wikipedia.
 ### Vocab
--年 (nián) [noun] year
--月 (yuè) [noun] month
--天 (tiān) [noun] day
--星期 (xīngqī) [noun] week
--应该 (yīnggāi) [auxiliary verb] should
--房间 (fángjiān) [noun] room
--心情 (xīnqíng) [noun] mood
--也是 (yě shì) [phrase] that's right
--得了 (dé le) [phrase] fine
--休息 (xiūxi) [verb] to rest
--开车 (kāichē) [verb] to drive a car
--运动 (yùndong) [verb] to exercise
+-百科 (bǎikē) [noun] encyclopedia
+-维基百科 (wéijī bǎikē) [noun] Wikipedia
+-百度百科 (bǎidù bǎikē) [noun] Baidupedia
+-早 (zǎo) [adverb] early
+-在 (zài) [preposition] at
+-从 (cóng) [preposition] from
+-上 (shàng) [directional complement] on
+-里 (lǐ) [directional complement] in
+-抄 (chāo) [verb] to copy
+-报告 (bàogào) [noun] report
+-天下文章一大抄，看你会抄不会抄 (tiānxià wénzhāng yī dà chāo, kàn nǐ huì chāo būhuì chāo) [saying] writing articles is just a matter of copying, you just need to know how

@@ -1,8 +1,7 @@
 # The Break-Up
 **Elementary** level
 ### Chinese Text
-甲：不要离开我。
-乙：你放手，一切都太晚了。
+甲：不要离开我。<br />乙：你放手，一切都太晚了。
 甲：你走了，咱们家咪咪谁来喂啊？
 乙：记得给它喂食。
 甲：那孩子呢？
@@ -24,13 +23,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|泡泡中文|Pàopao Zhōngwén|Popup Chinese|noun|
-|减掉|jiǎn diào|to lose|verb|
-|网站|wǎngzhàn|website|noun|
-|斤|jīn|half-kilogram|noun|
-|绝不|jué bù|absolutely not|adverb|
-|同一个|tóng yī ge|the exact same|phrase|
-|播客|bōkè|podcast|noun|
-|上个月|shàng ge yuè|last month|phrase|
-|咱|zán|we|pronoun|
-|要是|yàoshi|if only|conjunction|
+|离开|líkāi|to leave|verb|
+|放手|fàngshǒu|to let go|verb|
+|一切|yīqiè|everything|noun|
+|咪咪|Mīmi|Mimi|name|
+|咱们|zánmen|we|pronoun|
+|喂|wèi|to feed|verb|
+|记得|jìde|to remember|verb|
+|少来这套|shǎo lái zhè tào|enough of this nonsense|phrase|
+|食|shí|food|noun|
+|需要|xūyào|to need|verb|
+|喂奶|wèinǎi|to breast-feed|verb|
+|上大学|shàng dàxué|to attend university|verb|

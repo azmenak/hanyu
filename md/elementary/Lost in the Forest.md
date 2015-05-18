@@ -1,16 +1,23 @@
 # Lost in the Forest
 **Elementary** level
 ### Chinese Text
-甲：邦德先生，你想要一杯咖啡吗？
-乙：哦，是的，我觉得可以。黑咖啡，不加糖。
-甲：恐怕，恐怕我是跟你开玩笑的，邦德先生。这儿没有你的咖啡。看来只有一个人的，而且，那个人是我。不好意思....
+甲：哎，你看见张华了吗？<br />乙：没有啊，他不是跟你在一起吗？
+甲：没有啊。
+乙：那我们应该去找他吗？
+甲：不用了吧。
+乙：行，那我们继续玩吧。
+甲：好啊。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|甲|邦德先生，你想要一杯咖啡吗？<blockquote>Bāngdé xiānsheng ， nǐ xiǎng yào yī bēi kāfēi ma ？<br />Mr. Bond, would you like a cup of coffee?</blockquote>|
-|乙|哦，是的，我觉得可以。黑咖啡，不加糖。<blockquote>o ， shì de ， wǒ juéde kěyǐ 。 hēi kāfēi ， bù jiātáng 。<br />Oh, yes. I think I would like one. Black with no sugar.</blockquote>|
-|甲|恐怕，恐怕我是跟你开玩笑的，邦德先生。这儿没有你的咖啡。看来只有一个人的，而且，那个人是我。不好意思....<blockquote>kǒngpà ， kǒngpà wǒ shì gēn nǐ kāi wánxiào de ， Bāngdé xiānsheng 。 zhèr méiyǒu nǐ de kāfēi 。 kànlái zhǐ yǒu yī ge rén de ， érqiě ， nà ge rén shì wǒ 。 bùhǎoyìsi . . . .<br />I'm afraid... I'm afraid I was joking with you, Mr. Bond. There is no coffee for you here. Looks like there is only enough coffee for one person, and that person is me. Sorry....</blockquote>|
+|甲|哎，你看见张华了吗？<blockquote>ai ， nǐ kànjian Zhāng Huá le ma ？<br />Hey, have you seen Zhang Hua?</blockquote>|
+|乙|没有啊，他不是跟你在一起吗？<blockquote>méiyǒu a ， tā bù shì gēn nǐ zài yīqǐ ma ？<br />No, wasn't he together with you?</blockquote>|
+|甲|没有啊。<blockquote>méiyǒu a 。<br />Nope.</blockquote>|
+|乙|那我们应该去找他吗？<blockquote>nà wǒmen yīnggāi qù zhǎo tā ma ？<br />Then should we go look for him?</blockquote>|
+|甲|不用了吧。<blockquote>bù yòng le ba 。<br />No need.</blockquote>|
+|乙|行，那我们继续玩吧。<blockquote>xíng ， nà wǒmen jìxù wán ba 。<br />Ok. Then let's keep playing.</blockquote>|
+|甲|好啊。<blockquote>hǎo a 。<br />Sure.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|

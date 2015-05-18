@@ -1,8 +1,7 @@
 # A Late Night in the Studio
 **Intermediate** level
 ### Chinese Text
-甲：好了吗？
-乙：开始吧。
+甲：好了吗？<br />乙：开始吧。
 甲：哦，行。我舅舅上个月花了一百万，买了一栋房子。
 乙：停，他妈的错了，你看看，好好看看，有“了”吗？
 甲：哦，花一百万。
@@ -42,12 +41,11 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|演员|yǎnyuán|actor|noun|
-|墨西哥|Mòxīgē|Mexico|country|
-|演技|yǎnjì|acting skill|noun|
-|疼爱|téngài|to love dearly|verb|
-|无非|wúfēi|it's only that|adverb|
-|灯光|dēngguāng|lamp light|noun|
-|特技|tèjì|special effect|noun|
-|只不过|zhǐbùguò|merely|conjunction|
-|况且|kuàngqiě|moreover|conjunction|
+|有完没完|yǒuwánméiwán|are you done yet|phrase|
+|睁眼瞎|zhēngyǎnxiā|blind person|noun|
+|文盲|wénmáng|illiterate|noun|
+|认字儿|rènzìr|to be able to read|verb|
+|滚蛋|gǔndàn|get lost|phrase|
+|栋|dòng|(measure word)|measure word|
+|他妈的|tāmāde|damn|slang|
+|我操|wǒcào|fuck|slang|

@@ -2,74 +2,84 @@
 ## *intermediate* level
 
 ### Chinese Text
-甲：你都记得什么？
-乙：我记得他们在唱歌、跳舞，还穿着很多奇奇怪怪的衣服。
-甲：你知道他们唱的什么歌吗？
-乙：不是普通话，应该是....
-甲：停停停，是....
-乙：对对对，就这个。
-甲：然后呢？
-乙：然后我就晕了，后边好像有人打我，再后来我醒来的时候钱包就不见了。
-甲：听起来肯定是少数民族干的。
-乙：哪个民族干的？
-甲：不好说，他们都是贼。
+甲：我猜是白小姐在书房用的改锥。
+乙：改锥？
+甲：螺丝刀。
+丙：绝对不可能。
+甲：你有卡啊？
+丙：你不会想吗？如果用改锥的话，两个人在屋里搏斗起来会留下很多血迹留下很多证据给警察。
+乙：对，我觉得血迹是最难清洗的。
+丙：对，血迹非常难清理。
+乙：如果使用改锥，绝对会是在厨房或者浴室。
+丙：对对对，杀手看到了这个环境，有很多地毯窗帘之类的，他不会选择任何的利器作为行凶的武器。他会选择很多钝的，扳手啊，还有木棍之类的。
+乙：我觉得还是使用毒药吧，我觉得毒药全部都毒死，最后我们用火全部都烧死，不会留下任何的活口儿出庭作证。
+丙：聪明！
 
 ### Pinyin and Translation
 
-甲: 你都记得什么？
-    nǐ dōu jìde shénme ？
-    What exactly do you remember?
+甲: 我猜是白小姐在书房用的改锥。
+    wǒ cāi shì Bái xiǎojie zài shūfáng yòng de gǎizhuī 。
+    I think it was Miss White in the library with the screwdriver.
 
-乙: 我记得他们在唱歌、跳舞，还穿着很多奇奇怪怪的衣服。
-    wǒ jìde tāmen zài chànggē 、 tiàowǔ ， hái chuānzhe hěn duō qíqíguàiguài de yīfu 。
-    I remember they were singing, and dancing, and wearing some pretty outlandish clothing.
+乙: 改锥？
+    gǎizhuī ？
+    Screwdriver?
 
-甲: 你知道他们唱的什么歌吗？
-    nǐ zhīdào tāmen chàng de shénme gē ma ？
-    Do you know what song they were singing?
+甲: 螺丝刀。
+    luósīdāo 。
+    Screwdriver.
 
-乙: 不是普通话，应该是....
-    bù shì pǔtōnghuà ， yīnggāi shì . . . .
-    It wasn't mandarin, maybe....
+丙: 绝对不可能。
+    juéduì bù kěnéng 。
+    That's simply not possible.
 
-甲: 停停停，是....
-    tíng tíng tíng ， shì . . . .
-    Stop. So it was....
+甲: 你有卡啊？
+    nǐ yǒu kǎ a ？
+    You have the card?
 
-乙: 对对对，就这个。
-    duì duì duì ， jiù zhège 。
-    Yeah, that's it.
+丙: 你不会想吗？如果用改锥的话，两个人在屋里搏斗起来会留下很多血迹留下很多证据给警察。
+    nǐ bùhuì xiǎng ma ？ rúguǒ yòng gǎizhuī dehuà ， liǎng ge rén zài wū lǐ bódòuqǐlái huì liúxià hěn duō xuèjì liúxià hěn duō zhèngju gěi jǐngchá 。
+    Can't you think? If it was a screwdriver, the struggle between the two of them would have left a lot of traces of blood in the room as evidence for the police.
 
-甲: 然后呢？
-    ránhòu ne ？
-    And what happened next?
+乙: 对，我觉得血迹是最难清洗的。
+    duì ， wǒ juéde xuèjì shì zuì nán qīngxǐ de 。
+    Right. I think bloodstains are the worst to wash clean.
 
-乙: 然后我就晕了，后边好像有人打我，再后来我醒来的时候钱包就不见了。
-    ránhòu wǒ jiù yūn le ， hòubiān hǎoxiàng yǒu rén dǎ wǒ ， zài hòulái wǒ xǐnglái de shíhou qiánbāo jiù bùjiàn le 。
-    Then I passed out, as if someone hit me from behind. And when I came to my senses my wallet was gone.
+丙: 对，血迹非常难清理。
+    duì ， xuèjì fēicháng nán qīnglǐ 。
+    Correct. Bloodstains are extremely difficult to clean up.
 
-甲: 听起来肯定是少数民族干的。
-    tīng qǐlai kěndìng shì shǎoshùmínzú gàn de 。
-    It sounds like this was done by minorities for sure.
+乙: 如果使用改锥，绝对会是在厨房或者浴室。
+    rúguǒ shǐyòng gǎizhuī ， juéduì huì shì zài chúfáng huòzhě yùshì 。
+    If someone were using a screwdriver, they'd use the kitchen or the washroom.
 
-乙: 哪个民族干的？
-    nǎ ge mínzú gàn de ？
-    Which minority group?
+丙: 对对对，杀手看到了这个环境，有很多地毯窗帘之类的，他不会选择任何的利器作为行凶的武器。他会选择很多钝的，扳手啊，还有木棍之类的。
+    duì duì duì ， shāshǒu kàndào le zhège huánjìng ， yǒu hěn duō dìtǎn chuānglián zhīlèide ， tā bùhuì xuǎnzé rènhé de lìqì zuòwéi xíngxiōng de wǔqì 。 tā huì xuǎnzé hěn duō dùnde ， bānshǒu a ， háiyǒu mùgùn zhīlèide 。
+    That's right. The killer would have seen the environment, with all those carpets and curtains, and he wouldn't have picked any sharp object as a murder weapon. He'd have chosen something more blunt, like a wrench or wooden stick or something like that.
 
-甲: 不好说，他们都是贼。
-    bùhǎoshuō ， tāmen dōu shì zéi 。
-    Hard to say, they're all thieves.
+乙: 我觉得还是使用毒药吧，我觉得毒药全部都毒死，最后我们用火全部都烧死，不会留下任何的活口儿出庭作证。
+    wǒ juéde hái shì shǐyòng dúyào ba ， wǒ juéde dúyào quánbù dōu dúsǐ ， zuìhòu wǒmen yòng huǒ quánbù dōu shāosǐ ， bùhuì liúxià rènhé de huókǒur chūtíng  zuòzhèng 。
+    I think it would be poison, that would kill them all dead. And then use fire to burn them all. It wouldn't leave any survivors to show up in court.
+
+丙: 聪明！
+    cōngming ！
+    Smart!
 ### Vocab
--失去 (shīqù) [verb] to lose
--敏感 (mǐngǎn) [adjective] sensitive
--千万 (qiānwàn) [adverb] absolutely
--木腿 (mùtuǐ) [noun] wooden leg
--久等 (jiǔděng) [phrase] so long
--外人 (wàirén) [noun] outsider
--文革 (wéngé) [noun] cultural revolution
--复式 (fùshì) [noun] duplex
--该死的 (gāisǐ de) [adjective] damnable
--一会儿 (yīhuìr) [noun] in a while
--等会儿 (děnghuìr) [noun] wait a moment
--呆会儿 (dāihuìr) [noun] wait a moment
--无论如何 (wúlùnrúhé) [phrase] no matter
+-书房 (shūfáng) [noun] private study
+-改锥 (gǎizhuī) [noun] screwdriver
+-绝对 (juéduì) [adverb] absolutely
+-搏斗 (bódòu) [verb] to fight
+-血迹 (xuèjì) [noun] bloodstain
+-清理 (qīnglǐ) [verb] to clean up
+-浴室 (yùshì) [noun] bathing room
+-地毯 (dìtǎn) [noun] carpet
+-窗帘 (chuānglián) [noun] window curtains
+-利器 (lìqì) [noun] sharp instrument
+-行凶 (xíngxiōng) [verb] to do violence
+-钝的 (dùnde) [adjective] blunt
+-扳手 (bānshǒu) [noun] wrench
+-木棍 (mùgùn) [noun] wooden stick
+-毒药 (dúyào) [noun] poison
+-螺丝刀 (luósīdāo) [noun] screwdriver
+-活口儿 (huókǒur) [noun] survivor of a murder attempt
+-出庭作证 (chūtíng  zuòzhèng) [verb] to appear in court as a witness

@@ -1,8 +1,7 @@
 # Advice for Dealing with New Parents
 **Absolute Beginners** level
 ### Chinese Text
-甲：你的孩子还好吗？
-乙：她会好的。
+甲：你的孩子还好吗？<br />乙：她会好的。
 甲：但是... 她已经用了十分钟了。
 乙：她就是有点儿慢。
 
@@ -16,16 +15,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|不|bù|not|adverb|
-|行|xíng|ok|adjective|
-|太|tài|too|adverb|
-|重|zhòng|heavy|adjective|
-|加油|jiāyóu|(encouraging cheer)|phrase|
-|成功|chénggōng|to succeed|verb|
-|怎么办|zěnme bàn|what can be done|phrase|
-|没办法|méi bànfǎ|to have no way|phrase|
-|有办法|yǒu bànfǎ|to have a way|phrase|
-|再来一次|zài lái yī cì|do it one more time|phrase|
-|干得好|gàn de hǎo|good job|phrase|
-|去|qù|to go|verb|
-|帮忙|bāngmáng|to help|verb|
+|孩子|háizi|child|noun|
+|还|hái|still|adverb|
+|好|hǎo|good|adjective|
+|会|huì|will|verb|
+|但是|dànshì|but|conjunction|
+|已经|yǐjīng|already|adverb|
+|用|yòng|to use|verb|
+|了|le|(particle)|particle|
+|有点儿|yǒudiǎnr|to be a bit|phrase|
+|慢|màn|slow|adjective|
+|学|xué|to study|verb|
+|睡|shuì|to sleep|verb|

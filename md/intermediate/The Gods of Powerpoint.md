@@ -1,8 +1,7 @@
 # The Gods of Powerpoint
 **Intermediate** level
 ### Chinese Text
-甲：PPT准备好了吗？
-乙：快了。在弄投影仪呢。
+甲：PPT准备好了吗？<br />乙：快了。在弄投影仪呢。
 甲：快点儿。
 乙：这怎么还是不显示啊？
 甲：你USB插了吗？

@@ -1,30 +1,26 @@
 # What Time Is It?
 **Absolute Beginners** level
 ### Chinese Text
-男：你真漂亮。
-女：你真帅。
-男：你真聪明。
-女：你真... 帅。
+甲：几点了？<br />乙：两点。
+甲：天哪！晚了，晚了！
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|男|你真漂亮。<blockquote>nǐ zhēn piàoliang 。<br />You're really pretty.</blockquote>|
-|女|你真帅。<blockquote>nǐ zhēn shuài 。<br />You're really handsome.</blockquote>|
-|男|你真聪明。<blockquote>nǐ zhēn cōngming 。<br />You're really smart.</blockquote>|
-|女|你真... 帅。<blockquote>nǐ zhēn ... shuài 。<br />You're really... handsome.</blockquote>|
+|甲|几点了？<blockquote>jǐ diǎn le ？<br />What time is it?</blockquote>|
+|乙|两点。<blockquote>liǎng diǎn 。<br />Two o'clock.</blockquote>|
+|甲|天哪！晚了，晚了！<blockquote>tiānna ！ wǎn le ， wǎn le ！<br />Good heavens! It's late!</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|你|nǐ|you|pronoun|
-|我|wǒ|I|pronoun|
-|真|zhēn|truly|adverb|
-|好|hǎo|really|adverb|
-|漂亮|piàoliang|pretty|adjective|
-|聪明|cōngming|intelligent|adjective|
-|帅|shuài|handsome|adjective|
-|傻|shǎ|foolish|adjective|
-|好|hǎo|good|adjective|
-|美|měi|beautiful|adjective|
-|性感|xìnggǎn|sexy|adjective|
-|幸福|xìngfú|fortunate|adjective|
+|几点了|jǐ diǎn le|what time is it|phrase|
+|几|jǐ|how many|question|
+|点|diǎn|hour|noun|
+|一|yī|one|number|
+|二|èr|two|number|
+|三|sān|three|number|
+|五|wǔ|five|number|
+|两|liǎng|two|number|
+|四|sì|four|number|
+|天哪|tiānna|heavens|exclamation|
+|晚|wǎn|late|adjective|

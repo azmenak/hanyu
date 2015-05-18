@@ -1,40 +1,53 @@
 # The Secret Room in the Attic
 **Intermediate** level
 ### Chinese Text
-女人：我不要把钱浪费在这种蠢事上。
-侦探：我是董事会聘来的，而且我的任务是摸清底细。
-女人：你在怀疑我吗？
-侦探：王林已经承认她挪用公款，不过会计的腐败问题更严重。
-女人：我雇你们侦探事务所....
-侦探：而且还直接牵连到你的总裁助理。
-女人：胡说！我的手下都很干净。
-侦探：也许吧，不过我还得看你的账目明细。记住，不是王林交给税务局的那些假账。
+男的：如果被发现，我们就再也找不到那个密室了。<br />女的：刚刚不是我摔倒的。并且你还没有告诉我，密室里面到底有什么？
+男的：好吧，听说里面充满了尸骨。
+女的：尸骨？在我们孤儿院的阁楼里？
+男的：传说，是原校长的尸骨。但是我不信，我觉得里面充满了宝藏。
+女的：宝藏？
+男的：塞满了红宝石还有翡翠！
+女的：翡翠是什么？
+男的：那是一种钻石，但是它绿如玉....
+女的：玉？
+男的：很值钱。
+女的：那有了它，我们就可以离开这里....
+男的：远走高飞。
 
 ### Pinyin and Translation
 |说人|句子|
 |----|----|
-|女人|我不要把钱浪费在这种蠢事上。<blockquote>wǒ bù yào bǎ qián làngfèi zài zhèzhǒng chǔnshì shàng 。<br />I'm not going to waste money on this sort of foolishness.</blockquote>|
-|侦探|我是董事会聘来的，而且我的任务是摸清底细。<blockquote>wǒ shì dǒngshìhuì pìnlái de ， érqiě wǒ de rènwu shì mōqīng dǐxì 。<br />I was hired by the board, and my job is to clean up this mess.</blockquote>|
-|女人|你在怀疑我吗？<blockquote>nǐ zài huáiyí wǒ ma ？<br />Are you accusing me?</blockquote>|
-|侦探|王林已经承认她挪用公款，不过会计的腐败问题更严重。<blockquote>wáng lín yǐjīng chéngrèn tā nuóyòng gōngkuǎn ， búguò kuàijì de fǔbài wèntí gèng yánzhòng 。<br />Wang Lin has already admitted she embezzled funds, but the accounting problems are more serious than that.</blockquote>|
-|女人|我雇你们侦探事务所....<blockquote>wǒ gù nǐmen zhēntàn shìwùsuǒ . . . .<br />I hired your detective agency to....</blockquote>|
-|侦探|而且还直接牵连到你的总裁助理。<blockquote>érqiě hái zhíjiē qiānlián dào nǐ de zǒngcái zhùlǐ 。<br />And they've already implicated your own assistant.</blockquote>|
-|女人|胡说！我的手下都很干净。<blockquote>húshuō ！ wǒ de shǒuxià dōu hěn gānjìng 。<br />Nonsense! My employees are totally clean.</blockquote>|
-|侦探|也许吧，不过我还得看你的账目明细。记住，不是王林交给税务局的那些假账。<blockquote>yěxǔ ba ， búguò wǒ hái děi kàn nǐ de zhàngmù míngxì 。 jìzhu ， bù shì wáng lín jiāogěi shuìwùjú de nàxiē jiǎzhàng 。<br />Maybe, but I still need to see the detailed accounts. And remember, not the fake books Wang Lin sent to the tax bureau.</blockquote>|
+|男的|如果被发现，我们就再也找不到那个密室了。<blockquote>rúguǒ bèi  fāxiàn ， wǒmen jiù zài yě zhǎobudào nà ge mìshì le 。<br />If we're caught, then we'll never find the secret room.</blockquote>|
+|女的|刚刚不是我摔倒的。并且你还没有告诉我，密室里面到底有什么？<blockquote>gānggāng bú shì wǒ shuāidǎo de 。 bìngqiě nǐ hái méiyǒu gàosu wǒ ， mìshì lǐmiàn dàodǐ yǒu shénme ？<br />It wasn't me who stumbled just now. And besides, you still haven't told me, what is in this secret room anyway?</blockquote>|
+|男的|好吧，听说里面充满了尸骨。<blockquote>hǎo ba ， tīngshuō lǐmiàn chōngmǎn le shīgǔ 。<br />Ok, I've heard that it's full of human remains.</blockquote>|
+|女的|尸骨？在我们孤儿院的阁楼里？<blockquote>shīgǔ ？ zài wǒmen gūéryuàn de gélóu lǐ ？<br />Human remains? In the attic of our orphanage?</blockquote>|
+|男的|传说，是原校长的尸骨。但是我不信，我觉得里面充满了宝藏。<blockquote>chuánshuō ， shì yuán xiàozhǎng de shīgǔ 。 dànshì wǒ bú xìn ， wǒ juéde lǐmiàn chōngmǎn le bǎozàng 。<br />Legend has it that they're the former headmaster's. But I don't believe it. I think that it's full of treasure.</blockquote>|
+|女的|宝藏？<blockquote>bǎozàng ？<br />Secret treasure?</blockquote>|
+|男的|塞满了红宝石还有翡翠！<blockquote>sāimǎn le hóngbǎoshí háiyǒu fěicuì ！<br />Stuffed full of rubies and emeralds!</blockquote>|
+|女的|翡翠是什么？<blockquote>fěicuì shì shénme ？<br />What are emeralds?</blockquote>|
+|男的|那是一种钻石，但是它绿如玉....<blockquote>nà shì yī zhǒng zuànshí ， dànshì tā lǜ rú yù ....<br />It's a type of diamond, but it's green like jade....</blockquote>|
+|女的|玉？<blockquote>yù ？<br />Jade?</blockquote>|
+|男的|很值钱。<blockquote>hěn zhí qián 。<br />It's worth a lot of money.</blockquote>|
+|女的|那有了它，我们就可以离开这里....<blockquote>nà yǒu le tā ， wǒmen jiù kěyǐ líkāi zhèli ....<br />Then once we have it, we can leave this place....</blockquote>|
+|男的|远走高飞。<blockquote>yuǎnzǒugāofēi 。<br />We'll get far, far away.</blockquote>|
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|决斗|juédòu|duel|noun|
-|决战|juézhàn|final battle|noun|
-|邀请|yāoqǐng|invitation|noun|
-|遗书|yíshū|last testament|noun|
-|郊区|jiāoqū|suburbs|noun|
-|心软|xīnruǎn|soft-hearted|adjective|
-|手软|shǒuruǎn|too merciful|adjective|
-|弓箭|gōngjiàn|bow and arrow|noun|
-|情感|qínggǎn|strong emotions|noun|
-|感情|gǎnqíng|feelings; love|noun|
-|抢走|qiāngzǒu|to steal away|verb|
-|单挑|dāntiāo|to fight in a duel|verb|
-|门口|ménkǒu|entrance|noun|
-|既然|jìrán|since|adverb|
+|玉|yù|jade|noun|
+|发现|fāxiàn|to be discovered|verb|
+|密道|mìdào|secret passage|noun|
+|密室|mìshì|hidden room|noun|
+|阁楼|gélóu|attic|noun|
+|摔倒|shuāidǎo|to stumble|verb|
+|并且|bìngqiě|and moreover|conjunction|
+|尸骨|shīgǔ|human remains|noun|
+|骨头|gǔtóu|bones|noun|
+|骷髅|kūlǒu|skull|noun|
+|珠宝|zhūbǎo|jewel|noun|
+|宝藏|bǎozàng|hidden treasure|noun|
+|塞满|sāimǎn|to stuff full of|noun|
+|翡翠|fěicuì|emerald|noun|
+|钻石|zuànshí|diamond|noun|
+|红宝石|hóngbǎoshí|ruby|noun|
+|孤儿院|gūéryuàn|orphanage|noun|
+|远走高飞|yuǎnzǒugāofēi|to go far, far away|verb|

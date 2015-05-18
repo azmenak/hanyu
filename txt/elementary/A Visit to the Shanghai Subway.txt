@@ -45,11 +45,11 @@
     tǎoyàn ！
     Stinker!
 ### Vocab
--里 (lǐ) [directional] in
--上 (shàng) [directional] on
--下 (xià) [directional] under
--就 (jiù) [adverb] exactly
--桌子 (zhuōzi) [noun] table
--书包 (shūbāo) [noun] book bag
--早餐 (zǎocān) [noun] breakfast
--头发 (tóufa) [noun] hair
+-刚才 (gāngcái) [adverb] just now
+-踩到 (cǎi dào) [verb] to step on
+-讨厌 (tǎoyàn) [adjective] hateful
+-上车 (shàngchē) [verb] to board a train
+-下车 (xiàchē) [verb] to get off a train
+-讨厌鬼 (tǎoyànguǐ) [noun] hated person
+-懒鬼 (lǎnguǐ) [noun] lazy person
+-自私鬼 (zìsīguǐ) [noun] selfish person

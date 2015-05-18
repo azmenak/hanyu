@@ -1,8 +1,7 @@
 # Lifehacker in China
 **Intermediate** level
 ### Chinese Text
-甲：哎呀，这早上的时间越来越不够用了，啊。
-乙：啊？怎么啦？
+甲：哎呀，这早上的时间越来越不够用了，啊。<br />乙：啊？怎么啦？
 甲：我又得洗个澡，又得上个厕所，我时间不够用啊。
 乙：唉，这好办，你可以一边坐在马桶上上厕所，一边洗澡。十分钟就搞定了。
 甲：哟，那我这个手纸不得给淋湿了呀。
@@ -20,15 +19,13 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|商量|shāngliang|to discuss|verb|
-|正式|zhèngshì|formally|adjective|
-|通知|tōngzhī|to inform|verb|
-|孤儿院|gūéryuàn|orphanage|noun|
-|效率|xiàolǜ|efficiency|noun|
-|工作效率|gōngzuò xiàolǜ|work efficiency|noun|
-|食物|shíwù|food|noun|
-|摄入量|shèrùliàng|intake amount|noun|
-|胖子|pàngzi|fat person|noun|
-|千克|qiānkè|kilogram|noun|
-|收拾|shōushi|to put in order|verb|
-|件|jiàn|article|measure word|
+|越来越|yuèláiyuè|more and more|phrase|
+|又……又|yòu ... yòu|both... and|phrase|
+|得|děi|must|adverb|
+|马桶|mǎtǒng|toilet|noun|
+|一边……一边|yībiān ... yībiān|on the one hand... on the other|phrase|
+|搞定|gǎodìng|to settle definitively|verb|
+|给|gěi|passive marker|other|
+|淋湿|lín shī|soaked|phrase|
+|淋浴|línyù|shower|noun|
+|手纸|shǒuzhǐ|toilet paper|noun|

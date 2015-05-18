@@ -2,28 +2,28 @@
 ## *absolute-beginners* level
 
 ### Chinese Text
-甲：这是什么？
-乙：那是......天哪！那是什么？
-甲：嗯，好吃！
-乙：哦。
+甲：哦，我好饿。
+乙：那吃吧。
+甲：吃什么？
+乙：笨蛋！吃饭！
 
 ### Pinyin and Translation
 
-甲: 这是什么？
-    zhè shì shénme ？
-    What is this?
+甲: 哦，我好饿。
+    ò ， wǒ hǎo è 。
+    I'm really hungry.
 
-乙: 那是......天哪！那是什么？
-    nà shì ...... tiānna ！ nà shì shénme ？
-    That is... good heavens! What is that?
+乙: 那吃吧。
+    nà chī ba 。
+    Eat then.
 
-甲: 嗯，好吃！
-    Ng ， hǎochī ！
-    Hmmm... tastes good!
+甲: 吃什么？
+    chī shénme ？
+    Eat what?
 
-乙: 哦。
-    ò 。
-    Ewww....
+乙: 笨蛋！吃饭！
+    bèndàn ！ chīfàn ！
+    Idiot! Eat food!
 ### Vocab
 -好 (hǎo) [adverb] really
 -很 (hěn) [adverb] very

@@ -1,8 +1,7 @@
 # Deflecting Questions in Chinese
 **Absolute Beginners** level
 ### Chinese Text
-甲：你看见我的钥匙了吗？
-乙：哦，我昨天见过。
+甲：你看见我的钥匙了吗？<br />乙：哦，我昨天见过。
 甲：哦，在哪儿？
 乙：我怎么知道？
 
@@ -16,11 +15,15 @@
 ### Vocab
 |汉子|拼音|英文|词类|
 |----|----|----|----|
-|糖|táng|sugar, candy|noun|
-|彩虹糖|cǎihóngtáng|Skittles|noun|
-|巧克力|qiǎokelì|chocolate|noun|
-|冰淇凌|bīngqilíng|ice cream|noun|
-|蛋糕|dàngāo|cake|noun|
-|圆筒|yuántǒng|cone|noun|
-|奶昔|nǎixī|milkshake|noun|
-|新地|xīndì|sundae|noun|
+|我|wǒ|I, me|pronoun|
+|你|nǐ|you|pronoun|
+|钥匙|yàoshi|key|noun|
+|手机|shǒujī|cellphone|noun|
+|钱包|qiánbāo|wallet|noun|
+|昨天|zuótiān|yesterday|noun|
+|在|zài|to be at|verb|
+|知道|zhīdào|to know|verb|
+|看|kàn|to look|verb|
+|见|jiàn|to see|verb|
+|哪儿|nǎr|where|question|
+|怎么|zěnme|how|question|
