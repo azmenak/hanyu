@@ -1,12 +1,13 @@
 fs = require 'fs'
+_ = require 'lodash'
 
 load = (file) ->
   JSON.parse fs.readFileSync(file, 'utf-8')
 
-data        = load 'data.json'
-transcripts = load 'transcripts.json'
-vocab       = load 'vocab.json'
-files       = load 'files.json'
+data        = _.sortBy load('data.json'), 'title'
+transcripts = _.sortBy load('transcripts.json'), 'title'
+vocab       = _.sortBy load('vocab.json'), 'title'
+files       = _.sortBy load('files.json'), 'title'
 
 transcripts = for t in transcripts
   pasteboard = ''
