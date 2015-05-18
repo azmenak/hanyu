@@ -1,14 +1,7 @@
 # Unsuccessful Branding
 **Elementary** level
 ### Chinese Text
-甲：嗨，Selina！<br />Selina：嗨！
-甲：你这件T恤衫真好看。
-Selina：好看吧？
-甲：是什么牌子的呢？
-Selina：是泡泡中文的。
-甲：哦，泡泡中文！
-Selina：嗯。
-甲：没听说过。
+甲：嗨，Selina！<br />Selina：嗨！<br />甲：你这件T恤衫真好看。<br />Selina：好看吧？<br />甲：是什么牌子的呢？<br />Selina：是泡泡中文的。<br />甲：哦，泡泡中文！<br />Selina：嗯。<br />甲：没听说过。
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,9 +1,7 @@
 # A Loosely Hammer-Related Lesson
 **Absolute Beginners** level
 ### Chinese Text
-甲：哎，你腿怎么青了？<br />乙：在哪儿？
-甲：膝盖上。
-乙：哦，昨天摔的。
+甲：哎，你腿怎么青了？<br />乙：在哪儿？<br />甲：膝盖上。<br />乙：哦，昨天摔的。
 
 ### Pinyin and Translation
 |说人|句子|

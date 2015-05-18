@@ -1,20 +1,7 @@
 # Friends in China
 **Absolute Beginners** level
 ### Chinese Text
-甲：Chandler!<br />乙：Monica!
-甲：嘿，宝贝儿。咱们去咖啡厅吧。
-乙：好，我们去喝咖啡。
-甲：对。
-乙：对。
-丙：嘿！
-乙：Joey!
-甲：Joey!
-乙：Joey!
-丙：Chandler, Pheobe... 怎么样？
-乙：咖啡？
-甲：对。
-乙：对！
-甲：对！
+甲：Chandler!<br />乙：Monica!<br />甲：嘿，宝贝儿。咱们去咖啡厅吧。<br />乙：好，我们去喝咖啡。<br />甲：对。<br />乙：对。<br />丙：嘿！<br />乙：Joey!<br />甲：Joey!<br />乙：Joey!<br />丙：Chandler, Pheobe... 怎么样？<br />乙：咖啡？<br />甲：对。<br />乙：对！<br />甲：对！
 
 ### Pinyin and Translation
 |说人|句子|

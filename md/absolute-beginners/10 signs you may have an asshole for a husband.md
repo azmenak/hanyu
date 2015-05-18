@@ -1,13 +1,7 @@
 # 10 signs you may have an asshole for a husband
 **Absolute Beginners** level
 ### Chinese Text
-女人：宝贝儿，干嘛呢？<br />男人：看书呢。
-女人：什么书啊？
-男人：一本小说。
-女人：什么小说？能给我看看吗？
-男人：想看，哦？
-女人：嗯。
-女人：谢谢呀。
+女人：宝贝儿，干嘛呢？<br />男人：看书呢。<br />女人：什么书啊？<br />男人：一本小说。<br />女人：什么小说？能给我看看吗？<br />男人：想看，哦？<br />女人：嗯。<br />女人：谢谢呀。
 
 ### Pinyin and Translation
 |说人|句子|

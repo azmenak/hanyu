@@ -1,11 +1,7 @@
 # You know why I like Popup Chinese?
 **Elementary** level
 ### Chinese Text
-甲：你知道我为什么喜欢泡泡中文吗？<br />乙：为什么呢？
-甲：因为我工作五个小时，他们给我面包吃。
-丙：还有水。
-乙：还有面包？
-丙：我想回家......
+甲：你知道我为什么喜欢泡泡中文吗？<br />乙：为什么呢？<br />甲：因为我工作五个小时，他们给我面包吃。<br />丙：还有水。<br />乙：还有面包？<br />丙：我想回家......
 
 ### Pinyin and Translation
 |说人|句子|

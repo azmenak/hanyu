@@ -1,8 +1,7 @@
 # Pinyin Practice: zi
 **Absolute Beginners** level
 ### Chinese Text
-我第一次写汉字。<br />我自己去。
-你的工资是多少？
+我第一次写汉字。<br />我自己去。<br />你的工资是多少？
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,9 +1,7 @@
 # Buying DVDs in China
 **Elementary** level
 ### Chinese Text
-甲：DVD能退吗？<br />乙：不好意思，不能退。
-甲：可是放不了。
-乙：那给您换吧。
+甲：DVD能退吗？<br />乙：不好意思，不能退。<br />甲：可是放不了。<br />乙：那给您换吧。
 
 ### Pinyin and Translation
 |说人|句子|

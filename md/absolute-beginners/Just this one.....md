@@ -1,9 +1,7 @@
 # Just this one....
 **Absolute Beginners** level
 ### Chinese Text
-男：你想要哪个？<br />女：这个。
-男：那个怎么样？
-女：不，就这个。
+男：你想要哪个？<br />女：这个。<br />男：那个怎么样？<br />女：不，就这个。
 
 ### Pinyin and Translation
 |说人|句子|

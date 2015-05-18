@@ -1,9 +1,7 @@
 # A Case for Spare Batteries
 **Elementary** level
 ### Chinese Text
-男的：手机没电了，怎么办？<br />女的：买新的！
-男的：买新的手机？你疯了吗？
-女的：电池！电池！
+男的：手机没电了，怎么办？<br />女的：买新的！<br />男的：买新的手机？你疯了吗？<br />女的：电池！电池！
 
 ### Pinyin and Translation
 |说人|句子|

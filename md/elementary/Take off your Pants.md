@@ -1,11 +1,7 @@
 # Take off your Pants
 **Elementary** level
 ### Chinese Text
-护士：脱裤子。<br />病人：啊？
-护士：脱裤子!
-护士：脱裤子！
-病人：干什么呀？
-护士：你脱不脱？不脱裤子怎么打针!
+护士：脱裤子。<br />病人：啊？<br />护士：脱裤子!<br />护士：脱裤子！<br />病人：干什么呀？<br />护士：你脱不脱？不脱裤子怎么打针!
 
 ### Pinyin and Translation
 |说人|句子|

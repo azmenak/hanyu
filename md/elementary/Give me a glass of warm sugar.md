@@ -1,9 +1,7 @@
 # Give me a glass of warm sugar
 **Elementary** level
 ### Chinese Text
-女的：给我一听王老吉。<br />男的：冰的还是常温的?
-女的：冰的。
-男的：稍等。
+女的：给我一听王老吉。<br />男的：冰的还是常温的?<br />女的：冰的。<br />男的：稍等。
 
 ### Pinyin and Translation
 |说人|句子|

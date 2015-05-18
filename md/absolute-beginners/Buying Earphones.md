@@ -1,10 +1,7 @@
 # Buying Earphones
 **Absolute Beginners** level
 ### Chinese Text
-甲：我要买耳机。<br />乙：苹果的还是普通的？
-甲：多少钱？
-乙：苹果的一百二，普通的三十。
-甲：给我普通的。
+甲：我要买耳机。<br />乙：苹果的还是普通的？<br />甲：多少钱？<br />乙：苹果的一百二，普通的三十。<br />甲：给我普通的。
 
 ### Pinyin and Translation
 |说人|句子|

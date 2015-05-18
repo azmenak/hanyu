@@ -1,9 +1,7 @@
 # I'm Hungry, You Fools!
 **Absolute Beginners** level
 ### Chinese Text
-甲：哦，我好饿。<br />乙：那吃吧。
-甲：吃什么？
-乙：笨蛋！吃饭！
+甲：哦，我好饿。<br />乙：那吃吧。<br />甲：吃什么？<br />乙：笨蛋！吃饭！
 
 ### Pinyin and Translation
 |说人|句子|

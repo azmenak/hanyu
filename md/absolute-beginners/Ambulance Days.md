@@ -1,9 +1,7 @@
 # Ambulance Days
 **Absolute Beginners** level
 ### Chinese Text
-女：救命！快救我！<br />男：你怎么了？
-女：我的心脏，好疼啊！
-男：我去打120.
+女：救命！快救我！<br />男：你怎么了？<br />女：我的心脏，好疼啊！<br />男：我去打120.
 
 ### Pinyin and Translation
 |说人|句子|

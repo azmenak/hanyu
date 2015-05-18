@@ -1,11 +1,7 @@
 # Watership Down
 **Absolute Beginners** level
 ### Chinese Text
-甲：天气真好啊。<br />乙：嗯。
-甲：生菜也很好吃。
-乙：生活真好。
-甲：生活真好。
-乙：嗯。
+甲：天气真好啊。<br />乙：嗯。<br />甲：生菜也很好吃。<br />乙：生活真好。<br />甲：生活真好。<br />乙：嗯。
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,14 +1,7 @@
 # They came from the sky....
 **Absolute Beginners** level
 ### Chinese Text
-甲：有蚊子！<br />乙：嗯？嗷！
-甲：死了。
-乙：你打我？
-甲：哎，等一下，没死呢。
-乙：你脸上也有蚊子。
-甲：喔！
-乙：嗷！
-乙：是没死呢。
+甲：有蚊子！<br />乙：嗯？嗷！<br />甲：死了。<br />乙：你打我？<br />甲：哎，等一下，没死呢。<br />乙：你脸上也有蚊子。<br />甲：喔！<br />乙：嗷！<br />乙：是没死呢。
 
 ### Pinyin and Translation
 |说人|句子|

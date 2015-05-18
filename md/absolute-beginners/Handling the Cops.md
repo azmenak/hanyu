@@ -1,12 +1,7 @@
 # Handling the Cops
 **Absolute Beginners** level
 ### Chinese Text
-甲：警察！<br />乙：警察！
-甲：开门！
-丙：我不在。
-甲：登记！登记！
-丙：出国了。
-乙：她出国了。
+甲：警察！<br />乙：警察！<br />甲：开门！<br />丙：我不在。<br />甲：登记！登记！<br />丙：出国了。<br />乙：她出国了。
 
 ### Pinyin and Translation
 |说人|句子|

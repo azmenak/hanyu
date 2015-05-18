@@ -1,13 +1,7 @@
 # Looking for Apple
 **Absolute Beginners** level
 ### Chinese Text
-女的：喂?<br />男的：喂? Apple 在吗?
-女的：听不见，喂?
-男的：喂? 请问，Apple 在吗?
-女的：我听不见。
-男的：喂? 喂? 是Apple吗?
-女的：对不起，听不见!
-男的：喂? Apple? Apple? Apple... 哎，算了。
+女的：喂?<br />男的：喂? Apple 在吗?<br />女的：听不见，喂?<br />男的：喂? 请问，Apple 在吗?<br />女的：我听不见。<br />男的：喂? 喂? 是Apple吗?<br />女的：对不起，听不见!<br />男的：喂? Apple? Apple? Apple... 哎，算了。
 
 ### Pinyin and Translation
 |说人|句子|

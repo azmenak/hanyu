@@ -1,10 +1,7 @@
 # Playing with Fire
 **Elementary** level
 ### Chinese Text
-小白：服务员！<br />周：你好！
-小白：有火儿吗？
-周：这里不能吸烟。
-小白：我不吸烟，我玩儿火！
+小白：服务员！<br />周：你好！<br />小白：有火儿吗？<br />周：这里不能吸烟。<br />小白：我不吸烟，我玩儿火！
 
 ### Pinyin and Translation
 |说人|句子|

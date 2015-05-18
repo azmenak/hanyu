@@ -1,10 +1,7 @@
 # An Evening of Romance and Laughter
 **Absolute Beginners** level
 ### Chinese Text
-甲：我觉得你很特别，非常特别。<br />乙：你不觉得我的笑声很烦人吗？
-甲：不不不，很好听。
-乙：可是别人都说很刺耳。
-甲：不不不不，那是他们没有幽默感，无聊，很无聊。
+甲：我觉得你很特别，非常特别。<br />乙：你不觉得我的笑声很烦人吗？<br />甲：不不不，很好听。<br />乙：可是别人都说很刺耳。<br />甲：不不不不，那是他们没有幽默感，无聊，很无聊。
 
 ### Pinyin and Translation
 |说人|句子|

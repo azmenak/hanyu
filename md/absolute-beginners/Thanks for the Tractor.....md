@@ -1,11 +1,7 @@
 # Thanks for the Tractor....
 **Absolute Beginners** level
 ### Chinese Text
-甲：你别动!<br />乙：没事!
-甲：别动!
-乙：没事!
-甲：别动!
-乙：没....
+甲：你别动!<br />乙：没事!<br />甲：别动!<br />乙：没事!<br />甲：别动!<br />乙：没....
 
 ### Pinyin and Translation
 |说人|句子|

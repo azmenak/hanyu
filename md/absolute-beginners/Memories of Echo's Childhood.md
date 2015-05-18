@@ -1,9 +1,7 @@
 # Memories of Echo's Childhood
 **Absolute Beginners** level
 ### Chinese Text
-甲：老师。<br />乙：什么事？
-甲：我想上厕所。
-乙：没有厕所。
+甲：老师。<br />乙：什么事？<br />甲：我想上厕所。<br />乙：没有厕所。
 
 ### Pinyin and Translation
 |说人|句子|

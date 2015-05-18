@@ -1,8 +1,7 @@
 # Want money?
 **Absolute Beginners** level
 ### Chinese Text
-甲：你要钱吗？<br />甲：要啊！
-乙：不给。
+甲：你要钱吗？<br />甲：要啊！<br />乙：不给。
 
 ### Pinyin and Translation
 |说人|句子|

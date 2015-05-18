@@ -1,9 +1,7 @@
 # The Interrogation Room
 **Absolute Beginners** level
 ### Chinese Text
-甲：一，二....<br />乙：停，我说。我告诉你，我都告诉你！
-丙：别，别告诉他！
-甲：你看，他懂事儿。
+甲：一，二....<br />乙：停，我说。我告诉你，我都告诉你！<br />丙：别，别告诉他！<br />甲：你看，他懂事儿。
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,11 +1,7 @@
 # Feline Aggression
 **Elementary** level
 ### Chinese Text
-咪咪.... 咪咪....<br />过来.... 过来....
-.... 过不过来？
-啊!
-抓我!
-坏蛋！
+咪咪.... 咪咪....<br />过来.... 过来....<br />.... 过不过来？<br />啊!<br />抓我!<br />坏蛋！
 
 ### Pinyin and Translation
 |说人|句子|

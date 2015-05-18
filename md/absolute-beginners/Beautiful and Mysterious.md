@@ -1,11 +1,7 @@
 # Beautiful and Mysterious
 **Absolute Beginners** level
 ### Chinese Text
-甲：她没有邮箱？<br />乙：没有。
-甲：也没有电话？
-乙：没有。
-甲：她是80后？
-乙：1880后。
+甲：她没有邮箱？<br />乙：没有。<br />甲：也没有电话？<br />乙：没有。<br />甲：她是80后？<br />乙：1880后。
 
 ### Pinyin and Translation
 |说人|句子|

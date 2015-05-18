@@ -1,9 +1,7 @@
 # The Secret Lives of Celebrities
 **Absolute Beginners** level
 ### Chinese Text
-女：你叫什么？<br />男：我叫布拉德·皮特。你呢？
-女：我叫安杰利娜·朱莉。
-男：啊... 你很漂亮。
+女：你叫什么？<br />男：我叫布拉德·皮特。你呢？<br />女：我叫安杰利娜·朱莉。<br />男：啊... 你很漂亮。
 
 ### Pinyin and Translation
 |说人|句子|

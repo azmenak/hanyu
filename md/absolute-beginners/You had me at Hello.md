@@ -1,9 +1,7 @@
 # You had me at Hello
 **Absolute Beginners** level
 ### Chinese Text
-B：你好。<br />A：你好吗？
-B：我很好，谢谢。
-A：再见！
+B：你好。<br />A：你好吗？<br />B：我很好，谢谢。<br />A：再见！
 
 ### Pinyin and Translation
 |说人|句子|

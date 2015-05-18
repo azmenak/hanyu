@@ -1,10 +1,7 @@
 # I am not Tom Cruise
 **Absolute Beginners** level
 ### Chinese Text
-A：你是汤姆克鲁斯？<br />B：不是。
-A：你是谁？
-B：我不说....
-A：是！是！你是汤姆克鲁斯！
+A：你是汤姆克鲁斯？<br />B：不是。<br />A：你是谁？<br />B：我不说....<br />A：是！是！你是汤姆克鲁斯！
 
 ### Pinyin and Translation
 |说人|句子|

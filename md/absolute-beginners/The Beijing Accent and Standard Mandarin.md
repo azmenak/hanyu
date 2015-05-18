@@ -1,17 +1,7 @@
 # The Beijing Accent and Standard Mandarin
 **Absolute Beginners** level
 ### Chinese Text
-能借我一根儿笔吗？<br />我告儿你。
-别告儿他。
-一瓶水儿。
-他在那儿。
-我在这儿。
-你在哪儿？
-我要一点儿。
-他一会儿来。
-你有小孩儿吗？
-他有一个男孩儿，一个女孩儿。
-我们出去玩儿吧。
+能借我一根儿笔吗？<br />我告儿你。<br />别告儿他。<br />一瓶水儿。<br />他在那儿。<br />我在这儿。<br />你在哪儿？<br />我要一点儿。<br />他一会儿来。<br />你有小孩儿吗？<br />他有一个男孩儿，一个女孩儿。<br />我们出去玩儿吧。
 
 ### Pinyin and Translation
 |说人|句子|

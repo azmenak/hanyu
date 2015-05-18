@@ -1,9 +1,7 @@
 # Have another cup of coffee?
 **Elementary** level
 ### Chinese Text
-甲：老板，这些文件都处理完了。<br />乙：辛苦了，给你的咖啡。
-甲：不用了，我这就回去。喝了咖啡该睡不着觉了。
-乙：哦，你今天不会回家。
+甲：老板，这些文件都处理完了。<br />乙：辛苦了，给你的咖啡。<br />甲：不用了，我这就回去。喝了咖啡该睡不着觉了。<br />乙：哦，你今天不会回家。
 
 ### Pinyin and Translation
 |说人|句子|

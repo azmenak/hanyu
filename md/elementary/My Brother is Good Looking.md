@@ -1,9 +1,7 @@
 # My Brother is Good Looking
 **Elementary** level
 ### Chinese Text
-甲：哎，你弟弟长得挺帅的，哈。<br />乙：你什么意思啊？
-甲：没，我就是说他长得好看而已。
-乙：你注意点儿，他是我的。
+甲：哎，你弟弟长得挺帅的，哈。<br />乙：你什么意思啊？<br />甲：没，我就是说他长得好看而已。<br />乙：你注意点儿，他是我的。
 
 ### Pinyin and Translation
 |说人|句子|

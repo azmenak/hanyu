@@ -1,8 +1,7 @@
 # Drive Safe
 **Absolute Beginners** level
 ### Chinese Text
-甲：先生，请系好安全套。<br />乙：啊？你说什么？
-甲：安全带，安全带。
+甲：先生，请系好安全套。<br />乙：啊？你说什么？<br />甲：安全带，安全带。
 
 ### Pinyin and Translation
 |说人|句子|

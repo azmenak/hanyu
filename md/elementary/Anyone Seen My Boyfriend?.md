@@ -1,10 +1,7 @@
 # Anyone Seen My Boyfriend?
 **Elementary** level
 ### Chinese Text
-女：你看见我男朋友了吗？<br />男：你有男朋友？
-女：对呀，就是小王。
-男：小王！
-女：我们已经在一起两年了，难道你不知道吗？
+女：你看见我男朋友了吗？<br />男：你有男朋友？<br />女：对呀，就是小王。<br />男：小王！<br />女：我们已经在一起两年了，难道你不知道吗？
 
 ### Pinyin and Translation
 |说人|句子|

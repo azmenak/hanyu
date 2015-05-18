@@ -1,10 +1,7 @@
 # A Matter of Food Security
 **Elementary** level
 ### Chinese Text
-甲：你怎么又爬进冰箱里啦？<br />乙：什么？猫又进冰箱里啦？
-甲：你怎么进去的？
-乙：打它，打它！
-甲：快，快出来！
+甲：你怎么又爬进冰箱里啦？<br />乙：什么？猫又进冰箱里啦？<br />甲：你怎么进去的？<br />乙：打它，打它！<br />甲：快，快出来！
 
 ### Pinyin and Translation
 |说人|句子|

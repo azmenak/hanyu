@@ -1,9 +1,7 @@
 # The Public Security Alarm
 **Absolute Beginners** level
 ### Chinese Text
-女的：那是什么？<br />男的：那是安全警报。
-女的：这里不安全吗？
-男的：不不不，意思是现在非常安全。
+女的：那是什么？<br />男的：那是安全警报。<br />女的：这里不安全吗？<br />男的：不不不，意思是现在非常安全。
 
 ### Pinyin and Translation
 |说人|句子|

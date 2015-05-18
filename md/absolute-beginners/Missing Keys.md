@@ -1,9 +1,7 @@
 # Missing Keys
 **Absolute Beginners** level
 ### Chinese Text
-甲：门锁了。<br />乙：你有钥匙吗？
-甲：没有。
-乙：哦，天哪！
+甲：门锁了。<br />乙：你有钥匙吗？<br />甲：没有。<br />乙：哦，天哪！
 
 ### Pinyin and Translation
 |说人|句子|

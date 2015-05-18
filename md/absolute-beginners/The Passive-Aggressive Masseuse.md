@@ -1,8 +1,7 @@
 # The Passive-Aggressive Masseuse
 **Absolute Beginners** level
 ### Chinese Text
-一：你舒服吗？<br />二：我很舒服，为什么？啊！
-一：开玩笑。
+一：你舒服吗？<br />二：我很舒服，为什么？啊！<br />一：开玩笑。
 
 ### Pinyin and Translation
 |说人|句子|

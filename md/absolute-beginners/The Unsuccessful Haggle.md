@@ -1,11 +1,7 @@
 # The Unsuccessful Haggle
 **Absolute Beginners** level
 ### Chinese Text
-女人：这个十块。<br />男人：五块。
-女人：十块。
-男人：七块。
-女人：十块。
-男人：好。十块。
+女人：这个十块。<br />男人：五块。<br />女人：十块。<br />男人：七块。<br />女人：十块。<br />男人：好。十块。
 
 ### Pinyin and Translation
 |说人|句子|

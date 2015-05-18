@@ -1,9 +1,7 @@
 # Adventures on the Second Ring Road
 **Absolute Beginners** level
 ### Chinese Text
-甲：师傅，醒醒，醒醒！<br />乙：到了，到了。十块，十块....
-甲：你刚才睡着了。
-乙：没有，没有啊，我们去哪儿？
+甲：师傅，醒醒，醒醒！<br />乙：到了，到了。十块，十块....<br />甲：你刚才睡着了。<br />乙：没有，没有啊，我们去哪儿？
 
 ### Pinyin and Translation
 |说人|句子|

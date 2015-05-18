@@ -1,9 +1,7 @@
 # Memories of Changsha
 **Absolute Beginners** level
 ### Chinese Text
-男：不好意思....<br />女：哦？
-男：过一下。
-女：没问题。真见鬼！
+男：不好意思....<br />女：哦？<br />男：过一下。<br />女：没问题。真见鬼！
 
 ### Pinyin and Translation
 |说人|句子|

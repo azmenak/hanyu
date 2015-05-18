@@ -1,10 +1,7 @@
 # Office Pleasantries
 **Absolute Beginners** level
 ### Chinese Text
-甲：请进。<br />乙：请问王先生在吗？
-甲：稍等。他马上来。
-乙：好的。
-甲：我先失陪了。
+甲：请进。<br />乙：请问王先生在吗？<br />甲：稍等。他马上来。<br />乙：好的。<br />甲：我先失陪了。
 
 ### Pinyin and Translation
 |说人|句子|

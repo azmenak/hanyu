@@ -1,9 +1,7 @@
 # Where are you from?
 **Absolute Beginners** level
 ### Chinese Text
-刘：你是中国人吗？<br />秦：不，我是日本人。
-刘：你的汉语真好！
-秦：谢谢！
+刘：你是中国人吗？<br />秦：不，我是日本人。<br />刘：你的汉语真好！<br />秦：谢谢！
 
 ### Pinyin and Translation
 |说人|句子|

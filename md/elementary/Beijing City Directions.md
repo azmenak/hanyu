@@ -1,12 +1,7 @@
 # Beijing City Directions
 **Elementary** level
 ### Chinese Text
-甲：三里屯怎么走？<br />乙：去死。
-甲：怎么走？
-乙：一直走，然后死。
-甲：不是右转吗？
-乙：滚！
-甲：好，谢谢。
+甲：三里屯怎么走？<br />乙：去死。<br />甲：怎么走？<br />乙：一直走，然后死。<br />甲：不是右转吗？<br />乙：滚！<br />甲：好，谢谢。
 
 ### Pinyin and Translation
 |说人|句子|

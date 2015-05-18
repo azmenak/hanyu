@@ -1,9 +1,7 @@
 # Are You Sick?
 **Absolute Beginners** level
 ### Chinese Text
-甲：你生病了吗？<br />乙：是的。
-甲：传染吗？
-乙：非常。
+甲：你生病了吗？<br />乙：是的。<br />甲：传染吗？<br />乙：非常。
 
 ### Pinyin and Translation
 |说人|句子|

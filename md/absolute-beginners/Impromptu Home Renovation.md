@@ -1,11 +1,7 @@
 # Impromptu Home Renovation
 **Absolute Beginners** level
 ### Chinese Text
-甲：你干嘛呢？<br />乙：没什么，没什么！
-甲：怎么回事？
-乙：一切正常。
-甲：我下来看看。
-乙：你别下来，你别下来，别下来....
+甲：你干嘛呢？<br />乙：没什么，没什么！<br />甲：怎么回事？<br />乙：一切正常。<br />甲：我下来看看。<br />乙：你别下来，你别下来，别下来....
 
 ### Pinyin and Translation
 |说人|句子|

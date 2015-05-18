@@ -1,9 +1,7 @@
 # The Horse's Ass
 **Elementary** level
 ### Chinese Text
-甲：我真羡慕你。<br />乙：什么？
-甲：你这么有钱，还这么帅。
-乙：别拍马屁。
+甲：我真羡慕你。<br />乙：什么？<br />甲：你这么有钱，还这么帅。<br />乙：别拍马屁。
 
 ### Pinyin and Translation
 |说人|句子|

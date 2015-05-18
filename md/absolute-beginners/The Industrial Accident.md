@@ -1,9 +1,7 @@
 # The Industrial Accident
 **Absolute Beginners** level
 ### Chinese Text
-一：哦，我的胳膊。<br />二：你的胳膊怎么了？
-一：折了。
-二：我们去医院吧。
+一：哦，我的胳膊。<br />二：你的胳膊怎么了？<br />一：折了。<br />二：我们去医院吧。
 
 ### Pinyin and Translation
 |说人|句子|

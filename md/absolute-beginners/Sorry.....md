@@ -1,9 +1,7 @@
 # Sorry....
 **Absolute Beginners** level
 ### Chinese Text
-A：对不起！<br />B：没关系。
-A：真对不起！
-B：真的没关系！
+A：对不起！<br />B：没关系。<br />A：真对不起！<br />B：真的没关系！
 
 ### Pinyin and Translation
 |说人|句子|

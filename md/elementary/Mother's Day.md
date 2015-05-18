@@ -1,9 +1,7 @@
 # Mother's Day
 **Elementary** level
 ### Chinese Text
-甲：Bunny, 你给你妈买礼物了吗？<br />乙：为什么？
-甲：因为母亲节！
-乙：哦，我忘了！
+甲：Bunny, 你给你妈买礼物了吗？<br />乙：为什么？<br />甲：因为母亲节！<br />乙：哦，我忘了！
 
 ### Pinyin and Translation
 |说人|句子|

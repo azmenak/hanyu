@@ -1,10 +1,7 @@
 # The Wandering Eye
 **Elementary** level
 ### Chinese Text
-甲：又在看别的女人！<br />乙：她是人妖。
-甲：少废话！昨天呢？前天呢？全是人妖吗？
-乙：这不是在泰国吗？
-甲：你就是个色鬼！
+甲：又在看别的女人！<br />乙：她是人妖。<br />甲：少废话！昨天呢？前天呢？全是人妖吗？<br />乙：这不是在泰国吗？<br />甲：你就是个色鬼！
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,9 +1,7 @@
 # A Trip to the Gym
 **Absolute Beginners** level
 ### Chinese Text
-甲：八，九，十....<br />乙：好，加油！
-甲：看，肌肉。
-乙：嗯，好看，我来。
+甲：八，九，十....<br />乙：好，加油！<br />甲：看，肌肉。<br />乙：嗯，好看，我来。
 
 ### Pinyin and Translation
 |说人|句子|

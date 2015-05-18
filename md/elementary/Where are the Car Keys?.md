@@ -1,9 +1,7 @@
 # Where are the Car Keys?
 **Elementary** level
 ### Chinese Text
-甲：哎，车钥匙呢？<br />乙：不是在你兜里吗？
-甲：没有。我给你了。是你开车来的。
-乙：妈的。
+甲：哎，车钥匙呢？<br />乙：不是在你兜里吗？<br />甲：没有。我给你了。是你开车来的。<br />乙：妈的。
 
 ### Pinyin and Translation
 |说人|句子|

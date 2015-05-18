@@ -1,8 +1,7 @@
 # Schrodinger's Home
 **Elementary** level
 ### Chinese Text
-甲：我想我妈妈。<br />乙：我也是。
-甲：你不是住在家里吗？
+甲：我想我妈妈。<br />乙：我也是。<br />甲：你不是住在家里吗？
 
 ### Pinyin and Translation
 |说人|句子|

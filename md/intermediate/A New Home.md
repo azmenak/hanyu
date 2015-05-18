@@ -1,10 +1,7 @@
 # A New Home
 **Intermediate** level
 ### Chinese Text
-Andy：田森，你干吗去了？累成这样？<br />田森：我买了一堆冰箱。
-Andy：你们家不有冰箱吗？你买冰箱干吗？
-田森：这不全球气候变暖嘛。我啊，养了一堆企鹅。
-Andy：这......
+Andy：田森，你干吗去了？累成这样？<br />田森：我买了一堆冰箱。<br />Andy：你们家不有冰箱吗？你买冰箱干吗？<br />田森：这不全球气候变暖嘛。我啊，养了一堆企鹅。<br />Andy：这......
 
 ### Pinyin and Translation
 |说人|句子|

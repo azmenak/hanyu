@@ -1,9 +1,7 @@
 # Ordering the Bill
 **Absolute Beginners** level
 ### Chinese Text
-甲：买单。<br />甲：哎，买单！
-甲：服务员，买单！
-乙：马上！
+甲：买单。<br />甲：哎，买单！<br />甲：服务员，买单！<br />乙：马上！
 
 ### Pinyin and Translation
 |说人|句子|

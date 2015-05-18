@@ -1,12 +1,7 @@
 # Workplace Pickup Techniques
 **Elementary** level
 ### Chinese Text
-女：是你。<br />男：是你啊.
-男：我不知道你从这儿下来。
-女：就一个楼梯啊。
-男：你抽烟吗？
-女：我不抽。
-男：那... 你有电话吗？
+女：是你。<br />男：是你啊.<br />男：我不知道你从这儿下来。<br />女：就一个楼梯啊。<br />男：你抽烟吗？<br />女：我不抽。<br />男：那... 你有电话吗？
 
 ### Pinyin and Translation
 |说人|句子|

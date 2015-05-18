@@ -1,10 +1,7 @@
 # Book Smarts
 **Absolute Beginners** level
 ### Chinese Text
-甲：你在看什么？<br />乙：在看一本书。
-甲：我知道。
-乙：那你还问？
-甲：看什么书？
+甲：你在看什么？<br />乙：在看一本书。<br />甲：我知道。<br />乙：那你还问？<br />甲：看什么书？
 
 ### Pinyin and Translation
 |说人|句子|

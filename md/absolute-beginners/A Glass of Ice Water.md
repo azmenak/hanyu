@@ -1,11 +1,7 @@
 # A Glass of Ice Water
 **Absolute Beginners** level
 ### Chinese Text
-甲：来一杯冰水。<br />乙：白开水吗？
-甲：行，可以。
-乙：你要凉的还是热的？
-甲：冰的。
-乙：哦，对，不好意思。
+甲：来一杯冰水。<br />乙：白开水吗？<br />甲：行，可以。<br />乙：你要凉的还是热的？<br />甲：冰的。<br />乙：哦，对，不好意思。
 
 ### Pinyin and Translation
 |说人|句子|

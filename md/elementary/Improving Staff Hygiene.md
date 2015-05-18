@@ -1,9 +1,7 @@
 # Improving Staff Hygiene
 **Elementary** level
 ### Chinese Text
-甲：水费这么多！<br />乙：哦，多少？
-甲：六千多。
-乙：哦，我最近经常洗澡。
+甲：水费这么多！<br />乙：哦，多少？<br />甲：六千多。<br />乙：哦，我最近经常洗澡。
 
 ### Pinyin and Translation
 |说人|句子|

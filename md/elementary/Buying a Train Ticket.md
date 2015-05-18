@@ -1,12 +1,7 @@
 # Buying a Train Ticket
 **Elementary** level
 ### Chinese Text
-甲：去天津的车票还有吗？<br />乙：最后两张。
-甲：软座还是硬座？
-乙：没坐儿。站票要不要?
-甲：啊。
-乙：不要后面的。
-甲：要，要，要！
+甲：去天津的车票还有吗？<br />乙：最后两张。<br />甲：软座还是硬座？<br />乙：没坐儿。站票要不要?<br />甲：啊。<br />乙：不要后面的。<br />甲：要，要，要！
 
 ### Pinyin and Translation
 |说人|句子|

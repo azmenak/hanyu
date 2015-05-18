@@ -1,9 +1,7 @@
 # An Embarrassing Situation
 **Elementary** level
 ### Chinese Text
-甲：呃，你的衣服。<br />乙：怎么了？
-甲：你的衣服哪儿去了？
-乙：哦，真丢人。
+甲：呃，你的衣服。<br />乙：怎么了？<br />甲：你的衣服哪儿去了？<br />乙：哦，真丢人。
 
 ### Pinyin and Translation
 |说人|句子|

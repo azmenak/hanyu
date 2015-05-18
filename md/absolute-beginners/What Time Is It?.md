@@ -1,8 +1,7 @@
 # What Time Is It?
 **Absolute Beginners** level
 ### Chinese Text
-甲：几点了？<br />乙：两点。
-甲：天哪！晚了，晚了！
+甲：几点了？<br />乙：两点。<br />甲：天哪！晚了，晚了！
 
 ### Pinyin and Translation
 |说人|句子|

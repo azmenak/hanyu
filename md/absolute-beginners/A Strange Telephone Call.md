@@ -1,12 +1,7 @@
 # A Strange Telephone Call
 **Absolute Beginners** level
 ### Chinese Text
-甲：喂？喂？你是谁？<br />乙：谁啊？你在跟谁说话呢？
-甲：电话里哇哇的，听不清楚。 喂，你听听。
-乙：喂？喂？说话。
-甲：听不清吧？
-乙：嗯。
-甲：挂了吧。
+甲：喂？喂？你是谁？<br />乙：谁啊？你在跟谁说话呢？<br />甲：电话里哇哇的，听不清楚。 喂，你听听。<br />乙：喂？喂？说话。<br />甲：听不清吧？<br />乙：嗯。<br />甲：挂了吧。
 
 ### Pinyin and Translation
 |说人|句子|

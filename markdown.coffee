@@ -17,7 +17,7 @@ for level, lessons of groupedByLevel
     if lesson.transcript.length >= 1
       md += """
         ### Chinese Text
-        #{lesson.pasteboard.replace '\n', '<br />'}
+        #{lesson.pasteboard.replace /\n/g, '<br />'}
 
         ### Pinyin and Translation
         |说人|句子|

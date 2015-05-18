@@ -1,9 +1,7 @@
 # A Guide to Supportive Parenting
 **Absolute Beginners** level
 ### Chinese Text
-妈妈：小宝，你的中文课怎么样？<br />小宝：我学的不是中文！
-妈妈：啊，是吗？
-小宝：妈妈！
+妈妈：小宝，你的中文课怎么样？<br />小宝：我学的不是中文！<br />妈妈：啊，是吗？<br />小宝：妈妈！
 
 ### Pinyin and Translation
 |说人|句子|

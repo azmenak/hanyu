@@ -1,8 +1,7 @@
 # Dude looks like a Lady
 **Intermediate** level
 ### Chinese Text
-A：哎，你看那男的多帅啊！<br />B：帅什么呀，长得跟个女的似的。
-A：你不懂，今年就流行这样的！
+A：哎，你看那男的多帅啊！<br />B：帅什么呀，长得跟个女的似的。<br />A：你不懂，今年就流行这样的！
 
 ### Pinyin and Translation
 |说人|句子|

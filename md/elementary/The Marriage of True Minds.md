@@ -1,9 +1,7 @@
 # The Marriage of True Minds
 **Elementary** level
 ### Chinese Text
-甲：听说李健要结婚了。<br />乙：结婚？和谁呀？
-甲：和他前妻。
-乙：他已经结过一次啦？我怎么什么都不知道啊。
+甲：听说李健要结婚了。<br />乙：结婚？和谁呀？<br />甲：和他前妻。<br />乙：他已经结过一次啦？我怎么什么都不知道啊。
 
 ### Pinyin and Translation
 |说人|句子|

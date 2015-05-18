@@ -1,8 +1,7 @@
 # Comrades in Space
 **Elementary** level
 ### Chinese Text
-甲：我们在太空里经历了太多的冒险。<br />乙：是的船长，这是我此生最难忘的旅行！
-甲：噢，太刺激了。
+甲：我们在太空里经历了太多的冒险。<br />乙：是的船长，这是我此生最难忘的旅行！<br />甲：噢，太刺激了。
 
 ### Pinyin and Translation
 |说人|句子|

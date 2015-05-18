@@ -1,10 +1,7 @@
 # Casual Greetings in Chinese
 **Absolute Beginners** level
 ### Chinese Text
-甲：咳，我听说他....<br />乙：嘿，怎么样？
-甲：呃....
-乙：你们在说什么？
-甲：没说什么，没说什么。
+甲：咳，我听说他....<br />乙：嘿，怎么样？<br />甲：呃....<br />乙：你们在说什么？<br />甲：没说什么，没说什么。
 
 ### Pinyin and Translation
 |说人|句子|

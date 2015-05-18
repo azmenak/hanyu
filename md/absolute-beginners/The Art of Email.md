@@ -1,14 +1,7 @@
 # The Art of Email
 **Absolute Beginners** level
 ### Chinese Text
-[第一部]<br />甲：你的邮箱地址是多少？
-乙：zyxf419fczy@163.com
-[第二部]
-甲：我今天给你发的邮件你收到了吗？
-乙：没有啊。你不会记错地址了吧？
-甲：你的地址不是 zyyzxu51997zczhang97@126.com 吗？
-乙：你真的记错了呀。是 zyyzxu51999zczhang97@126.com。是 1999，不是1997。
-甲：哦，那我再给你发一遍。
+[第一部]<br />甲：你的邮箱地址是多少？<br />乙：zyxf419fczy@163.com<br />[第二部]<br />甲：我今天给你发的邮件你收到了吗？<br />乙：没有啊。你不会记错地址了吧？<br />甲：你的地址不是 zyyzxu51997zczhang97@126.com 吗？<br />乙：你真的记错了呀。是 zyyzxu51999zczhang97@126.com。是 1999，不是1997。<br />甲：哦，那我再给你发一遍。
 
 ### Pinyin and Translation
 |说人|句子|

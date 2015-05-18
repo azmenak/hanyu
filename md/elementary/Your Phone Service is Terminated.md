@@ -1,9 +1,7 @@
 # Your Phone Service is Terminated
 **Elementary** level
 ### Chinese Text
-女的：你电话打不通。<br />男的：是吗？
-女的：该付费了。
-男的：电话费是什么？
+女的：你电话打不通。<br />男的：是吗？<br />女的：该付费了。<br />男的：电话费是什么？
 
 ### Pinyin and Translation
 |说人|句子|

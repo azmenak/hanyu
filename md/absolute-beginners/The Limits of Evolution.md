@@ -1,13 +1,7 @@
 # The Limits of Evolution
 **Absolute Beginners** level
 ### Chinese Text
-蛐蛐：蛐蛐。<br />人：哎，一个蛐蛐。
-蛐蛐：我是蛐蛐。
-人：我不知道蛐蛐还会说话。
-蛐蛐：蛐蛐，我是蛐蛐。
-人：哦。
-蛐蛐：蛐蛐。
-人：我知道了。
+蛐蛐：蛐蛐。<br />人：哎，一个蛐蛐。<br />蛐蛐：我是蛐蛐。<br />人：我不知道蛐蛐还会说话。<br />蛐蛐：蛐蛐，我是蛐蛐。<br />人：哦。<br />蛐蛐：蛐蛐。<br />人：我知道了。
 
 ### Pinyin and Translation
 |说人|句子|

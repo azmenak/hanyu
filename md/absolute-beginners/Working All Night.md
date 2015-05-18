@@ -1,9 +1,7 @@
 # Working All Night
 **Absolute Beginners** level
 ### Chinese Text
-女：你今天怎么样?<br />男：我不怎么样。
-女：为什么不怎么样?
-男：因为我熬夜了，很累。
+女：你今天怎么样?<br />男：我不怎么样。<br />女：为什么不怎么样?<br />男：因为我熬夜了，很累。
 
 ### Pinyin and Translation
 |说人|句子|

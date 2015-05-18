@@ -1,9 +1,7 @@
 # Getting Married in China
 **Absolute Beginners** level
 ### Chinese Text
-甲：嫁给我吧。<br />乙：不要。
-甲：求求你了。
-乙：好吧。
+甲：嫁给我吧。<br />乙：不要。<br />甲：求求你了。<br />乙：好吧。
 
 ### Pinyin and Translation
 |说人|句子|

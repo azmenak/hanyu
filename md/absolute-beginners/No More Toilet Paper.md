@@ -1,10 +1,7 @@
 # No More Toilet Paper
 **Absolute Beginners** level
 ### Chinese Text
-甲：可以用你的卫生间吗？<br />乙：没问题。
-甲：手纸呢？
-乙：用完了。
-甲：哦。
+甲：可以用你的卫生间吗？<br />乙：没问题。<br />甲：手纸呢？<br />乙：用完了。<br />甲：哦。
 
 ### Pinyin and Translation
 |说人|句子|

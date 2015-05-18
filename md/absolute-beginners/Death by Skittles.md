@@ -1,9 +1,7 @@
 # Death by Skittles
 **Absolute Beginners** level
 ### Chinese Text
-甲：哦，彩虹糖！<br />甲：我吃一个。
-甲：真好吃。
-甲：谢谢啊！
+甲：哦，彩虹糖！<br />甲：我吃一个。<br />甲：真好吃。<br />甲：谢谢啊！
 
 ### Pinyin and Translation
 |说人|句子|

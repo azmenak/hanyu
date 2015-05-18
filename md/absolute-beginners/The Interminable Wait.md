@@ -1,9 +1,7 @@
 # The Interminable Wait
 **Absolute Beginners** level
 ### Chinese Text
-甲：已经八点了。<br />乙：她会来的。
-甲：她忘了。
-乙：她说她会来的，我知道她会来的。
+甲：已经八点了。<br />乙：她会来的。<br />甲：她忘了。<br />乙：她说她会来的，我知道她会来的。
 
 ### Pinyin and Translation
 |说人|句子|

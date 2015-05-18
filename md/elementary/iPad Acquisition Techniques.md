@@ -1,12 +1,7 @@
 # iPad Acquisition Techniques
 **Elementary** level
 ### Chinese Text
-甲：你刚才拿的是我的iPad.<br />乙：没有，我没拿你iPad.
-甲：我看见你把它放包里了。
-乙：包里是我的iPad.
-甲：给我。你居然偷我的东西。
-乙：大姐，拜托。不是只是你一个人有iPad.
-甲：哎？这不是我的iPhone吗？
+甲：你刚才拿的是我的iPad.<br />乙：没有，我没拿你iPad.<br />甲：我看见你把它放包里了。<br />乙：包里是我的iPad.<br />甲：给我。你居然偷我的东西。<br />乙：大姐，拜托。不是只是你一个人有iPad.<br />甲：哎？这不是我的iPhone吗？
 
 ### Pinyin and Translation
 |说人|句子|

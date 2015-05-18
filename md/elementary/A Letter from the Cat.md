@@ -1,8 +1,7 @@
 # A Letter from the Cat
 **Elementary** level
 ### Chinese Text
-甲：咱们的猫不再爱你了。它给你写的信。<br />乙：咱们的猫会写字儿？
-甲：对，我一直在训练它。
+甲：咱们的猫不再爱你了。它给你写的信。<br />乙：咱们的猫会写字儿？<br />甲：对，我一直在训练它。
 
 ### Pinyin and Translation
 |说人|句子|

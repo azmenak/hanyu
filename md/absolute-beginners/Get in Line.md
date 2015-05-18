@@ -1,9 +1,7 @@
 # Get in Line
 **Absolute Beginners** level
 ### Chinese Text
-甲：哎，借过一下。<br />乙：不借！
-甲：嗯？
-乙：排队去！
+甲：哎，借过一下。<br />乙：不借！<br />甲：嗯？<br />乙：排队去！
 
 ### Pinyin and Translation
 |说人|句子|

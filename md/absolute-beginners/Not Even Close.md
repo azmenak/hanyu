@@ -1,9 +1,7 @@
 # Not Even Close
 **Absolute Beginners** level
 ### Chinese Text
-甲：这是工人体育场吗？<br />乙：不是。
-甲：真的？
-乙：差远了。
+甲：这是工人体育场吗？<br />乙：不是。<br />甲：真的？<br />乙：差远了。
 
 ### Pinyin and Translation
 |说人|句子|

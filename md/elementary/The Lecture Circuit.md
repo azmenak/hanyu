@@ -1,9 +1,7 @@
 # The Lecture Circuit
 **Elementary** level
 ### Chinese Text
-甲：她在说什么？<br />乙：我听不懂，不过她的声调挺好听的，是英语吗？
-甲：我觉得是中文。
-乙：噢。
+甲：她在说什么？<br />乙：我听不懂，不过她的声调挺好听的，是英语吗？<br />甲：我觉得是中文。<br />乙：噢。
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,9 +1,7 @@
 # Beer and Measure Words
 **Absolute Beginners** level
 ### Chinese Text
-男的：你需要点儿什么？<br />女的：啤酒。
-男的：一扎还是一瓶儿?
-女的：一瓶儿。
+男的：你需要点儿什么？<br />女的：啤酒。<br />男的：一扎还是一瓶儿?<br />女的：一瓶儿。
 
 ### Pinyin and Translation
 |说人|句子|

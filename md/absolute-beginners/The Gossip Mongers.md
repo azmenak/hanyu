@@ -1,11 +1,7 @@
 # The Gossip Mongers
 **Absolute Beginners** level
 ### Chinese Text
-女人：你知道吗？<br />男人：你也知道了。
-女人：你什么时候知道的？
-男人：刚才。
-女人：我也是。
-男人：天哪！
+女人：你知道吗？<br />男人：你也知道了。<br />女人：你什么时候知道的？<br />男人：刚才。<br />女人：我也是。<br />男人：天哪！
 
 ### Pinyin and Translation
 |说人|句子|

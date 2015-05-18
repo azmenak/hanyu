@@ -1,9 +1,7 @@
 # Assault, Battery and the Future
 **Absolute Beginners** level
 ### Chinese Text
-甲：我会打你的。<br />乙：你敢打我？
-甲：我真的真的会打你的。
-乙：你真的敢打我？
+甲：我会打你的。<br />乙：你敢打我？<br />甲：我真的真的会打你的。<br />乙：你真的敢打我？
 
 ### Pinyin and Translation
 |说人|句子|

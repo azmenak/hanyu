@@ -1,10 +1,7 @@
 # The Second Vaccination
 **Absolute Beginners** level
 ### Chinese Text
-甲：这是第一次吗？<br />乙：不，第二次。
-甲：这个疫苗需要打三次。
-乙：我需要回来吗？
-甲：六个月以后，再来一次。
+甲：这是第一次吗？<br />乙：不，第二次。<br />甲：这个疫苗需要打三次。<br />乙：我需要回来吗？<br />甲：六个月以后，再来一次。
 
 ### Pinyin and Translation
 |说人|句子|

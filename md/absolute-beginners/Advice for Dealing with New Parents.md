@@ -1,9 +1,7 @@
 # Advice for Dealing with New Parents
 **Absolute Beginners** level
 ### Chinese Text
-甲：你的孩子还好吗？<br />乙：她会好的。
-甲：但是... 她已经用了十分钟了。
-乙：她就是有点儿慢。
+甲：你的孩子还好吗？<br />乙：她会好的。<br />甲：但是... 她已经用了十分钟了。<br />乙：她就是有点儿慢。
 
 ### Pinyin and Translation
 |说人|句子|

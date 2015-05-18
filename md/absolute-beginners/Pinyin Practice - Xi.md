@@ -1,11 +1,7 @@
 # Pinyin Practice - Xi
 **Absolute Beginners** level
 ### Chinese Text
-我喜欢学习中文。<br />我不喜欢玩游戏。
-她是西方人。
-我需要休息。
-多学习，行不行？
-星期天我休息。
+我喜欢学习中文。<br />我不喜欢玩游戏。<br />她是西方人。<br />我需要休息。<br />多学习，行不行？<br />星期天我休息。
 
 ### Pinyin and Translation
 |说人|句子|

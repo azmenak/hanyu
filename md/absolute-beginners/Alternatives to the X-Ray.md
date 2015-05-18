@@ -1,8 +1,7 @@
 # Alternatives to the X-Ray
 **Absolute Beginners** level
 ### Chinese Text
-甲：疼，疼疼疼疼疼....<br />乙：哪儿疼啊？这儿？
-甲：嗷！
+甲：疼，疼疼疼疼疼....<br />乙：哪儿疼啊？这儿？<br />甲：嗷！
 
 ### Pinyin and Translation
 |说人|句子|

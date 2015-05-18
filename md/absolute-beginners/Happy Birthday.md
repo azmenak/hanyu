@@ -1,12 +1,7 @@
 # Happy Birthday
 **Absolute Beginners** level
 ### Chinese Text
-甲：Echo，祝你生日快乐！<br />Echo：谢谢！
-乙：Echo，生日快乐！
-Echo：谢谢！
-丙：我的呢？
-甲：呃......，你也生日快乐。
-乙：嗯，快乐。
+甲：Echo，祝你生日快乐！<br />Echo：谢谢！<br />乙：Echo，生日快乐！<br />Echo：谢谢！<br />丙：我的呢？<br />甲：呃......，你也生日快乐。<br />乙：嗯，快乐。
 
 ### Pinyin and Translation
 |说人|句子|

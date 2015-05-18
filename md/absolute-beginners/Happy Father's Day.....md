@@ -1,10 +1,7 @@
 # Happy Father's Day....
 **Absolute Beginners** level
 ### Chinese Text
-朋友：你给你爸爸买礼物了吗？<br />Bunny：为什么？
-朋友：因为父亲节！
-Bunny：我买了一堆玫瑰花。
-朋友：玫瑰花...?
+朋友：你给你爸爸买礼物了吗？<br />Bunny：为什么？<br />朋友：因为父亲节！<br />Bunny：我买了一堆玫瑰花。<br />朋友：玫瑰花...?
 
 ### Pinyin and Translation
 |说人|句子|

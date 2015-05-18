@@ -1,9 +1,7 @@
 # China's Harmonious Society
 **Absolute Beginners** level
 ### Chinese Text
-一：你觉得_____怎么样？<br />二：我觉得______不错。
-一：我同意。
-二：好，明天见！
+一：你觉得_____怎么样？<br />二：我觉得______不错。<br />一：我同意。<br />二：好，明天见！
 
 ### Pinyin and Translation
 |说人|句子|

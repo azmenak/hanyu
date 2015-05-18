@@ -1,14 +1,7 @@
 # The Gods of Powerpoint
 **Intermediate** level
 ### Chinese Text
-甲：PPT准备好了吗？<br />乙：快了。在弄投影仪呢。
-甲：快点儿。
-乙：这怎么还是不显示啊？
-甲：你USB插了吗？
-乙：USP插了。
-甲：USP? 那是USB。B！行不行啊，你还专家呢你？
-乙：那你这是标配的吗？
-甲：我当然是标配的。昨天我自个儿还用了... USB，真行。
+甲：PPT准备好了吗？<br />乙：快了。在弄投影仪呢。<br />甲：快点儿。<br />乙：这怎么还是不显示啊？<br />甲：你USB插了吗？<br />乙：USP插了。<br />甲：USP? 那是USB。B！行不行啊，你还专家呢你？<br />乙：那你这是标配的吗？<br />甲：我当然是标配的。昨天我自个儿还用了... USB，真行。
 
 ### Pinyin and Translation
 |说人|句子|

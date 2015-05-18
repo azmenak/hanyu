@@ -1,9 +1,7 @@
 # Parking the Car
 **Absolute Beginners** level
 ### Chinese Text
-甲：师傅....<br />甲：往左打，往左打，倒，倒，好。
-甲：好，倒倒倒，好。
-甲：啊！我的脚！
+甲：师傅....<br />甲：往左打，往左打，倒，倒，好。<br />甲：好，倒倒倒，好。<br />甲：啊！我的脚！
 
 ### Pinyin and Translation
 |说人|句子|

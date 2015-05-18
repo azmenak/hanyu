@@ -1,10 +1,7 @@
 # The Internet, never heard of it....
 **Absolute Beginners** level
 ### Chinese Text
-甲：你的手表在哪儿买的？<br />乙：在网上。
-甲：什么网？
-乙：因特网。
-甲：哦，没听说过。
+甲：你的手表在哪儿买的？<br />乙：在网上。<br />甲：什么网？<br />乙：因特网。<br />甲：哦，没听说过。
 
 ### Pinyin and Translation
 |说人|句子|

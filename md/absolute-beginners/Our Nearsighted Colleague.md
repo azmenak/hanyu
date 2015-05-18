@@ -1,9 +1,7 @@
 # Our Nearsighted Colleague
 **Absolute Beginners** level
 ### Chinese Text
-女：哎，看！<br />男：天哪，超人！
-女：不不不，那是一只鸟。
-男：天哪，是一只鸟！
+女：哎，看！<br />男：天哪，超人！<br />女：不不不，那是一只鸟。<br />男：天哪，是一只鸟！
 
 ### Pinyin and Translation
 |说人|句子|

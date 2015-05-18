@@ -1,9 +1,7 @@
 # The Grandmother Enigma      
 **Absolute Beginners** level
 ### Chinese Text
-甲：你什么时候去中国？<br />乙：我的票是... 昨天的？
-甲：啊？
-乙：奶奶的... 我错过飞机了。
+甲：你什么时候去中国？<br />乙：我的票是... 昨天的？<br />甲：啊？<br />乙：奶奶的... 我错过飞机了。
 
 ### Pinyin and Translation
 |说人|句子|

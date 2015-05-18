@@ -1,10 +1,7 @@
 # Who Stole My Subtitles
 **Absolute Beginners** level
 ### Chinese Text
-女：你听得懂吗？<br />男：听不懂。
-女：它们有没有中文字幕？
-男：没有。
-女：妈的。
+女：你听得懂吗？<br />男：听不懂。<br />女：它们有没有中文字幕？<br />男：没有。<br />女：妈的。
 
 ### Pinyin and Translation
 |说人|句子|

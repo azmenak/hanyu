@@ -1,10 +1,7 @@
 # Ordering Take Out
 **Absolute Beginners** level
 ### Chinese Text
-男：喂，我想点餐。<br />女：什么?
-男：我想叫外卖。
-女：啊，行。你要什么?
-男：烤鸭。
+男：喂，我想点餐。<br />女：什么?<br />男：我想叫外卖。<br />女：啊，行。你要什么?<br />男：烤鸭。
 
 ### Pinyin and Translation
 |说人|句子|

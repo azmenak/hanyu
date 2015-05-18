@@ -1,12 +1,7 @@
 # Who is Bradley Cooper
 **Absolute Beginners** level
 ### Chinese Text
-女：哦，Bradley Cooper!<br />男：他是谁？
-女：Bradley，我在这儿！
-男：Bradley Cooper是谁？
-女：我的天啊，Bradley!
-女：Bradley，我爱你！
-男：他是谁？
+女：哦，Bradley Cooper!<br />男：他是谁？<br />女：Bradley，我在这儿！<br />男：Bradley Cooper是谁？<br />女：我的天啊，Bradley!<br />女：Bradley，我爱你！<br />男：他是谁？
 
 ### Pinyin and Translation
 |说人|句子|

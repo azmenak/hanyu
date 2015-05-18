@@ -1,10 +1,7 @@
 # Where does it hurt?
 **Absolute Beginners** level
 ### Chinese Text
-甲：嗯......<br />乙：怎么了？
-甲：我不舒服。
-乙：哪儿不舒服？
-甲：我这儿疼。
+甲：嗯......<br />乙：怎么了？<br />甲：我不舒服。<br />乙：哪儿不舒服？<br />甲：我这儿疼。
 
 ### Pinyin and Translation
 |说人|句子|

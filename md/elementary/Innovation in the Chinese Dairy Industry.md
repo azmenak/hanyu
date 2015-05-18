@@ -1,12 +1,7 @@
 # Innovation in the Chinese Dairy Industry
 **Elementary** level
 ### Chinese Text
-甲：这是你的内裤吗？<br />乙：嗯....
-甲：你怎么放到冰箱里了？
-乙：那个....
-甲：我在酸奶瓶里找到的！
-乙：你喝酸奶了吗？
-甲：我受够了，我要分手！
+甲：这是你的内裤吗？<br />乙：嗯....<br />甲：你怎么放到冰箱里了？<br />乙：那个....<br />甲：我在酸奶瓶里找到的！<br />乙：你喝酸奶了吗？<br />甲：我受够了，我要分手！
 
 ### Pinyin and Translation
 |说人|句子|

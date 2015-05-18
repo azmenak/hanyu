@@ -1,9 +1,7 @@
 # On Avoiding the Plague
 **Absolute Beginners** level
 ### Chinese Text
-刘：我不舒服。<br />秦：怎么了？
-刘：我有点儿拉肚子。
-秦：你快回家吧。
+刘：我不舒服。<br />秦：怎么了？<br />刘：我有点儿拉肚子。<br />秦：你快回家吧。
 
 ### Pinyin and Translation
 |说人|句子|

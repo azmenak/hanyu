@@ -1,9 +1,7 @@
 # Evolutionary Strategies of Household Pets
 **Absolute Beginners** level
 ### Chinese Text
-甲：那是你女朋友？<br />乙：不，是我的猫。
-甲：它会打电话？
-乙：嗯，对，它饿了。
+甲：那是你女朋友？<br />乙：不，是我的猫。<br />甲：它会打电话？<br />乙：嗯，对，它饿了。
 
 ### Pinyin and Translation
 |说人|句子|

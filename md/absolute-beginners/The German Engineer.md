@@ -1,9 +1,7 @@
 # The German Engineer
 **Absolute Beginners** level
 ### Chinese Text
-甲：你是哪国人？<br />乙：我是德国人。
-甲：你做什么工作？
-乙：我是工程师。
+甲：你是哪国人？<br />乙：我是德国人。<br />甲：你做什么工作？<br />乙：我是工程师。
 
 ### Pinyin and Translation
 |说人|句子|

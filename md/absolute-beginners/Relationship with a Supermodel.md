@@ -1,9 +1,7 @@
 # Relationship with a Supermodel
 **Absolute Beginners** level
 ### Chinese Text
-男：你真漂亮。<br />女：你真帅。
-男：你真聪明。
-女：你真... 帅。
+男：你真漂亮。<br />女：你真帅。<br />男：你真聪明。<br />女：你真... 帅。
 
 ### Pinyin and Translation
 |说人|句子|

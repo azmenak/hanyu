@@ -1,9 +1,7 @@
 # Guitar Hero
 **Elementary** level
 ### Chinese Text
-女：啊，你会弹吉他。你学了多长时间了?<br />男：我没学多长时间。。。 三个月吧。
-女：啊，弹得真不错。
-男：谢谢。
+女：啊，你会弹吉他。你学了多长时间了?<br />男：我没学多长时间。。。 三个月吧。<br />女：啊，弹得真不错。<br />男：谢谢。
 
 ### Pinyin and Translation
 |说人|句子|

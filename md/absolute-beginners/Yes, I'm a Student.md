@@ -1,10 +1,7 @@
 # Yes, I'm a Student
 **Absolute Beginners** level
 ### Chinese Text
-甲：你是学生吗？<br />乙：是，你呢？
-甲：我是老师。
-乙：你可以教我中文吗？
-甲：可以。
+甲：你是学生吗？<br />乙：是，你呢？<br />甲：我是老师。<br />乙：你可以教我中文吗？<br />甲：可以。
 
 ### Pinyin and Translation
 |说人|句子|

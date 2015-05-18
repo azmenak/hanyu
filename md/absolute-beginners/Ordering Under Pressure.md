@@ -1,10 +1,7 @@
 # Ordering Under Pressure
 **Absolute Beginners** level
 ### Chinese Text
-甲：给您菜单。<br />乙：啊，谢谢。
-甲：您要什么？
-乙：呃，等一下儿，我先看看吧。
-甲：嗯，好的。
+甲：给您菜单。<br />乙：啊，谢谢。<br />甲：您要什么？<br />乙：呃，等一下儿，我先看看吧。<br />甲：嗯，好的。
 
 ### Pinyin and Translation
 |说人|句子|

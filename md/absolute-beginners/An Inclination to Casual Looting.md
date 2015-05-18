@@ -1,8 +1,7 @@
 # An Inclination to Casual Looting
 **Absolute Beginners** level
 ### Chinese Text
-甲：你还有多少钱？<br />乙：五十。
-甲：那是我的钱！给我。
+甲：你还有多少钱？<br />乙：五十。<br />甲：那是我的钱！给我。
 
 ### Pinyin and Translation
 |说人|句子|

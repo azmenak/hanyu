@@ -1,8 +1,7 @@
 # Sometimes you just can't take it anymore....
 **Absolute Beginners** level
 ### Chinese Text
-甲：停下。<br />甲：够了，够了。
-甲：住手！
+甲：停下。<br />甲：够了，够了。<br />甲：住手！
 
 ### Pinyin and Translation
 |说人|句子|

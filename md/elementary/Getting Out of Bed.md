@@ -1,11 +1,7 @@
 # Getting Out of Bed
 **Elementary** level
 ### Chinese Text
-甲：你得起床了。<br />乙：我不想起。
-甲：你必须起了。
-乙：我不想起。
-甲：八点了。
-乙：哦，天哪。
+甲：你得起床了。<br />乙：我不想起。<br />甲：你必须起了。<br />乙：我不想起。<br />甲：八点了。<br />乙：哦，天哪。
 
 ### Pinyin and Translation
 |说人|句子|

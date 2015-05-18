@@ -1,21 +1,7 @@
 # Titanic: A Chinese Romance
 **Intermediate** level
 ### Chinese Text
-Rose：Jack, 快醒醒!泰坦尼克号出事了!<br />Jack：哦 Rose, 怎么了?
-Rose：咱们的地板已经开始渗水了。
-Jack：那好像是我的洗澡水吧。
-Rose：哦，不，那一定是海水。我刚才看见窗外有冰川。
-Jack：冰川那得多少座啊！好像是冰山啊！
-Rose：太可怕了。怎么办？
-Jack：咱们想想怎么能逃生吧。
-Rose：头等舱的人。每个房间都有一个救生艇。咱们应该也有啊。
-Jack：找找。
-Rose：咱们的在哪儿呢？
-Jack：好像没有。
-Rose：哦，都怪你。一定是你买了次等舱的船票，所以咱们才没有的。
-Jack：咱们这点儿钱只够买三等舱的呀。
-Rose：那现在怎么办？
-Jack：咱们去抢一条吧。
+Rose：Jack, 快醒醒!泰坦尼克号出事了!<br />Jack：哦 Rose, 怎么了?<br />Rose：咱们的地板已经开始渗水了。<br />Jack：那好像是我的洗澡水吧。<br />Rose：哦，不，那一定是海水。我刚才看见窗外有冰川。<br />Jack：冰川那得多少座啊！好像是冰山啊！<br />Rose：太可怕了。怎么办？<br />Jack：咱们想想怎么能逃生吧。<br />Rose：头等舱的人。每个房间都有一个救生艇。咱们应该也有啊。<br />Jack：找找。<br />Rose：咱们的在哪儿呢？<br />Jack：好像没有。<br />Rose：哦，都怪你。一定是你买了次等舱的船票，所以咱们才没有的。<br />Jack：咱们这点儿钱只够买三等舱的呀。<br />Rose：那现在怎么办？<br />Jack：咱们去抢一条吧。
 
 ### Pinyin and Translation
 |说人|句子|

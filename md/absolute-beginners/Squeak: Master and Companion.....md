@@ -1,8 +1,7 @@
 # Squeak: Master and Companion....
 **Absolute Beginners** level
 ### Chinese Text
-甲：猫又上你的椅子了。<br />乙：Squeak，下来，我得工作。
-甲：别动它，它很舒服。
+甲：猫又上你的椅子了。<br />乙：Squeak，下来，我得工作。<br />甲：别动它，它很舒服。
 
 ### Pinyin and Translation
 |说人|句子|

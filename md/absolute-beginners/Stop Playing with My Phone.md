@@ -1,9 +1,7 @@
 # Stop Playing with My Phone
 **Absolute Beginners** level
 ### Chinese Text
-一：给我那个。<br />二：什么？
-一：那个，我的手机。
-二：哦，给你。
+一：给我那个。<br />二：什么？<br />一：那个，我的手机。<br />二：哦，给你。
 
 ### Pinyin and Translation
 |说人|句子|

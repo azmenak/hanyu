@@ -1,9 +1,7 @@
 # Feel My Total Indifference
 **Absolute Beginners** level
 ### Chinese Text
-甲：要去吗？<br />乙：无所谓。
-甲：不要去吗？
-乙：我说了，无所谓。
+甲：要去吗？<br />乙：无所谓。<br />甲：不要去吗？<br />乙：我说了，无所谓。
 
 ### Pinyin and Translation
 |说人|句子|

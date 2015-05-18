@@ -1,9 +1,7 @@
 # What sign are you?
 **Absolute Beginners** level
 ### Chinese Text
-甲：你属什么？<br />乙：我属鸡。
-甲：你属鸡？哈⋯⋯咕咕咕咕⋯⋯
-乙：嘿！嘿！别笑了！
+甲：你属什么？<br />乙：我属鸡。<br />甲：你属鸡？哈⋯⋯咕咕咕咕⋯⋯<br />乙：嘿！嘿！别笑了！
 
 ### Pinyin and Translation
 |说人|句子|

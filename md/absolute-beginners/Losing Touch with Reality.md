@@ -1,9 +1,7 @@
 # Losing Touch with Reality
 **Absolute Beginners** level
 ### Chinese Text
-男：你看过《盗梦空间》吗？<br />女：对，它很好。
-男：太好了，非常好！
-女：好极了！
+男：你看过《盗梦空间》吗？<br />女：对，它很好。<br />男：太好了，非常好！<br />女：好极了！
 
 ### Pinyin and Translation
 |说人|句子|

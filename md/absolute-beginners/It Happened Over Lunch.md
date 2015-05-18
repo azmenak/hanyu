@@ -1,9 +1,7 @@
 # It Happened Over Lunch
 **Absolute Beginners** level
 ### Chinese Text
-甲：你手怎么了？<br />乙：哦，是血。
-甲：血？那么多血？
-乙：哦，别担心，这不是我的。
+甲：你手怎么了？<br />乙：哦，是血。<br />甲：血？那么多血？<br />乙：哦，别担心，这不是我的。
 
 ### Pinyin and Translation
 |说人|句子|

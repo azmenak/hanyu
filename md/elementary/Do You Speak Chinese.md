@@ -1,8 +1,7 @@
 # Do You Speak Chinese
 **Elementary** level
 ### Chinese Text
-甲：你会说中文吗？<br />乙：当然了，我是中国人。
-甲：噢，我原来以为你是韩国人呢！
+甲：你会说中文吗？<br />乙：当然了，我是中国人。<br />甲：噢，我原来以为你是韩国人呢！
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,14 +1,7 @@
 # Gangnam Style
 **Elementary** level
 ### Chinese Text
-甲：哎，再放下那个Ewok之歌。<br />乙：啊，什么是Ewok？
-甲：就是那个跳舞的泰迪熊，美国文化。
-乙：哦，我挺喜欢这首歌的。
-甲：我也是。
-乙：那个歌里唱的什么东西啊？
-甲：Yub nub，就是美国的江南style。
-乙：哦，yub nub。
-甲：哎，yub nub。
+甲：哎，再放下那个Ewok之歌。<br />乙：啊，什么是Ewok？<br />甲：就是那个跳舞的泰迪熊，美国文化。<br />乙：哦，我挺喜欢这首歌的。<br />甲：我也是。<br />乙：那个歌里唱的什么东西啊？<br />甲：Yub nub，就是美国的江南style。<br />乙：哦，yub nub。<br />甲：哎，yub nub。
 
 ### Pinyin and Translation
 |说人|句子|

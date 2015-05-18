@@ -1,9 +1,7 @@
 # Life in Hebei
 **Absolute Beginners** level
 ### Chinese Text
-甲：你认识弗兰克吗？<br />乙：弗兰克？哪个弗兰克？
-甲：就是那个弗兰克·弗拉德拉。
-乙：哦，他不是住在河北了吗？
+甲：你认识弗兰克吗？<br />乙：弗兰克？哪个弗兰克？<br />甲：就是那个弗兰克·弗拉德拉。<br />乙：哦，他不是住在河北了吗？
 
 ### Pinyin and Translation
 |说人|句子|

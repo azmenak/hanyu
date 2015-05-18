@@ -1,9 +1,7 @@
 # A Clean Well-Lighted Place
 **Absolute Beginners** level
 ### Chinese Text
-甲：几点关门儿？<br />乙：我们不关门儿。
-甲：是吗？
-乙：对，我们通宵。
+甲：几点关门儿？<br />乙：我们不关门儿。<br />甲：是吗？<br />乙：对，我们通宵。
 
 ### Pinyin and Translation
 |说人|句子|

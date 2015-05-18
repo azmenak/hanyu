@@ -1,12 +1,7 @@
 # Encounter with an Old Flame
 **Absolute Beginners** level
 ### Chinese Text
-一：他是谁？<br />二：我不认识。
-三：哎，哎，宝贝！
-一：宝贝？
-二：我不认识！
-三：小王，我爱你！
-二：哦....
+一：他是谁？<br />二：我不认识。<br />三：哎，哎，宝贝！<br />一：宝贝？<br />二：我不认识！<br />三：小王，我爱你！<br />二：哦....
 
 ### Pinyin and Translation
 |说人|句子|

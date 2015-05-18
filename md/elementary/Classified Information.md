@@ -1,9 +1,7 @@
 # Classified Information
 **Elementary** level
 ### Chinese Text
-甲：哎，你叫什么名字？<br />乙：我不能告诉你，这是个秘密。
-甲：你的名字是秘密？
-乙：我的名字是不是秘密，这也是个秘密。
+甲：哎，你叫什么名字？<br />乙：我不能告诉你，这是个秘密。<br />甲：你的名字是秘密？<br />乙：我的名字是不是秘密，这也是个秘密。
 
 ### Pinyin and Translation
 |说人|句子|

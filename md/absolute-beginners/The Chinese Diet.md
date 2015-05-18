@@ -1,9 +1,7 @@
 # The Chinese Diet
 **Absolute Beginners** level
 ### Chinese Text
-甲：你真能吃，菜又没了。<br />乙：开玩笑！我在减肥。
-甲：减肥还吃那么多？
-乙：我没吃米饭。
+甲：你真能吃，菜又没了。<br />乙：开玩笑！我在减肥。<br />甲：减肥还吃那么多？<br />乙：我没吃米饭。
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,9 +1,7 @@
 # The Road Trip
 **Elementary** level
 ### Chinese Text
-儿子：爸爸，爸爸，我们还有多久才能到啊？<br />爸爸：五分钟。
-儿子：十分钟前你就说五分钟。
-爸爸：闭嘴！
+儿子：爸爸，爸爸，我们还有多久才能到啊？<br />爸爸：五分钟。<br />儿子：十分钟前你就说五分钟。<br />爸爸：闭嘴！
 
 ### Pinyin and Translation
 |说人|句子|

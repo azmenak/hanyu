@@ -1,14 +1,7 @@
 # The Second Tone
 **Absolute Beginners** level
 ### Chinese Text
-中国行<br />十一人
-中国人说中文
-英国人说英文
-多花钱
-他行
-他很忙
-中国人花钱
-别烦人
+中国行<br />十一人<br />中国人说中文<br />英国人说英文<br />多花钱<br />他行<br />他很忙<br />中国人花钱<br />别烦人
 
 ### Pinyin and Translation
 |说人|句子|

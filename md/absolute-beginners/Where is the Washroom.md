@@ -1,9 +1,7 @@
 # Where is the Washroom
 **Absolute Beginners** level
 ### Chinese Text
-女的：洗手间在哪儿？<br />男的：这儿没有。
-女的：那哪儿有？
-男的：这附近都没有洗手间呀。
+女的：洗手间在哪儿？<br />男的：这儿没有。<br />女的：那哪儿有？<br />男的：这附近都没有洗手间呀。
 
 ### Pinyin and Translation
 |说人|句子|

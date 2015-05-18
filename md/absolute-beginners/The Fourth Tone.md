@@ -1,12 +1,7 @@
 # The Fourth Tone
 **Absolute Beginners** level
 ### Chinese Text
-他去.<br />我爱中国.
-今天很热.
-我想去中国.
-你太忙！
-中文不难．
-爸爸爱吃串儿.
+他去.<br />我爱中国.<br />今天很热.<br />我想去中国.<br />你太忙！<br />中文不难．<br />爸爸爱吃串儿.
 
 ### Pinyin and Translation
 |说人|句子|

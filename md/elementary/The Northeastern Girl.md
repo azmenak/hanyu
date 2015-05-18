@@ -1,8 +1,7 @@
 # The Northeastern Girl
 **Elementary** level
 ### Chinese Text
-甲：这个怎么说？<br />甲：笑什么你？
-乙：你刚跑出东北味来了。
+甲：这个怎么说？<br />甲：笑什么你？<br />乙：你刚跑出东北味来了。
 
 ### Pinyin and Translation
 |说人|句子|

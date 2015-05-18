@@ -1,11 +1,7 @@
 # Memories of Breakfast
 **Elementary** level
 ### Chinese Text
-甲：你头发里是什么？<br />乙：头发里？
-甲：对，就在这儿。
-乙：哦，很大一块。
-甲：对，是什么呀？
-乙：哦，是早餐。
+甲：你头发里是什么？<br />乙：头发里？<br />甲：对，就在这儿。<br />乙：哦，很大一块。<br />甲：对，是什么呀？<br />乙：哦，是早餐。
 
 ### Pinyin and Translation
 |说人|句子|

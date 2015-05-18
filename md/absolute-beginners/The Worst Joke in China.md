@@ -1,9 +1,7 @@
 # The Worst Joke in China
 **Absolute Beginners** level
 ### Chinese Text
-甲：哎呀，这服务太差了。这儿谁管呢？<br />乙：饺子。
-甲：谁？
-乙：饺子馆呢！
+甲：哎呀，这服务太差了。这儿谁管呢？<br />乙：饺子。<br />甲：谁？<br />乙：饺子馆呢！
 
 ### Pinyin and Translation
 |说人|句子|

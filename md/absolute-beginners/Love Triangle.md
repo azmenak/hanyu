@@ -1,9 +1,7 @@
 # Love Triangle
 **Absolute Beginners** level
 ### Chinese Text
-A：我爱你.<br />B：你爱我,可是我爱他.
-A：他爱你吗?
-B：他爱你!
+A：我爱你.<br />B：你爱我,可是我爱他.<br />A：他爱你吗?<br />B：他爱你!
 
 ### Pinyin and Translation
 |说人|句子|

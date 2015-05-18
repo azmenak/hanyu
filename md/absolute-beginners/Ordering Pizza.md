@@ -1,9 +1,7 @@
 # Ordering Pizza
 **Absolute Beginners** level
 ### Chinese Text
-甲：一个大号批萨。<br />乙：大号还是中号？
-甲：大号。
-乙：好。
+甲：一个大号批萨。<br />乙：大号还是中号？<br />甲：大号。<br />乙：好。
 
 ### Pinyin and Translation
 |说人|句子|

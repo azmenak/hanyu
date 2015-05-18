@@ -1,9 +1,7 @@
 # Happy Easter
 **Elementary** level
 ### Chinese Text
-甲：我给你买了一条围巾。<br />乙：真好看。
-甲：是猫毛做的。你不是很喜欢猫吗？
-乙：我对猫过敏....
+甲：我给你买了一条围巾。<br />乙：真好看。<br />甲：是猫毛做的。你不是很喜欢猫吗？<br />乙：我对猫过敏....
 
 ### Pinyin and Translation
 |说人|句子|

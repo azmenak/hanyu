@@ -1,9 +1,7 @@
 # Point and Eat
 **Absolute Beginners** level
 ### Chinese Text
-男的：服务员!<br />男的：我要一个这个，两个这个，一个那个。
-女的：您一个人吗?
-男的：我饿了。
+男的：服务员!<br />男的：我要一个这个，两个这个，一个那个。<br />女的：您一个人吗?<br />男的：我饿了。
 
 ### Pinyin and Translation
 |说人|句子|

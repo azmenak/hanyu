@@ -1,9 +1,7 @@
 # An Unholy Smell
 **Absolute Beginners** level
 ### Chinese Text
-男：谁放屁啦？<br />女：不是我。
-男：很臭啊。
-女：是你吧！
+男：谁放屁啦？<br />女：不是我。<br />男：很臭啊。<br />女：是你吧！
 
 ### Pinyin and Translation
 |说人|句子|

@@ -1,9 +1,7 @@
 # How about Korean Food
 **Absolute Beginners** level
 ### Chinese Text
-甲：我们吃什么？<br />乙：外卖吧。
-甲：外卖什么？
-乙：韩国菜吧。
+甲：我们吃什么？<br />乙：外卖吧。<br />甲：外卖什么？<br />乙：韩国菜吧。
 
 ### Pinyin and Translation
 |说人|句子|

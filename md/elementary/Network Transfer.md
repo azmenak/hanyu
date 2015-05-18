@@ -1,9 +1,7 @@
 # Network Transfer
 **Elementary** level
 ### Chinese Text
-甲：那个文件还没传完呀？<br />乙：是啊，还在上传呢。
-甲：那得多久才能传完？
-乙：快了，三十分钟到四十分钟吧，等着吧。
+甲：那个文件还没传完呀？<br />乙：是啊，还在上传呢。<br />甲：那得多久才能传完？<br />乙：快了，三十分钟到四十分钟吧，等着吧。
 
 ### Pinyin and Translation
 |说人|句子|

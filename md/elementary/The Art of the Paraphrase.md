@@ -1,9 +1,7 @@
 # The Art of the Paraphrase
 **Elementary** level
 ### Chinese Text
-甲：哎，那个报告你写得怎么样了？<br />乙：早写完了。
-甲：这么快！怎么写的呀？
-乙：维基百科上抄的。
+甲：哎，那个报告你写得怎么样了？<br />乙：早写完了。<br />甲：这么快！怎么写的呀？<br />乙：维基百科上抄的。
 
 ### Pinyin and Translation
 |说人|句子|

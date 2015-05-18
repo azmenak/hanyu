@@ -1,10 +1,7 @@
 # What's Your Number?
 **Absolute Beginners** level
 ### Chinese Text
-男的：美女，你好。<br />女的：什么?
-男的：美女，你好!
-女的：听不见。
-男的：留个电话吧。
+男的：美女，你好。<br />女的：什么?<br />男的：美女，你好!<br />女的：听不见。<br />男的：留个电话吧。
 
 ### Pinyin and Translation
 |说人|句子|

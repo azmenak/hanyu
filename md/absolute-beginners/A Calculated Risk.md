@@ -1,9 +1,7 @@
 # A Calculated Risk
 **Absolute Beginners** level
 ### Chinese Text
-甲：我生气了。<br />乙：你生什么气呀？
-甲：我生你的气。
-乙：哦，这样啊。
+甲：我生气了。<br />乙：你生什么气呀？<br />甲：我生你的气。<br />乙：哦，这样啊。
 
 ### Pinyin and Translation
 |说人|句子|

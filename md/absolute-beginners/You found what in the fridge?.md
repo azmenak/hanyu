@@ -1,9 +1,7 @@
 # You found what in the fridge?
 **Absolute Beginners** level
 ### Chinese Text
-甲：这是什么？<br />乙：那是......天哪！那是什么？
-甲：嗯，好吃！
-乙：哦。
+甲：这是什么？<br />乙：那是......天哪！那是什么？<br />甲：嗯，好吃！<br />乙：哦。
 
 ### Pinyin and Translation
 |说人|句子|

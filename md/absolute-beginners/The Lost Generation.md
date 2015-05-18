@@ -1,8 +1,7 @@
 # The Lost Generation
 **Absolute Beginners** level
 ### Chinese Text
-一：哦，那是什么？<br />二：我的小明？
-一：我的天啊，它还活着！
+一：哦，那是什么？<br />二：我的小明？<br />一：我的天啊，它还活着！
 
 ### Pinyin and Translation
 |说人|句子|

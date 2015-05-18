@@ -1,10 +1,7 @@
 # A Simple Transaction
 **Absolute Beginners** level
 ### Chinese Text
-女：把枪放下。<br />男：把钱放下。
-女：不，把枪放下。
-男：我有枪，把钱放下。
-女：好吧。
+女：把枪放下。<br />男：把钱放下。<br />女：不，把枪放下。<br />男：我有枪，把钱放下。<br />女：好吧。
 
 ### Pinyin and Translation
 |说人|句子|

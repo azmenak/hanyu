@@ -1,11 +1,7 @@
 # Wireless Internet
 **Elementary** level
 ### Chinese Text
-男：请问你们这儿有WiFi吗？<br />女：什么？
-男：有没有无线网络?
-女：哦，有。你有笔记本儿？
-男：我有。我想上网。
-女：好的。
+男：请问你们这儿有WiFi吗？<br />女：什么？<br />男：有没有无线网络?<br />女：哦，有。你有笔记本儿？<br />男：我有。我想上网。<br />女：好的。
 
 ### Pinyin and Translation
 |说人|句子|

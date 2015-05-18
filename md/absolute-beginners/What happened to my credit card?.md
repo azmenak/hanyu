@@ -1,9 +1,7 @@
 # What happened to my credit card?
 **Absolute Beginners** level
 ### Chinese Text
-甲：机器坏了。<br />乙：你的卡呢？
-甲：不行，卡住了。
-乙：去叫服务员。
+甲：机器坏了。<br />乙：你的卡呢？<br />甲：不行，卡住了。<br />乙：去叫服务员。
 
 ### Pinyin and Translation
 |说人|句子|

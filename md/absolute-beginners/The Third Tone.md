@@ -1,13 +1,7 @@
 # The Third Tone
 **Absolute Beginners** level
 ### Chinese Text
-你好<br />我很好
-酒很好
-我很忙
-没有水
-中国人很好
-你的英文很好
-他的中文真好
+你好<br />我很好<br />酒很好<br />我很忙<br />没有水<br />中国人很好<br />你的英文很好<br />他的中文真好
 
 ### Pinyin and Translation
 |说人|句子|

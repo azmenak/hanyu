@@ -1,9 +1,7 @@
 # Chinese Drinking Games
 **Intermediate** level
 ### Chinese Text
-甲：猜丁壳！<br />乙：等会儿，你那是什么呀？
-甲：剪刀啊....
-乙：有你那样的剪刀吗？你在哪儿学的猜丁壳啊？你小儿麻痹吧你！
+甲：猜丁壳！<br />乙：等会儿，你那是什么呀？<br />甲：剪刀啊....<br />乙：有你那样的剪刀吗？你在哪儿学的猜丁壳啊？你小儿麻痹吧你！
 
 ### Pinyin and Translation
 |说人|句子|

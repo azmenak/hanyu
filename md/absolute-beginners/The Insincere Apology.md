@@ -1,9 +1,7 @@
 # The Insincere Apology
 **Absolute Beginners** level
 ### Chinese Text
-一：哎，怎么下雨了？<br />二：哦，没下雨啊。
-一：那我怎么....
-三：哎，不好意思！
+一：哎，怎么下雨了？<br />二：哦，没下雨啊。<br />一：那我怎么....<br />三：哎，不好意思！
 
 ### Pinyin and Translation
 |说人|句子|

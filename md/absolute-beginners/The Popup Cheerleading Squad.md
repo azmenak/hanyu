@@ -1,8 +1,7 @@
 # The Popup Cheerleading Squad
 **Absolute Beginners** level
 ### Chinese Text
-我们好，你们不好。<br />二四六八，加油！
-我们要赢，我们会赢，我们能赢，我们...加油！
+我们好，你们不好。<br />二四六八，加油！<br />我们要赢，我们会赢，我们能赢，我们...加油！
 
 ### Pinyin and Translation
 |说人|句子|

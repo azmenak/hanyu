@@ -1,10 +1,7 @@
 # Cthulhu visits the Wiltshire Bed and Breakfast
 **Elementary** level
 ### Chinese Text
-甲：谁敢打扰我睡觉？<br />乙：早上好，您的早餐。
-甲：谁让你进来的？
-乙：哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。
-甲：你最好马上走！
+甲：谁敢打扰我睡觉？<br />乙：早上好，您的早餐。<br />甲：谁让你进来的？<br />乙：哎哟，这儿怎么这么黑呀，快起床吧。我帮您把窗帘儿拉开啊。<br />甲：你最好马上走！
 
 ### Pinyin and Translation
 |说人|句子|

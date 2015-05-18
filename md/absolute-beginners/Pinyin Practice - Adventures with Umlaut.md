@@ -1,11 +1,7 @@
 # Pinyin Practice - Adventures with Umlaut
 **Absolute Beginners** level
 ### Chinese Text
-我也有缺点。<br />你觉得不好？
-我们学习中文。
-他虐待你了？
-这里省略“一”。
-他四月来。
+我也有缺点。<br />你觉得不好？<br />我们学习中文。<br />他虐待你了？<br />这里省略“一”。<br />他四月来。
 
 ### Pinyin and Translation
 |说人|句子|

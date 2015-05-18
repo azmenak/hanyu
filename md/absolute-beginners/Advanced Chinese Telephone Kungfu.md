@@ -1,11 +1,7 @@
 # Advanced Chinese Telephone Kungfu
 **Absolute Beginners** level
 ### Chinese Text
-甲：喂，喂，喂，喂，喂....<br />乙：一，二，三....
-甲：Echo, Echo....
-乙：这开了没啊？
-丙：啊，行，好！
-乙：妈的，我讨厌这份工作。
+甲：喂，喂，喂，喂，喂....<br />乙：一，二，三....<br />甲：Echo, Echo....<br />乙：这开了没啊？<br />丙：啊，行，好！<br />乙：妈的，我讨厌这份工作。
 
 ### Pinyin and Translation
 |说人|句子|

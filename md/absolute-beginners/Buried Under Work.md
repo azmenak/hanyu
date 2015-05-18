@@ -1,9 +1,7 @@
 # Buried Under Work
 **Absolute Beginners** level
 ### Chinese Text
-甲：累吗？<br />乙：嗯，我很累。
-甲：你该睡觉。
-乙：我还有工作。
+甲：累吗？<br />乙：嗯，我很累。<br />甲：你该睡觉。<br />乙：我还有工作。
 
 ### Pinyin and Translation
 |说人|句子|

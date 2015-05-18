@@ -1,9 +1,7 @@
 # Going to a Movie
 **Elementary** level
 ### Chinese Text
-甲：今天晚上有事吗?<br />乙：没事。
-甲：那我们一起去看电影吧?
-乙：好呀。
+甲：今天晚上有事吗?<br />乙：没事。<br />甲：那我们一起去看电影吧?<br />乙：好呀。
 
 ### Pinyin and Translation
 |说人|句子|
